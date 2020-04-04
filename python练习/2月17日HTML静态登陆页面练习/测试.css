@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.clear{
+    overflow: hidden;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.box{
+    width: 400px;
+    height: 413px;
+    border: 1px solid;
+    display: inline-block;
+    margin-left: 38%;
+    background-color: whitesmoke;
+}
+.head{
+    display: inline-block;
+}
+.head>h1{
+    margin-left: 158px;
+    margin-top: 10px;
+}
+hr{
+    margin-top: 14px;
+}
+.body{
+    margin-left: 30xp;
+    display: inline-block;
+    padding: 33px 61px 11px;
+}
+.Tb>span{
+    font-size: 34px;
+}
+.icoo{
+    width: 40px;
+    height: 40px;
+    float: left;
+    background-color:rgba(7, 17, 27, 0.34);
+    position: absolute;
+}
+.srk{
+    margin-top: 33px;
+}
+.Text{
+    width: 200px;
+    height: 37px;
+    padding: 0px 30px 0px 45px;
+}
+.choose{
+    margin-left: 34px;
+}
+.choose1{
+    margin-right: 34px;
+}
+.btn {
+    width: 70%;
+    height: 45px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 15%;
+    margin-top: 16px;
+}
+.bottom{
+    /* 这里不能把div设置成display：inline-block，这里需要它的原本整个宽度，
+    如果设置完了，它的宽度就消失了，下面会受到影响 */
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.icf{
+    margin-top: 16px;
+}
+.u1>li{
+    font-size: 34px;
+    float: left;
+    margin-left: 18%;
+    /* width: calc()这个是对图片调整宽度用的对此次这个图标不起作用; */
+}
