@@ -286,3 +286,9 @@ input("\n\nPress the enter key to exit.")
 
 
 '''
+d1=dict(name="高小一",age=18,wage=30000)
+d2=dict(name="高小二",age=19,wage=20000)
+d3=dict(name="高小三",age=20,wage=10000)
+d4=[d1,d2,d3]
+for i in range(len(d4)):
+    print(d4[i].get("wage"))
