@@ -1,0 +1,2040 @@
+lang=0x1b Slovak
+tips=tips_sk.txt
+help=idman.chm
+tutor=tutor_sk.chm
+grabberhelp=grabber.chm
+schedulerhelp=scheduler_sk.chm
+
+//This template should be used to translate Internet Download Manager 
+//to foreign languages.
+//All template files should be named using idm_*.lng name pattern convention. 
+//Please place the abbreviated language name (de, en, es, fr, :) 
+//instead of the asterisk. For example: idm_de.lng or idm_fr.lng
+
+//The first string inside the template should be lang=ID Name
+//where Name - the full name of the language (on English),
+//ID - hex number that defines Windows API value of the language.
+//Here are sample primary language IDs:
+//0x06 DANISH
+//0x0b FINNISH
+//0x0c FRENCH
+//0x07 GERMAN
+//0x10 ITALIAN
+//0x11 JAPANESE
+//0x0a SPANISH
+//0x1d SWEDISH
+
+//The strings from second to fourth may contain file names of translated tips, 
+//help and tutorial files. If these strings are absent, 
+//or files cannot be found in <IDM root>/Languages folder, 
+//then IDM uses default English files.
+//Sample:
+//tips=tips_de.txt
+//help=idm_de.chm
+//tutor=tut_de.chm
+
+//Then you need to translate all IDM strings. 
+//It's IMPORTANT when a string has any special characters 
+//(%s %d %x %ld %I64d %%), they should all remain in the translated 
+//string and cannot trade places. Remember that IDM inserts dynamic 
+//values instead of these special characters in a predefined order. 
+//Instead of %s IDM inserts a string, %% - %, in all other cases IDM 
+//inserts a number.
+
+//The strings beginning with // are comments 
+//and you don't need to translate them
+
+
+// Dialogs
+
+//main dialog
+1281=Kategórie
+t1278=Skry prieèinky
+20369= "Q"
+20370=Názov súboru
+20371=Stav
+20372=Ve¾kos
+20373=Èas do konca
+20374=Rıchlos prenosu
+20375=Popis
+
+//toolbar
+//Skúste si prosím nastavi všetky nápisy pod tlaèidlá, lišta nástrojov bude kratšia. 
+//Dlhı nápis môe urobi všetky tlaèidlá širšie a môu tak prekroèi hranicu
+//dialógu.
+20376=Prida URL
+20377=Pokraèova
+20378=Zastavi
+20379=Zast. všetko
+20380=Odstráni
+20446=Odstr. dok.
+20381=Monosti
+20382=Plánovaè
+20383=Oznámi
+//tooltips for buttons
+t32789=Prida alebo stiahnu nové adresy ruène
+t32790=Spusti alebo pokraèova v sahovaní vybranıch súborov
+t32791=Zastavi sahovanie vybranıch súborov
+t32792=Zastavi všetky sahovania
+t32793=Odstráni vybrané súbory zo zoznamu
+t32794=Odstráni všetky dokonèené súbory zo zoznamu
+t32795=Integrácia do prehliadaèov a do systému, prípony súborov, proxy, heslá a iné
+t32798=Plánovaè a front sahovania
+t32788=Napísa o programe IDM známym
+
+//Registration dialog
+138=Registrácia programu Internet Download Manager
+1326=Zadajte do príslušnıch polí registraèné údaje a stlaète tlaèidlo OK
+1330=Sériové èíslo
+1327=Meno
+1328=Priezvisko
+1329=E-mail
+1191=&OK
+1201=&Licencia
+1080=&Zruši
+
+//Download progress dialog
+103=Priebeh sahovania
+1154=(neznáma)
+1178=<< Skry podrobnosti
+20426=<< Skry podrobnosti
+1158=Pozastavi
+20392=Pozastavi
+20424=Spusti
+20425=Podrobnosti >>
+1300=Ve¾kos súboru
+1301=Stiahuté
+1302=Rıchlos prenosu
+1303=Èas do konca
+1149=(neznáma)
+1299=Stav:
+1030=Pripája sa...
+1305=Zaèiatok pripojenia a priebeh sahovania...
+1304=Pokraèovanie
+1175=(neznáma)
+2=Zruši
+20416=N.
+20417=Stiahnuté
+20418=Informácie
+20419=Áno
+20420=Nie
+20421=%d hod. %d min.
+20422=%d min. %d s.
+20423=%d s.
+
+130=Informácie o sahovanom súbore
+1006=Spus&ti sahovanie
+1010=Preh¾adáva
+1004=Stiahnu &neskôr
+1298=Popis
+1173=Ukáka
+1297=Kategória
+1296=Uloi ako
+t1004=Prida súbor do zoznamu adries na neskôr
+t1006=Spusti sahovanie súboru
+
+148=Zadanie novej adresy na stiahnutie súboru
+1182=Poui overov&anie
+1184=Prihl. meno
+1186=Heslo
+1022=O&K
+
+//Options Dialog
+134=Nastavenie programu Internet Download Manager
+1092=OK
+20286=Všeobecné
+20287=Pripojenie
+20288=Sahovanie
+20289=Proxy
+20290=Prihlásenie
+20291=Vytáèanie
+20292=Zvuky
+20293=Všeobecné
+20294=Pripojenie
+20295=Stiahnutie
+20296=Proxy
+20297=Prihlásenie
+20298=Vytáèanie
+20299=Zvuky
+20300=Integrácia do prehliadaèov a systému
+20301=Typ pripojenia
+20302=Predvolené nastavenie
+20303=Nastavenie HTTP, HTTPS a FTP proxy
+20304=Mená uívate¾ov a heslá pre servery a stránky
+20305=Nastavenie vytáèania
+20306=Nastavenie zvuku
+//General tab
+1056=Spusti Internet Download Manager po štarte
+1061=Automaticky spusti sahovanie z adries umiestnenıch do schránky
+1065=Integrova do Internet Explorera, MSN Explorera a prehliadaèov zaloenıch na IE
+1077=Pre&dvolené
+1238=Poui kláves Alt na sahovanie s IDM
+1251=Poui kláves Ctrl na sahovanie s IDM
+1314=Zásuvné moduly
+1169=Typy súborov
+1270=Automaticky spusti sahovanie tıchto typov súborov:
+t1056=Spusti Internet Download Manager pri štarte systému
+t1061=Sledova platné adresy v schránke
+t1065=Sledova kliknutia na adresu v Internet Exploreri
+t1068=Sledova kliknutia na adresu v Netscape Navigátore
+//Proxy tab
+1102=Poui HTTP proxy
+1272=Potvrdi heslo
+1122=Proxy
+1123=Port
+1124=Meno uívate¾a
+1125=Heslo
+1107=Získa z IE
+1108=Poui FTP proxy
+1274=Potvrdi heslo
+1126=Proxy
+1127=Port
+1128=Meno uívate¾a
+1129=Heslo
+1113=Získa z IE
+1116=Poui pasívny reim FTP
+1118=Poui HTTPS proxy
+1273=Potvrdi heslo
+1133=Proxy
+1135=Port
+1137=Meno uívate¾a
+1139=Heslo
+1141=Získa z IE
+t1107=Pokúsi sa získa HTTP proxy z konfigurácie Internet Explorera
+t1116=Poui protokol FTP v pasívnom reime (potrebné za firewallom)
+//Connection tal
+1153=Typ pripojenia a rıchlos
+1306=Maximálny poèet pripojení
+1254=Limity sahovania
+//Downloads tab
+1049=Preh¾adáva
+1190=Pamäta si poslednú cestu uloenia v kategórii "Všeobecné"
+1136=Predvolenı prieèinok sahovania pre kategóriu "Všeobecné"
+1132=Uloi do...
+1236=Zobrazi dokonèenie sahovania
+1317=Antivírusová kontrola
+1318=Kontrolova antivírusovım programom
+1165=Preh¾adáva
+1319=Parametre príkazového riadka
+1316=Priebeh sahovania
+1315=Dialógové okná
+1059=Zobrazi zaèiatok sahovania
+1138=Doèasnı prieèinok
+1054=Preh¾adáva
+//Dial Up tab
+1313=Pripojenie:
+1307=Monosti pripojenia
+1166=Poui
+1308=Monosti opakovaného vytáèania
+1309=Pokusy (nula, ak nechcete):
+1310=Èas medzi pokusmi:
+1312=s.
+1311=krát
+1058=Poui telefonické pripojenie systému Windows
+//Sounds tab
+1320=Vybra zvuky pre udalosti programu IDM
+1172=Preh¾adáva
+1091=Prehra
+//Passwords tab
+20436=Stránka a cesta
+20437=Uívate¾
+20438=Heslo
+1087=Nové
+1196=Upravi
+1050=Odstráni
+
+//File properties dialog
+135=Vlastnosti súboru
+1325=Typ:
+1324=Ve¾kos:
+1323=Uloi do:
+1082=&Preh¾adáva
+1322=Prihl. meno
+1289=Heslo
+1321=Potvrdi heslo
+1164=Otvori
+1240=Skúsi posledné
+1241=Vısledok: 
+
+100=O programe Internet Download Manager
+1284=Domovská stránka:
+1285=Podpora:
+1286=Vlastník licencie:
+1181=Neregistrovaná verzia
+1161=Kontrola akt&ualizácií
+1185=&Registrácia
+1085=&Zakúpi
+1262=Verzia:
+t1187=Kliknutím navštívi webstránku IDM
+t1189=Obráti sa na podporu IDM
+t1161=Skontrolova dostupné aktualizácie na www.internetdownloadmanager.com
+t1185=Registrácia IDM pomocou registr. k¾úèa
+t1201=Kliknutím zisti informácie o získaní licencie
+t1085=Zakúpi registrovanú verziu IDM
+
+150=Vypnú
+1263=Internet Download Manager dokonèil spracovanie frontu. V závislosti na nastavení plánovaèa sa poèítaè vypne.
+1170=Vypnú teraz
+
+1163=Áno
+1088=Áno všetkım
+1202=Nie
+1051=Nie všetkım
+
+177=Plánovaè
+1331=Front sahovania 
+1333=Stiahnu
+1332=Plánovaè
+1218=Štart sahovania o
+1219=Raz
+1221=Denne
+1062=Nede¾a
+1057=Pondelok
+1066=Utorok
+1069=Streda
+1222=Štvrtok
+1223=Piatok
+1224=Sobota
+1225=Zastavi sahovanie o
+1228=Po dokonèení vypnú poèítaè
+1235=Ukonèenie procesov
+1089=Poui
+1232=Spusti teraz
+1233=Zastavi
+1079=Zavrie
+1227=Po dokonèení zavesi
+1264=MB
+1265=hod.
+1266=Nesahova viac ne
+1171=Nápoveda
+1267=kadé
+1268=Upozornenie pred zastavením sahovania
+1271=Po dokonèení ukonèi Internet Download Manager
+1335=súborov naraz
+t1229=Presunú poloku dole
+t1230=Presunú poloku hore
+t1231=Odstráni poloku z frontu
+t1232=Štart frontu
+t1233=Zastavi front
+t1235=V prípade nevyhnutnosti poui túto monos. Môe to spôsobi stratu údajov.
+
+184=Vytáèanie
+1247=Pripája sa...
+1167=Opakované vytáèanie
+
+186=Monosti vytáèania
+1336=Vytoèi
+1237=Uloi heslo
+1288=Meno uívate¾a
+
+187=Sem presuòte prepojenia
+
+190=Stiahnu komponenty IDM
+1=OK
+1258=Stiahnu komponenty
+
+191=Export zoznamu sahovania
+1259=Export frontu sahovania
+1260=Export vybranıch súborov
+1261=Export všetkıch súborov
+
+192=Import odkazov do IDM
+1168=Upravi
+1090=Odstráni
+
+193=Automaticky spusti sahovanie tıchto prípon:
+
+105=Tip dòa
+1001=&Zobrazi tipy pri spustení
+1003=Ï&alší tip
+107=T&ip dòa...
+108=Viete, e...
+109=Súbor s tipmi nie je v urèenom prieèinku
+110=Problém pri èítaní súboru s tipmi
+
+146=Prihlásenie na stránku
+1337=Server a cesta
+1290=Potvrdi heslo
+1287=Poznámka: cestu zadávajte, len ak máte rozdielne prihl. mená pre jednotlivé prieèinky servera.
+
+182=Aktualizácia
+1295=Kontrolujú sa nové verzie
+
+194=Limity sahovania prekroèené!                                                                   																					
+
+144=K dispozícii je nová verzia programu Internet Download Manager
+1162=Aktualizova teraz
+1086=Zruši
+
+//Zip preview dialog
+196=Ukáka ZIP
+20254=Názov súboru
+20255=Zbalené
+20256=Ve¾kos
+20257=Zmenené
+
+//New category dialog
+204=Kategórie IDM
+1174=Preh¾adáva
+1291=Názov kategórie
+1292=Automaticky vloi do tejto kategórie tieto typy súborov:
+1293=Poznámka: zadajte typy súborov oddelené medzerou (napr. avi mpg mpeg)
+1239=Pamäta si poslednú cestu uloenia
+1294=Uloi budúce sahovanie v tejto kategórii do tohto prieèinka:
+
+
+// Menu
+m32771=Úlohy
+32771=Prida nové sahovanie
+32809=Zobrazi okienko
+m32821=Export
+32821=Do súboru exportu IDM
+32823=Do textového súboru
+m32816=Import
+32816=Zo súboru exportu IDM
+32818=Z textového súboru
+32772=U&konèi
+
+m32774=Súbor
+32774=Zastavi sahovanie
+32775=Odstráni
+32776=Stiahnu teraz
+
+m32778=Stiahnutie
+32778=Pozastavi všetky
+32779=Zastavi všetky
+32794=Odstráni všetky dokonèené
+32801=Plánovaè
+32781=Monosti
+
+m32825=Zobrazi
+32825=Skry kategórie
+m32828=Usporiada súbory
+32828=Pod¾a pridania
+32830=Pod¾a názvu súboru
+32832=Pod¾a ve¾kosti
+32834=Pod¾a stavu
+32836=Pod¾a èasu do konca
+32838=Pod¾a rıchlosti prenosu
+32840=Pod¾a popisu
+m32841=Jazyk
+
+m57670=Nápoveda
+57670=Obsah Nápovedy
+32811=Tutoriály
+106=Tip dòa...
+32813=Domovská stránka IDM
+32784=Napíšte nám
+32787=Aktualizácia
+32786=O programe IDM
+32788=Poveda známym
+
+m32785=Registrácia
+32785=Objedna online
+32783=Registrácia
+//end menu
+
+
+//Strings & messages
+101=O progra&me IDM
+32799=Otváranie portu
+32800=Port otvorenı
+32802=Pripájanie zariadenia
+32804=Zariadenie pripojené
+32806=Všetky zariadenia pripojené
+32807=Spúšanie overenia
+32808=Overenie
+32810=Opakované overenia
+32812=Poadované spätné volanie
+32814=Poadovaná zmena hesla
+32815=Fáza projektu spustená
+32817=Vıpoèet rıchlosti linky
+32819=Overenie potvrdené
+32820=Opakované overenie spustené
+32822=Overené
+32826=Èakanie na reset modemu
+32827=Èakanie na spätné volanie
+32829=Interaktívne
+32831=Opakované overenie
+32833=Spätné volanie nastavené
+32835=Platnos hesla uplynula
+32837=Pripojené
+32839=Odpojené
+
+20000=Sahovanie súboru %s dokonèené.\n\nStiahnutıch %s (%I64d bytov)\nSúbor uloenı ako %s
+20001=Táto funkcia je dostupná len v registrovanej verzii.
+20002=Nie je moné presunú stiahnutı súbor z doèasného prieèinka (%s) do %s. Súbor bol uloenı v doèasnom prieèinku.
+20003=Overenie hesla zlyhalo! Skúste to znova.
+20004=Pole pre heslo nebolo vyplnené!
+20005=Pole pre meno uívate¾a nebolo vyplnené! Skúste to znova.
+20006=Pole pre stránku a cestu nebolo vyplnené! Skúste to znova.
+20007=Naozaj chcete odstráni prihlasovacie údaje pre túto stránku?
+20008=Zoznam sahovania obsahuje súbor, ktorı bol stiahnutı z 
+20009=.\nPoui toto meno uív. a heslo pre toto sahovanie?
+20010=.\nZmeni meno uív. a heslo tohto sahovania na \"anonymous\"?
+20011=Prihlasovacie informácie pre túto stránku a cestu u v zozname hesiel existujú.\nNové prihlas. informácie neboli pridané. Ak chcete, môete upravi existujúce.
+20012=Zmenili ste pole \"Stránka a cesta\". Prihlasovacie informácie pre túto stránku a cestu u v zozname hesiel existujú.\nPrihlas. informácie neboli zmenené. Ak chcete, môete zmeni existujúce.
+20013=Táto stránka je doèasne nedostupná!
+20014=Táto stránka a cesta vyaduje overenie. Prihlasovacie informácie pre toto sahovanie môete nastavi, ak vyberiete poloku Vlastnosti v kontextovej ponuke po kliknutí pravım tlaèidlom myši alebo pridajte prihlasovacie informácie do èasti \"Monosti > Heslá stránok\" a poui ich pri kadom sahovaní súborov z tejto stránky.
+20015=Pre tento server proxy sa vyaduje overenie. Meno uívate¾a a heslo proxy môete zmeni v èasti \"Monosti > Proxy\".
+20016=Poèas sahovania sa vyskytla neznáma chyba.\nPošlite súbory denníka %s a %s (ak existujú) vıvojárom aplikácie.
+20017=Poèas sahovania sa vyskytla chyba.\nSkúste to znova. Ak môete stiahnu tento súbor inou aplikáciou (ale nie je to moné pomocou programu IDM), pošlite súbor denníka %s (ak existuje).
+20018=Tento súbor nie je moné stiahnu.
+20019=Tento súbor nie je moné stiahnu.
+20020=Nedostatok pamäte na pokraèovanie sahovania.
+20021=Nie je moné vytvori pripojenie, pretoe ho cie¾ové zariadenie aktívne odmietlo.\nSluba servera je pravdepodobne neaktívna alebo máte nainštalovanı firewall, ktorı blokuje Internet Download Manager. Ak máte firewall, skontrolujte prosím, èi je v nastavení povolené sahova z internetu s IDM.
+20022=Povolenie odmietnuté
+20023=Nie je moné priradi poadovanú adresu. Poadovaná adresa je v tomto kontexte neplatná.
+20024=Existujúce pripojenie bolo ukonèené vzdialenım hostite¾om. Obvykle sa to stáva, ak je vımenná aplikácia vzdialeného hostite¾a pozastavená, hostite¾ sa reštartuje alebo vzdialenı hostite¾ pouíva \"tvrdé ukonèenie\".
+20025=Soketová operácia zlyhala, pretoe cie¾ovı hostite¾ zlyhal. Soketová operácia sa stretla s neèinnım hostite¾om. Sieová aktivita lokálneho hostite¾a nebola inicializovaná.
+20026=Chyba pri pripájaní. Nie je známy hostite¾. Názov hostite¾a nie je oficiálny názov alebo alias alebo ho nie je moné nájs vo vyiadanej databáze.
+20027=Soketová operácia sa pokúša o nedosiahnute¾nú sie. Zvyèajne znamená, e lokálny softvér nepozná dosah vzdialeného hostite¾a.
+20028=Hostite¾, ku ktorému sa pripájate, zlyhal a je reštartovanı.
+20029=Soketová operácia sa stretla s neèinnou sieou. To môe znamena vánu chybu sieového systému (napr. e WinSock DLL nefunguje), rozhrania siete alebo lokálnej siete.
+20030=Príliš ve¾a otvorenıch sieovıch pripojení. Poèkajte na dokonèenie niektorıch sahovaní.
+20031=Vyskytla sa chyba poèas pripájania
+20032=Ve¾kos %s je %I64d bytov.\nNa disku \"%s\" nie je dostatok miesta na uloenie súboru.\nAk neuvo¾níte nejaké miesto na disku poèas sahovania, súbor bude uloenı v doèasnom prieèinku ako %s.
+20033=Na jednotke \"%s\" je nedostatok miesta na disku na uloenie èastí sahovaného súboru.\nPred pokraèovaním sahovania uvo¾nite nejaké miesto na disku alebo zmeòte doèasnı prieèinok v èasti Monosti > Všeobecné a potom pokraèujte v sahovaní.
+20034=Nie je moné nájs server %s.
+20035=Nie je moné nájs server proxy %s.
+20036=Nie je moné pripoji sa k %s:%ld.
+20037=Nie je moné pripoji sa k serveru proxy %s:%ld.
+20038=Nie je moné pripoji sa k %s:%ld\nÈasovı limit uplynul.
+20039=Nie je moné pripoji sa k serveru proxy %s:%ld\nÈasovı limit uplynul.
+20040=Vyskytla sa chyba poèas pridávania súborov alebo spájania stiahnutıch èastí do jedného súboru.
+20041=Vyskytla sa neznáma chyba poèas spájania stiahnutıch èastí do jedného súboru.
+20042=Nie je moné otvori lokálny súbor na zápis poèas spájania stiahnutıch èastí do jedného súboru.
+20043=Nie je moné zisti ve¾kos ïalšej èasti poèas spájania stiahnutıch èastí do jedného súboru.
+20044=Chyba pride¾ovania virtuálnej pamäte poèas spájania stiahnutıch èastí do jedného súboru.
+20045=Vyskytla sa závaná chyba zápisu poèas spájania stiahnutıch èastí do jedného súboru.
+20046=Vyskytla sa závaná chyba èítania poèas spájania stiahnutıch èastí do jedného súboru.
+20047=Vyskytla sa chyba súboru alebo registra poèas prebudovania starıch stiahnutıch èastí.
+20048=Nie je moné pripoji sa k serveru.
+20049=Chyba pri èítaní internetového soketu.
+20050=Chyba pri zápise internetového soketu. 
+20051=Èasovı limit pripojenia uplynul.
+20052=Èasovı limit pripojenia uplynul.
+20053=Èasovı limit pripojenia uplynul, reštartuje sa...
+20054=Pripojenie zlyhalo, reštartuje sa...
+20055=Vyskytla sa chyba poèas prijímania údajov.
+20056=Server ukonèil pripojenie.
+20057=Nie je moné prihlási sa k serveru FTP.
+20058=Tento súbor nie je moné na serveri FTP nájs.
+20059=Server FTP nepovolil pripojenie.
+20060=Vyskytla sa chyba poèas prijímania odpovede servera FTP.
+20061=Vyskytla sa chyba poèas prijímania odpovede servera FTP: neplatnı formát odpovede.
+20062=Nie je moné nájs adresu IP pre údajovı soket v odpovedi na pasívny príkaz.
+20063=Nie je moné otvori internetovı soket.
+20064=Nie je moné otvori údajovı soket FTP.
+20065=Nie je moné nájs adresu v internetovom sokete.
+20066=Chyba poèas volania údajového soketu.
+20067=Chyba poèas volania na súhlas internetového soketu.
+20068=Nie je moné odosla príkaz PORT.\nChyba poèas volania getsockname().
+20069=Príkaz PORT zlyhal.
+20070=Vyskytla sa chyba zápisu súboru poèas prijímania údajov z internetového soketu.\nMonı dôvod: disk je plnı.
+20071=Nie je moné otvori údajové pripojenie, pretoe server FTP nepodporuje príkaz PASV a je oznaèené políèko \"Poui pasívny reim FTP\" v èasti Monosti > Proxy a firewall.
+20072=Ve¾kos súboru %s sa v odpovedi servera nenašla.
+20073=Server poslal nesprávnu odpoveï na príkaz Reštartova.
+20074=Server poslal nové umiestnenie a názov súboru %s bol zmenenı na %s.\n\nPokraèova v sahovaní?
+20075=Odpája sa...
+20076=Sahovanie dokonèené, spájanie všetkıch stiahnutıch èastí do jedného súboru...
+20077=Volite¾né pripojenia boli vytvorené.
+20078=Pripája sa...
+20079=Zlyhanie vıberu
+20080=Pripojenie OK
+20081=Chyba zápisu súboru poèas prijímania údajov internetového soketu.
+20082=Recv() procedúra zlyhala.
+20083=Server ukonèil pripojenie.
+20084=Odpojenie
+20085=Èaká sa na odpoveï...
+20086=Odpoveï OK
+20087=Prijímajú sa údaje...
+20088=Dokonèené
+20089=Údajové pripojenie: pripája sa...
+20090=Údajové pripojenie: OK
+20091=Prijímanie údajov pripravené
+20092=Kontrola funkènosti príkaz. sekvencie: odosielanie dvoch príkazov...
+20093=Kontrola funkènosti príkaz. sekvencie: prvá odpoveï OK, èaká sa na druhú odpoveï...
+20094=Prijímajú sa informácie o súbore...
+20095=Nie je moné nájs koniec reazca v odpovedi servera.
+20096=Nie je moné nájs koniec reazca v odpovedi servera FTP.
+20097=Odosielanie QUIT
+20098=Server nie je pripravenı na nového uívate¾a.
+20099=Ovládací soket pripojenı
+20100=Odosiela sa meno uívate¾a...
+20101=Odosiela sa heslo...
+20102=Chyba v mene uívate¾a
+20103=Meno uívate¾a OK
+20104=Chyba v hesle
+20105=Heslo OK
+20106=Odosiela sa príkaz PASV...
+20107=Server nepodporuje PASV
+20108=PASV OK, extrahovanie adresy...
+20109=Spojenie soketu OK, pokus vola listen()
+20110=Odsúhlasenie...
+20111=Súhlas OK
+20112=Odosielanie príkazu PORT...
+20113=PORT OK
+20114=Zmena prac. prieèinka servera...
+20115=CWD zlyhalo
+20116=CWD OK
+20117=Pripojenie zlyhalo
+20118=Odosielanie TYPE...
+20119=Príkaz TYPE zlyhal
+20120=TYPE OK
+20121=Odosielanie príkazu REST...
+20122=REST zlyhalo
+20123=REST OK
+20124=Odosielanie príkazu RETR...
+20125=RETR zlyhalo
+20126=Odosielanie príkazu SIZE...
+20127=Odosielanie príkazu LIST
+20128=LIST zlyhalo
+20129=LIST OK
+20130=SIZE zlyhalo
+20131=Nie je moné nájs v odpovedi ve¾kos súboru.
+20132=SIZE OK
+20133=Ovládací soket nie je pripojenı k serveru.
+20134=Reštart na zaèiatok, pretoe lokálny súbor bol odstránenı. Reštart z ¾ubovo¾nej pozície v tomto prípade nie je podporovanı.
+20135=Reštartuje sa pripojenie...
+20136=Server pravdepodobne nepodporuje tok spracovania príkazu.
+20137=Funkènos príkaz. sekvencie: OK
+20138=Odosiela sa HEAD...
+20139=Odosiela sa GET...
+20140=Prebudovanie starıch stiahnutıch èastí súboru...
+20141=Pripája sa...
+20142=Sahovanie dokonèené. Stiahnutıh bytov celkom: %I64d.
+20143=Prijímajú sa údaje...
+20144=Volite¾né pripojenia, pripája sa...
+20145=Sahovanie zlyhalo. Stiahnuté byty celkom: %I64d.
+20146=Ve¾kos %s je %I64d bytov.\nNa jednotke \"%s\" nie je dostatok miesta na uloenie èastí sahovaného súboru.\nPred pokraèovaním sahovania uvo¾nite nejaké miesto alebo vymate tento súbor zo zoznamu sahovania, alebo zmeòte miesto doèasného prieèinka v èasti Monosti > Všeobecné a potom to skúste znova.
+20147=Na disku \"%s\" nie je dostatok miesta.
+20148=Nemono prebudova èasti stiahnutého súboru.
+20149=Toto sahovanie je u dokonèené, lokálna cesta nebola zmenená.
+20150=Dátum poslednej zmeny súboru bol na serveri zmenenı.\nChcete znova stiahnu tento súbor?
+20151=Pouívate aktuálnu verziu programu Internet Download Manager. Aktualizáciu skontrolujte neskôr.
+20152=Vyskytla sa chyba poèas uloenia zadanıch údajov, skúste znova.
+20153=Vyskytla sa chyba poèas pride¾ovania virtuálnej pamäte. Skúste ukonèi nejaké aplikácie a potom stlaète tlaèidlo \"Opakova\".
+20154=Prebudovanie
+20155=Poadovanı názov servera je platnı, ale nemáte správne priradené údaje pre rozlíšenie (hostite¾ ako takı existuje, ale nie je priamo dosiahnute¾nı).
+20156=Súbor %s - stiahnuté %s (%I64d bytov). Súbor nemôe by úplne stiahnutı, pretoe jeho ve¾kos nie je známa.\nSúbor je uloenı ako %s.
+20157=iadne vybrané poloky!
+20158=Hore
+20159=Dole
+20160=Odstráni poloku
+20161=Tento súbor nie je moné stiahnu. Neplatná odpoveï servera HTTP.
+20162=Nie je moné nájs novú verziu súboru Nápovedy IDM!
+20163=Nie je moné premenova novú verziu súboru Nápovedy IDM: newIDMan.hlp na idman.hlp. Skúste to urobi ruène.
+20164=Aktualizácia IDM z www.internetdownloadmanager.com. Prijímanie novıch súborov...
+20165=Aktualizácia IDM z www.tonec.com. Prijímanie nového súboru Nápovedy...
+20166=Príruèka programu Internet Download Manager
+20167=Sahovanie bolo zrušené uívate¾om.
+20168=Aktualizácia zlyhala, vyskytla sa chyba poèas sahovania novıch súborov IDM. Skúste aktualizova neskôr.
+20169=Poadovanı súbor neexistuje.
+20170=\nChcete ho otvori?
+20171=Tento súbor u v zozname sahovania existuje. Chcete ho prida ako duplikát?
+20172=Server odpovedá, e nemáte povolenie stiahnu tento súbor.
+20173=Vyskytla sa chyba poèas èítania telefónneho zoznamu.
+20174=Nie je moné pripoji sa k internetu.
+20175=Súbor nemono stiahnu, pretoe uplynul èasovı limit.
+20176=Poadovanı súbor vyzerá ako webstránka HTML.\r\n\r\nAk sa sahuje automaticky po kliknutí v programe Internet Explorer, skúste podra pri kliknutí na prepojenie kláves Alt, aby ho program IE otvoril ako webovú stránku.\r\n\r\nChcete pokraèova v sahovaní súboru programom IDM a uloi ho ako stránku HTML?
+20177=Stiahnutı súbor vyzerá ako webová stránka HTML.\r\n\r\nAk bolo toto sahovanie otvorené z programu Internet Explorer automaticky po kliknutí na prepojenie, skúste podra pri kliknutí na prepojenie kláves Alt, aby ho program IE otvoril ako webstránku.\r\n\r\nChcete premenova stiahnutı súbor na stránku HTML?
+20198=Nie je moné zmeni integráciu programu Internet Download Manager v IE. Vyskytla sa chyba. Odošlite súbor %s vıvojárom.
+20199=Nie je moné zmeni integráciu programu Internet Download Manager v IE, pretoe nemáte prístupové práva do systémového registra.
+20200=Internet Download Manager bol úspešne integrovanı do programu Internet Explorer. Je potrebné ukonèi Internet Explorer a spusti ho znova.
+20201=Program IDM bol z programu Internet Explorer úspešne odstránenı. Je potrebné ukonèi Internet Explorer a spusti ho znova.
+20202=Nie je moné aktualizova zásuvné moduly. Podrobnosti nájdete v súbore \"%s\".
+20203=Toto je 60-dòová skúšobná verzia programu Internet Download Manager.
+20204=Súbor bol presunutı.
+20205=Súbor %s bol presunutı.
+20206=Otvorenie stiahnutého súboru
+20207=Stiahnutie súèastí programu IDM
+20208=Nemono zmeni integráciu programu Internet Download Manager v prehliadaèi Netscape, pretoe nemáte prístupové práva do systémového registra.
+20209=Verzia súboru etcprotocol.dll je zastaralá. Stiahnu novú verziu? Ukonèite Internet Explorer kvôli prepísaniu súboru!
+20210=Nemono premenova súbor %s na %s. Skúste ukonèi Internet Explorer a urobi to ruène.
+20211=Súbor %s bol uloenı ako %s. Súbor u v poèítaèi existuje. Chcete nahradi existujúci súbor?\n\nStlaèením tlaèidla \"ÁNO\" ho nahradíte, stlaèením tlaèidla \"NIE\" ho uloíte pod inım názvom, stlaèením tlaèidla \"ZRUŠI\" zrušíte pridanie súboru do zoznamu sahovania.
+20212=Súbor %s bude uloenı ako %s. Súbor u v zozname sahovania existuje. Chcete potvrdi uloenie názvu súboru?\n\nStlaèením tlaèidla \"ÁNO\" ho potvrdíte, stlaèením tlaèidla \"NIE\" súbor uloíte pod inım názvom, stlaèením tlaèidla \"ZRUŠI\" zrušíte pridanie súboru do zoznamu sahovania.
+20213=Import do programu IDM
+20214=Nie je moné èíta prepojenia zo súboru alebo je súbor poškodenı.
+20215=Súbor nie je platnım súborom exportu do programu IDM alebo je poškodenı.
+20216=Súbor neobsahuje iadne webové prepojenia.
+20217=Vyskytla sa neznáma chyba poèas vykonávania operácie!
+20218=Tento súbor nemono stiahnu. Server FTP mono nepodporuje pokraèovanie sahovania. Chcete prida rovnakı súbor a stiahnu ho od zaèiatku?
+20219=Názov pre uloenie súboru bol \"%s%s\", ale server poslal názov \"%s\". Chcete uloi súbor pod názvom, ktorı bol prijatı zo servera?
+20220=Súbor %s bol stiahnutı úplne.\nTento súbor .m3u obsahuje jedno webové prepojenie na súbor .mp3. Chcete stiahnu aj tento súbor ?
+20221=Súbor %s bol stiahnutı úplne.\nTento súbor .m3u obsahuje jedno alebo viac webovıch prepojení na súbory .mp3. Chcete prida aj tieto súbory do zoznamu sahovania?
+20222=Súbor .m3u stiahnutı
+20223=Prípona
+20224=Mimetype
+20225=Nemono spusti antivírusovú kontrolu.\n%s
+20226=Internet Download Manager dokonèil spracovanie frontu. Pod¾a nastavenia plánovaèa programu IDM bude modem zavesenı.
+20227=Zavesi modem
+20228=Zavesi teraz
+20229=Zastavi teraz
+20230=Limity sahovania prekroèené!
+20231=Neplatné údaje
+20232=Hodnota hodín v èasti \"Limity sahovania\" musí by medzi 1 a 23. Opravte alebo odznaète políèko \"Limity sahovania\".
+20233=Chcete stiahnu tutoriál (asi 60 kB) z domovskej stránky programu IDM?
+20234=Chcete stiahnu a nainštalova súbor Nápovedy programu IDM (asi 200 kB) z domovskej stránky IDM?
+20235=Nie je moné nájs súbor HHCtrl.ocx pre zobrazenie súboru Nápovedy!
+20236=Nápoveda programu IDM
+20237=Ve¾kos súboru bola na serveri zmenená.\nBude stiahnutı od zaèiatku.
+20238=Nie je moné vytvori pripojenie cez server proxy.
+20239=Vyskytla sa chyba poèas vytvárania bezpeèného pripojenia k %s.
+20240=Vyskytla sa chyba poèas šifrovania správy poiadavky.
+20241=Vyskytla sa chyba poèas naèítania bezpeènostnej .dll. Nie je moné vytvori pripojenie HTTPS.
+20242=Prepáète, polia Heslo a Potvrdenia hesla servera HTTP proxy nesúhlasia! Skúste znova.
+20243=Prepáète, ale polia Heslo a Potvrdenie hesla servera HTTPS proxy nesúhlasia! Skúste to znova.
+20244=Prepáète, ale polia Heslo a Potvrdenie hesla servera FTP nesúhlasia! Skúste to znova.
+20245=Monosti programu Internet Download Manager
+20246=Stiahnutie dokonèené
+20247=Stiahnutie zlyhalo
+20248=Spracovanie frontu zastavené alebo dokonèené
+20249=Spracovanie frontu spustené
+20250=Udalos
+20251=Súbor zvuku
+20252=Nie je moné kopírova vybranı súbor zvuku do prieèinka zvukov programu IDM!
+20253=Poèet dní, pokia¾ mono pouíva program Internet Download Manager: %d. Chcete zaregistrova svoju kópiu programu IDM?
+20258=Všetky sahovania
+20259=Nedokonèené
+20260=Dokonèené
+20261=Programy
+20262=Hudba
+20263=Video
+20264=Hry
+20265=Dokumenty
+20266=Prida kategóriu
+20267=Odstráni
+20268=Vlastnosti
+20269=Naozaj chcete odstráni kategóriu \"%s\" zo zoznamu kategórií IDM?
+20270=Odstránenie kategórie zo zoznamu kategórií IDM
+20271=Pridanie kategórie do zoznamu kategórií IDM
+20272=Úprava vlastností kategórie
+20273=Vyplòte pole \"Názov kategórie\".
+20274=Prieèinok \"%s\" neexistuje.\r\nChcete vytvori prieèinok?
+20275=Prieèinok nie je moné vytvori!\r\n%s
+20276=Skry kategórie
+20277=Zobrazi kategórie
+20278=Vybra prieèinok
+20279=Všeobecné
+20280=Chcete umiestni všetky staré sahovania do tıchto kategórií v závislosti od typu súboru? Súbory nemôu by presunuté na pevnú jednotku, ale budú priradené do kategórií sahovania.
+20281=Chcete umiestni všetky staré sahovania s typmi súboru \"%s\" do tejto kategórie? Súbory nebudú presunuté na pevnı disk, ale budú priradené k tejto kategórii.
+20282=Kategórie IDM
+20283=IDM hlási chybu \"Prístup odmietnutı\" poèas spájania stiahnutıch èastí súboru. Je moné, e nejaká aplikácia (napr. antivírusovı program alebo firewall) otvorila súbor, ale nekorektne ho uzavrela, alebo ste sa pokúšali otvori súbor poèas jeho sahovania. Mali by ste reštartova poèítaè a potom spoji súbor kliknutím na tlaèidlo Pokraèova.
+20284=Predvol. prieèinok pre kategóriu \"%s\"
+20285=Pamäta si poslednú cestu uloenia pre kategóriu \"%s\"
+20307=- Vyberte svoje pripojenie k internetu -
+20314=256k kábel / DSL / iné
+20315=300k kábel / DSL / iné
+20316=512k kábel / DSL / iné
+20319=Iné
+20320=O programe
+20321=Obnovi
+20322=Ukonèi IDM
+20323=Napíšte nám
+20324=Nápoveda
+20325=Objedna online
+20326=Registrácia
+20327=Zastavi sahovanie
+20328=Odstráni
+20329=Pokraèova
+20330=Vlastnosti
+20331=Zadaná neplatná adresa. Opravte ju.
+20332=Toto sahovanie nie je dokonèené. Pokraèova vo vymazávaní?
+20333=Nie je moné nájs konfiguráciu proxy v nastavení programu Internet Explorer.
+20334=Súbor s touto adresou u bol programom Internet Download Manager stiahnutı. Chcete ho stiahnu znova?
+20335=Súbor s touto adresou u v zozname existuje a èaká na dokonèenie sahovania. Chcete pokraèova v sahovaní?
+20336=Príliš ve¾a súborov s tımto názvom.Vymate ich alebo zmeòte ich názvy.
+20337=Zadajte prihlasovacie meno
+20338=Nie je moné nájs pridruenı prehliadaè.
+20339=Nie je moné nájs aplikáciu aktualizácie.
+20340=Zadajte registr. meno
+20341=Zadané neplatné registr. èíslo
+20342=V schránke sa našla adresa. Chcete z nej sahova?
+20343=Zadajte krstné meno
+20344=Zadajte priezvisko
+20346=Zadajte e-mail
+20347=Zadajte sériové èíslo
+20348=Zadali ste nesprávne sériové èíslo
+20349=Internet Download Manager bol zaregistrovanı s falošnım sériovım èíslom. Program IDM bude ukonèenı...
+20350=Poèet registrácií programu Internet Download Manager s tımto sériovım èíslom prekroèil limit. Program IDM bude ukonèenı...
+20351=Internet Download Manager bol zaregistrovanı s falošnım sériovım èíslom. Program IDM bude ukonèenı...
+20352=Internet Download Manager nebol poèas 60 dní zaregistrovanı. Skúšobná doba vypršala a program IDM bude ukonèenı...
+20353=Internet Download Manager nebol poèas 15 dní zaregistrovanı. IDM bude ukonèenı...
+20354=Neznáma chyba poèas
+20355=Neznáma
+20356=Prida do frontu
+20357=Odstráni z frontu
+20358=Štart frontu
+20359=Zast. front
+20360=Otvori
+20361=Poslednı pokus:  
+20362=Vısledky:\n
+20363=Vyberte len jeden súbor na otvorenie!
+20364=Otvori
+20365= u v poèítaèi existuje. Chcete nahradi existujúci súbor?\nStlaèením tlaèidla \"ÁNO\" ho nahradíte, stlaèením tlaèidla \"NIE\" ho uloíte pod inım názvom, stlaèením tlaèidla \"ZRUŠI\" sahovanie zrušíte.
+20366=Stiahnu z
+20367=Uloi do
+20368=Naozaj chcete odstráni všetky dokonèené sahovania?
+20384=Zobrazi okienko
+20385=Slovenskı preklad: PEPEK, PEŠISOFT SK.\r\nEmail: pesisoft.sk@seznam.cz\r\n\r\nUpozornenie. Tento poèítaèovı program je chránenı autorskım právom a medzinárodnımi dohodami. Nepovolené kopírovanie alebo distribúcia tohto programu alebo nejakej èasti môe vies k trestnoprávnym a obèianskoprávnym postihom v maximálnom rozsahu, ktorı umoòuje zákon.
+20386=Nie je moné vytvori prieèinok %s, kód chyby= %ld\n
+20387=Chyba
+20388=Súbory
+20389=Všetky súbory
+20390=Podrobnosti:\n
+20391=Dokonèené
+20393=Stiahnutie dokonèené. Prebieha antivírusová kontrola...
+20394=AVI: Rozl. %dx%d, %d snímky/s., dåka %s
+20395=, Dåka: 
+20396=, Názov: 
+20397=, Interpret: 
+20398=, Album: 
+20399=, áner: 
+20400=WAV: %d snímky/s., %d bity/snímka, dåka: %s
+20401=MPEG: Rozl. %dx%d, %.1f snímky/s., %d bity/snímka
+20402=%s,   celkom súborov: %ld
+20403= Skúšobná
+20404= Plná
+20405=Opakované vytoè.  %ld
+20406=Neznáma chyba vytáèania RAS.
+20407=Zmeny jazyka v hlavnom okne budú pouité a po reštarte programu IDM. Chcete reštartova program IDM?
+20408=Od %d:%02d do %d:%02d ste stiahli %d MB. Všetky sahovania programom IDM budú zastavené, pretoe bol prekroèenı limit, nastavenı v Plánovaèi programu IDM (alebo na karte \"Monosti > Pripojenie\")!
+20409=Od %d:%02d do %d:%02d ste stiahli %d MB. Všetky sahovania programom IDM boli zastavené %d:%02d ,pretoe sú prekroèené limity sahovania, nastavené v Plánovaèi programu IDM (alebo na karte \"Monosti > Pripojenie\")!\r\n\r\nVšetky zastavené sahovania budú pokraèova automaticky %02d:%02d. Ak chcete pokraèova v sahovaní ïalej, zmeòte nastavenia na karte Pripojenie > Limity sahovania a stlaète tlaèidlo Pokraèova.
+20410=Dokonèené
+20411=Spájanie èastí...
+20412=Odpája sa...
+20413=Textové súbory
+20414=Súbory exportu IDM
+20415=Uloi ako...
+20427=Nezatvárajte dialógové okno sahovania poèas spájania súboru, inak môu by údaje poškodené.
+20428=Aktualizácia
+
+20429=Sahovanie prevzal program IDM...
+20430=Kliknutím na tlaèidlo "Spä" pokraèujte v preh¾adávaní.
+20431=Spustenie sahovania pomocou programu IDM zlyhalo. Nenašiel sa spustite¾nı súbor.
+
+20433=Upozornenie
+20434=Vyberte prieèinok
+20435=Antivírusovı program
+20439=Súbory zvuku
+20440=dokonèené
+20441=Vlastnosti súboru
+20442=Internet%20Download%20Manager%20-%20ve¾mi%20dobrá%20aplikácia!!!
+20443=sahovanie%20z%20
+
+//Please don't replace "English" to your local language, please just translate the "English" word
+20444=Pouite anglické
+
+20445=Neznáma
+
+20447=Normálna ve¾kos
+20448=Zobrazi minimalizované
+20449=Nezobrazova
+
+//Please change XXX on the language you are translating IDM to.
+q1=Internet Download Manager zistil, e systém Windows pouíva ako predvolenı slovenskı jazyk. Chcete nainštalova jazykovı súbor Slovak do programu IDM?
+
+20500=Najprv si zakúpte a nainštalujte plnú verziu programu IDM!
+1338=Vyberte jazyk uívate¾ského prostredia programu IDM (môete ho neskôr zmeni v ponuke "Zobrazi > Jazyk")
+20501=Internet Download Manager nebol poèas 15 dní zaregistrovanı. Program IDM bude ukonèenı...
+20502=Prispôsobi...
+20503=Dátum pridania
+20504=Poslednı pokus
+20505=Uloi do
+20506=Odkaz. adresa
+33001=Prispôsobi panel nástrojov
+33002=Prispôsobi zoznam adries
+33004=Pod¾a cesty uloenia
+33005=Pod¾a odkazujúcej stránky
+33006=Pod¾a posledného pokusu
+20507=Ståpce...
+
+209=Ståpce
+1339=Oznaète ståpce, ktoré majú by v zozname vidite¾né. Ståpce usporiadajte pomocou tlaèidiel Hore alebo Dole. 
+1160=Hore
+1083=Hore
+1340=Zobrazi
+1048=Skry
+1053=Vynulova
+1341=Vybranı ståpec by mal by
+1342=bodov širokı
+
+//new category
+20508=Komprimované
+
+//new dialog
+226=Maximálny poèet pripojení k serveru
+1348=Server
+
+1350=Predvolenı max. poèet pripojení
+1343=Max. poèet pripojení
+1344=Nové
+1345=Odstráni
+1346=Upravi
+1347=Vınimky:
+20509=Server
+20510=Poèet
+
+228=Stiahnu všetky prepojenia s IDM
+20511=Typ súboru
+20512=Text prepojenia
+1234=Poui texty prepojení ako popisy sahovania
+1055=Skry súbory HTML
+1060=Skry opakované súbory
+1353=Oznaèi všetko
+1354=Zruši všetko
+1352=Upravi...
+1355=Oznaète prepojenia, ktoré chcete prida do zoznamu sahovania programu IDM a kliknite na tlaèidlo OK.\r\nPoèkajte, kım program IDM skontroluje a vyplní všetky typy súborov.
+
+20513=Názov súboru pre uloenie bol \"%s\", ale server poslal tento typ súboru \"%s\" a súbor by mal by uloenı ako \"%s\". Chcete súbor uloi pod názvom, akım bol stiahnutı zo servera?
+
+//vers. 4.00
+20514=Opakované sahovanie
+20515=Otvori prieèinok
+
+q2=\"%s\" (%s) chce stiahnu súbor \"%s\".\n\nChcete, aby IDM kontroloval sahovanie v tejto aplikácii?\nNeskôr môete v èasti IDM > Monosti > Všeobecné kontrolu sahovania vypnú alebo zapnú.
+
+20516=\"%s\" protokol prenosu údajov nie je v súèasnosti v programe IDM podporovanı. Mono ide o pravopisnú chybu. Skontrolujte a skúste znova.
+20517=IDM prijal chybu \"Prístup odmietnutı\" poèas spájania èastí súboru. Môe to by spôsobené otvorením súboru inou aplikáciou, napr. antivírusovım programom alebo ste sa ho pokúsili otvori sami. Na spojenie súboru je potrebné reštartova poèítaè, vybra súbor v programe IDM a stlaèi tlaèidlo Pokraèova.
+20518=Pred aktualizáciou si zaregistrujte program IDM.\r\nPrejdite do ponuky \"Registrácia > Registrácia\" a zadajte svoje registraèné údaje. Potom spustite aktualizáciu v ponuke \"Nápoveda > Aktualizácia\".
+20523=Pod¾a licenènej zmluvy, s ktorou ste súhlasili, môete aktualizova program Internet Download Manager zdarma poèas jedného roka od zakúpenia. Ak chcete pokraèova v aktualizácii programu IDM po tomto období, je potrebné prihlási sa k aktualizaènej slube.\r\nChcete prejs na prihlasovaciu stránku programu IDM?
+20519=Klávesy na potlaèenie sahovania by nemali obsahova klávesy na priame sahovanie.\r\nVyberte iné klávesy.
+20525=Chyba pri pripájaní. iadny známy host sa nenašiel. Názov nie je oficiálnym názvom hostu alebo jeho alias, alebo ho nemono nájs v poadovanej databáze.\r\n\r\nMoné príèiny tejto chyby:\r\n\r\n1. Máte v poèítaèi nainštalovanı firewall a nainštalovali, nahradili alebo aktualizovali ste program Internet Download Manager. Skontrolujte nastavenie svojho firewallu, èi má IDM povolenı prístup na internet.\r\n\r\n2. Sluba, ktorá h¾adá servery na internete - Domain Name Service (DNS) - má doèasné problémy so sieovım pripojením medzi DNS a poèítaèom. Je moné, e bude potrebné reštartova poèítaè.\r\n\r\n3. Pomılili ste sa pri písaní názvu servera. Skontrolujte ho.\r\n
+20522=IDM nemôe nájs súbor %d, ktorı je potrebnı pre integráciu do prehliadaèa a do systému. Chcete ho stiahnu?
+
+//Options->general
+1370=Zisti nové aplikácie pokúšajúce sa stiahnu súbory
+1368=Prispôsobi klávesy na potlaèenie/sahovanie s IDM
+1367=Klávesy...
+1375=Integrova program IDM do:
+
+229=Pouitie špeciálnych klávesov
+1361=Poui tieto klávesy na potlaèenie stiahnutia s IDM:
+1067=Poui tieto klávesy na priame stiahnutie s IDM:
+1366=Kontrolova kliknutia ¾avım tlaèidlom myši na prepojenie spolu so stlaèením špeciálneho klávesu na priame stiahnutie
+1374=Poznámka 1: Niekedy sa stáva, e po kliknutí na prepojenie sa zobrazí webová stránka s textom, e sahovanie sa zaène o X sekúnd. V tomto prípade treba odznaèi nasledujúcu monos pre priame sahovanie s IDM.
+
+//Download all links with IDM
+1356=Uloi do
+1357=Kadı súbor do prieèinka pod¾a jeho kategórie
+1358=Všetky súbory do jedného prieèinka
+1359=Všetky súbory do jedného prieèinka
+1360=Preh¾adáva
+
+//Options->Proxy
+1378=Nepouíva server proxy pre adresy zaèínajúce na:
+1377=Názvy odde¾te medzerami
+
+
+20526=Internet Download Manager – sieová integrácia
+20527=Internet Download Manager zistil, e sieová  integrácia bola nejakou inou aplikáciou odstránená. Chcete obnovi sieovú integráciu programu IDM?
+20528=Internet Download Manager zistil, e nejaká iná aplikácia zmenila sieovú integráciu programu IDM. Mohla to spôsobi inštalácia nejakej novej sieovej aplikácie alebo nejaká aplikácia obnovila záznamy v systémovom registri. Chcete obnovi sieovú integráciu programu IDM?
+20529=Sieová integrácia Internet Download Managera bola zmenená. Odporúèame reštartova poèítaè. Chcete ho reštartova teraz?
+20530=Sieová integrácia Internet Download Managera bola zmenená. Je potrebné reštartova poèítaè, pretoe firewall nie je schopnı zisti tieto zmeny a internetové aplikácie nebudú bez reštartu správne komunikova s internetom.\r\n\r\nUlote svoju prácu a zatvorte všetky aplikácie. Po stlaèení tlaèidla OK bude poèítaè reštartovanı.
+
+20531=Ak chcete integrova Internet Download Manager do aplikácie, ktorá je spustená, je potrebné túto aplikáciu ukonèi, pretoe program IDM nie je moné integrova do aplikácie, pokia¾ je spustená.\r\n\r\nPo integrácii programu IDM do aplikácie môete kvôli vyššiemu vıkonu vypnú monos \"Zisti nové aplikácie\".
+20532=Zisti nové aplikácie
+
+//v 4.01
+//Download All Links with IDM dialog
+1385=Skry obrázky na tejto webstránke
+//Options->General dialog
+1381=Poui rozšírenú integráciu do prehliadaèov
+20547=Prepínanie medzi základnou a rozšírenou integráciou prehliadaèov môe vyadova reštart systému. Naozaj chcete pokraèova?
+//new dialog
+230=Kontrola internet. pripojenia
+1382=Kontrola
+20536=IDM stiahne malı textovı súbor kvôli kontrole pripojenia na internet. Poèkajte nieko¾ko sekúnd.
+20537=IDM testuje program Internet Explorer. Poèkajte nieko¾ko sekúnd, kım program Internet Explorer naèíta malú testovaciu stránku.
+//Problem report dialog
+232=Správa o probléme v programe IDM
+20546=Je vytvorená správa o konfigurácii, ktorú nám môete odosla. Odošlite nám túto správu, pomôete nám opravi tento problém v budúcich verziách programu IDM. Tieto údaje sú technického charakteru. Nezbierame osobné informácie, správa bude tajná a anonymná.
+1386=Ak chcete, môete prida nejakı komentár alebo iados.
+1391=Ak chcete by oboznámenı, ako bol problém vyriešenı, pridajte svoju e-mailovú adresu.
+20545=Odosielajú sa údaje...\r\nPoèkajte nieko¾ko sekúnd
+1390=Odosla
+
+//new messages
+20533=Program IDM zistil v programe Internet Explorer pouívanie servera proxy. Chcete poui rovnaké nastavenie proxy v programe IDM?
+20534=Prvé spustenie programu Internet Download Manager
+20535=Program IDM zistil, e pouívate telefonické pripojenie siete cez modem. Chcete poui tieto nastavenia v programe IDM?
+
+20538=Nie je moné stiahnu testovaciu stránku. Je moné, e sieová integrácia programu IDM je v konflikte s inou internetovou aplikáciou alebo firewallom. Program IDM vypne rozšírenú integráciu do prehliadaèov a obnoví pôvodné nastavenie. Rozšírenú integráciu do prehliadaèov môete neskôr zapnú v dialógovom okne IDM > Monosti > Všeobecné.
+20539=Je potrebné reštartova poèítaè kvôli obnoveniu pôvodnıch nastavení. Ulote svoju prácu a zatvorte všetky aplikácie, poèítaè bude reštartovanı po stlaèení tlaèidla OK.
+20540=Sieová integrácia programu IDM bola úspešne nainštalovaná. V zriedkavıch prípadoch môe by sieová integrácia v konflikte s novımi nainštalovanımi internetovımi aplikáciami. Ak zistíte nejakı problém so sieovou integráciou, odznaète políèko \"Poui rozšírenú integráciu do prehliadaèov\" v dialógovom okne IDM > Monosti >Všeobecné.
+20541=Je vypnutá rozšírená integrácia do prehliadaèov. Ak sa objaví problém s rozšírenou integráciou prehliadaèa, chceme tento problém vyrieši. Kvôli oprave problému potrebujeme zozbiera a analyzova niektoré technické informácie o konfigurácii poèítaèa a nainštalovanıch internetovıch aplikáciách. IDM zozbiera tieto informácie a zobrazí ich v ïalšom kroku, pred ich odoslaním nášmu oddeleniu podpory.\r\n\r\nChcete, aby program IDM vygeneroval tieto informácie?
+20542=Vypnutie rozšírenej integrácie do prehliadaèov
+20543=IDM sa pokúša stiahnu testovaciu stránku kvôli kontrole pripojenia na internet. Skontrolujte, èi ste pripojení na internet. Ak máte firewall, skontrolujte, èi má nová verzia programu IDM povolenı prístup na internet. Potom stlaète tlaèidlo \"Kontrola\" a program IDM sa pokúsi stiahnu testovaciu stránku znova.
+20544=Program IDM zmenil sieovú integráciu a potrebuje znova skontrolova vaše pripojenie na internet. Ak nie ste pripojení na internet, pripojte sa, a stlaète tlaèidlo \"Kontrola\".
+20548=Sieová integrácia programu IDM bola zmenená. Je potrebné reštartova poèítaè, pretoe internetové aplikácie nebudú bez reštartu správne komunikova s internetom.\r\n\r\nUlote svoju prácu a zatvorte všetky aplikácie, poèítaè bude reštartovanı po stlaèení tlaèidla OK.
+
+//v4.01 build 4
+20549=Táto verzia programu IDM má funkciu Rozšírená integrácia do prehliadaèov. Inštalácia tejto funkcie môe vyadova reštart systému.\r\n\r\nAk je Rozšírená integrácia do prehliadaèov zapnutá, IDM môe zachyti tieto sahovania, ktoré predtım nebolo moné zachyti v programe IDM ani v inom správcovi sahovania. Jej pouitím môe by taktie program IDM integrovanı do prehliadaèov a internetovıch aplikácií na sahovanie cez protokol FTP a HTTP.\r\n\r\nV zriedkavıch prípadoch môe by táto integrácia v konflikte s novımi nainštalovanımi internetovımi aplikáciami. Ak sa objavia nejaké problémy so sieovou integráciou, môete odznaèi políèko \"Poui rozšírenú integráciu do prehliadaèov\" v dialógovom okne IDM > Monosti > Všeobecné.\r\n\r\nChcete nainštalova Rozšírenú integráciu do prehliadaèov?
+20550=Rozšírená integrácia do prehliadaèov bola úspešne nainštalovaná!
+
+//menu "File->Redownload"
+33009=Opakované sahovanie
+
+//new (since v4.00) toolbar buttons of the main window
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//Dlhı zápis je schopné spravi všetko tlaèítka širší a oni môc prejs hranicu 
+//dialógu.
+20551=Štart frontu
+20552=Zastavi front
+
+//v4.01 build 5
+20553=Internet Download Manager automaticky zachytáva prepojenie na sahovanie z inej internetovej aplikácie, ak ho vyhodnotí ako prepojenie na sahovanie súboru. Ak NECHCETE stiahnu tento súbor programom IDM, otvorte dialógové okno Monosti, kliknutím na tlaèidlo Monosti.\r\n\r\n 1. Ak nechcete sahova súbory tohto typu programom IDM, môete odstráni príslušnı typ súboru (príponu súboru) zo zoznamu automaticky zachytávanıch typov súborov.\r\n\r\n 2. Ak nechcete sahova z konkrétnej stránky programom IDM, môete prida túto stránku do zoznamu vınimiek stránok.
+236=Tip IDM: autom. zachytenie prepojenia
+1393=Nabudúce tento tip nezobrazova
+1397=IDM má flexibilnı mechanizmus na zachytenie alebo ignorovanie sahovania z inıch internetovıch aplikácií. Chcete si o tom preèíta viac?
+1396=Èíta viac
+
+//v4.02
+20569=Toto chybové hlásenie sa môe objavi, ak bol program IDM pouívanı na viacerıch poèítaèoch pod rovnakım sériovım èíslom. Nezabudnite, e jedna licencia na program IDM je iba pre jeden poèítaè. Ak chcete pouíva program IDM na viacerıch poèítaèoch, musíte si objedna pre kadı z nich samostatnú licenciu.
+20570=Malé tlaèidlá
+20571=Ve¾ké tlaèidlá
+20572=Klasické tlaèidlá
+20573=H¾ada nové
+
+//new main menu items
+m33001=Panel nástrojov
+33510=Klasické tlaèidlá
+34010=Malé tlaèidlá
+34011=Ve¾ké tlaèidlá
+34012=H¾ada nové
+
+//a new (since 4.401) button on the Options dialog
+1371=Nápoveda
+
+// The abbreviation of second, kilobytes, megabytes and gigabytes, 
+// it's used when denoting download speed measurement units, 
+// e.g. KB/sec --- kilobytes per second, etc.
+20575=s.
+20576=GB
+20577=MB
+20578=kB
+20579=Bytov
+
+//v4.03
+20588=Nie je moné pospája stiahnutı súbor. Postupnos stiahnutıch èastí bola narušená. Moné príèiny tohto problému.\r\n\r\n 1. Poèítaè bol neèakane vypnutı kvôli vıpadku prúdu poèas sahovania alebo spájania èastí súboru.\r\n 2. Iná aplikácia alebo inı uívate¾ ukonèil program IDM poèas procesu sahovania alebo spájania èastí súboru. Môe sa to sta aj poèas spájania ve¾kıch súborov. Neznepokojujte sa a poèkajte, kım program IDM nedokonèí spájanie. Neukonèujte program IDM pomocou Správcu úloh.\r\n\r\nAk sa tieto udalosti nevyskytli, pošlite súbor %s (ak existuje) oddeleniu podpory programu Internet Download Manager na analızu.
+
+
+//v 5.00 --- grabber
+1429=< Spä
+1430=Ïalej >
+
+1405=Prida filter
+1421=Prida filter
+1437=H¾ada súbory len na tejto stránke
+1459=Spusti sahovanie všetkıch nájdenıch súborov naraz
+1471=Uívatelia môu najprv stránku preskúma a oznaèi súbory, ktoré potrebujú a stiahnu ich v hlavnom okne Grabbera, alebo ich prida do hlavného zoznamu IDM. Pomocou tejto vo¾by mono okamite stiahnu všetky preskúmané súbory.
+1515=Stiahnu nasledujúce súbory (typy súborov)
+1516=Nesahova nasledujúce súbory (typy súborov)
+1480=Nie menej ne
+1482=Nie viac ne
+1483=Stiahnu súbory len z tıchto ciest a domén:
+1486=Nesahova súbory z tıchto ciest a domén:
+1517=Stiahnu, ak je ve¾kos súboru
+1488=Poui bodkoèiarku (;) na oddelenie poloiek.
+
+241=IDM - Grabber stránok
+1446=Stiahnuté súbory:
+1448=Nájdené súbory:
+1450=Spracované webstránky:
+
+244=Filtre
+1423=Prida
+1424=Upravi
+1425=Odstráni
+
+245=Filter
+1426=Názov
+1427=Maska
+
+1414=Názov projektu Grabbera
+1510=Zaèiatoèná stránka alebo adresa
+1439=Poui overenie
+1441=Zada ruène prihlasovacie meno a heslo na túto webstránku:
+1511=Šablóna projektu
+1470=Ak zvolíte šablónu projektu, Sprievodca vytvorí v ïalších krokoch poadované nastavenia projektu. Všetky nastavenia môete neskôr zmeni ruène.
+
+1514=Poui pôvodné podprieèinky
+1468=Previes prepojenia stiahnutıch súborov HTML na lokálne súbory (prezeranie offline)
+1469=Prepísa existujúce súbory
+1436=Prida oznaèené súbory do hlavného zoznamu programu IDM na sahovanie vo fronte a zatvorenie Grabbera
+
+262=Nastavenie Grabbera IDM
+1518=Poui texty prepojení ako popisy pri pridávaní súborov do zoznamu IDM
+1466= – poèet súborov na súèasné preskúmanie (od 1 do 10)
+1467= – poèet súborov sahovanıch súèasne (od 1 do 10)
+1509=Webové servery môu odmietnu poiadavky, ak nastavíte ve¾kı poèet súborov na preskúmanie (sahovanie) naraz.
+
+1416=Nepreskúma nadradené prieèinky
+1490=úrovne v rámci zákl. stránky
+1435=Preskúma celú stránku
+1445=Preskúma urèenı poèet úrovní prepojení:
+1491=úrovne na inıch stránkach
+1474=Preskúma webstránky len v tıchto cestách a doménach:
+1476=Nepreskúma webstránky v tıchto cestách a doménach:
+1512=V tomto kroku môete stanovi, ktoré webstránky pri h¾adaní poadovanıch súborov preskúma. V ïalšom kroku nastavíte typy súborov, umiestnenie a ostatné filtre.
+1489=Èo je poèet úrovní prepojení?
+1493=Preskúma všetky stránky v rámci hlavnej domény
+1494=Ignorova vyskak. okná
+
+268=Názov šablóny
+1508=Zadajte názov šablóny Grabbera
+
+269=Uloenie projektu IDM Grabbera
+1507=Uloi tento projekt pod tımto názvom
+1513=Nezobrazova toto dialógové okno, ak je názov jedineènı
+
+270=Naèíta projekt
+
+32811=Tutoriály
+34022=Nápoveda Grabbera
+      
+
+m1458=Projekt
+1458=Novı
+1438=Naèíta...
+1442=Uloi
+34020=Uloi aktuálne nastavenia ako šablónu
+m34013=Posledné projekty
+34013=Zoznam poslednıch projektov
+m1457=Monosti
+1457=Nastavenie Grabbera
+34021=Plánova projekt
+
+t1398=Spusti preskúmanie stránky
+t1401=Zastavi preskúmanie stránky
+t1353=Oznaèi všetky súbory
+t1354=Odznaèi všetky súbory
+t1432=Spusti sahovanie oznaèenıch súborov
+t1433=Zastavi sahovanie oznaèenıch súborov
+t1434=Prida oznaèené súbory do hlavného zoznamu IDM a do frontu
+
+
+20580=Vlastné nastavenie
+20581=Všetky obrázky na webstránke
+20582=Súbory zvuku z úvodnej stránky a jednej ïalšej úrovne
+20583=Všetky video súbory na webstránke
+20584=Všetky súbory z webstránky okrem stránok a obrázkov
+20585=Kompletná webstránka
+
+20589=Obsah webu
+20590=Rozšírené
+20591=Projekty Grabbera
+20592=IDM Grabber
+20593=Zadajte zaèiatoènú stránku alebo adresu
+20594=Zaèiatoèná stránka alebo adresa
+20595=Zadajte prihlasovacie meno a heslo alebo odznaète políèko \"Poui overenie\"
+20596=Zadajte ruène prihlásenie na stránku alebo odznaète príslušné políèko 
+20597=Ruèné prihlásenie na stránku
+20598=iadne oznaèené súbory!
+20599=Pridané súbory do hlavného zoznamu IDM: %ld.
+20600=Nie je moné prida súbory. Príliš ve¾a oznaèenıch súborov. Stiahnite ich v tomto projekte kliknutím na tlaèidlo panela nástrojov \"Stiahnu oznaèené\".
+20601=Nemono prida nové súbory. Hlavnı zoznam IDM obsahuje príliš ve¾a súborov a môe IDM spomali. Najskôr zo zoznamu vymate niektoré súbory.
+
+20602=Tento názov je vyhradenı. Vyberte pre svoju šablónu inı názov.
+20603=Šablóna s tımto názvom u existuje. Chcete ju nahradi?
+20604=Uloi projekt Grabbera?
+
+//right click menu
+20605=Otvori projekt
+20606=Naplánova projekt
+20607=Odstráni projekt
+
+20608=Najskôr ukonèite spustenı projekt Grabbera.
+20609=Naplánova projekt Grabbera
+20610=U èoskoro!!!\r\n\r\nH¾adajte túto funkciu v ïalšej verzii programu IDM.
+
+//displayed statuses
+20611=Preskúmanie stránky
+20612=Stiahnutie
+20613=Dokonèené
+20614=Zastavené
+
+20615=Projekt s názvom \"%s\" u existuje. Vyberte inı názov.
+20616=iadne uloené projekty IDM Grabbera
+20617=Vyberte názov projektu!
+20618=Chcete odstráni projekt Grabbera \"%s\"?
+20619=Neplatnı poèet naraz preskúmanıch súborov. Nastavte správny poèet.
+20620=Neplatnı poèet naraz sahovanıch súborov. Nastavte správny poèet.
+20621=Nie je moné otvori súbor \"%s\"\r\n\r\n%s
+20622=Chcete stiahnu a nainštalova súbor Nápovedy Grabbera IDM (asi 100 kB) z domovskej stránky IDM?
+20623=Nie je moné naèíta projekt.\r\nChyba pridelenia pamäte.
+20624=Nie je moné naèíta projekt.\r\nSúbor projektu Grabbera je poškodenı alebo nesúhlasí verzia.
+20625=Súbor projektu Grabbera je poškodenı. Niektoré súbory neboli naèítané.
+20626=Nie je moné naèíta.\r\nSúbor s informáciami o šablóne je poškodenı alebo nesúhlasí verzia.
+20627=Naèítanie šablóny Grabbera
+20628=Ukladanie šablóny Grabbera
+20629=Ukladanie projektu Grabbera
+20630=Naèítanie projektu Grabbera
+      
+//step dialogs captions
+20631=IDM Grabber stránok. Krok %d --- %s
+20632=Nastavi úvodnú stránku
+20633=Uloi súbory do
+20634=Nastavi filter preskúmania
+20635=Nastavi filtre súborov
+
+20636=Ruèné prihlásenie na stránku
+20637=Keï dokonèíte proces prihlásenia, stlaète tlaèidlo OK.
+20638=OK
+20639=Zruši
+
+//v4.04
+20640=Ak plánujete sahova len cez program Internet Explorer, nepotrebujete túto funkciu a odpovedzte \"Nie\".
+
+//v4.06
+20641=Pripojenie k
+20642=Oblas:
+1534=Uloi toto heslo do zoznamu hesiel IDM
+1536=Zadajte meno uívate¾a a heslo.
+1537=Meno uívate¾a.:
+1538=Heslo:
+
+//v4.07
+
+280=Sahovanie v dávkach
+1553=Do frontu môete prida skupinu postupnıch názvov súborov, napríklad img001.jpg, img002.jpg, img003.jpg atï. V šablóne názvu súboru pouite zástupnı znak hviezdièku *. \nNapríklad: http://www.internetdownloadmanager.com/pictures/img*.jpg
+1540=èíslom
+1541=písmenom
+1556=Od:
+1557=Do:
+1547=Ve¾kos znaku
+1555=Nahradi hviezdièku èím
+1558=Prvı súbor:
+1559=Druhı súbor:
+1560=Poslednı súbor:
+
+20643=Oznaèi všetky vybrané súbory
+20644=Odznaèi všetky vybrané súbory
+
+1552=Nahradi názvy súborov zást. znakom * v šablóne názvu súboru:
+
+34024=Prida sahovanie v dávkach
+
+20645=Pri vytváraní zoznamu sahovania chıba v adrese zástupnı znak * !
+20646=Sahovanie v dávkach 
+20647=Príliš ve¾a súborov. Poèet súborov nesmie presiahnu 1000. Vyberte inı rozsah \"od: do:\".
+20648=Uloi do prieèinka alebo kategórie
+
+//v5.00 beta
+
+20574=Grabber
+20649=Zadajte stránku odhlásenia alebo zrušte príslušné oznaèenie
+
+20554=Všetky súbory
+20555=Obrázkové súbory
+20556=Video súbory
+20557=Audio súbory
+20558=Spustite¾né súbory
+20559=Komprimované súbory
+20560=Dokumenty PDF
+
+20561=Nepouíva filter vyòatia
+
+20562=Mapa stránky
+20563=Nastavenie
+
+20564=Názov filtra
+20565=Maska
+20566=Vyplòte názov filtra
+20567=Vyplòte masku
+20568=Filter s názvom \"%s\" u existuje. Vyberte inı názov.
+
+20650=Èakajte prosím...
+20651=Odstraòovanie doèasnıch súborov
+20652=Uloenie projektu Grabbera
+20653=Odstránenie projektu Grabbera
+20654=Pouitie zmien
+20655=Naèítanie projektu Grabbera
+20661=Kontrola zmien
+20662=Ruèné sahovanie prihlasovacej stránky
+
+20656=Nedostatok miesta na jednotke %s pre projekt Grabbera. Uvo¾nite nejaké miesto a skúste znova.
+20657=Nedostatok miesta na jednotke %s pre otvorenie projektu Grabbera. Uvo¾nite nejaké miesto a skúste znova.
+20658=Projekt nie je moné otvori. Niektoré súbory projektu boli poškodené alebo odstránené.
+
+20659=Kompletná úvodná stránka s obrázkami, štılmi a skriptami na úèely prezerania offline
+20660=Kompletná úvodná stránka
+
+20663=Nie je moné spusti ruèné sahovanie prihlasovacej stránky. Skontrolujte syntax adresy.
+
+33010=Spusti sahovanie stránky
+
+1563=Stlaèením tlaèidla Rozšírené povo¾te ruèné prihlásenie alebo zakáte odhlasovaciu stránku
+1561=Neotvára odhlasovaciu stránku:
+1564=Niektoré stránky majú odhlasovaciu stránku, ktorú Grabber neotvorí. Môete ako zástupnı znak poui " * " a urèi tak šablónu pre rôzne odhlasovacie stránky.
+1571=Skry duplicitné súbory nájdené na inıch miestach
+1565=Spracova JavaScript
+1567=Túto monos pouívajte opatrne. Aké je riziko?
+1573=Prezrie súbory vo vyrovnávacej pamäti IE pred ich stiahnutím
+1568=Pouite hviezdièku ako zástupnı znak šablóny. Na oddelenie poloiek pouite èiarky bez medzier. 
+
+//grabber dlg tree
+20664=Všetky súbory
+20665=Odkazy
+20671=Prieèinky
+20667=Iné stránky
+20668=Stránky
+
+20669=Filtre vyòatia
+20670=Filtre zahrnutia
+
+t34023=Zobrazi štatistiku Grabbera
+271=Štatistika IDM Grabber
+1574=Stav:
+1575=Spracované webstránky
+1576=Jednoduché
+1577=Rozšírené
+1578=Súbory
+1579=Celkom
+1580=Preskúmané
+1581=Nájdené
+1582=Stiahnuté
+
+//v5.00 build 3
+20672=Zobrazenie miniatúr
+20673=iadne stiahnuté súbory
+
+20674=Nenájdené
+20675=Zakázané
+20676=Chyba
+
+//v5.01
+284=Plánova projekt Grabbera
+1583=Jednorazové preskúmanie alebo sahovanie
+1584=Periodická synchronizácia
+1585=Len preskúma
+1586=Preskúma a stiahnu nájdené súbory
+1587=Stiahnu oznaèené súbory
+1588=Krok 3. Naplánovanie
+1601=Krok 2. Vybra akciu
+1600=Krok 1. Vybra typ
+1593=Projekt:
+1590=Otvori po dokonèení tento súbor:
+1595=Spusti znova kadıch
+1597=hod.
+1598=min.
+1599=Denne
+1602=Poznámka: IDM musí by spustenı v systémovej lište, aby v urèenom èase spustil naplánovanı projekt.
+20677=Ak chcete poui plánovaè projektu, musíte najprv projekt uloi. Uloi projekt teraz?
+20678=Internet Download Manager dokonèil spracovanie projektu Grabbera. Pod¾a nastavenia plánovaèa projektu sa poèítaè vypína.
+t33010=Spusti sahovanie stránky
+t34021=Naplánova projekt
+t34025=Aktual. všetko
+20679=Naplánovanı projekt Grabbera nie je moné spusti o %d:%02d, pretoe bol spustenı projekt.
+20680=Naplánovanı projekt Grabbera nie je moné spusti o %d:%02d, pretoe nastavenie projektu bolo upravené.
+20681=JavaScript nebude spracovanı na webstránkach, ktoré u boli preskúmané alebo spracované. Ak chcete spracova JavaScript na tıchto stránkach, je potrebné stlaèi tlaèidlo panela nástrojov \"Aktual. všetko\" v dialógovom okne Akcia Grabbera.
+20682=Tlaèidlo aktualizácie aktualizuje projekt: (a) spustí preskúmanie stránky od zaèiatoènej stránky, (b) aktualizuje súbory, ak boli zmenené na serveri a (c) stiahne nové súbory.
+20683=Tlaèidlo aktualizácie aktualizuje projekt: (a) spustí preskúmanie stránky od zaèiatoènej stránky, (b) aktualizuje stiahnuté a oznaèené súbory, ak boli na serveri zmenené.
+20684=Všimnite si, e staré súbory nebudú odstránené. Grabber preskúma znova všetky stránky a to môe chví¾u trva.\r\n\r\nNaozaj chcete aktualizova tento projekt?
+
+//version 5.02
+20685=Premenova projekt
+20686=Minimalizova do syst. lišty
+20688=Obnovi všetky okná sahovania
+20689=Toto dialógové okno môete povoli v èasti \"Monosti > Stiahnutie\"
+20690=Nastavenie programu IDM
+20691=Stiahnuté %s (%I64d Bytov)
+20692=Súbor nebol úplne stiahnutı, pretoe ve¾kos súboru je neznáma.
+20693=Pamäta si cestu pre kategóriu \"%s\"
+20694=Stiahnutie dokonèené
+1610=Adresa
+1611=Súbor uloenı ako
+1606=Otvori prieèinok
+1607=Toto dialógové okno nabudúce nezobrazova
+t1608=Preh¾adáva
+20695=Stiahnutie IDM
+1615=Ignorova pri pokraèovaní zmeny èasu súboru
+1613=Podrobnosti
+20696=IDM kontroluje nové vydanie kadé 2 tıdne na aktualizaènej stránke. Ak váš firewall blokuje poiadavku na aktualizáciu IDM a zobrazuje príslušné upozornenie, musíte si uvedomi, e poiadavka je OK a mono ju bezpeène povoli.
+1617=Adresa
+1619=Adresa:
+1618=Môete poui hviezdièku ako zástupnı znak
+
+//Please note that the old menu item string changed from m32771=URL to m32771=Tasks
+//also strings 32771 and 148 have been changed
+
+//v 5.02 Build 2
+1621=Oznámenie o aktualizácii
+290=Oznámenie o aktualizácii IDM
+20697=iadne minimalizované sahovanie
+
+// v 5.02 Build 3
+1622=Poznámka: Tieto nastavenia sa nevzahujú na spracovanie frontu.
+
+// v 5.02 Build 6
+20698=Preh¾adáva
+
+// v 5.02 Build 10
+20586=Moné príèiny tejto chyby:\r\n\r\n 1. Neexistuje pripojenie na internet. Skontrolujte pripojenie.\r\n\r\n 2. V poèítaèi máte firewall a nainštalovali ste, nahradili alebo aktualizovali verziu programu Internet Download Manager. Skontrolujte nastavenie firewallu a uistite sa, e má program IDM povolenı prístup na internet.\r\n\r\n 3. Sluba, ktorá na internete vyh¾adáva servery (nazıvaná Domain Name Service, DNS) má doèasné problémy, alebo bolo prerušené sieové pripojenie medzi DNS a poèítaèom. Je moné, e bude potrebné reštartova poèítaè.\r\n
+1570=Odkaz. stránka:
+
+// v 5.02 Build 12
+20587=Pri pokuse o pokraèovanie sahovania dostal Internet Download Manager odozvu zo servera, e nepodporuje pokraèovanie sahovania. \r\nMono je to doèasná chyba servera a pokraèovanie bude moné neskôr, ale teraz môe program IDM stiahnu tento súbor od zaèiatku. \r\n\r\n Chcete stiahnu tento súbor od zaèiatku?
+
+// v 5.03
+20699=Typy súborov, ktoré sa nenachádzajú v iadnej inej kategórii
+20700=Stlaèili ste tlaèidlo "Stiahnu neskôr", ale IDM u stiahol èas súboru. IDM vdy spúša stiahnutie poèas zobrazenia dialógového okna "Informácie o stiahnutí súboru". Túto vo¾bu môete zakáza v dialógovom okne "Monosti > Stiahnutie".
+20701=Stiahnu neskôr
+20702=Na ukladanie èastí súboru poèas sahovania je potrebnı doèasnı prieèinok.\n Ak máte v poèítaèi nieko¾ko diskov, mali by ste kvôli rıchlejšiemu spojeniu sahovanıch súborov vybra pre doèasnı prieèinok a prieèinky "Uloi do" inı disk.
+20703=Automaticky vloi do kategórie \"%s\" nasledujúce typy súborov:
+20704=Uloi do
+20705=Kategórie, typy súborov, prieèinky
+1623=Spusti sahovanie ihneï pri zobrazení dialógového okna "Informácie o sahovaní súboru"
+
+292=Reštart poèítaèa
+1627=Zastavi
+20706=Poèet sekúnd do reštartu: %d
+20707=Reštartova teraz
+
+// v 5.04
+//Options->File Types and Options->General changes (for basic integration)
+20708=Typy súborov
+20709=Typy sahovanıch súborov
+20711=Poznámka. Prehliadaèe typu Opera a STARÁ Mozilla mono integrova do programu IDM pomocou zásuvnıch modulov. Tento typ integrácie nepodporuje zoznam vınimiek serverov, z ktorıch sa nemá pomocou programu IDM sahova. Vdy, keï zmeníte typy súborov, je potrebné prehliadaè reštartova, aby sa zásuvné moduly znovu naèítali.\n Tieto obmedzenia sa netıkajú prípadu, ak je povolená \"Rozšírená integrácia do prehliadaèov\" na karte \"Všeobecné\".
+1632=Podrobnosti
+1633=Prida prehliadaè...
+1634=Znovu integrova všetko
+20710=Poznámka: Prehliadaèe Opera a STARÁ Mozilla mono integrova do programu IDM zásuvnımi modulmi. Táto integrácie nepodporuje špeciálne klávesy, ktoré majú zabráni sahovaniu pomocou programu IDM.\n Ak chcete obmedzi sahovanie stlaèením špeciálnych klávesov, je potrebné poui funkciu \"Rozšírená integrácia do prehliadaèov\".
+
+//MessageBoxes
+20713=Integrácia IDM do prehliadaèov
+20712=Program IDM nemôe nájs v poèítaèi prehliadaè %s. V nasledujúcom dialógovom okne upresnite umiestnenie spustite¾ného súboru prehliadaèa.
+20714=Integrácia do prehliadaèov pomocou zásuvnıch modulov sa nepodarila!
+20715=Zásuvné moduly pre prehliadaè %s boli nainštalované.
+20716=Zásuvné moduly pre prehliadaè %s %s boli nainštalované.
+20717=Zásuvné moduly prehliadaèa %s boli odstránené.
+20718=Reštartujte prehliadaè, aby sa zmeny pouili.
+20719=V nasledujúcom dialógovom okne upresnite umiestnenie spustite¾ného súboru prehliadaèa.
+20720=Nie je moné nainštalova rozšírenie idmmzcc.xpi do prehliadaèa Mozilla Firefox!
+20721=Program IDM sa úspešne integroval do programu Mozilla Firefox 1.5 a novšieho.\n Je potrebné reštartova prehliadaè Firefox, aby zmeny boli zavedené.
+20722=Program IDM zistil, e prehliadaè %s %s je v poèítaèi predvolenı.\n Chcete ho integrova s programom IDM?
+20723=Nie je moné nainštalova rozšírenie idmmzcc.xpi!
+20724=Prehliadaè %s %s bude teraz otvorenı, aby sa nainštalovalo rozšírenie na integráciu s programom IDM.\n Potvrïte v príslušnom dialógovom okne inštaláciu rozšírenia idmmzcc.xpi od spoloènosti Tonec Inc. a po inštalácii reštartujte prehliadaè.
+20725=Nie je moné nainštalova zásuvné moduly pre prehliadaè %s %s!
+20726=Program IDM sa úspešne integroval do programu Internet Explorer.\n Je potrebné reštartova program IE, aby zmeny boli zavedené.
+20727=Program IDM zistil, e v poèítaèi je nainštalovanı aj prehliadaè %s %s.\n Chcete ho integrova s programom IDM?
+20728=Vybrané prehliadaèe budú teraz otvorené, aby sa nainštalovalo rozšírenie na integráciu s programom IDM.\n Potvrïte v príslušnom dialógovom okne inštaláciu rozšírenia idmmzcc.xpi od spoloènosti Tonec Inc. a po inštalácii reštartujte prehliadaè.
+20729=Zásuvné moduly pre vybrané prehliadaèe boli nainštalované.\n Reštartujte prehliadaèe, aby zmeny boli zavedené.
+20730=Program IDM u bol integrovanı do programu Internet Explorer!
+20731=Program IDM nemôe nájs tento prehliadaè v databáze základnej integrácie. Skúste poui rozšírenú integráciu do prehliadaèov.
+20732=Nie je moné nainštalova zásuvné moduly pre prehliadaèe s príslušnım typom integrácie!
+
+//new dialogs
+296=Integrácia do prehliadaèov
+1635=Program IDM zistil v poèítaèi ïalšie nasledujúce prehliadaèe. Vyberte prehliadaèe, ktoré chcete integrova s programom IDM.
+297=Podrobnosti o prehliadaèi
+1636=Prida verziu...
+20733=Prehliadaè
+20734=Typ integrácie
+20735=Cesta
+20736=Rozšírenie
+20737=Zásuvné moduly
+
+//new menu item on main dlg popup menu and new button on Download complete dlg
+20738=Otvori èím...
+1639=Otvori èím...
+
+//
+20739=Nájs prehliadaè
+
+// v 5.05
+20740=Program IDM práve sahuje súbor!
+20741=Duplikova prepojenie na stiahnutie
+298=Duplikova prepojenie na stiahnutie
+20742=Zobrazi dialógové okno a opıta sa na akciu
+20743=Prida duplikát s èíslovanım názvom súboru
+20744=Prida duplikát a prepísa existujúci súbor
+20745=Ak je exist. súbor stiahnutı,zobrazi okno dokonèenia sahovania, inak pokraèova
+1641=Tento súbor u v zozname súborov na stiahnutie existuje. Vyberte jednu z nasledujúcich moností, alebo stlaèením tlaèidla Zruši preskoèíte stiahnutie tohto súboru.
+1645=Zapamäta si vo¾bu a nabudúce tento dialóg nezobrazova\r\n Neskôr ju mono zmeni v ponuke Monosti > Stiahnutie.
+1646=Ak je pridané duplicitné prepojenie na stiahnutie:
+
+20746=Internet Explorer, MSN Explorer a ostatné prehliadaèe zaloené na IE
+20747=Netscape 8.0 a novší
+20748=Netscape 7.xx a 6.xx
+
+// v 5.05 build 2
+20749=Tento súbor je moné uchopi a presunú
+//Dear translators, if you added "CompleteDlg.htm" topic to your help file, or you did not translate the help file and use the English version, please add and translate the phrase "Press F1 to read more" at the next line.
+20750=Uchopením tejto ikony zaènete presúva stiahnutı súbor.\r\nÏalšie informácie po stlaèení tlaèidla F1.
+//or 20750=Drag this icon to start the drag and drop operation for the downloaded file.\r\nPress F1 to read more.
+20751=Uchopi a presunú stiahnutı súbor
+
+// v 5.07
+1647=Pokraèova
+20754=Na uloenie súborov vo vybranom umiestnení sú potrebné povolenia práv administrátora.
+20755=Na vykonanie operácie sú potrebné povolenia práv administrátora.
+
+// v 5.07 build 2
+20756=Inštalaènı program IDM musí reštartova poèítaè, aby boli zavedené nové súbory. Stlaèením tlaèidla OK reštartujete poèítaè.
+20757=Potvrdenie reštartu
+20758=Internet Download Manager bol úspešne nainštalovanı. Spustí sa automaticky a zachytí v prehliadaèi kadé stiahnutie súboru.
+20759=Môete ho spusti aj z ponuky Štart > Všetky programy > Internet Download Manager.
+
+// v 5.07 build 6
+//new checkbox on Options->General
+1650=Sledova kliknutia v prehliadaèoch zaloenıch na IE (MSN, Avant atï.)
+
+// v 5.07 build 7
+20760=IDM zistil, e vašim predvolenım prehliadaèom je %s.\nVo všeobecnosti staèí v tejto verzii programu IDM poui základnú integráciu prehliadaèa, ktorá sa postará o zachytenie stiahnutia súborov vo všetkıch základnıch prehliadaèoch. Mód Rozšírená integrácia bol revidovanı a môe spôsobi nové konflikty s inımi internetovımi aplikáciami. Ak nepouívate na zachytenie stiahnutia súborov v inıch internetovıch aplikáciách Rozšírenú integráciu, odporúèame vypnú monos Poui rozšírenú integráciu do prehliadaèov v dialógovom okne na karte Monosti > Všeobecné.
+
+//v 5.08 build 5
+//new dialogs
+302=Zrušenie automaticky spusteného sahovania
+1651=Toto sahovanie bolo dvakrát zrušené.\n\nAk program IDM zachytil toto sahovanie omylom, môete prida túto adresu alebo stránku do zoznamu vınimiek programu IDM:
+1652=Nespúša automaticky sahovanie z tejto stránky:
+1653=Nespúša automaticky sahovanie z tejto adresy:
+1655=Môete aj upravi zoznamy vınimek v dialógovom okne moností na karte Monosti > Typy súborov.
+1654=Toto dialógové okno nabudúce nezobrazova
+
+303=Zoznam vınimiek adries
+1661=Nespúša automaticky sahovanie z nasledujúcich adries:
+1659=Zobrazi pri dvakrát zrušenom sahovaní toto dialógové okno na pridanie adresy do zoznamu vınimiek
+
+304=Prida adresu do zoznamu vınimiek
+
+//changes in "Options->File Types" dialog:
+1656=Upravi zoznam...
+//label 1372 was divided into 2 parts
+1667=Nespúša automaticky sahovanie z nasledujúcich stránok:
+1662=(názvy odde¾te medzerami)
+
+//v 5.08 build 7
+20763=Poadovanı súbor vyzerá ako webová stránka HTML.\r\n\r\n Server odoslal na druhú poiadavku stránku HTML. Niektoré servery nedovo¾ujú poadova rovnakı súbor dvakrát. Pretoe je vypnutá monos Spusti sahovanie ihneï pri zobrazení dialógového okna "Informácie o sahovaní súboru", program IDM odosiela prvú poiadavku na typ a ve¾kos súboru a druhú poiadavku po stlaèení tlaèidla Spusti sahovanie. \r\n\r\n Skúste zapnú monos Spusti sahovanie ihneï pri zobrazení dialógového okna "Informácie o sahovaní súboru" na karte Monosti> Stiahnutie, obnovte stránku v prehliadaèi a skúste stiahnu súbor znova.
+
+//v 5.09 build 4
+305=IDM nemôe zachyti sahovanie
+20764=Niektoré stránky nedovo¾ujú poiada o jeden súbor dvakrát.\r\n\r\n Prehliadaè pošle prvú poiadavku na súbor %s a potom, keï sa program IDM pokúsi poiada o súbor znova, server odošle programu IDM namiesto poadovaného súboru webovú stránku.\r\n\r\n Ak chcete zachyti toto stiahnutie, môete nastavi špeciálny kláves z ponuky Monosti > na karte Všeobecné >tlaèidlo Klávesy. Stlaète a podrte tento kláves poèas kliknutia na prepojenie (tlaèidlo na stiahnutie), tımto sa program IDM pokúsi zachyti stiahnutie pred prvou poiadavkou prehliadaèa. Vo väèšine prehliadaèov by mal fungova kláves Insert.
+
+//v 5.11
+//new scheduler dialog
+308=Plánovaè
+1675=Novı front
+1678=Odstráni
+1684=Fronty
+20783=Fronty
+306=Plánova
+1680=Poèet opakovaní pre kadı súbor, ak sahovanie zlyhá:
+307=Súbory vo fronte
+1687=Limity sahovania
+20765=Limity sahovania
+20767=Front # %ld
+20768=Hlavnı front sahovania
+20769=Front synchronizácie
+
+20770=Vytvori novı front
+20771=Presunú do frontu
+20772=Prida do frontu
+20773=Spusti
+20774=Zastavi
+20775=Upravi front
+20776=Plánova
+20777=Naozaj chcete odstráni %s?
+20778=Spusti %s
+20779=Zastavi %s
+20780=Fronty IDM
+20781=Obrázky v ståpci \"Q\" ukazujú, ktoré súbory patria do frontu.\r\nSúbory mono presúva z jedného frontu do druhého pomocou kontextovej ponuky.\r\nÏalšie informácie o frontoch nájdete v súbore Nápoveda pre Plánovaè.
+20782=Chcete stiahnu a nainštalova súbor Nápovedy \"Plánovaè a fronty IDM \" (asi 100 kB) z domovskej stránky IDM?
+1685=Je naplánovanı èas zaèiatku spracovania frontu.\r\nAk sa má front spusti v urèenom èase, musí by IDM v tej chvíli spustenı aspoò v oznamovacej oblasti (pozrite obrázok ïalej).
+310=Zadajte názov frontu
+1686=Zadajte názov nového frontu, ktorı sa zobrazí v zozname frontov
+
+//menu items
+m34026=Spusti front
+m34028=Zastavi front
+34029=Plánovaè a fronty
+//tooltips for "Start queue" and "Stop queue" toolbar buttons.
+t34030=Spusti hlavnı front sahovania alebo vybra z rozbaleného zoznamu front, ktorı má by spustenı
+t34031=Zastavi hlavnı front sahovania alebo vybra z rozbaleného zoznamu front, ktorı má by zastavenı
+
+//v 5.11 build 3
+1679=Jednorazové stiahnutie
+
+//v 5.11 build 5
+20786=Prenos údajov bol prerušenı a server nepodporuje funkciu pokraèovania. Súbor mono stiahnu len znova od zaèiatku.\r\n\r\nProblém mono rieši nieko¾kımi spôsobmi:\r\n 1. Server má mono doèasné problémy. Skúste pokraèova v sahovaní tohto súboru neskôr.\r\n 2. Môete necha tento súbor samotnı vo fronte (vytvorte novı front) a spustite front. V tomto prípade sa bude program IDM pokúša stiahnu súbor od zaèiatku, kım nebude stiahnutie súboru úspešné.\r\nAk chcete dosiahnu najlepšie vısledky, mali by ste aj nastavi 1 pripojenie k tejto stránke v zozname vınimiek, v ponuke Monosti na karte Pripojenie.\r\n
+20784=Rozšírenie IDM CC pre prehliadaèe zaloené na Mozille bolo v tejto verzii programu IDM zmenené. Ak chcete pouíva nové funkcie, je potrebné rozšírenie preinštalova. Chcete preinštalova rozšírenie pre prehliadaè %s %s?
+20785=Rozšírenie IDM CC pre prehliadaèe zaloené na Mozille bolo v tejto verzii programu IDM zmenené. Ak chcete pouíva nové funkcie, je potrebné rozšírenie preinštalova. Chcete nainštalova nové rozšírenie IDM CC do prehliadaèov, ktoré majú staré rozšírenie IDM CC?
+
+//v 5.11 build 7
+//Items in context menu of browsers:
+20810=Stiahnu s IDM
+20811=Stiahnu video FLV s IDM
+20812=Stiahnu  naposledy vyiadané video FLV
+20813=Vyberte spomedzi 10 naposledy vyiadanıch videí FLV
+20814=Stiahnu naposledy vyiadané video FLV s IDM
+20815=Stiahnu s IDM videá FLV spomedzi 10 naposledy vyiadanıch
+20816=Stiahnu s IDM všetky prepojenia
+20817=Stiahnu obsah FLV s IDM
+
+20790=Uloenie videa FLV
+20791=Ob¾úbené videá FLV mono uloi pomocou poloky Stiahnu obsah FLV s IDM v kontextovej ponuke prehliadaèa.\r\n\r\nKontextová ponuka prehliadaèa sa zobrazí po kliknutí pravım tlaèidlom myši na webovú stránku (nie na prehrávaè FLV) v prehliadaèi alebo pomocou klávesu kontextovej ponuky na klávesnici.
+20792=Na tejto webovej stránke nemono nájs iadne prepojenia na video FLV.\r\nJe moné, e prehliadaè si zatia¾ videosúbor nevyiadal. Je potrebné poèka na poiadavku prehliadaèa a skúsi to znova. Niekedy je skrátka potrebné stlaèi vo webovom prehrávaèi tlaèidlo Prehra.
+20793=Stiahnu s IDM
+20794=Stiahnu  všetko s IDM
+20795=Nemono nájs prepojenia!\r\nAk stránka neobsahuje prepojenia, obnovte ju a skúste to znova. Ak problém pretrváva, obráte sa na tím podpory programu IDM.
+20796=Nemono nájs iadne prepojenia na video FLV!
+20797=Nemono získa internetové prepojenia na video vyiadané Prieskumníkom!\r\nV Internet Exploreri ste zakázali IDM Browser Helper Object (alebo to urobil nejakı spyware). Pouite v Internet Exploreri ponuku Nástroje > Spravova doplnky > Zapnú alebo vypnú doplnky. Vyh¾adajte doplnok IDMIEHlprObj Class a povo¾te ho.
+20798=Nemono sa pripoji k rozhraniu programu IDM, ktoré monitoruje internetové prepojenia na video vyiadané Prieskumníkom.\r\nMoné príèiny:\r\n – Po aktualizácii programu IDM na najnovšiu verzie nebol poèítaè reštartovanı. Reštartujte poèítaè a skúste to znova.\r\n – Program IDM nebol správne nainštalovanı. Skúste stiahnu z domovskej stránky najnovšiu verziu programu IDM a skúste to znova.
+
+//new feature in "Options->General" dialog:
+1688=Upravi...
+1689=Prispôsobi poloky IDM kontextovej ponuky prehliadaèov
+334=Internet Explorer a na IE zaloené
+335=Firefox a ostatné zaloené na Mozille
+1696=Vybrané poloky kontextovej ponuky sa objavia v prehliadaèi:
+20818=Zmeny sa prejavia po reštartovaní Internet Explorera
+20819=Zmena kontextovej ponuky IE
+
+//v 5.11 b8
+20820=Skonèi teraz
+20821=Zavrie IDM
+20822=Internet Download Manager dokonèil spracovanie frontu. Pod¾a nastavenia plánovaèa má by program IDM ukonèenı. Prebieha však iné sahovanie súborov, ktoré bude po ukonèení zastavené. Stlaèením tlaèidla Zruši nebude program ukonèenı.
+
+//v 5.11 build 9
+20823=Podobné sahovanie bolo zrušené.\n\nAk program IDM vdy zachytáva takéto sahovanie omylom, môete prida túto stránku alebo šablónu pre podobné adresy do zoznamu vınimiek programu IDM:
+20824=Nezachytáva sahovania z podobnıch adries pomocou tejto šablóny:
+336=Hlásenie vıvojárom programu IDM
+1702=Môete odosla hlásenie o zachytávaní sahovania omylom vıvojárom programu IDM, aby mohla by v budúcich verziách urobená náprava.
+1698=Pridané do nasledujúcej vınimky:
+1700=Odkazujúca adresa, z ktorej bolo sahovanie zachytené omylom:
+1703=V šablóne adresy mono poui zástupnı znak hviezdièku (*).
+
+//v5.12
+20825=(Obmedzené)
+1707=Poui obmedzovaè rıchlosti
+337=Nastavenie obmedzovaèa rıchlosti
+1704=Pri spustení IDM vdy aktivova obmedzovaè rıchlosti
+1705=Zobrazi v okne priebehu sahovania monos \"Poui obmedzovaè rıchlosti\"
+1706=Zapamäta si vınimky okien priebehu sahovania a poui na ne obmedzovaè rıchlosti bez oh¾adu na to, èi je globálne aktivovanı
+1708=Maxim. rıchlos sahovania jedného súboru
+1709=kB/s.
+1710=Poznámka: Ak je rıchlos príliš obmedzovaná, niektoré servery môu preruši pripojenie! Neodporúèa sa preto pouíva obmedzovaè rıchlosti pri serveroch, ktoré nepodporujú pokraèovanie v sahovaní.
+1711=Nastavenie obmedzovaèa rıchlosti pre jednotlivé sahovania
+m34033=Obmedzovaè rıchlosti
+34033=Aktivova
+34034=Deaktivova
+34035=Nastavenie...
+
+//v5.12 build 5
+20831=Ak je video FLV na webovej stránke prehrávané prehliadaèom, je moné, e program IDM nemôe priradi toto prepojenie FLV k tejto webovej stránke. Je potrebné skúsi poloku \"Stiahnu s IDM videá FLV spomedzi 10 naposledy vyiadanıch\" kontextovej ponuky prehliadaèa.\r\n(Kontextovú ponuku prehliadaèa mono prispôsobi v èasti Monosti > karta Všeobecné.)
+20830=Poèas sahovania došlo k chybe CRC. To znamená, e ide o problém s pevnım diskom. Mali by ste skontrolova svoj pevnı disk pomocou funkcie Kontrola chıb, ktorú nájdete vo vlastnostiach disku na karte Nástroje.
+
+//5.12b7
+20832=Potrebujete povolenie administrátora na registráciu IDM pre všetkıch uívate¾ov na tomto poèítaèi
+
+//5.12b8
+20837=Potvrdi vymazanie sahovania
+20833=Vybrané sahovania nie sú dokonèené. Ste si istí, e ich chcete vymaza zo  zoznamu sahovania IDM?
+20834=Vybrané sahovanie nie je dokonèené. Ste si istí, e ho chcete vymaza zo  zoznamu sahovania IDM?
+20835=Medzi vybranımi sú aj nedokonèené sahovania. Ste si istí, e chcete vymaza aj tieto súbory zo  zoznamu sahovania IDM?
+20836=Ste si istí, e chcete vymaza všetky stiahnuté súbory zo  zoznamu sahovania IDM?
+1715=Ste si istí, e chcete vymaza vybrané stiahnuté súbory zo  zoznamu sahovania IDM?
+1713=Vymaza ihneï dokonèené stiahnuté súbory z vášho harddisku. Buïte opatrní !
+
+//v5.14
+20850=video
+20851=audio
+20852=Stiahnu  %s
+20853=Stiahnu  %s s IDM
+20854=O tomto panele
+20855=Zavrie
+20856=Sahovací panel IDM .\r\n Môete ho upravova pod¾a vášho priania alebo ho vypnú na karte  \"IDM->Monosti->Všeobecné\"
+20857=Sahovací panel IDM
+20858=Stiahnu %s z tejto stránky
+20859=Stiahnu %s z tejto stránky s IDM
+20860=Stiahnu všetko
+20861=%ld %s súborov
+20862=súbor
+
+//new on Options->General
+1724=Sahovací panel IDM z webovıch prehrávaèov v prehliadaèoch
+1727=IDM môe zobrazi sahovací panel nad webovım prehrávaèom v prehliadaèi, ak nájde poadované multimédiálne súbory webového prehrávaèa
+1728=Zobrazi panel:
+1717=Úplnı mód
+1718=Mini mód
+1726=Ukáza sahovací panel IDM pre nasledujúce typy súborov:
+20863=Poznámka: Ak nezatrhnete typ súboru na zozname hore a ak typ súboru je v zozname na karte \"Monosti- =>Typy súborov\", stiahnutie tohto typu súboru s IDM sa uskutoèní automaticky  a súbor nebude moné prehra na webovom prehrávaèi. Ak tomu chcete zabráni, skontrolujte oznaèenie v okienku dole:
+1720=Nezachytáva sahovania z webovıch prehrávaèov automaticky
+
+//on Scheduler dlg
+1729=Zaèa so sahovaním po spustení IDM
+
+20864=Integráciu IDM do tohto prehliadaèa môete povoli funkciou v dialógu \"Poui rozšírenú integráciu do prehliadaèov\" 
+1731=Upozornenie: Spustili ste program IDM ako administrátor. \r\n IDM nebude schopnı zachyti sahovania z prehliadaèov v tomto reime.
+20865=Firefox nemôe presunú stiahnutie súboru do Internet Download Managera, pretoe nemáte v dialógovom okne Vlastnosti \"Spusti tento program ako administrátor\" povolené spusti súbor IDMan.exe. \r\n\r\nOtvorte prosím prieèinok IDM, pravı klik na \"IDMan.exe\", vybra z kontexovej ponuky poloku \"Vlastnosti \", na karte \"Kompatibilita\" a zatrhnú monos \"Spusti tento program ako administrátor\".
+
+//v5.16
+20867=Nemono obnovi sahovanie súboru:
+20868=IDM èaká na novú adresu k obnove súboru:
+20869=Je moné, e adresa súboru u nie je platná alebo spojenie bolo úkonèené.
+20870=Je toto nová adresa pre vaše ukonèené stiahnutie?
+20872=Obnovi adresu sahovania
+20873=IDM èaká na novú adresu pre ïalšie skonèené sahovanie. Touto funkciou mono poui súèasne len jedno skonèené sahovanie.
+20874=IDM chce otvori webstránku vo vašom prehliadaèi, z ktorej bolo toto stiahnutie zachytené. Spustite prosím sahovanie toho istého súboru z vášho prehliadaèa znova a IDM sa pokúsi zachyti novú adresu alebo novú sekciu dát v pokraèovaní tohoto sahovania.
+20871=Èaka na nové dáta
+1732=Ukonèi èakanie
+20875=Nová spojovacia adresa pre tento súbor bola úspešne prijatá.
+20876=Spustite prosím sahovanie toho istého súboru z vášho prehliadaèa ruène  a IDM sa pokúsi zachyti novú adresu alebo novú sekciu dát v pokraèovaní tohoto sahovania.
+20877=Pokúšajte sa obnovi sekciu sahovania a získa znova adresu pouitím hlavného dialógového okna pravım klikom do zoznamu sahovania v IDM na súbor vıberom poloky \"Opakované sahovanie\" zo súborovej ponuky. \r\nInak skúste vymaza toto stiahnutie, potom ho spustite znova od zaèiatku z vášho prehliadaèa sahova s IDM.
+20878=Vlastník webstránky obnovil spojovaciu adresu sahovania
+20879=Server odolal webstránku ako html namiesto súboru, keï IDM poiadal o tento súbor druhıkrát. Pravdepodobne táto stránka pouila doèasné prepojenie a neumonila poiada o tú istú adresu dvakrát.\r\n\r\nSkúste vymaza toto stiahnutie, potom ho zaènite znova sahova z vášho prehliadaèa a keï ho IDM zachytí, stiahnite ho bez prerušenia/pauzy.
+1741=Webstránka, z ktorej bol tento súbor získanı:
+20880=Overovanie adresy: %s
+20881=Nemáte oznaèené iadne súbory na sahovanie!\r\nAk chcete hocièo sahova, prosím zavrite dialóg \"%s\" pouitím tlaèidla \"Zruši \".
+20882=Pridané súbory stiahnu s IDM
+1739=Ukáza panel stojacich vo fronte na stiahnutie "Stiahnu neskôr"
+1738=Ukáza panel vıberu súborov stojacich vo fronte pridanıch na stiahnutie
+1735=Prida súbory do frontu:
+20884=Neprida k iadnemu frontu
+1736=Spusti spracovanie stojacich vo fronte
+1737=Nepıta sa ma znova
+20883=Tento panel môete zapnú  na karte \"Monosti- > Stiahnutie\"
+
+//v5.17b4
+34036=Prida dávku sahovania zo &schránky
+20885=V schránke sa našlo nieko¾ko adries. Chcete ich stiahnu?
+20886=Dávka sahovania zo schránky
+20887=V schránke sa nenašla iadna webová adresa!
+
+//v5.18b3
+m34037=Ikona IDM v oznamovacej oblasti
+34037=Štıl 3D
+34038=Klasickı štıl
+34039=Neukazova
+
+//v5.18b5
+20889=Vaša licencia na Internet Download Manager vypršala.\r\nIDM prestane pracova. Zaobstarajte si prosím novú licenciu na pouívanie IDM.
+20890=Upozornenie:\r\nVaša licencia na IDM vyprší za %ld dní.\r\n\r\nVšimnite si prosím, e v ponuke poloka \"Registrácia- >Registrácia\" je momentále deaktivovaná,\r\nale bude aktivovaná, akonáhle vaša licencia vyprší.
+
+20891=Nemáte nastavenı v plánovaèi iadny deò tıdòa, kedy by malo zaèa sahovanie!
+20892=Spúša denne
+
+20893=Nechali ste vo¾né miesto pred menom uívate¾a. Ak bolo toto miesto vytvorené omylom, chcete ho vymaza?
+20894=Nechali ste vo¾né miesto za menom uívate¾a. Ak bolo toto miesto vytvorené omylom, chcete ho vymaza?
+20895=Nechali ste vo¾né miesto pred vloenım heslom. Ak bolo toto miesto vytvorené omylom, chcete ho vymaza?
+20896=Do riadku ste vloili heslo. Ak bolo vloené omylom, chcete ho vymaza?
+
+//5.19
+1748=Nastavenie sahovacieho panela IDM v prehliadaèoch 
+20899=Pre webové prehrávaèe
+20900=Pre vybrané súbory
+1749=IDM môe ukáza sahovací panel na webstránke, ak vyberiete text, ktorı obsahuje adresy sahovania.
+20901=(Aktuálne táto funkcia spolupracuje s Internet Explorerom, prehliadaèmi zaloenımi na báze IE, Firefoxu a Mozilly.)
+20903=Stiahnu vybranı súbor(y) s IDM
+1744=Ukáza sahovací panel pre hocijaké vybrané adresy
+1745=Neukáza sahovací panel pre hocijaké vybrané adresy
+1746=Ukáza sahovací panel pre vybrané adresy spojenia len pre nasledujúce stránky:
+1751=Zachyti sahovania z nasledujúcich prehliadaèov:
+1742=Oznaèi všetky
+1743=Odznaèi všetky
+
+//5.19b3
+20904=IDM nemôe nájs inštalované/odinštalované súèasti pokroèilej integrácie do prehliadaèa. Preinštalujte prosím IDM.
+20911=IDM môe stiahnu webstránku namiesto súboru.
+20909=Chcete vedie, ako sahova súbory z rapidshare s IDM?
+20910=Chcete vedie, ako sahova zo stránok zdie¾ané súbory s IDM?
+20905=Nemono presunú sahovanie do IDM
+20906=Je moné, e váš prehliadaè a IDM sa chcú spusti s odlišnımi právami (odlišná  úroveò nastavenia).\r\n\r\nAk pouijete spustenie vıberom poloky z ponuky IDM \"Spusti ako administrátor\", ukonèite prosím IDM, (vyberte v hlavnom dialógovom okne IDM z ponuky poloku \"Úlohy- >Ukonèi \" a spustite normálne IDM znova.\r\n\r\nMono nemáte v dialógovom okne Vlastnosti \"Spusti tento program ako administrátor\" povolené spusti súbor IDMan.exe. Otvorte prosím inštalaènı prieèinok s IDM, pravı klik na \"IDMan.exe\", z kontextovej ponuky vyberte  poloku \"Vlastnosti \" a na karte \"Kompatibilita\" zatrhnite monos \"Spusti tento program ako administrátor\". Okrem toho potrebujete odstráni kompatibilitu s predchádzajúcimi verziami Windows,ak tam bola aktivovaná.  Potom prosím reštartujte IDM.
+20907=Ak okienka pri monostiach \"Spusti tento program ako administrátor\" alebo na karte \"Kompatibilita s predchádzajúcimi verziami Windows\" nie sú pre IDM zatrhnuté, nezatrhnite ich prosím ani v okne Vlastnosti vášho  prehliadaèa.
+
+//v6.0b
+20897=video %dx%d, doba %d:%02d
+20912=Doba
+20913=Nezabudnite prosím, ak na vašom poèítaèi pracuje viacero uívate¾ov, rozšírená integrácia do prehliadaèov bude vypnutá u všetkıch !
+20914=Po integrácii Internet Download Managera do novej aplikácie môete zruši zatrhnutie u monosti \"Poui rozšírenú integráciu do prehliadaèov\" pre lepší vıkon.
+20915=Toto je BETA verzia Internet Download Managera.\r\nBude nainštalovanı novı sieovı ovládaè, ktorı podstatne zlepší integráciu s webovımi prehrávaèmi a zmení starú integráciu s viacerımi prehliadaèmi, ako Chrome alebo Opera. Ak sa po pripojení k internetu stretnete s nejakımi problémami, napríklad zamrznutie systému, zlyhanie poèítaèa atï., prosím otvorte Monosti IDM  na karte Všeobecné a  presvedète sa, èi je v okienku monosti \"Poui rozšírenú integráciu do prehliadaèov\" táto vypnutá. Tımto novı ovládaè bude odpojenı.
+//v6.03b2
+20919=IDM zistil, e vo vašom PC sa nenachádza prehrávaè, ktorı dokáe prehra  %s videá. Musíte si nainštalova nejakı %s prehrávaè.\r\n\r\nChcete si preèíta nieèo o %s prehrávaèi?
+20920=%s video bolo stiahnuté
+
+//
+//Dear translators, please note that we have changed several old strings:
+//
+t1278=Skry kategórie
+t32789=Prida novú adresu sahovania ruène
+t1004=Prida súbor do zoznamuI DM na stiahnutie neskôr
+t1061=Systém monitorovania schránky pre adresy sahovania s IDM
+187=IDM nenašiel cie¾. Vlote ruène webadresu sahovania sem.
+20176=Poadovanı súbor vyzerá ako html webstránka.\r\n\r\nAk toto stiahnutie bolo prevzaté prehliadaèom automaticky, keï ste klikli na spojenie, pred  kliknutím na spojenie skúste podra kláves Alt, IE nechá otvori stránku.\r\n\r\nChcete pokraèova v sahovaní súboru s IDM a uloi ho ako html stránku?
+20177=Stiahnutı súbor vyzerá ako html webstránka.\r\n\r\nAk toto stiahnutie bolo prevzaté vašim prehliadaèom automaticky, keï ste klikli na spojenie, pred  kliknutím na spojenie skúste podra kláves Alt, IE nechá otvori stránku.\r\n\r\nChcete premenova stiahnutı súbor html stránky?
+34012=Vzh¾ad novej lišty nástrojov
+20573=Vzh¾ad novej lišty nástrojov
+57670=Obsah Nápovedy
+20721=IDM bol úspešne integrovanı do Mozilly Firefox.\n Na aplikovanie zmien musíte reštartova váš prehliadaè Firefox.
+20342=V schránke bola nájdená adresa na sahovanie. Chcete ju stiahnu?
+
+//Old strings 20016, 20017, 20350 replaced with:
+20916=Poèas sahovania sa vyskytla neznáma chyba. Skúste to znova, prosím. 
+20917=Poèas sahovania sa vyskytla chyba. Skúste to znova, prosím.
+20918=Vaše sériové èíslo pre Internet Download Manager bolo zablokované pre rozdielne registrovanie.  IDM bude ukonèenı...
+
+//And deleted the following strings: 
+//20178, 20179, 20180, 20181, 20182, 20183, 20184, 20185, 20186, 20187, 20188, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 
+//20198, 20200, 20201, 20202, 20208, 20209, 20210, 20223, 20224, 1238, 1251, 1314, t1065, t1068, 20016, 20017, 20350
+
+//v6.03b3
+//We have changed the old strings: 20146 and 20033 (Tab name) 
+
+20921=Chcete vedie ako sahova súbory zo %s stránky s IDM?
+20923=IDM.exe je na pracovnej ploche
+20922=IDM.exe súbor je umiestnenı na pracovnej ploche. IDM nemôe pracova korektne bez svojich ostatnıch súborov, presuòte IDM.exe prosím spä do svojho prieèinka v Program Files a miesto toho na pracovnej ploche vytvorte len zástupcu IDM. Zástupcu vytvoríte kliknutím pravım tl. myši na súbor IDMan.exe  a z kontextovej ponuky vyberiete \"Odosla - > Plocha (vytvori zástupcu)\".
+20924=Poznámka 2: Niekedy keï kliknete na spojenie, váš prehliadaè iada i iné súbory SÚÈASNE, ako Java skriptá, webstránky, obrázky, atï. Keï stlaèíte a podríte stlaèenı špeciálny kláves, IDM tieto súbory zastaví a prehliadací program u nebude poadova potrebnı súbor, pretoe tım  nespustí Java skriptá, ktoré boli zachytené IDM chybne.  Ak chcete zachyti a stiahnu len potrebné súbory s IDM, zapnite prosím túto vo¾bu nišie:
+1753=Poèas podraného stlaèeného špeciálneho kláves NIKDY nezachyti stiahnutia, ako sú webstránky, obrázky, skriptá, atï.
+20925=Nemáte správnu integráciu do prehliadaèa %s alebo nebola do prehliadaèa %s  nainštalovaná. Chcete si o tom, ako to urobi, preèíta viac?
+20926=Sahovací panel IDM sa zobrazí na mieste zachyteného sahovania vo webovom prehrávaèi %s, keï je v prehliadaèi správne integrovanı.
+
+//v6.04b2
+20928=IDM nezachytil tento súbor z webového multimediálneho prehrávaèa, pretoe typ súboru nie je v Nastaveniach sahovacieho panela aktivovanı.\r\n\r\n Ak nechcete s IDM zachytáva takéto súbory, z ponuky Monosti na karte \"Všeobecné\",kliknite na tlaèidlo \"Upravi...\" v Nastavení sahovacieho panela IDMv prehliadaèoch a zatrhnite v okienku \"Nezachytáva sahovania z webovıch prehliadaèov automaticky\".
+20929=IDM nemôe nastavi rozšírenú integráciu do prehliadaèa kvôli nejakej z nasledujúcich dôvodov:\r\n1. Nemáte právo administrátora alebo ste nepovolili spúšanie programu IDM ostatnım ako administrátor.\r\n2. Stlaète tlaèidlo Zruši poèas zavádzania sieového ovládaèa IDM.\r\n3. Blokujete zavedenie sieového ovládaèa IDM u pri štarte, alebo pomocou antivírusového alebo iného programu.
+//v6.04b3
+20930=IDM nemôe nájs súbor(y) %ld , ktoré sú potrebné na integráciu do systému prehliadaèa. Preinštalujte prosím IDM. 
+
+//v6.06
+//"Serial Number" explanation on registration dialog
+20931=Èo je \"%s\"?
+20932=%s je vıslednı k¾úè k Internet Download Manageru.\r\nJe to je unikátny alfanumerickı kód pre kadého uívate¾a, ktorı vyzerá takto:\r\nxxxxx-xxxxx-xxxxx-xxxxx\r\n\r\nSériové èíslo dostanete, len ak si IDM kúpite.\r\nStlaète prosím tlaèidlo \"%s\" a kúpte si ho.
+
+//v6.07
+20933=Tieto nastavenia nie sú dostupné pre sahovanie súborov stojacich vo fronte na spracovanie s IDM 
+20934=Tieto nastavenia nie sú dostupné, keï je zatrhnuté \"%s\" 
+363=Stav sahovania
+364=Monosti na dokonèenie
+20935=Internet Download Manager skonèil sahovanie súboru. Pod¾a vašich nastavení pre toto sahovanie bude IDM ukonèenı. Okrem tohto sú priebene sahované i iné, ktoré budú zatia¾ prerušené. Ak stlaèíte tlaèidlo Zruši, program nebude ukonèenı.
+20936=Internetovı Download Manager skonèil sahovanie súboru. Pod¾a vašich nastavení po tomto sahovaní IDM  odpojí váš modem.
+20937=Internet Download Manager skonèil sahovanie súboru. Pod¾a vašich nastavení po tomto sahovaní sa váš poèítaè vypne.
+1762= Ukáza sahovací panel i pre chránenı obsah, \r\n ktorı IDM nemôe stiahnu
+20938=chránenı obsah
+20939=IDM nemôe stiahnu tento chránenı tok  pre právne dôvody. Sahovanie takıchto tokov nie je podporované, pretoe IDM nesmie obís technologické opatrenia, ktoré sú urobené na ochranu obsahu dát audia a videa.\r\n\r\nPre chránenı obsah, ktorı IDM nemôe stiahnu, je moné zavrie sahovací panel z ponuky \" Stiahnutie->Monosti->karta Všeobecné->Upravi\."
+
+//v6.07b7
+365=Obmedzovaè rıchlosti
+1763=Maximálna rıchlos sahovania:
+1765= Zapamäta si nastavenia obmedzovaèa rıchlosti pre tento súbor\r\n po zastavení/pokraèovaní sahovania
+1772=Skry 
+367=Upravi dialóg priebehu sahovania
+1767=Upravi dialóg " Priebeh sahovania "
+1775=Zobrazi Štart:
+1774=Poznámka: Monos "Zobrazi Štart " sa netıka súborov zaradenıch na spracovanie vo fronte. Ak IDM spracováva súbory stojace vo fronte, dialóg "Priebeh sahovania" je vdy spustenı a minimalizovanı v oznamovacej oblasti.
+1768=Ukáza tlaèidlo "Obmedzovaè rıchlosti" 
+1769=Ukáza tlaèidlo "Monosti na dokonèenie"
+1773=Ukáza tlaèidlo "Skry"
+
+//v6.07b12
+20941=Chyba pripojenia k VPN
+20940=Je moné, e potrebuje zmeni pripojenie k VPN, ktoré je nastavené v monostiach IDM, alebo zruši oznaèenie v okienku pred \"Poui telefonické pripojenie systému Windows\" v  Stiahnutie  - > Monosti  - > na karte \"Vytáèanie\" 
+20942=kvalita
+
+//v6.08b2 beta
+20949=Proxy/Zásuvky
+20948=Proxy /Konfigurácia zásuviek
+369=Pokroèilé nastavenia proxy
+1777=Pokroèilé...
+1778=Poui proxy
+1785=Poui proxy pre nasledujúce protokoly:
+1779=Poui zásuvky
+1786=Adresa zásuviek serveru
+20943=Nemoné pripojenie k zásuvkám serveru, je vyadované povolenie
+20944=Nemono pripoji cez zásuvky serveru k %s 
+20945=Nemono pripoji cez zásuvky serveru, typ zásuviek nie je známy
+20946=Nemono pripoji cez zásuvky serveru, povolenie zlyhalo!
+20947=Nemoné pripojenie k zásuvkám serveru %s
+
+//v6.09b2 beta
+1787=Vınimky
+370=Vınimky sahovacieho panela
+1788=Nezobrazova sahovací panel IDM pri sahovaní z tıchto stránok:
+1789=Názvy odde¾te medzerami. Môete poui hviezdièku (*) ako zástupnı znak.
+20950=IDM nemôe pripoji integráciu do Advanced Browsera, pretoe nie je spustená sluba filtrovania \"Základnı filtraènı prostriedok-BFE\" vo Windows. Kliknite prosím pravım tl. myši na ikonu "Tento poèítaè", vyberte \"Spravova\", ïalej \"Sluby a aplikácie - > Sluby\", potom nájs na zozname \"Základnı filtraènı prostriedok-BFE\", kliknú naò pravım tl. myši a otvori Vlastnosti. Zmeni typ spúšania na \"Automaticky\", kliknú na \"Spusti\" a potvrdi zmeny.\r\n\r\nKliknite na OK a navštívte webstránku pre ïalšie informácie.
+20951=IDM nemôe pripoji integráciu do Advanced Browsera, pretoe chıba sluba filtrovania \"Základnı filtraènı prostriedok-BFE\" vo Windows. Mohlo by sa sta, e kvôli tomu by váš systém poèítaèa mohol by poškodenı malvérom.\r\n\r\nKliknite na OK k otvoreniu webstránky s návodmi na obnovu.
+
+//v6.11
+341=Prida typ súboru
+349=Vlote názov stránky
+1790=Do tejto kategórie automaticky prida len súbory z nasledujúcich stránok:
+1793=Stránky odde¾te medzerami. Môete poui hviezdièku (*) ako zástupnı znak.
+20952=Uvedomte si prosím, e pod¾a  licencie IDM, s  ktorou ste súhlasili poèas  inštalácie IDM, by ste mali teraz IDM buï odinštalova, alebo si ho  kúpi.
+
+//v6.11b7
+20953=Poslednı...
+
+//v6.12b2
+20954=Váš prehliadaè nemôe otvori webstránku s IDM, pretoe vo vašom poèítaèi je poškodenı nejakı dôleitı systémovı súbor. Opravi tento súbor?
+20955=IDM nemôe skontrolova aktualizácie, pretoe vo vašom poèítaèi je poškodenı nejakı dôleitı systémovı súbor. Opravi tento súbor?
+
+//v6.12b5
+1795=Nastavi dátum vytvorenia súboru  navrhnutı serverom
+
+//v6.12b6
+20956=Za úèelom aktualizácie zásuvnıch modulov Firefoxu s IDM  prosím uzavrite Firefox (alebo Sea Monkey) a potom stlaète tlaèidlo \"Opakova\".\r\nInak budete musie váš poèítaè neskôr reštartova. 
+
+//v6.12b8
+//Please pay attention that we added the possibility to translate text for IDM installer and IDM uninstaller. 
+//You can find the template to translate installer in "template_inst.lng" file in "Languages" folder
+
+//v6.12b22
+20995=IDM zaèal sahova súbor pomocou jedného pripojenia, pretoe v nieko¾kıch spojoch sú  rovnaké, skôr naèítané dáta poškodené, alebo nezodpovedajú novo prijatım dátam.\r\nChcete sa dozvedie viac o monıch príèinách poškodenia dát?
+20996=IDM zaèal sahova súbor od zaèiatku, pretoe dáta boli poškodená, alebo novo prijaté dáta nezodpovedajú rovnakım dátam, naèítanım skôr.\r\nChcete sa dozvedie viac o monıch príèinách poškodenia dát?
+20997=Bola úspešne nainštalovaná rozšírená integrácia IDM do prehliadaèa (alebo aktualizovaná v) Google Chrome.\nPre pouitie zmien musíte Google Chrome reštartova.
+
+//v6.15
+1796=Poui automatickú konfiguráciu proxy
+20998=Je poadované povolenie proxy pre tento proxy server. Zadajte ho, alebo prosím odznaète monos v okienku IDM \"Poui automatickú konfiguráciu skriptu\" v Stiahnutie -> Monosti -> Proxy/Zásuvky.
+20999=IDM zistil, e pouívate proxy v Internet Exploreri a nastavenú automatickú konfiguráciu skriptu. \r\n%s\r\n\r\nChcete poui toto isté nastavenie proxy aj v IDM?
+
+//v6.15b7
+21000=Toto je ivé internetové vysielanie. Ak ho zastavíte, nebudete môc obnovi sahovanie z aktuálnej pozície. \r\nChcete zastavi a uloi toto vysielanie ako dokonèenı súbor?
+21001=Uloenie ivého vysielania
+
+//v6.16b9
+21002=Naèítanie skriptov pomocou proxy zlyhalo
+21003=Chcete si preèíta podrobnı návod, ako nastavi spoluprácu vášho firewallu s IDM?
+
+//6.15b10
+21004=neznámy formát (%d)
+20898=Sahova dovtedy, pokia¾ sa nespojí s èasou súboru v nasledujúcom riadku...
+
+//v6.16
+21105=Rozšírenú integráciu do prehliadaèa nemono aktivova, pretoe je nainštalovaná chybná verzia TDI ovládaèa Kaspersky!\r\n Ak nepomohla automatická aktualizácia vášho produktu Kaspersky, kontaktujte prosím jeho podporu a prevezmite aktualizáciu ovládaèa \"kltdi\" manuálne.
+
+//v6.17b7
+21106=Pri inštalácii súboru sa vyskytla chyba   
+21109=Táto verzia IDM nepodporuje tento typ sahovania. Pokúste sa stiahnu aktualizáciu najnovšej verzie IDM.
+21110=Rozšírená integrácia IDM (aj jeho aktualizácia) do G. Chrome bola úspešne nainštalovaná. V G. Chrome v ponuke Nástroje -> Rozšírenia musíte zatrhnú "Povolené" vpravo od "Modulu integrácie IDM", ak chcete aby IDM v Chrome správne pracoval. 
+21111=1. Reštartujte prosím Google Chrome a stlaète tlaèidlo ponuky Chrome (šípka 1 na obrázku).\r\n2. Vyberte z ponuky poloku "Nastavenia " (šípka 2 na obrázku).\r\n3. Vyberte kartu "Rozšírenia" (šípka 3 na obrázku).\r\n4. Skontrolujte, èi je v Rozšíreniach povolenı "Modul integrácie IDM" (šípka 4 na obrázku).\r\n5. Ak pouívate v prehliadaèi Chrome reim inkognito, musíte zatrhnú políèko pri "Povoli v reime inkognito " (šípka 5 na obrázku).
+
+//v6.17b9
+//Dear translators, please pay attention that we have added one new line to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b3 
+//One more :) 
+//Please pay attention that we have added one more new line (21112) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b8
+//we have changed Options->Connection tab
+21113=Nízka rıchlos: Dial Up modem / ISDN / Bluetooth / Mobile Edge / IrDA
+21114=Stredná rıchlos: ADSL / DSL /  Mobile 3G / Wi-Fi / Bluetooth 3.0 / ostatné
+21115=Vysoká rıchlos: Priame pripojenie (sie Ethernet/ kábel) / Wi-Fi / Mobile 4G / ostatné
+21116=Vyšší poèet pripojení pouite prosím s opatrnosou. Niektoré servery môu ma urèité obmedzenia na poèet pripojení od jedného klienta. Ak je vysokı poèet pripojení, môu servery da poèítaè na èiernu listinu, a to najmä ak sahujete súèasne viac súborov s vysokım poètom pripojení.\r\n\r\nNavyše, u niektorıch typov pripojenia, pre nízky vıkon poèítaèa alebo routera, môe sa rıchlos sahovania spomali keï zvıšite poèet pripojení.
+
+//v6.19
+21117=K dispozícii je iba názov vášho vybraného prieèinka. Zadajte prosím názov súboru.
+21118=Ve¾kos súboru \"%s\" je %.1f GB.\r\nJednotka \"%s\" , kde chcete uloi tento súbor, obsahuje systémovı súbor %s . Súbory väèšie ako %d GB nemôu by uloené na tomto disku s tımto systémovım súborom.\r\n\r\nVyberte prosím prieèinok pre tento súbor na inej jednotke so systémovımi súbormi NTFS.
+21119=Ve¾kos súboru \r\n%s\r\n je %.1f GB.\r\nDoèasnı prieèinok IDM pre ukladanie èastí súboru pri sahovaní je umiestnenı na disku \"%s\", tento disk obsahuje súborovı systém %s . Súbory väèšie ako %d GB nemôu by zapísané v  tomto systémovom súbore.\r\n\r\nAk chcete pokraèova v sahovaní, zmeòte umiestnenie doèasného prieèinka na inej jednotke v \"Monosti -> Uloi do\" a potom pokraèujte v sahovaní.
+
+//v6.19b8
+21005=len audio stopa
+21006=len video stopa
+
+//v6.19b9
+21120=Kontrola aktualizácie zlyhala, pretoe informácia o aktualizácii nieje platná.\r\nAk pouívate wi-fi, ktorá vyaduje prihlásenie v prehliadaèi, prihláste sa prosím pred kontrolou aktualizácií.
+21121=Integrácia IDM do prehliadaèa u niektorıch aplikácií je poškodená.\r\n\r\nK jej obnove budete musie IDM preinštalova, alebo skúste aktualizova IDM pouitím poloky \"Nápoveda -> Aktualizácia\" v ponuke.\r\nTie si overte, èi integrácia IDM do vášho prehliadaèa je zapnutá v dialógovom okne \"Monosti -> karta Všeobecné\".
+
+//6.21b3
+21125=Presunú
+21126=Presunú/Premenova
+
+//new "Find file" dialog
+487=H¾ada súbor
+21122=H¾ada súbor
+21123=Neboli nájdené iadne súbory
+21124=Vyh¾adávanie je ukonèené
+1807=Názov alebo èas názvu súboru:
+1809=Popis alebo èas popisu:
+1811=Nájs len zhodnú zadanú frázu
+1812=Nájs celı zadanı názov (aj s .príponou)
+1673=H¾ada
+//New subitems in "Downloads" main menu
+34040=H¾ada (Ctrl-F)
+34041=H¾ada ïalej (F3)
+
+//v6.21b5
+21128=Nemono spusti aktualizáciu aplikácie IDM. Môe to by spôsobené nesprávnym nastavením antivírusového softvéru pre prieèinok, v ktorom je umiestnená aplikácia servisnej sluby IDM.\r\n\r\nOtvorte znova prieèinok IDM a súbor \"idmupdt.exe\" spustite ruène.\r\n\r\nMôete si taktie stiahnu najnovšiu verziu IDM z domovskej stránky IDM a preinštalova ju na aktuálnu verziu.
+21129=Ostatné vlastnosti...
+21130=Ak chcete stiahnu video v inej kvalite, zmeòte kvalitu v nastavení webprehrávaèa. Táto vlastnos bude potom pridaná do panela IDM \"Stiahnu toto video\".
+21131=Vybra prieèinok
+
+//v6.21b11
+21132=IDM stiahol súbor %s pouívajúci novı kodek, ktorı ešte nie je nainštalovanı na vašom poèítaèi.\r\nPreèítajte si prosím viac informácií na domovskej stránke IDM, ako prehráva tieto súbory vo vašom prehrávaèi.
+1813=Poui pokroèilé spracovanie webovej stránky
+21133=Niektoré moduly IDM neboli aktualizované. Nainštalujte si prosím  najnovšiu verziu IDM, reštartujte poèítaè a skúste znova stiahnu tento súbor.
+
+//v6.21b16
+21134=IDM nedokáe prebudi poèítaè z reimu dlhodobého spánku a zaèa sahova súbory vo fronte v plánovanom èase.
+21135=Vezmite prosím na vedomie, e pri prepnutí do reimu Metro sa môe poèítaè prepnú do reimu dlhodobého spánku.
+21136=Ak chcete s IDM stiahnu súbory vo fronte v plánovanom èase, povo¾te èasovaèe zobudenia v nastaveniach systému Windows.\r\nOtvorte \"Ovládací panel -> Monosti napájania ->Upravi nastavenia plánu->Zmeni rozšírené nastavenia napájania\", potom rozbalte ponuku \"Uspa->Povoli èasovaèe zobudenia\" a nastavte ich na \"Povoli\".\r\n\r\nChcete vidie na obrazovke, ako to urobi?
+
+//v6.23b12
+21137=Upozoròujeme, e táto verzia (a všetky predchádzajúce verzie IDM) nesmie poui súbor \"hosts\", keï sa pripojíte k domovskej stránke IDM. Keï zmeníte tento súbor, zatvorte prístup k domovskej stránke IDM iba vo Vašom webovom prehliadaèi. Po stlaèení tlaèidla OK bude IDM kontrolova aktualizácie úspešne dokonca aj s vašim poškodenım \"hosts\" súborom.
+21138=Váš prehliadaè nemôe otvori webstránku IDM, pretoe vo vašom poèítaèi je poškodenı dôleitı systémovı súbor. IDM ho teraz opraví.
+
+//v6.25b16
+21139=Sériové èíslo IDM, ktoré ste zadali, sa pouíva v inom poèítaèi a je prepojené s inou e-mailovou adresou.
+21140=Sériové èíslo IDM,\r\n%s\r\nktoré ste zadali, je pouité v inom poèítaèi.\r\n\r\nAk chcete poui toto sériové èíslo na tomto poèítaèi, potom je potrebné odinštalova IDM z iného poèítaèa (alebo zo všetkıch ostatnıch poèítaèov), kde bolo pouité toto sériové èíslo u skôr. Ak pouívate rovnaké sériové èíslo na rôznych poèítaèoch súèasne, bude toto sériové èíslo  automaticky zablokované.\r\n\r\nChcete aj naïalej pokraèova v registrácii IDM so sériovım èíslom\r\n%s\r\n?
+//Please pay attention that we have added one more new line (1063) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.25b18
+21142=Chcete sa dozvedie viac informácií?
+21141=Zaregistrujte si IDM so sériovım èíslom nišie\r\n%s\r\n\r\nToto sériové èíslo je blokované na serveroch IDM. IDM sa zatvára...
+
+//v6.26b5
+21146=IDM našiel odkaz na nedokonèené a nevymazané èasti starıch stiahnutí v doèasnom prieèinku IDM.\r\n%s\r\nChcete ich z neho odstráni a uvo¾ni tak miesto na disku?
+
+//v6.27
+21147=Vaše sériové èíslo zaèína s: %s...............
+488=Minimálna ve¾kos
+1822=Min. ve¾kos
+21148=Nezobrazova panel \"Stiahnu toto audio\", ak ve¾kos zvukového súboru je menšia ako nasledujúca minimálna ve¾kos v kilobajtoch. 
+21149=Nezobrazova panel \"Stiahnu toto video\" , ak ve¾kos mediálneho súboru je menšia ako nasledujúca minimálna ve¾kos v kilobajtoch.
+21150=Poznámka: Tieto obmedzenia fungujú iba v prípade, ak je známa ve¾kos mediálneho súboru. Existujú situácie, kedy je známa len dåka, alebo nie je známe niè, pokia¾ nie je súbor úplne stiahnutı. V takıchto situáciách toto obmedzenie ve¾kosti súboru nebude fungova.
+
+//v6.28b7
+21151=Je moné, e máte zastarané kryptografické kninice so systémom Windows XP.\r\nChcete si o tom preèíta viac?
+
+21153=Vypnú
+21154=Spánok
+21155=Dlhodobı spánok 
+21157=Internet Download Manager dokonèil spracovanie frontu. Pod¾a nastavení plánovaèa váš poèítaè prejde do reimu spánku.
+21158=Internet Download Manager dokonèil spracovanie projektu grabbera. Pod¾a nastavení plánovaèa projektu váš poèítaè prejde do reimu spánku.
+21159=Internet Download Manager dokonèil sahovanie súboru. Pod¾a vašich nastavení pre toto stiahnutie váš poèítaè prejde do reimu spánku.
+21160=Internet Download Manager dokonèil spracovanie frontu. Pod¾a nastavení plánovaèa váš poèítaè prejde do reimu dlhodobého spánku.
+21161=Internet Download Manager dokonèil spracovanie projektu grabbera. Pod¾a nastavení plánovaèa projektu váš poèítaè prejde do reimu dlhodobého spánku.
+21162=Internet Download Manager dokonèil sahovanie súboru. Pod¾a vašich nastavení pre toto stiahnutie váš poèítaè prejde do reimu dlhodobého spánku.
+21163=Reimy spánku
+21164=Prejs teraz na Spánok
+21165=Prejs teraz na Dlhodobı spánok
+21167=Integrácia IDM do prehliadaèa Firefox 53 a vyššieho bude fungova iba vtedy, keï je v Stiahnutie -> Monosti -> na karte Všeobecné zapnutá monos "Poui rozšírenú integráciu do prehliadaèov". 
+
+//v6.30
+1823=Manuálna konfigurácia proxy / zásuviek
+1824=Automaticky zisti nastavenia servera proxy pre túto sie
+1825=Poui systémové nastavenia
+1826=iadne proxy / zásuvky
+21169=IDM nemôe zisti URL adresu súboru pomocou "Poui automatickú konfiguráciu proxy" pre túto sie!/r/n/r/nAk nemáte nastavenú automatickú konfiguráciu pre vašu sie, nemali by ste túto monos pouíva, aby sa predišlo oneskoreniu, keï sa IDM pokúša nájs súbor balíka proxy.
+489=Integrácia do prehliadaèa Microsoft Edge
+21170=Do IDM bol pridanı "novı modul na integráciu IDM" do prehliadaèa MS Edge. Toto rozšírenie je nevyhnutné pre plnohodnotnú integráciu do prehliadaèa Microsoft Edge. IDM odteraz zaène inštaláciu tohto rozšírenia z obchodu Microsoft Store.\r\nDialógové okno Microsoft Store na inštaláciu rozšírenia IDM sa zobrazí po zatvorení tohto dialógového okna.\r\nStlaète tlaèidlo "Získa" v dialógovom okne sluby Microsoft Store, ako je znázornené na obrázku nišie.
+1828=Potom poèkajte a sa inštalácia skonèí a spustite prehliadaè Edge. Poèas nieko¾kıch sekúnd Edge zobrazí oznámenie o novom rozšírení. Potvrïte stlaèením tlaèidla "Zapnú". Pozrite si obrázok nišie.
+
+//v6.30b7
+p21171=Zadajte svoju e-mailovú adresu, na ktorú vám po odoslaní iadosti pošleme sériové èíslo IDM a ïalšie registraèné informácie.
+p21172=Upozoròujeme, e tento e-mail mono poui na získanie sériového èísla IDM, ak ho stratíte, alebo ho môete poui ako prioritu na podporu IDM. Preto je dôleité uvies správny e-mail.
+p21173=Zadajte svoj e-mail
+
+p21174=Vaša roèná licencia IDM so zaèínajúcim poradovım èíslom %s...
+p21175=uplynie (alebo uplynula) o %s
+
+p21176=Chcete predåi túto licenciu na budúci rok?
+p21177=Predåi moju licenciu teraz
+p21178=Môete tie v ponuke webovej stránky stlaèi tlaèidlo "Kúpi" a otvori stránku s pravidelnım nákupom.
+
+//v6.30b8
+21179=Vaša licencia IDM bola predåená do %s
+
+
+
+

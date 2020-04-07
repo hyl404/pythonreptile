@@ -1,0 +1,1955 @@
+lang=0x0c Français
+tips=tips_fr.txt
+
+//Dernière mise à jour Française: 6.05.2019
+
+
+// Dialogs
+
+//main dialog
+1281=Catégories
+20369=Q
+20370=Nom du fichier
+20371=Statut
+20372=Taille
+20373=Temps restant
+20374=Taux de Téléchargement
+20375=Description
+
+//toolbar
+//Please try to make all inscriptions for the buttons on the toolbar shorter.
+//A long inscription can make all buttons wider and they may cross the border
+//of the dialog.
+20376=Ajout URL
+20377=Reprendre
+20378=Arrêter
+20379=Tout arrêter
+20380=Supprimer
+20446=Suppr. tous
+20381=Options
+20382=Planification
+20383=Informer à un ami
+//tooltips for buttons
+t32790=Démarrer/Reprendre le téléchargement des fichiers sélectionnés
+t32791=Arrêter de télécharger le ou les fichier(s) sélectionné(s)
+t32792=Arrêter tous les téléchargements
+t32793=Retire le fichier sélectionné de la liste
+t32794=Supprime de la liste les fichiers entièrement téléchargés
+t32795=Intégration au navigateur, extensions de fichiers, proxy, mots de passe et divers
+t32798=Programmeur et file d'attente de téléchargement
+t32788=Écrire une lettre à votre ami à propos d'Internet Download Manager
+
+//Registration dialog
+138=Enregistrement d'Internet Download Manager
+1326=Entrer vos données d'enregistrement dans les champs correspondant et pressez OK
+1330=N° de série
+1327=Prénom
+1328=Nom
+1329=E-mail
+1191=&OK
+1201=&Comment autoriser
+1080=&Annuler
+
+//Download progress dialog
+103=Progression du téléchargement
+1154=(inconnue)
+1178=<< Cacher détails
+20426=<< Cacher détails
+1158=Pause
+20392=Pause
+20424=Continuer
+20425=Afficher les détails >>
+1300=Taille fichier
+1301=Téléchargé
+1302=Taux de téléchargement
+1303=Temps restant
+1149=(inconnue)
+1299=Statut:
+1030=Connexion...
+1305=Démarrage des positions et progression du téléchargement par les connexions
+1304=Fonction reprise
+1175=(inconnue)
+2=Annuler
+20416=N.
+20417=Téléchargé
+20418=Info
+20419=Oui
+20420=Non
+20421=%d heures %d min
+20422=%d min %d sec
+20423=%d sec
+
+130=Info sur fichier téléchargé
+1006=&Démarrer
+1010=Parcourir...
+1004=Plus tard
+1298=Description
+1173=Prévision
+1297=Catégorie
+1296=Enregistrer sous
+t1006=Démarrer le téléchargement du fichier
+
+148=Saisir nouvelle adresse à télécharger
+1182=Utilisation &autorisation
+1184=Login
+1186=Mot de passe
+1022=O&K
+
+//Options Dialog
+134=Configuration d'Internet Download Manager
+1092=OK
+20286=Général
+20287=Connexion
+20288=Téléchargements
+20289=Proxy
+20290=Logins de sites
+20291=Internet
+20292=Sons
+20293=Général
+20294=Connexion
+20295=Téléchargements
+20296=Proxy
+20297=Logins
+20298=Internet
+20299=Sons
+20300=Intégration d'un navigateur/Système
+20301=Connexion
+20302=Paramètres de téléchargement par défaut
+20303=Configuration HTTP, HTTPS et FTP proxy
+20304=Noms d'utilisateurs et mots de passe pour serveurs/sites
+20305=Paramètres des connexions internet
+20306=Paramétrage des sons
+//General tab
+1056=Démarrer Internet Download Manager au démarrage
+1061=Démarrer le téléchargement des URLs placées dans le presse papier
+1077=&Par défaut
+1169=Types de fichiers...
+1270=Les types suivants de fichiers automatiquement télécharger:
+t1056=Démarrer Internet Download Manager au démarrage du système
+//Proxy tab
+1102=Utiliser un proxy HTTP
+1122=Proxy
+1123=Port
+1124=NomUtilisateur
+1125=Mot de passe
+1107=Obtenir à partir d'IE
+1108=Utiliser un proxy FTP
+1126=Proxy
+1127=Port
+1128=NomUtilisateur
+1129=Mot de passe
+1113=Obtenir à partir d'IE
+1116=Utiliser le FTP en mode PASV
+1118=Utiliser un proxy HTTPS
+1133=Proxy
+1135=Port
+1137=NomUtilisateur
+1139=Mot de passe
+1141=Obtenir à partir d'IE
+t1107=Essayer d'obtenir le proxy HTTP par la configuration Internet Explorer
+t1116=Utiliser le protocole FTP en mode passif (nécessaire derrière un pare-feu)
+//Connection tal
+1153=Type de connexion/Vitesse
+1306=Max. nombre de connexions
+1254=Vitesse limité du téléchargement
+//Downloads tab
+1049=Parcourir
+1190=Changer le dossier de la catégorie "Général" sur la dernière sélection
+1132=Enregistrer sous...
+1136=Répertoire par défaut pour la catégorie "Général"
+1236=Afficher "Téléchargement terminé"
+1317=Antivirus
+1318=Programme antivirus
+1165=Parcourir
+1319=Ligne de commande
+1316=Fenêtre
+1315=État du téléchargement
+1059=Afficher boîte de dialogue Démarrer le téléchargement
+1138=Répertoire temporaire
+1054=Parcourir
+//Dial Up tab
+1313=Connexion:
+1307=Options des connexions
+1166=Appliquer
+1308=Options de numérotations
+1309=Renouvellement des tentatives (zéro pour infini):
+1310=Temps entre deux essais:
+1312=secondes
+1311=temps
+1058=Utiliser les connexions internet de Windows
+//Sounds tab
+1320=Sélectionner les sons pour les évènements d'Internet Download Manager
+1172=Parcourir...
+1091=Lire
+//Passwords tab
+20436=Site/chemin
+20437=Utilisateur
+20438=Mot de passe
+1087=Nouveau
+1196=Éditer
+1050=Supprimer
+
+//File properties dialog
+135=Propriétés des fichiers
+1325=Type:
+1324=Taille:
+1323=Chemin:
+1082=&Parcourir...
+1322=Login
+1289=Mot de passe
+1321=Confirmer le mot de passe
+1164=Ouvrir
+1240=Dernier essai
+1241=Résultat:
+
+100=À propos d'Internet Download Manager
+1284=Site Web:
+1285=Support technique:
+1286=Ce produit est autorisé à:
+1181=Version non enregistrée
+1161=Vérifier les mises à jours
+1185=&Enregistrement
+1085=&Acheter
+1262=Version:
+t1187=Cliquer pour visiter le site Web Internet Download Manager
+t1189=Contacter l'équipe support d'Internet Download Manager
+t1161=Vérifier les mises à jour disponibles sur le site www.internetdownloadmanager.com
+t1185=Enregistrer IDM avec votre clé d’enregistrement
+t1201=Cliquez ici pour savoir comment obtenir la licence pour IDM
+t1085=Acheter une version enregistrée d'IDM
+
+150=Éteindre
+1263=Internet Download Manager a terminé les travaux en file d'attente. Comme prévu votre ordinateur va s'éteindre.
+1170=Arrêter maintenant
+
+1163=Oui
+1088=Oui pour tous
+1202=Non
+1051=Non pour tous
+
+177=Planification
+1331=File d'attente téléchargement
+1333=Télécharger
+1332=Programme
+1218=Démarrer à
+1219=Jusqu'au
+1221=Quotidien
+1062=Dimanche
+1057=Lundi
+1066=Mardi
+1069=Mercredi
+1222=Jeudi
+1223=Vendredi
+1224=Samedi
+1225=Fin du téléchargement à
+1228=Éteindre l'ordinateur une fois terminé
+1235=Obliger le processus à s'arrêter
+1089=Appliquer
+1232=Démarrer maintenant
+1233=Arrêt
+1079=Fermer
+1227=Raccrocher le modem une fois terminé
+1264=Mo
+1265=heures
+1266=Ne pas télécharger plus de
+1171=Aide
+1267=Toutes les
+1268=Afficher un avertissement avant d'arrêter les téléchargements
+1271=Quitter Internet Download Manager quand terminé
+1335=Fichiers en même temps
+t1229=Déplacer l'élément vers le bas
+t1230=Déplacer l'élément vers le haut
+t1231=Retirer l'objet de la liste des téléchargements
+t1232=Démarrer la file d'attente
+t1233=Arrêter la file d'attente
+t1235=Utiliser cette option en cas d'urgence. Ceci peut provoquer la perte de données par les applications.
+
+184=Numérotation
+1247=Connexion ...
+1167=Re-numérotation
+
+186=Options de numérotation
+1336=Numérotation
+1237=Enregistrer le mot de passe
+1288=Nom d'utilisateur
+
+190=Télécharger les composants d'IDM
+1=OK
+1258=Télécharger
+
+191=Exporter la file d'attente de téléchargement
+1259=Exporter la file d'attente des téléchargements
+1260=Exporter les fichiers sélectionnés
+1261=Exporter tous les fichiers
+
+192=Importer les liens dans IDM
+1168=Éditer...
+1090=Supprimer
+
+193=Télécharger automatiquement les extensions de fichiers suivantes:
+
+105=Astuce du jour
+1001=&Afficher les astuces
+1003=&Autre astuce
+107=Astuce du jour...
+108=Le saviez vous...
+109=Le fichier des astuces n'existe pas dans les répertoires sélectionnés
+110=Erreur de lecture du fichier des astuces
+
+146=Site login
+1337=Serveur/chemin
+1290=Confirmer mot de passe
+1287=Note: Indiquez le chemin seulement si vous avez un login différent pour différents répertoires de serveurs.
+
+182=Mise à jour rapide
+1295=Vérification de la nouvelle version
+
+194=Limite de téléchargement dépassée !
+
+144=Une nouvelle version d'Internet Download Manager est disponible
+1162=Mettre à jour maintenant
+1086=Annuler
+
+//Zip preview dialog
+196=Prévisualiser les zip
+20254=Nom du fichier
+20255=Comprimés
+20256=Taille
+20257=Modifié
+
+//New category dialog
+204=Catégorie IDM
+1174=Parcourir...
+1291=Nom des Catégories
+1292=Mettre automatiquement les types de fichiers suivants dans cette catégorie:
+1293=Note: extensions des fichiers séparées par un espace (ex. avi mpg mpeg)
+1239=Se souvenir du dernier chemin sauvegardé
+1294=Enregistrer les futurs téléchargements de cette catégorie dans le répertoire suivant:
+
+
+// Menu
+m32771=Tâches
+32771=Ajouter nouveau téléchargement
+32809=Afficher le panier
+m32821=Exporter
+32821=Vers un fichier d'exportation d'IDM
+32823=Vers un fichier texte
+m32816=Importer
+32816=Depuis un fichier d'exportation d'IDM
+32818=Depuis un fichier texte
+32772=&Quitter
+
+m32774=Fichier
+32774=Arrêter le téléchargement
+32775=Supprimer
+32776=Démarrer le téléchargement
+
+m32778=Téléchargements
+32778=Tout mettre en pause
+32779=Tout arrêter
+32794=Supprimer tous ceux qui sont terminés
+32801=Planifier
+32781=Options
+
+m32825=Affichage
+32825=Cacher des catégories
+m32828=Classer les fichiers
+32828=Par ordre d'ajout
+32830=Par nom de fichier
+32832=Par taille
+32834=Par statut
+32836=Par temps restant
+32838=Par taux de téléchargement
+32840=Par description
+m32841=Langue
+
+m57670=Aide
+32811=Manuel
+106=Astuce du jour...
+32813=Site Web  d'Internet Download Manager
+32784=Nous contacter
+32787=Mise à jour rapide
+32786=À propos d'Internet Download Manager
+32788=En parler à un ami
+
+m32785=Enregistrement
+32785=Commander en ligne
+32783=Enregistrement
+//end menu
+
+
+//Strings & messages
+101=&À propos d'Internet Download Manager...
+32799=Ouverture de port
+32800=Port ouvert
+32802=Connexion en cours
+32804=Connecté
+32806=Tous les matériels sont connectés
+32807=Démarrer l'identification
+32808=demande d'identification
+32810=Nouvel essai d'identification
+32812=Rappel demandé
+32814=Changement du mot de passe demandé
+32815=Processus démarré
+32817=Calcul de la vitesse de connexion
+32819=Identification reconnue
+32820=Ré-identification demandée
+32822=Identifié
+32826=Attente de redémarrage du modem
+32827=Rappel en attente
+32829=Interactif
+32831=Nouvel essai d'identification
+32833=Rappel demandé par l'appelant
+32835=Mot de passe expiré
+32837=Connecté
+32839=Déconnecté
+
+20000=Fichier %s téléchargé.\n\ntéléchargé %s (%I64d Octets)\nFichier enregistrer sous %s
+20001=Cette option n'est disponible que dans la version enregistrée
+20002=Impossible de renommer le fichier téléchargé depuis le répertoire temporaire (%s) vers %s. Le fichier a été enregistré dan le répertoire temporaire.
+20003=Échec de la vérification du mot de passe ! Réessayez.
+20004=Le mot de passe n'a pas été renseigné !
+20005=La section nom d'utilisateur n'a pas été remplie ! Réessayez.
+20006=La section site/chemin n'a pas été remplie ! Réessayez.
+20007=Êtes vous sûr de vouloir supprimer les informations de login pour ce site ?
+20008=Votre liste de téléchargement contient le fichier qui sera téléchargé de
+20009=.\nAppliquer cet utilisateur et ce mot de passe à ce téléchargement ?
+20010=.\nChanger l'utilisateur et le mot de passe de ce téléchargement pour \"anonyme\" ?
+20011=Le login pour ce site/chemin existe déjà dans votre liste de mot de passe.\nLe nouveau login n'a pas été ajouté. Vous voudrez peut être éditer l'existant.
+20012=Vous avez changé le \"site/chemin.\" Le login pour ce site/chemin existe déjà dans votre liste de mot de passe.\nLe nouveau login n'a pas été changé. Vous voudrez peut être éditer l'existant.
+20013=Ce site est provisoirement inaccessible!
+20014=Une autorisation est requise pour ce site/chemin. Vous pouvez régler le login pour ce téléchargement en sélectionnant propriété mas le menu click droit. Ou ajouter ce login dans \"Options/mot de passes sites\" pour utiliser ce login/mot de passe à chaque fois que vous téléchargerez des fichiers de ce site.
+20015=Une autorisation Proxy est requise pour ce serveur proxy. Vous pouvez changer le nom d'utilisateur du proxy et mot de passe dans \"Options/Proxy\"
+20018=Impossible de télécharger ce fichier.
+20019=Impossible de télécharger ce fichier.
+20020=Pas assez de mémoire pour reprendre le téléchargement.
+20021=Aucune connexion n'a pu être réalisé car la machine cible la refuse. \nLe service est probablement inactif sur le serveur ou votre firewall bloque Internet Download Manager. Si vous avez un firewall, assurez vous qu'il ne bloque pas Internet Download Manager.
+20022=Permission refusée.
+20023=Impossible de trouver l'adresse. L'adresse demandée n'est pas valide dans ce contexte.
+20024=Une connexion existante a été fermée par l'hôte. Ceci arrive normalement si l'application demandée sur le serveur a été fermée brusquement, ou si l'hôte est redémarré ou encore si l'hôte a fait  'une coupure matérielle'
+20025=Une opération a échouée parce que l'hôte est coupé. La connexion n'a pu être effectué car l'hôte est mort. L'activité réseau n'a pas été démarrée sur l'hôte.
+20026=Erreur de connexion. Cette hôte est inconnu. Le nom n'est pas officiel ou l'alias ou n'a pu être trouvé dans les bases de données interrogées.
+20027=Une tentative de connexion a été faite sur un réseau injoignable . Cela signifie que le programme ne connaît pas le chemin pour aller rendre visite à l'hôte, il est perdu !
+20028=L'hôte sur lequel vous étiez connecté s'est planté et à rebooté.
+20029=Une opération socket a rencontrée un réseau mort. Ceci peut indiquer une défaillance importante du réseau.
+20030=Trop de connexions ouvertes. Attendez que des téléchargements se terminent.
+20031=Une erreur est survenue pendant la connexion
+20032=La taille de %s est %I64d octets.\nil n'y a plus de place sur le disque '%s' où vous voulez sauvegarder le fichier.\nsi vous ne n\libérez pas de place il sera sauvegardé dans un répertoire temporaire %s
+20033=Il ne reste pas assez de place sur le disque '%s' pour enregistrer les parties du fichier téléchargé.\nPour continuer le téléchargement, libérez de la place ou modifiez l'emplacement du répertoire temporaire dans \"Options->Enregistrer sous\", et reesayez.
+20034=Trouve pas le serveur %s
+20035=Trouve pas le serveur proxy %s
+20036=Impossible de se connecter à %s:%ld
+20037=Impossible de se connecter au serveur proxy %s:%ld
+20038=Impossible de se connecter à %s:%ld\ntemps de connexion dépassé
+20039=Impossible de se connecter au serveur proxy %s:%ld\ntemps de connexion dépassé
+20040=Une erreur est survenue en complétant le fichier
+20041=Une erreur inconnue est survenue en complétant le fichier
+20042=Impossible d'ouvrir le fichier en local pour écriture pendant que la fusion des parties téléchargées se fait
+20043=Impossible d'estimer la taille de la partie suivante quand la fusion des parties se fait
+20044=Erreur d'allocation mémoire pendant la fusion des parties du fichier
+20045=Erreur fatale d'écriture pendant la fusion des parties du fichier
+20046=Erreur fatale de lecture pendant la fusion des parties du fichier
+20047=Un fichier inconnu ou une erreur de registre est survenue en reconstruisant d'anciennes parties de téléchargements
+20048=Impossible de se connecter au serveur
+20049=Erreur de lecture du socket internet
+20050=Erreur d'écriture du socket internet
+20051=Temps de connexion dépassé
+20052=Temps de connexion dépassé
+20053=Temps de connexion dépassé, redémarrage...
+20054=la connexion a échouée, redémarrage...
+20055=Une erreur est survenue pendant la réception de données
+20056=La connexion a été fermée par le serveur
+20057=Impossible de se connecter au serveur FTP avec le login
+20058=Impossible de trouver le fichier sur le serveur FTP.
+20059=Le serveur FTP n'autorise pas de connexions.
+20060=Une erreur est survenue en recevant une réponse du serveur FTP.
+20061=Une erreur est survenue en recevant une réponse du serveur FTP: format de réponse incorrect
+20062=Impossible de trouver l'adresse IP pour les données du socket en réponse à la commande PASV.
+20063=Impossible d'ouvrir un socket internet.
+20064=Impossible d'ouvrir un socket de données FTP
+20065=Ne peut attacher l'adresse au socket
+20066=Erreur durant l'appel pour écouter le socket de données
+20067=Erreur durant l'appel pour accepter le socket internet.
+20068=Impossible d'envoyer la commande PORT .\nerreur durant l'appel au socket().
+20069=Échec de la commande PORT.
+20070=Une erreur d'écriture du fichier est survenue lors de la réception de données d'internet.\nRaison possible: Le disque est plein !
+20071=Impossible d'ouvrir une connexion de données car le serveur FTP ne supporte pas la commande PASV 'utilise FTP en mode PASV ' dans Options\\Proxy/le Firewall est actif.
+20072=La taille du fichier %s n'a pas été donnée dans la réponse du serveur
+20073=Le serveur a renvoyé une réponse incorrecte sur une commande de redémarrage.
+20074=Le serveur a envoyé un nouvel emplacement et le nom du fichier %s a changé pour %s.\n\nContinuer le téléchargement ?
+20075=Déconnexion...
+20076=Téléchargement terminé, tous les morceaux de fichier sont réunis en un seul...
+20077=Une connexion optionnelle a été créée.
+20078=Connexion...
+20079=Sélection échouée
+20080=Connexion OK.
+20081=Erreur d'écriture en recevant des données d'un socket internet.
+20082=la procédure Recv() a échouée
+20083=La connexion a été fermée par le serveur.
+20084=Deconnexion.
+20085=Attente de réponse...
+20086=Réponse bonne
+20087=Réception de données...
+20088=Terminé.
+20089=Connexion de données: connexion en cours...
+20090=Connexion données: OK
+20091=Prêt pour récupérer les données
+20092=Vérifie la capacité de traitement des commandes: envois deux commandes simultanées...
+20093=Vérifie la capacité de traitement des commandes: première réponse OK, en attente de la seconde...
+20094=Réception d'information sur le fichier...
+20095=Impossible de trouver la fin de la chaîne dans la réponse du serveur.
+20096=Impossible de trouver la fin de la chaîne dans la réponse du serveur FTP.
+20097=Envois QUIT.
+20098=Le serveur n'est pas disponible pour un nouvel utilisateur.
+20099=Socket de control connecté.
+20100=Envois le nom d'utilisateur...
+20101=Envois le mot de passe...
+20102=Nom d'utilisateur MAUVAIS
+20103=Nom d'utilisateur OK
+20104=Mot de passe erroné
+20105=Mot de passe OK
+20106=Envoyer la commande PASV...
+20107=Le serveur ne supporte pas PASV.
+20108=PASV OK, extrait l'adresse...
+20109=Socket verrouillé, essai un appel écoute()
+20110=Acceptation en cours...
+20111=Accepté OK
+20112=Envoi d’une commande PORT...
+20113=PORT OK
+20114=Change le répertoire de travaille du serveur...
+20115=Échec CWD.
+20116=CWD OK
+20117=Échec de la connexion.
+20118=Envoi de commande TYPE ...
+20119=La commande TYPE a échouée.
+20120=TYPE OK.
+20121=Envoi de commande EST...
+20122=Échec de REST
+20123=REST. OK
+20124=Envoi de commande RETR...
+20125=Échec de RETR.
+20126=Envoi de commande TAILLE...
+20127=Envoi de commande LIST.
+20128=Échec de LIST.
+20129=LIST OK
+20130=Échec de TAILLE.
+20131=Ne trouve pas la taille du fichier dans la réponse.
+20132=TAILLE OK
+20133=Socket de contrôle pas connecté au serveur.
+20134=Redémarre au début car le fichier a été effacé. La reprise à partir d'une position arbitraire n'est pas supportée dans ce cas.
+20135=La connexion est redémarrée...
+20136=Le serveur ne supporte probablement pas les commandes pipelines
+20137=Capacité de commandes: OK
+20138=Envois HEAD...
+20139=Envois GET...
+20140=Reconstruits les anciennes parties téléchargées...
+20141=Connexion en cours...
+20142=Téléchargement terminé. %I64d octets téléchargées
+20143=Réception de données...
+20144=Connexions optionnelles, connexion en cours...
+20145=Le téléchargement a échoué.Téléchargé: %I64d Bytes en total
+20146=La taille de %s est de %I64d octets.\nIl ne reste pas assez de place sur le disque '%s' pour enregistrer les parties du fichier téléchargé.\nPour continuer le téléchargement, libérez de la place ou supprimez ce fichier de la liste de téléchargement ou modifiez l'emplacement du répertoire temporaire dans \"Options->Enregistrer sous\", et reesayez.
+20147=Il n'y a plus de place sur le disque '%s'.
+20148=Impossible de reconstruire les parties de fichier.
+20149=Ce téléchargement est déjà terminé, le chemin d'accès n'a pas changé.
+20150=La date de dernière modification a changée sur le serveur.\nVoulez-vous retélécharger le fichier ?
+20151=Votre version d'Internet Download Manager est la plus récente.
+20152=Une erreur est survenue en sauvegardant les données entrées, redémarrer.
+20153=Une erreur est survenue en allouant de la mémoire virtuelle. essayez de fermer des applications et cliquez sur 'Redémarrer'.
+20154=Reconstruction
+20155=Le nom du serveur demandé est valide, mais les bonnes données n'y sont pas disponibles (l'hôte existe, mais n'est pas joignable directement).
+20156=Fichier %s - téléchargé %s (%I64d Octets). Le fichier n'a peut être pas été téléchargé correctement car la taille du fichier est inconnue.\nfichier enregistré sous %s
+20157=Pas d'articles sélectionnés !
+20158=Déplacer vers le haut
+20159=Déplacer vers le haut
+20160=Supprimer l'article
+20161=Impossible de télécharger ce fichier. réponse du serveur http invalide.
+20164=Mise à jour rapide d'Internet Download Manager depuis www.internetdownloadmanager.com. Réception des nouveaux fichiers...
+20166=Manuel d'Internet Download Manager
+20167=Téléchargement arrêté par l'utilisateur
+20168=La mise à jour rapide a échouée, une erreur est apparue pendant le téléchargement des nouveaux fichiers d'Internet Download Manager. Relancez la mise à jour plus tard.
+20169=Le fichier demandé n'existe pas.
+20170=\nVoulez-vous l'ouvrir ?
+20171=Ce fichier existe déjà dans votre liste de téléchargement. Voulez-vous ajouter le dupliqué ?
+20172=Le serveur a répondu que vous n'avez pas le droit de télécharger ce fichier.
+20173=Une erreur est apparue en lisant le répertoire téléphonique.
+20174=Impossible de se connecter à internet.
+20175=Impossible de se connecter en raison de temps morts
+20199=Internet Download Manager n'a pas pu s'intégrer à Internet Explorer parce que vous n'avez probablement pas accès au registre système.
+20204=Le fichier a été déplacé.
+20205=Le fichier %s a été déplacé
+20206=Ouvrir le fichier téléchargé
+20207=Télécharger les composants Internet Download Manager
+20211=Le fichier %s sera enregistré sous %s. Ce fichier existe déjà sur votre ordinateur. Voulez-vous remplacer le fichier existant ?\n\n Cliquez sur \"OUI\" pour remplacer, \"NON\" pour enregistrer sous un autre nom, \"Annuler\" pour annuler l'ajout de ce fichier à votre liste..
+20212=Le fichier %s sera enregistré sous %s. Ce fichier existe déjà dans votre liste de téléchargement. Confirmez vous l'enregistrement du fichier sous ce nom ?\n\n Cliquez sur \"OUI\" pour confirmer, \"NON\" pour enregistrer sous un autre nom, \"Annuler\" pour annuler l'ajout de ce fichier à votre liste.
+20213=Importer dans Internet Download Manager
+20214=Impossible de lire le lien à partir du fichier ou le fichier est corrompu
+20215=Le fichier n'est pas un fichier d'exportation Internet Download Manager valide ou alors le fichier est corrompu.
+20216=Le fichier n'a pas de liens internet
+20217=Une erreur inconnue est survenue en exécutant l'opération !
+20218=Impossible de télécharger ce fichier, peut être que le serveur FTP ne supporte pas la fonction reprendre. Voulez-vous redémarrer le téléchargement de ce fichier ?
+20219=Le nom d'enregistrement du fichier était \"%s%s\", mais le serveur a envoyé le nom suivant \"%s\". Voulez-vous enregistrer le fichier avec le nom en provenance du serveur ?
+20220=Le téléchargement du fichier %s est terminé.\nCe fichier .m3u contient un lien vers un fichier MP3. Voulez-vous ajouter ce fichier aux téléchargements ?
+20221=Le téléchargement du fichier %s est terminé.\nCe fichier .m3u contient un ou plusieurs liens vers des fichiers MP3. Voulez-vous ajouter ces fichiers à votre liste de téléchargements ?
+20222=Fichiers M3U téléchargés.
+20225=Impossible de démarrer le programme d'antivirus.\n%s
+20226=Internet Download Manager a terminé sa liste de tâches. Comme prévu dans le programmeur Internet Download Manager va déconnecter votre modem.
+20227=Raccrocher le modem
+20228=Raccrocher
+20229=Arrêter
+20230=Limite de téléchargement dépassée !
+20231=Donnée invalide
+20232=Le format des heures dans \"les limites de téléchargement\" doivent être comprise entre 1 et 23. Veuillez corrigez ou décochez la case \"Limites de téléchargement\" .
+20233=Voulez-vous télécharger et installer le manuel ( 60 Ko) depuis le site web d'Internet Download Manager ?
+20234=Voulez-vous télécharger et installer le fichier d'aide (200 Ko) depuis le site web d'Internet Download Manager ?
+20235=Ne trouve pas HHCtrl.ocx pour afficher l'aide!
+20236=Aide d'Internet Download Manager
+20237=La taille du fichier a changée sur le serveur.\nLe téléchargement va reprendre du début.
+20238=Impossible de créer une connexion à travers le serveur proxy.
+20239=Une erreur est survenue en créant une connexion sécurisée vers %s.
+20240=Une erreur est survenue en cryptant le message demandé.
+20241=Une erreur est survenue en chargeant la bibliothèque de sécurité. Impossible de créer une connexion HTTP.
+20245=Options d'Internet Download Manager
+20246=Téléchargement terminé
+20247=Échec du téléchargement
+20248=Traitement de la file d'attente arrêté/terminé
+20249=Traitement de la file d'attente démarré
+20250=Événement
+20251=Fichier son
+20252=Impossible de copier le son selectionné dans le dossier de sons Internet Download Manager !
+20253=Il vous reste %d jours pour essayer Internet Download Manager. Voulez-vous enregistrer votre copie d'Internet Download Manager maintenant ?
+20258=Tous les téléchargements
+20259=Incomplets
+20260=Terminés
+20261=Programmes
+20262=Musique
+20263=Videos
+20264=Jeux
+20265=Documents
+20266=Ajouter une catégorie
+20267=Supprimer
+20268=Propriétés
+20269=Voulez-vous vraiment Supprimer la catégorie \"%s\" de la liste ?
+20270=Supprime une catégorie de la liste d'Internet Download Manager
+20271=Ajoute une catégorie à celles présentes dans la liste d'Internet Download Manager
+20272=Édition des propriétés des catégories
+20273=Renseignez \"le nom de Catégorie\" .
+20274=Le dossier \"%s\" n'existe pas.\r\nVoulez-vous créer le dossier ?
+20275=Impossible de créer le dossier !\r\n%s
+20276=Cacher les catégories
+20277=Afficher les catégories
+20278=Choisir un répertoire
+20279=Général
+20280=Voulez-vous placer les anciens téléchargements dans cette catégorie en fonction du type de fichier ? Les fichiers ne seront pas déplacés sur le disque dur, mais seront associés avec leur catégorie de téléchargement.
+20281=Voulez-vous placer les anciens téléchargements avec l'extension \"%s\" dans cette catégorie ? Les fichiers ne seront pas déplacés sur le disque dur, mais seront associés avec cette catégorie.
+20282=catégories Internet Download Manager
+20283=Internet Download Manager a eut une erreur de type \"Accès refusé\" quand il assemblait les parties téléchargées. Cela peut se produite parce que certaines applications comme un anti virus ou un firewall ont ouvert le fichier, mais ne l'ont pas fermé correctement, ou alors on tenté d'ouvrir le fichier qui etait en cours de téléchargement. Vous devriez redémarrer votre ordinateur et cliquez sur reprendre pour redémarrer l'assemblage du fichier
+20284=Répertoire par défaut pour la catégorie \"%s\"
+20285=Se souvenir du dernier chemin utilisé pour la catégorie \"%s\"
+20307=- Sélectionner votre connexion internet -
+20319=Autre
+20320=À propos d'Internet Download Manager
+20321=Restaurer Internet Download Manager
+20322=Quitter
+20323=Nous contacter
+20324=Aide
+20325=Commander en ligne
+20326=Enregistrement
+20327=Arrêter le téléchargement
+20328=Supprimer
+20329=Reprendre le téléchargement
+20330=Propriétés
+20331=URL non valide est entré. S’il vous plaît corriger.
+20332=Ce téléchargement n'est pas terminé, voulez-vous vraiment le supprimer ?
+20333=Ne trouve pas la configuration du proxy dans les paramètres internet
+20334=Le fichier avec cet URL a déjà été téléchargé par Internet Download Manager. Voulez-vous le retélécharger ?
+20335=Le fichier avec cet URL est déjà dans votre liste de téléchargement et attend de reprendre, voulez-vous reprendre le téléchargement ?
+20336=Trop de fichiers avec le même nom, effacez en certains ou changer les noms.
+20337=Entrer votre login.
+20338=Impossible de trouver le navigateur associé
+20339=Incapable de trouver l'application de mise à jour rapide.
+20340=Entrer votre nom d'enregistrement.
+20341=n° d'enregistrement saisi incorrect.
+20343=Saisir votre prénom
+20344=Saisir votre nom
+20346=Saisir votre e-mail
+20347=Saisir votre n° de série
+20348=Le n° de série entré est erroné
+20349=Internet Download Manager a été enregistré avec un faux n° de série. Internet Download Manager va se fermer...
+20351=Internet Download Manager a été enregistré avec un faux n° de série. Internet Download Manager va se fermer...
+20352=Internet Download Manager n'a pas été enregistré depuis 30 jours. La période d'essai est terminée, Internet Download Manager va se fermer...
+20353=Internet Download Manager n'a pas été enregistré depuis 15 jours. Internet Download Manager va se fermer...
+20354=Erreur inconnue durant
+20355=Inconnue
+20356=Ajouter à la file d'attente de téléchargement
+20357=Supprimer de la file d'attente
+20358=Démarrer la file d'attente
+20359=Arrêter la file d'attente
+20360=Ouvrir
+20361=Date du dernier essai:
+20362=Résultat:\n
+20363=Ne sélectionnez qu'un seul fichier pour ouvrir!
+20364=Ouvrir
+20365= existe déjà sur votre ordinateur. Voulez-vous remplacer le fichier existant ?\n Pressez \"OUI\" pour remplacer, \"NON\" pour enregistrer le fichier sous un autre nom, \"Annuler\" pour annuler le téléchargement.
+20366=Téléchargé de
+20367=Enregistrer comme
+20368=Voulez-vous vraiment supprimer tous les téléchargements terminés ?
+20384=Afficher les liens glissés
+20385=Attention ce programme est protégé par les lois sur les copyright et les traités internationaux. Une reproduction ou distribution non autorisée de ce programme, ou d'une portion de celui ci, pourra entraîner de sévères pénalités, et de toutes les poursuites que la loi nous permettra.
+20386=Impossible de créer le dossier %s, code erreur = %ld\n
+20387=Erreur
+20388=Fichiers
+20389=Tous fichiers
+20390=Détails:\n
+20391=Terminé.
+20393=Téléchargement terminé. vérification antivirus en cours...
+20394=AVI: Res. %dx%d, %d echan par sec, Longueur %s
+20395=, Longueur:
+20396=, Titre:
+20397=, Artiste:
+20398=, Album:
+20399=, Genre:
+20400=WAV: %d echan par sec, %d octets par echan, Longueur: %s
+20401=MPEG: Res. %dx%d, %.1f echan par sec, %d bites par im
+20402=%s,   totaux %ld fichiers
+20403= Essais
+20404= Complet
+20405=Numérotation  %ld
+20406=Erreur de numérotation indéfinie.
+20407=Les changements de langue dans la boîte de dialogue principale s'appliquera seulement après le redémarrage de Internet Download Manager. Vous souhaitez redémarrer Internet Download Manager maintenant ?
+20408=De %d:%02d à %d:%02d vous avez téléchargé %d Mo. Tous les téléchargements Internet Download Manager vont être arrêtés car vous avez dépassé la limite fixée dans le programmeur (ou dans 'Options->connexions')!
+20409=De %d:%02d à %d:%02d vous avez téléchargé %d Mo. Tous les téléchargements Internet Download Manager ont été arrêtés à %d:%02d car vous avez dépassé la limite fixée dans le programmeur (ou dans 'Options->connexions')!\r\n\r\nTous les téléchargements arrêtés recommenceront à %02d:%02d. Si vous voulez redémarrer les téléchargements immédiatement, changez les réglages dans limites de téléchargements et cliquez sur reprendre.
+20410=Terminé
+20411=Reconstruction...
+20412=Deconnexion...
+20413=Fichier Texte
+20414=Exporter les fichiers Internet Download Manager
+20415=Enregistrer sous...
+20427=SVP ne pas fermer la boite de dialogue quand Internet Download Manager assemble le fichier sinon il pourrait être endommagé.
+20428=Mise à jour rapide
+
+20429=Téléchargement transféré à Internet Download Manager...
+20430=cliquez sur retour pour revenir en arrière et parcourir de nouveau.
+20431=Internet Download Manager a échoué pour démarrer le téléchargement. l'exécutable n'a pas été trouvé.
+
+20433=Attention
+20434=Sélectionner un répertoire
+20435=Programme antivirus
+20439=Fichiers sons
+20440=Terminé
+20441=Propriété du fichier
+20442=Internet%20Download%20Manager%20-%20trop%20pirecool%20comme programme !!!
+20443=Téléchargé%20de%20
+
+//Please don't replace "English" to your local language, please just translate the "English" word
+20444=SVP utilisez l'anglais
+
+20445=Inconnue
+
+20447=Affichée en taille normale
+20448=Affichée en taille réduite
+20449=Non affichée
+
+//Please change XXX on the language you are translating Internet Download Manager to.
+q1=La langue Windows par défaut est le français. Voulez-vous appliquer cette langue pour Internet Download Manager ?
+
+20500=SVP achetez et installez la version complète d'Internet Download Manager d'abord !
+1338=Sélectionner la langue d'Internet Download Manager (Vous pouvez également la changer dans le menu Affichage -> Langue)
+20501=Fin de la période d'essai de 15 jours…
+20502=Personnaliser...
+20503=Date d'ajout
+20504=Date du dernier essai
+20505=Emplacement
+20506=Adresse
+33001=Personnaliser la barre d'outils...
+33002=Personnalise les URL...
+33004=Par emplacement
+33005=Par adresse
+33006=Par date du dernier essai
+20507=Colonne...
+
+209=Colonne
+1339=Sélectionner les colonnes que vous souhaitez visible dans cette liste. Utilisez les boutons monter et descendre pour réorganiser les colonnes comme bon vous semble.
+1160=Haut
+1083=Bas
+1340=Afficher
+1048=Cacher
+1053=Réinitialiser
+1341=La colonne sera de
+1342=pixels de largeur.
+
+//new category
+20508=Compressé
+
+//new dialog
+226=Nbre max. de connexions par serveur
+1348=Serveur
+
+1350=Max de conn. Par défaut
+1343=Nbre max. de connexions
+1344=Nouveau
+1345=Supprimer
+1346=Éditer
+1347=Exceptions:
+20509=Serveur
+20510=N°
+
+228=Télécharger les liens avec Internet Download Manager
+20511=Type
+20512=Lien
+1234=Utiliser le texte des lien pour la description
+1055=Cacher les HTML
+1060=Sans répétition
+1353=Tout sélectionner
+1354=Rien sélectionner
+1352=Éditer...
+1355=Merci de choisir les liens à télécharger, et de cliquer su OK. \r\n Vous pouvez attendre qu'Internet Download Manager remplisse tous les types des fichiers.
+
+20513=Le nom du fichier à enregistrer était \"%s\", mais le serveur a renvoyé le type \"%s\" et le fichier devrait être enregistré sous \"%s\". Voulez-vous enregistrer le fichier sous le nom correspondant au type renvoyé par le serveur ?
+
+//vers. 4.00
+20514=Retélécharger
+20515=Ouvrir le dossier
+
+q2=\"%s\" (%s) souhaite télécharger le fichier \"%s\" .\n\n Souhaitez-vous qu'Internet Download Manager se charge des téléchargements de cette application ? \n Vous pourrez annuler ou permettre cette prise en charge de \"%s\" en allant dans Options->Général
+
+20516=Le type de transmission de données \"%s\" n'est pas pris en charge à l'heure actuelle par Internet Download Manager, ou alors, il s'agit d'une mauvaise épellation. \r\n\r\n Merci de vérifier son épellation et d'essayer de nouveau.
+20517=Internet Download Manager  a reçu une erreur \"Acces interdit"\ au moment d'assembler le fichier. Cela peut venir du fait qu'il est été ouvert par une application tierce comme un antivrus, ou que vous ayez essayé de l'ouvrir vous-même. De manière a assembler le téléchargement, vous devrez redémarrer l'ordinateur, sélectionner le fichier dans la liste Internet Download Manager, clique-droit et \"Reprendre le téléchargement\".
+20518=Merci d'enregistrer Internet Download Manager avant la mise à jour.\r\n Aller dans \"Enregistrement->Enregistrement\" et entrez vos information d'enregistrement. Vous pourrez ensuite mettre à jour Internet Download Manager en allant dans \"Aide->Mise à jour rapide\".
+20523=En accord avec la licence que vous avez accepté, vous pouvez télécharger les mises à jour Internet Download Manager durant à 1 an après votre achat. SI vous souhaitez mettre à jour Internet Download Manager après cette date, vous devez souscrire à notre service de mise à jour.\r\n Voulez-vous accéder à notre page de souscription ?
+20519=Les touches pour forcer et empêcher le téléchargement doivent être différentes.\r\n Veuillez en choisir une autre.
+20525=Impossible de se connecter. Le nom de domaine est inconnu, et n peut être trouve dans les bases de données internet.\r\n\r\n Vous pouvez trouver ci-dessous les raisons de cette erreur:\r\n\r\n1. Vous avez un Firewall sur votre ordinateur, et vous venez juste d'installer, de remplacer, ou de mettre à jour votre version d'Internet Download Manager. Merci de vérifier vos paramètres de firewall en vous assurant qu'Internet Download Manager est accès à internet.\r\n\r\n2. Un service qui trouve les serveurs sur internet, appelé serveur DNS, a des problèmes temporaires, ou la connexion entre le serveur DNS et votre ordinateur est interrompue. Il est possible que vous ayez besoin de redémarrer votre ordinateur.\r\n\r\n3. Il y a une erreur d'épellation dans l'adresse internet. Merci de vérifier cette écriture.\r\n
+20522=Impossible de trouver le fichier %d pour l'intégration dans le navigateur. Voulez-vous les télécharger ?
+
+//Options->general
+1370=Détecte les applications qui téléchargent des fichiers.
+1368=Touches pour forcer/empêcher le téléchargement avec IDM
+1367=Clés...
+1375=Intégrer des IDM dans les navigateurs:
+
+229=Touches spéciales
+1361=Utiliser ces touches pour empêcher Internet Download Manager
+1067=Utiliser ces touches pour forcer Internet Download Manager
+1366=Cochez pour forcer le téléchargement suite à une touches spécial et un click souris.
+1374=Note: il arrive qu'après avoir cliqué sur un lien, la page vous demande d'attendre X seconds avant le téléchargement. Dans ce cas, vous devrez décocher les options suivantes pour forcer le téléchargement avec Internet Download Manager.
+
+//Download all links with IDM
+1356=Enregistrer sous...
+1357=Chaque fichier vers le dossier de la catégorie du fichier
+1358=Tout fichier dans une seule catégorie
+1359=Tout fichier dans une seule catégorie
+1360=Parcourir
+
+//Options->Proxy
+1378=Ne pas utiliser de serveur proxy pour les adresses commençant par:
+1377=Séparer les noms par des espaces
+
+
+20526=Internet Download Manager intégration au réseau
+20527=L'intégration réseau d'Internet Download Manager a été supprimée par une autre application. Voulez-vous restaurer l'intégration réseau d'Internet Download Manager ?
+20528=L'intégration réseau d'Internet Download Manager a été modifiée par une autre application  Cela peut subvenir à la suite de l'installation d'une nouvelle application, ou peut être due à l'utilisation érronnée de la base de registre d'une application. Voulez-vous restaurer l'intégration réseau d'Internet Download Manager ?
+20529=Les paramètres de l'intégration ont été modifiés. Internet Download Manager recommande de redémarrer votre ordinateur. \n\r Voulez-vous redémarrer maintenant ?
+20530=Les paramètres de l'intégration ont été modifiés. Vous devez redémarrer votre ordinateur car votre Firewall ne peut pas détecter ces changements, et que certaines applications risquent de ne pas bien comuniquer sans un redémarrage.\n\r\n\r Enregistrez vos travaux et fermez vos applications, puis cliquez sur OK.
+
+20531=Si vous souhaitez intégrer Internet Download Manager à d'autres applications en cours d'utilisation, vous devrez redémarrer ces applications, car Internet Download Manager ne peut s'intégrer dans des applications en cours.\r\n\r\n Après avoir intégré Internet Download Manager dans l'application, vous devrez décocher l'option \"Détecter de nouvelles application\" pour obtenir une meilleur performance.
+20532=Détecter les nouvelles Applications
+
+//v 4.01
+//Download All Links with IDM dialog
+1385=Ignorer les images de la page Web.
+//Options->General dialog
+1381=Utiliser l'intégration avancée
+20547=Il se peut que le passage à l'intégration avancée nécessite le redémarrage de l'ordinateur. Êtes-vous sûr de vouloir continuer ?
+//new dialog
+230=Vérification de la connexion internet
+1382=Cocher
+20536=IDM télécharge un test pour vérifier votre connexion. Veuillez patienter.
+20537=IDM teste Internet Explorer. Veuillez patienter pendant le téléchargement de la page de test.
+//Problem report dialog
+232=Internet Download Manager rapport de problèmes
+20546=Nous avons un rapport de configuration que vous pouvez nous envoyer. Il nous permettra d'améliorer Internet Download Manager dans les futur versions. Ces données sont techniques, nous ne collectons aucune information personnelle, et traiterons ce rapport de manière confidentielle et anonyme.
+1386=Ajouter ci-dessous vos commentaires
+1391=Si vous souhaitez être contacté lorsque ce problème sera résolu, merci de donner votre e-mail.
+20545=Envoi de données...\r\nVeuillez patienter quelques secondes.
+1390=Envoyer
+
+//new messages
+20533=Voulez-vous qu'Internet Download Manager utilise le même serveur proxy qu'Internet Explorer ?
+20534=1er lancement d'Internet Download Manager
+20535=Voulez-vous qu'Internet Download Manager utilise Windows DialUp de même que le fait Internet Explorer ?
+
+20538=Impossible de télécharger la page de test. Il est possible qu'Internet Download Manager soit en conflit avec une autre application internet ou un firewall. Vous pourrez utiliser de nouveau l'intégration dans téléchargements>Options>Général
+20539=Vous devez redémarrer votre ordinateur afin de restaurer les paramètres d’origine. Veuillez enregistrer votre travail et fermez toutes les applications maintenant, l’ordinateur redémarre lorsque vous appuyez sur le bouton OK.
+20540=Internet Download Manager a été intégré à votre réseau avec succès. Dans de rares cas, l'intégration peut entrer en conflit avec une tierce application. Si vous rencontrer ce problème, décocher la case \"Utiliser l'intégration avancée\" située dans Téléchargement->Options->Général
+20541=Vous avez désactivé l’intégration avancée de navigateur. Si vous avez trouvé un problème avec l’intégration du navigateur évolué, nous tenons à corriger le problème pour vous. Pour résoudre le problème, nous avons besoin recueillir et analyser des informations techniques sur la configuration de votre ordinateur et installé des applications Internet. IDM collecteront et vous montrer cette information sur la prochaine étape avant de l’envoyer à notre service d’assistance.\r\n\r\n Vous souhaitez IDM pour générer cette information ?
+20542=Suppression de l'intégration avancée.
+20543=Internet Download Manager doit télécharger une page de test pour vérifier la connexion internet. Merci de vérifier que vous êtes bien connecté à internet. Si vous avez un Firewall, vérifiez que la nouvelle version d'Internet Download Manager a bien les permissions d'accès à internet avant de continuer. Cliquez sur \"Vérifier\" et Internet Download Manager va télécharger de nouveau une page de test.
+20544=Internet Download Manager a modifié les paramètres d'intégration et a besoin de vérifier la connexion de nouveau. Si vous n'êtes pas connecté, connectez-vous maintenant, et cliquez sur \"Vérifier\".
+20548=Internet Download Manager a modifié les paramètres d'intégration. Vous devez redémarrer votre ordinateur pour permettre à vos applications internet de bien communiquer.\r\n\r\n Enregistrez vos travaux et fermez vos applications, puis cliquez sur OK pour redémarrer.
+
+//v4.01 build 4
+20549=Cette nouvelle version d'Internet Download Manager possède une fonction d'intégration avancée. Cette installation peut nécessitr un redémarrage de l'ordinateur.\r\n\r\n Grâce à cette nouvelle fonction, Internet Download Manager peut effectuer des téléchargements qu'il était alors impossible d'effectuer dans les vetrsions précédentes, ni dans aucun autre gestionnaire de téléchargement. Ainsi, Internet Download Manager est intégré à n'importe quel navigateur ou application Internet en maitrisant les flux de téléchargement FTP/HTTP. \r\n\r\n Dans de rares cas, l'intégration peut entrer en conflit avec une tierce application. Si vous rencontrer ce problème, il suffit de décocher la case \"Utiliser l'intégration avancée\" située dans Téléchargement->Options->Général.\r\n\r\n Souhaitez-vous installer l'intégration avancée ? 
+20550=L'intégration avancée a été installée avec succès
+
+//menu "File->Redownload"
+33009=Re-télécharger
+
+//new (since v4.00) toolbar buttons of the main window
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//A long inscription can make all buttons wider and they may cross the border 
+//of the dialog.
+20551=Démarrer la file d’attente
+20552=Arréter la file d’attente
+
+//v4.01 build 5
+20553=Internet Download Manager a intercepté un téléchargement qui allait être effectué par une autre application internet .Si vous ne souhaitez PAS que ce téléchargement se fasse à travers Internet Download Manager, allez dans les Options:\r\n\r\n 1. Si vous ne souhaitez pas télécharger ce type de fichier (extension), vous pouvez le supprimer de la liste des extensions. \r\n\r\n 2. Si vous souhaitez qu'Internet Download Manager ne télécharge pas des liens provenant de certains sites, vous pouvez ajouter le site à exclure dans la liste des sites.
+236=Astuce: Capture automatique des liens
+1393=Ne pas afficher la prochaine fois
+1397=Internet Download Manager permet de maîtrisez simplement le téléchargement des autres applications. Voulez-vous en savoir plus ?
+1396=En savoir plus
+
+//v4.02
+20569=Ce message apparaît lorsque une licence IDM est utilisée sur plusieurs ordinateurs. Vous devez comander  une licence Internet Download Manager par ordinateur.
+20570=Petits boutons
+20571=Grands boutons
+20572=Boutons classiques
+
+//new main menu itemsm
+m33001=Barre d'outils
+33510=Boutons classiques
+34010=Petits boutons
+34011=Grands boutons
+
+//a new (since 4.401) button on the Options dialog
+1371=Aide
+
+// The abbreviation of second, kilobytes, megabytes and gigabytes, 
+// it's used when denoting download speed measurement units, 
+// e.g. KB/sec --- kilobytes per second, etc.
+20575=sec
+20576=Go
+20577=Mo
+20578=Ko
+20579=Octets
+
+//v4.03
+20588=Impossible de reconstruire le fichier téléchargé. La construction des morceaux téléchargés est endommagé. Veuillez trouver ci après les raisons envisageables de ce probleme.\r\n\r\n 1.	L'ordinateur a été arrêté inopinément en raison de pannes secteur pendant le téléchargement/assemblage des fichiers.\r\n 2.	Une autre application ou un utilisateur a arrêté le processus d'Internet Download Manager pendant le téléchargement/assemblage des fichiers. Veuillez noter que la reconstruction de grands fichiers peut prendre un moment. Svp ne vous en faites pas, soyez patient, et attendez jusqu'à ce qu'Internet Download Manager finisse l'assemblage. Veuillez ne pas terminer le processus d'Internet Download Manager du gestionnaire de fichiers.\r\n\r\nSi ces evenements ne se sont pas produits, merci d'envoyer le fichier %s (Si il existe) au support technique d'Internet Download Manager pour analyse.
+
+//v 5.00 --- grabber
+1429=< Précédent
+1430=Suivant >
+
+1405=Ajout Filtre
+1421=Ajour Filtre
+1437=Recherche de fichiers uniquement sur ce site
+1459=Démarrer le téléchargement de tous les fichiers en une fois
+1471=Vous pouvez parcourir le site en premier, sélectionner les fichiers dont vous avez besoin, et les télécharger dans la fenetre principale de capture, ou les ajouter à la liste d'Internet Download Manager. Cette option télécharge tous les fichiers parcourus immédiatement.
+1515=Télécharger les fichiers suivants (types de fichiers)
+1516=Ne pas télécharger les fichiers suivants (types de fichiers)
+1480=Pas moins de
+1482=Pas plus de 
+1483=Ne télécharger que les fichiers situés dans les répertoires/domaines suivants:
+1486=Ne pas télécharger les fichiers situés dans les répertoires/domaines suivants:
+1517=Télécharger si la taille du fichier est de
+1488=Utiliser les points virgule ( ; ) pour séparer les titres.
+
+241=Internet Download Manager capture de site
+1446=Fichiers téléchargés:
+1448=Fichiers trouvés:
+1450=Pages Web traitées:
+
+244=Filtre
+1423=Ajouter
+1424=Éditer
+1425=Supprimer
+
+245=Filtre
+1426=Nom
+1427=Masque
+
+1414=Nom projet de grabber
+1510=Page départ/adresse
+1439=Autorisation
+1441=Saisir manuellement le login et mot de passe à la page web suivante:
+1511=Projet template
+1470=Si vous selectionnez un projet template, l'assistant appliquera les paramètres requis du projet pour le template selectionné à l'étape suivante. Noter que vous avez toujours la possibilité de modifier manuellement des paramètres.
+
+1514=Utiliser sous répertoire relatif
+1468=Convertir les liens en fichiers html téléchargés vers les fichiers locaux pour navigation hors ligne
+1469=Ecraser fichiers existants
+1436=Ajouter les fichiers selectionnés dans la liste principale Internet Download Manager pour file d'attente telechargement lors de la fermeture du captureur
+
+262=Paramètres de capture d'Internet Download Manager
+1518=Utiliser les liens texte comme descriptions de téléchargement en ajoutant les fichiers à la liste principale Internet Download Manager
+1466=fichiers à explorer en même temps (1 à 10)
+1467=fichiers à télécharger en même temps (1 à 10)
+1509=Veuillez noter qu'un serveur web peut rejeter les requetes si vous fixez un grand nombre de fichiers à explorer (télécharger) au même moment.
+
+1416=Ne pas explorer les répertoires parents
+1490=Niveaux au sein du site
+1435=Explorer entièrement le site
+1445=Explorer le nombre de niveaux de liens specifiés:
+1491=Niveaux sur d'autres sites
+1474=Explorer les pages web uniquement au sein des repertoires/domaines:
+1476=Ne pas explorer les pages web au sein des repertoires/domaines:
+1512=À ce stade, vous devez spécifier quelles sont les pages web à explorer pour trouver les fichiers désirés. A l'étape suivante, vous serez en mesure de choisir les types de fichier, emplacement, et autres filtres.
+1489=Quel est le nombre de niveaux ?
+1493=Explorer tous les sites au sein du domaine principal
+1494=Ignorer les fenêtres popup
+
+268=Nom Template
+1508=Merci de saisir un nom pour le template de capture
+
+269=Enregistrer le projet d'Internet Download Manager Grabber
+1507=Enregistrer le projet avec le nom suivant
+1513=Ne pas afficher cette fenêtre si le nom est unique
+
+270=Charger projet
+
+32811=Tutorials
+34022=Aide capture
+
+
+m1458=Projet
+1458=Nouveau
+1438=Charger...
+1442=Enregistrer
+34020=Enregistrer les paramètres courant comme template
+m34013=Derniers Projets
+34013=Liste des derniers Projets
+m1457=Options
+1457=Paramètres de capture
+34021=Planifier le projet
+
+t1398=Démarrer Exploration Site
+t1401=Arrêter Exploration Site
+t1353=Selectionner tous les fichiers
+t1354=Deselectionner tous les fichiers
+t1432=Démarrer le téléchargement des fichiers cochés
+t1433=Arrêter le téléchargement des fichiers selectionnés
+t1434=Ajouter des fichiers selectionnés à la liste Internet Download Manager et à la file d'attente de téléchargement
+
+
+20580=Paramètres personnalisés
+20581=Toutes les images du site web
+20582=Les fichiers Audio de la page de départ et d'un sous niveau
+20583=Tous les fichiers Video du site web
+20584=Tous les fichiers du site web à l'exception des pages web et des images
+20585=Tout le site web
+
+20589=Contenu Web
+20590=Avancé
+20591=Projets grabber
+20592=Internet Download Manager grabber
+20593=Merci de saisir la page/adresse de départ
+20594=Page/addresse de départ
+20595=Merci de saisir login et mot de passe ou désélectionner la zone \"Utiliser Autorisation\"
+20596=Merci de saisir la page login manuel ou de décocher la zone correspondante
+20597=Page login manuel
+20598=Aucun fichier selectionné !
+20599=%ld fichiers ont été ajoutés à la liste principale Internet Download Manager.
+20600=Impossible d'ajouter des fichiers. Trop de fichiers ont été selectionnés. Merci de les télécharger dans ce projet en cliquant sur le bouton \"Telecharger selectionnés\ dans la barre d'outils".
+20601=Impossible d'ajouter de nouveaux fichiers. La liste principale IDM contient trop de fichiers et cela pourrait ralentir Internet Download Manager. Merci de supprimer certains fichiers de la liste principale.
+
+20602=Ce nom est réservé. Merci de sélectionner un autre nom pour votre template.
+20603=Un template avec ce meme nom existe déja. Voulez remplacer le template ?
+20604=Enregistrer le projet de capture ?
+
+//right click menu
+20605=Ouvrir projet
+20606=Planifier projet
+20607=Supprimer projet
+
+20608=Merci de fermer d'abord le projet de capture qui est en cours d'execution.
+20609=Planifier le projet de capture
+20610=Très prochainement !!!\r\n\r\nVerifier cette caracteristique dans la prochaine version d'IDM
+
+//displayed statuses
+20611=Exploration site
+20612=Téléchargement
+20613=Terminé
+20614=Arrêter
+
+20615=Le projet avec le nom \"%s\" existe déjà. Merci de selectionner un autre nom.
+20616=Il n'y a aucun projet sauvegardé d'Internet Download Manager grabber
+20617=Merci de sélectionner le nom du projet!
+20618=Voulez vous supprimer le projet de capture \"%s\"?
+20619=Nombre de fichiers explorés au meme moment non valide. Merci de saisir un nombre correct.
+20620=Nombre de fichiers téléchargés au meme moment non valide. Merci de saisir un nombre correct.
+20621=Impossible d'ouvrir le fichier \"%s\"\r\n\r\n%s
+20622=Aimeriez-vous télécharger et installer le fichier d'aide d'Internet Download Manager Grabber (environ 100 Ko) depuis le site web d'Internet Download Manager ?
+20623=Ne peut charger le fichier projet.\r\nErreur d'allocation de mémoire.
+20624=Ne peut charger le projet.\r\nLe fichier du projet de facture est corrompu ou sa version n'est pas valide.
+20625=Le projet de fichier de capture est corrompu. Plusieurs fichiers n'ont pas été chargés
+20626=Ne peut charger le fichier template.\r\nLe fichier d'information template est corrompu ou sa version n'est pas acceptable.
+20627=Chargement fichier de capture
+20628=Enregistrement template de capture
+20629=Enregistrement projet capture
+20630=Chargement projet capture
+
+//step dialogs captions
+20631=Internet Download Manager capture Site. Etape %d --- %s
+20632=Fixer page démarrage
+20633=Enregistrer fichiers sous
+20634=Fixer filtres explorateur
+20635=Fixer filtres fichier
+
+20636=Page login manuel
+20637=Appuyer sur OK quand le processus de login est terminé
+20638=OK
+20639=Annuler
+
+//v4.04
+20640=Si vous avez pour objectif de prendre des téléchargements uniquement depuis Internet Explorer, alors vous n'avez pas besoin de cette option, et vous devriez répondre \"Non\".
+
+//v4.06
+20641=Connection à
+20642=Domaine:
+1534=Enregistrer ce mot de passe dans la liste Internet Download Manager
+1536=Saisisser votre nom d'utilisateur et mot de passe.
+1537=Nom d'utilisateur:
+1538=Mot de passe:
+
+//v4.07
+
+280=Télécharger en partie
+1553=Il est possible d'ajouter un groupe de noms de fichiers sequentiels comme img001.jpg, img002.jpg, etc., img100.jpg dans la file d'attente de telechargement d'Internet Download Manager. Utiliser les asterisques pour le modèle de nom de fichier. \nPar exemple:   http://www.internetdownloadmanager.com/pictures/img*.jpg
+1540=Nombres
+1541=Lettres
+1556=De:
+1557=À:
+1547=Asterisque
+1555=Remplacer l'asterisque par
+1558=Premier fichier:
+1559=Second fichier:
+1560=Dernier fichier:
+
+20643=Cocher tous les fichiers selectionnés
+20644=Déchocher tous les fichiers selectionnés
+
+1552=Remplacer les noms de fichier en utilisant les asterisques pour le modele de nom de fichier:
+
+34024=Téléchargement par partie
+
+20645=Il n'y a pas d'asterisques dans l'URL pour créer une liste de fichiers à télécharger !
+20646=Télécharger en lot
+20647=Trop de fichiers. Le nombre de fichiers ne doit pas excéder 1000. Merci de sélectionner un autre format \"De: A:\".
+20648=Enregistrer vers répertoire/categorie
+
+//v5.00 beta
+
+vs
+20649=Merci de saisir la page de logout ou de décocher la case correspondante
+
+20554=Tous les fichiers
+20555=Fichiers images
+20556=Fichiers video
+20557=Fichiers audio
+20558=Fichers executable
+20559=Fichiers compressés
+20560=Fichiers de document pdf
+
+20561=Ne pas utiliser de filtres d'exclusion
+
+20562=Plan du site
+20563=Paramètres
+
+20564=Nom Filtre
+20565=Masque
+20566=Merci de remplir le nom du filtre
+20567=Merci de remplir le masque
+20568=Le filtre avec le nom \"%s\" existe déjà. Merci de choisir un autre nom.
+
+20650=Merci d'attendre...
+20651=Suppression des fichiers temporaires
+20652=Enregistrement projet de grabber
+20653=Suppression projet de grabber
+20654=Appliquer les modifications
+20655=Chargement projet de grabber
+20661=Vérification des changements
+20662=Téléchargement page login manuel
+
+20656=Il n'existe pas assez d'espace libre sur le disque %s pour procéder au projet de capture. Merci de libérer de l'espace et essayer encore.
+20657=Il n'y a pas assez d'espace libre sur le disque %s pour ouvrir le projet capture. Merci de libérer de l'espaceet de réessayer.
+20658=Ne peut ouvrir le projet. Certains fichiers de projet ont été corrompus ou supprimés.
+
+20659=Terminer la page de départ avec toutes les images, styles et scripts pour une navigation hors ligne
+20660=Terminer la page de départ
+
+20663=Ne peut pas télécharger la page de login manuel. Merci de vérifier la syntaxe de l'URL.
+
+33010=Exécuter site grabber
+
+1563=Appuyez sur le bouton avancé pour activer le login manuel ou pour désactiver une page logout
+1561=Ne pas ouvrir la page de déconnexion:
+1564=De nombreux sites disposent d'une page de logout que le grabber ne devrait pas ouvrir.  Vous pouvez utiliser des asterisques pour spécifier un modèle pour les différentes pages de logout.
+1571=Cacher les fichiers dupliqués trouvés dans les different endroits
+1565=Executer JavaScript
+1567=Utiliser cette option avec soin. Quel est le risque ?
+1573=Consulter les fichiers dans le cache IE avant téléchargement
+1568=Utiliser les asterisques comme modèle de caractère générique. Utiliser les virgules sans espaces pour separer les données 
+
+//grabber dlg tree
+20664=Tous fichiers
+20665=Affichier le lien
+20671=Affichier le repertoire
+20667=Autres sites
+20668=sites
+
+20669=Filtres d'exclusion
+20670=Filtres d'inclusion
+
+t34023=Afficher statistiques de capture
+271=Statistiques d'Internet Download Manager Grabber
+1574=Statut:
+1575=Pages Web accomplies
+1576=Simple
+1577=Avancé
+1578=Fichiers
+1579=Total
+1580=Exploré
+1581=Correspondant
+1582=Téléchargé
+
+//v5.00 build 3
+20672=Vue vignettes
+20673=Aucun fichier téléchargé
+
+20674=Pas trouvé
+20675=Interdit
+20676=Erreur
+
+//v5.01
+284=Planifier le projet de capture
+1583=Exploration/telechargement à heure
+1584=Synchronisation périodique
+1585=Explorer seulement
+1586=Explorer site et télécharger fichiers correspondant
+1587=Télécharger fichiers cochés
+1588=Étape 3. Planification
+1601=Étape 2. Selectionner action
+1600=Étape 1. Selectionner type
+1593=Projet:
+1590=Ouvrir le fichier suivant après coup:
+1595=Redémarrer toutes les
+1597=heures
+1598=min
+1599=Tous les jours
+1602=Note: Internet Download Manager devra être lancé en tache de fond à l'heure précisée pour démarrer le projet planifié
+20677=Pour utiliser le planificateur de projet, vous devez enregistrer le projet en premier. Enregistrer maintenant le projet?
+20678=Internet Download Manager a fini de procéder à la capture. En fonction des paramètres du planificateur de projet, votre ordinateur reboot.
+t33010=Démarrer la capture de site
+t34021=Planifier le projet
+t34025=Tout mettre à jour
+20679=Le projet de capture planifié ne peut etre lancé à %d:%02d parce que le projet est déjà en route à cette heure.
+20680=Le projet de capture planifié ne peut etre lancé à %d:%02d parce que les paramètres  de projet étaient en cours de modification à ce moment.
+20681=Java-script ne sera pas activé pour les pages web qui ont déjà été explorées/exécutées. Si vous voulez lancez Java-script pour ces pages, vous devez presser sur le bouton \"Tout mettre à jour\" sur la fenêtre d'action bare d'outils.
+20682=Le bouton update mettra à jour le projet par (a) Commencer par explorer le site à partir de la page de départ, (b) Mettre à jour les fichiers s'ils ont été modifiés sur le serveur, et (c) télécharger les nouveaux fichiers.
+20683=Le bouton update mettra à jour le projet par (a) Commencer à explorer le site depuis lapage de départ, (b) mettre à jour les fichiers cochés s'ils ont changé sur le serveur.
+20684=Noter que les anciens fichiers qui ont été trouvés avant la mise à jour ne seront pas supprimés. Le programme analysera à nouveau toutes les pages web sur le site, et ca peut prendre du temps.\r\n\r\nÊtes-vous sur de vouloir mettre à jour le projet ?
+
+//version 5.02
+20685=Renommer projet
+20686=Minimiser dans la barre des taches
+20688=Restaurer toutes les fenetres de téléchargement
+20689=Vous pouvez activer cette fenetre dans \"Options->Telechargements\"
+20690=Paramètres d'IDM
+20691=Téléchargés %s (%I64d Octets)
+20692=Le fichier n'a peut etre pas été chargés complètement parce que la taille du fichier est inconnu.
+20693=Rappeler ce chemin pour la catégorie \"%s\"
+20694=Téléchargement terminé
+1610=Addresse
+1611=Fichier enregistré sous
+1606=Ouvrir répertoire
+1607=Ne plus afficher cette fenêtre
+t1608=Parcourir
+20695=Téléchargement d'IDM
+1615=Ignorer les modif. de changements d'heure en reprenant un téléchargement
+1613=Lire plus
+20696=IDM vérifie les mises à jour toutes les 2 semaines en allant sur la site d'Internet Download Manager. Si votre parefeu bloque les requetes de mise à jour Internet Download Manager et montre un message d'alerte correspondant, vous devez comprendre que la requete est OK et que c'est sans risque pour l'autoriser.
+1617=Adresse
+1619=Adresse:
+1618=Vous pouvez utiliser les asterisques comme modele de caractère générique
+
+//Please note that the old menu item string changed from m32771=URL to m32771=Tasks
+//also strings 32771 and 148 have been changed
+
+//v 5.02 Build 2
+1621=Mettre à jour notice
+290=Mise à jour notice Internet Download Manager
+20697=Pas de téléchargement minimiser
+
+// v 5.02 Build 3
+1622=Note: Ces paramètres ne sont pas liés au process de file d'attente
+
+// v 5.02 Build 6
+20698=Parcourir
+
+// v 5.02 Build 10
+20586=Rechercher les raisons possibles pour cette erreur:\r\n\r\n 1. Connection internet non trouvable. Merci de vérifier votre Connection Internet.\r\n\r\n 2. Vous avez un parefeu sur votre ordinateur, et vous avez juste installé, remplacé ou mis à jour votre version actuelle d'Internet Download Manager. Merci de vérifier les paramètres de votre parefeu et assurez vous que Internet Download Manager a les autorisations pour accéder.\r\n\r\n 3. Un service qui trouve les serveurs Internet appelé DNS a temporairement des problemse, ou la connexion réseau entre le DNS et votre ordinateur a été interrompu. Il est possible que vous ayez besoin de rebooter votre ordinateur.\r\n
+1570=Referant:
+
+// v 5.02 Build 12
+20587=En essayant de reprendre le chargement, Internet Download Manager a eu une réponse du serveur qu'il n'est pas compatible avec la reprise de téléchargement. \r\nIl est possible que ce soit une erreur temporaire du serveur, et que vous serez à meme de reprendre le chargemen plus tard, mais à l'heure actuelle Internet Download Manager peut télécharger ce fichier en reprenant du début. \r\n\r\n Voulez vous télécharger ce fichier depuis le début?
+
+// v 5.03
+20699=Les types de fichiers qui ne sont pas listés dans d'autres catégories
+20700=Vous avez pressé le bouton "Télécharger plus tard", mais actuellement Internet Download Manager a déjà téléchargé une partie du fichier. Internet Download Manager débute toujours les téléchargements en affichant la fenetre "Info de téléchargement". Vous pouvez désactiver dans la fenêtre "Options->Telechargements"
+20701=Télécharger plus tard
+20702=Un répertoire temporaire est nécessaire pour enregistrer les morceaux de fichier durant le téléchargement.\n Si vous avez plusieur disques physiques dans votre ordinateur, vous pouvez sélectionner des disques physiques différents pour répertoire temporaire et "Enregistrer sous" pour un assemblage plus rapide des fichiers téléchargés.
+20703=Placer automatiquement dans la catégorie \"%s\" les types de fichiers suivants:
+20704=Enregistrer sous
+20705=Categories, types de fichiers, répertoires
+1623=Démarrer immédiatement le téléchargement lors de l'affichage de la fenêtre "Info Téléchargement fichier" 
+
+292=Rebooter ordinateur
+1627=Arrêter
+20706=Redémarrage dans %d secondes
+20707=Redémarrer maintenant
+
+// v 5.04
+//Options->File Types and Options->General changes (for basic integration)
+20708=Types de fichiers
+20709=Types de fichiers téléchargés
+20711=Note: Des anciens navigateurs comme Opera ou basés sur Mozilla peuvent etre intégrés à Internet Download Manager en utilisant des plugins. Ce type d'intégration n'est pas compatible avec la liste des serveurs d'exception pour prévenir un téléchargement Internet Download Manager. Et, quand vous changez la liste des types de fichiers avec ces navigateurs, vous devez les redémarrer afin de recharger les plugins. Ces restrictions ne s'appliquent pas si vous utilisez  \"Integration navigateur avancée\" dans l'onglet \"General\".
+1632=Details
+1633=Ajouter un navigate...
+1634=Actuatiser tout
+20710=Note: Des anciens navigateurs comme Opera ou basés sur Mozilla peuvent etre intégrés à Internet Download Manager en utilisant des plugins. Ce type d'intégration est incompatible avec les raccourcis spéciaux pour prévenir ou forcer un chargement Internet Download Manager depuis ces navigateurs. Pour disposer de cette option avec ces navigateurs, vous devez utiliser l'option \"Integration avancée\".
+
+//MessageBoxes
+20713=Integration navigateur d'Internet Download Manager
+20712=Internet Download Manager ne peut pas trouvrer le navigateur %s sur votre ordinateur. Merci de localiser le fichier executable du navigateur dans la fenêtre suivante.
+20714=L'integration dans les navigateurs en utilisant les plugins a échouée !
+20715=Plugins pour navigateur %s installés.
+20716=Plugins pour navigateur %s %s installés.
+20717=Plugins pour navigateur %s a été retiré.
+20718=Merci de redémarrer le navigateur pour activer les modifications.
+20719=Merci de localiser le fichier executable du navigateur dans la fenêtre suivante.
+20720=Ne peut installer l'extension du navigateur Internet Download Managermzcc.xpi pour Mozilla Firefox !
+20722=Internet Download Manager a détecté que le navigateur %s %s est le navigateur par défaut sur votre ordinateur. \n Voulez-vous l'intégrer avec Internet Download Manager?
+20723=Ne peut installer l'extension pour navigateur Internet Download Managermzcc.xpi !
+20724=Le navigateur %s %s va etre ouvert pour installer l'extension pour integration avec Internet Download Manager.\n Merci de confirmer l'installation de l'extension Internet Download Managermzcc.xpi de Tonec Inc. dans la fenetre correspondante du navigateur et relancez le navigateur après installation.
+20725=Ne peut installer les plugins pour le navigateur %s %s !
+20726=Internet Download Manager a été intégré avec succès dans Internet Explorer.\n Vous devez redémarrer Internet Explorer pour appliquer les modifications.
+20727=Internet Download Manager a détecté que le navigateur %s %s a été aussi installé dans votre ordinateur. \n Voulez vous l'intégrer avec Internet Download Manager de même?
+20728=Les navigateurs selectionnées vont s'ouvrir maintenant pour installer l'extension pour integration avec Internet Download Manager.\n Merci de confirmer l'installation d'extension Internet Download Managermzcc.xpi de Tonec Inc. dans la fenetre correspondante et relancez le navigateur après installation.
+20729=Les Plugins pour les navigateurs installés ont été installés.\n Merci de redémarrer les navigateurs pour appliquer les modifications.
+20730=Internet Download Manager a déjà été intégré dans Internet Explorer !
+20731=Internet Download Manager ne peut pas trouver ce navigateur dans la base de données d'integration (basic). Vous devriez essayez intégration avancée du navigateur pour captuter les téléchargements de ce navigateur.
+20732=Ne peut pas installer les plugins pour navigateurs avec les type d'integration correspondant !
+
+//new dialogs
+296=Intégration d'un navigateur
+1635=Internet Download Manager a détecté les navigateurs additionnels suivant sur votre ordinateur. Merci de sélectionner les navigateurs que vous voulez coupler avec Internet Download Manager.
+297=Détails navigateur
+1636=Ajout version...
+20733=Navigateur
+20734=Type d'intégration
+20735=Chemin
+20736=Extension
+20737=Plugins
+
+//new menu item on main dlg popup menu and new button on Download complete dlg
+20738=Ouvrir avec...
+1639=Ouvrir avec...
+
+//
+20739=Localiser le navigateur
+
+// v 5.05
+20740=Internet Download Manager télécharge ce fichier maintenant !
+20741=Dupliquer le lien de téléchargement
+298=Dupliquer le lien de téléchargement
+20742=Afficher une fenêtre pour demander quoi faire.
+20743=Ajouter le fichier dupliqué avec un nom de fichier numéroté
+20744=Ajouter le fichier dupliqué et écraser le fichier existant
+20745=Si le fichier existant est complet, afficher la fenetre de téléchargement complet; sinon reprendre le téléchargement.
+1641=Ce fichier existe déjà dans votre liste de téléchargement. Vous pouvez choisir une des options suivantes ou appuyer sur le bouton annuler pour sauter le téléchargement de ce fichier
+1645=Mémoriser ma sélection et ne pas afficher à nouveau cette fenêtre.\r\n Vous pourrez le changer dans Internet Download Manager Option -> Télécharger plus tard.
+1646=Si un lien de téléchargement existant déjà est ajouté:
+
+20746=Navigateur Internet Explorer, MSN Explorer, et basés sur Internet Explorer
+20747=Netscape 8.0 et plus tard
+20748=Netscape 7.xx et 6.xx
+
+// v 5.05 build 2
+20749=Vous pouvez glisser et déposer ce fichier
+//Dear translators, if you added "CompleteDlg.htm" topic to your help file, or you did not translate the help file and use the English version, please add and translate the phrase "Press F1 to read more" at the next line.
+20750=Glisser cette icone pour démarrer l'opération de glisser déposer le fichier téléchargé.
+//or 20750=Glisser cette icone pour démarrer l'opération de glisser/déposer pour le fichier téléchargé.\r\nAppuyez sur F1 pour en savoir plus.
+20751=Glisser et déposer le fichier téléchargé
+
+// v 5.07
+1647=Continuer
+20754=Vous avez besoin des droits d'administrateur pour enregistrer des fichiers dans les chemins choisis
+20755=Vous avez besoin des droits d'administrateur pour accomplir cette opération
+
+// v 5.07 build 2
+20756=Le programme d'Installation d'Internet Download Manager doit rebooter votre ordinateur pour remplacer les fichiers qui étaient en cours d'utilisation. Appuyez sur le bouton ok pour rebooter votre ordinateur maintenant
+20757=Confirmer le redémarrage
+20758=Internet download manager a été installé avec succès. Il démarrera automatiquement et prendra en charger les téléchargements de votre navigateur.
+20759=Vous pouvez aussi le démarrer depuis le menu \"Démarrer -> Programmes -> Internet Download Manager\".
+
+// v 5.07 build 6
+//new checkbox on Options->General
+1650=Démarrer le module de surveillance des clics sur navigateurs basés sur Internet Explorer
+
+//v 5.08 build 5
+//new dialogs
+302=Annulation d'un téléchargement lancé automatiquement
+1651=Vous avez annulé ce téléchargement deux fois.\n\n Si Internet Download Manager reprend ce téléchargement à chaque fois par erreur vous devriez ajouter cette adresse ou ce site dans la liste Internet Download Manager d'exceptions
+1652=Ne pas démarrer le téléchargement automatique de ce site:
+1653=Ne pas démarrer le téléchargement automatique de cette adresse:
+1655=Vous pouvez éditer la liste des exceptions dans l'onglet \"Options->Types de fichier\" de la fenêtre options
+1654=Ne pas afficher cette fenêtre à nouveau
+
+303=Liste des adresses d'exceptions
+1661=Ne pas démarrer le téléchargement automatique des adresses suivantes:
+1659=Afficher la fenêtre pour ajouter une adresse à la liste d'exceptions pour téléchargement annulé deux fois
+
+304=Ajouter une adresse dans la liste d'exceptions
+
+//changes in "Options->File Types" dialog:
+1656=Éditer la liste ...
+//label 1372 was divided into 2 parts
+1667=Ne pas démarrer le téléchargement automatiquement des sites suivants:
+1662=(séparer les noms par des espaces)
+
+//v 5.08 build 7
+20763=Le fichier désiré ressemble à une page web html.\r\n\r\n Le serveur envoie une page html pour la deuxième requete. Certains serveurs n'autorisent pas de demander le meme fichier 2 fois. Etant donné que vous avez désactivé l'option \"Démarrer le téléchargement immediatement lorsque que vous affichez la fenetre de téléchargement\", Internet Download Manager envoi la premiere requete pour trouver le type de fichier et sa taille, et envoi la deuxieme requete lorsque appuyez sur \"Demarrer téléchargement\". \r\n\r\n Essayez d'activer  \"Démarrer téléchargement immédiatement lors de l'affichage de la fenetre Infor de téléchargement de fichier \" option dans \"Options->Téléchargements\", actualiser la page dans votre navigateur, et essayez de télécharger ce fichier à nouveau.
+
+//v 5.09 build 4
+305=Internet Download Manager ne peut prendre en charge le téléchargement
+20764=Certains sites n'autorisent pas une requete sur le meme fichier deux fois de suite.\r\n\r\n Le navigateur fait la premiere requete du fichier \"%s\" et Internet Download Manager a essayé de faire une requete sur le meme fichier, le site a envoyé une page web à Internet Download Manager au lieu du fichier à télécharger.\r\n\r\n Pour prendre en charge ce téléchargement vous pouvez activer un raccourci \"Internet Download Manager Options->General->Raccourcis...\". Appuyez et maintenez la touche tout en cliquant sur le bouton/lien de téléchargement ainsi Internet Download Manager pourra prendre en charge le téléchargement avant la première requete au serveur. Notee que la touche \"Ins\" devrait fonctionner pour la plupart des navigateurs.
+
+//v 5.11
+//new scheduler dialog
+308=Planificateur
+1675=Nouvelle fichier
+1678=Supprimer
+1684=File d'attente
+20783=Files d'attente
+306=Planning
+1680=Nbre de réessais pour chaque fichier si échec chargement:
+307=Fichiers dans la file d'attente
+1687=Limites de téléchargement
+20765=Limites de téléchargement
+20767=file d'attente # %ld
+20768=file d'attente principale téléchargement
+20769=file d'attente synchronisation
+
+20770=Créer nouvelle file d'attente
+20771=Déplacer dans la file d'attente
+20772=Ajouter dans la file d'attente
+20773=Démarrer maintenant
+20774=Arrêter
+20775=Modifier file d'attente
+20776=Planning
+20777=Voulez vous vraiment supprimer %s ?
+20778=Démarrer %s
+20779=Arrêter %s
+20780=Files d'attente Internet Download Manager
+20781=Les images dans la colonne \"Q\" montrent à quelles files d'attente ils appartiennent.\r\nVous pouvez déplacer les fichiers d'une file d'attente vers une autre dans le menu de contexte de fichier.\r\nPour plus d'information sur les files d'attente, merci de vous référer à l'aide du planificateur.
+20782=Voulez vous télécharger et  installer le fichier d'aide \"Planificateur et files d'attente Internet Download Manager\" (à peu près 100 Ko) depuis le site d'Internet Download Manager ?
+1685=Vous avez planifié l'heure de départ pour démarrer la file d'attente.\r\nMerci de noter que pour démarrer la file d'attente à l'heure spécifiée, il est nécessaire qu'Internet Download Manager soit lancé à ce moment au minimum dans la barre des taches (Afficher l'image suivante)
+310=Saisir un nom de file d'attente
+1686=Saisir un nom pour une nouvelle file d'attente qui sera affichée dans la liste des files d'attente
+
+//menu items
+m34026=Démarrer file d'attente
+m34028=Arrêter file d'attente
+34029=Planificateur et files d'attente
+//tooltips for "Start queue" and "Stop queue" toolbar buttons.
+t34030=Démarrer la file d'attente principale, ou choisissez une file d'attente à démarrer depuis la liste
+t34031=Arrêter la file d'attente principale de téléchargement, ou choisissez une autre file d'attente pour arreter
+
+//v 5.11 build 3
+1679=Téléchargement une fois
+
+//v 5.11 build 5
+20786=Le téléchargement de données a été interrompu et le serveur ne permet pas de \"reprendre\". La seule possibilité est de reprendre le téléchargement depuis le début.\r\n\r\n Il existe plusieurs façons de résoudre le problème:\r\n 1. Il est possible que le serveur rencontre des problèmes temporaires. Essayez de reprendre ce téléchargement plus tard.\r\n 2. Vous pouvez laisser ce fichier dans la liste d'attente (créer une nouvelle file) et exécuter la file. Dans ce cas, Internet Download Manager redémmrrera à télécharger ce fichier depuis le début jusqu'à ce qu'il télécharge le fichier avec succès.\r\n Pour obtenir les meilleurs résultats, vous devriez aussi affecter 1 connection pour ce site dans la liste des exceptions d'Internet Download Manager onglet \"Options->Connection\".\r\n
+20784=\"Internet Download Manager CC\" extension pour navigateurs basés sur Mozilla a changé dans cette version d'Internet Download Manager. Vous aurez besoin de réinstaller l'extension pour utiliser ces nouvelles fonctionnalités. Voulez-vous réinstaller l'extension pour le navigateur %s %s ?
+20785=\"Internet Download Manager CC\" extension pour navigateurs basés sur Mozilla a changé dans cette version d'Internet Download Manager. Vous aurez besoin de réinstaller l'extension pour utiliser ces nouvelles fonctionnalités. Voulez-vous installer la nouvelle extension  \"Internet Download Manager CC\" pour les navigateurs qui ont une ancienne extension \"Internet Download Manager CC\" ?
+
+//v 5.11 build 7
+//Items in context menu of browsers:
+20810=Télécharger avec IDM
+20811=Télécharger video FLV avec Internet Download Manager
+20812=Télécharger la dernière video FLV demandée
+20813=Choisir parmi les 10 dernières videos FLV demandées
+20814=Télécharger la dernière video FLV demandée avec IDM
+20815=Télécharger avec IDM des videos FLV parmi les 10 dernières demandées
+20816=Télécharger tous les liens avec IDM
+20817=Télécharger le contenu de video FLV avec IDM
+
+20790=Enregistrer les video FLV
+20791=Vous pouvez enregistrer les videos FLV que vous aimez en utilisant l'option \"Telecharger le contenu de video FLV avec IDM\" . \r\n\r\nLe menu contextuel du navigateur apparait quand vous faites un click droit sur une page web (mais pas dans un lecteur FLV) dans votre navigateur ou en utilisant la touche de menu contextuel du clavier
+20792=Impossible de trouver des liens video FLV sur cette page web.\r\nIl est possible que votre navigateur n'ait pas encore fait une requete sur cette video. Vous devez attendre jusqu'a ce que  votre navigateur fasse la requete et reessayer. Dans certains cas vous avez juste besoin d'appuyer sur le bouton \"Lecture\" de votre lecteur web.
+20793=Télécharger avec Internet Download Manager
+20794=Tout télécharger avec Internet Download Manager
+20795=Impossible de trouver les liens!\r\nSi cette page n'a pas de liens, merci de l'actualiser et de réessayer. Si le problème persiste, merci de contacter le support technique d'Internet Download Manager.
+20796=Impossible de trouver des liens video FLV !
+20797=Impossible de récupérer les liens video demandés par l'explorateur !\r\nVous (ou un programme particulier de suppression de spyware) avez désactivé l'objet Internet Download Manager Browser Helper dans votre IE. Merci d'utiliser l'option \"Outils->Gestion des extensions->Activer ou désactiver Add-ons\" dans Internet Explorer. Puis trouvez l'add-on \"Internet Download ManagerIEHlprObj Class\" et activez le.
+20798=Impossible de se connecter à l'interface d'Internet Download Manager interface qui controle les liens video internet demandés par l'explorateur.\r\nCauses possibles:\r\n - Vous n'avez pas redémarré votre ordinateur après l'installation de la dernière version d'Internet Download Manager. Merci de redémarrer votre ordinateur et de réessayer\r\n - Internet Download Manager n'a pas été installé correctement. Merci de télécharger la dernière version d'Internet Download Manager sur son site officiel réessayez.
+
+//new feature in "Options->General" dialog:
+1688=Éditer...
+1689=Personnaliser menu IDM dans le navigateur
+334=Basés sur Internet Explorer et Internet Explorer
+335=Basés sur Firefox et autres Mozilla
+1696=Les options sélectionnées dans le menu Internet Download Manager du navigateur:
+20818=Merci de redémarrer Internet Explorer pour appliquer les modifications
+20819=Modification du menu contextuel de Internet Explorer
+
+//v 5.11 b8
+20820=Quitter maintenant
+20821=Quitter Internet Download Manager
+20822=Internet Download Manager a terminé de traiter la file d'attente. Du fait des paramètres du planificateur, Internet Download Manager va se fermer. Mais vous avez d'autres téléchargements en cours qui seront interrompus à la fermeture. Appuyez sur la bouton annuler pour annuler la fermeture.
+
+//v 5.11 build 9
+20823=Vous avez annulé des téléchargements similaires.\n\n Si Internet Download Manager cherche à télécharger ces fichiers par erreur, vous pouvez ajouter ce site ou un modèle pour des adresses similaires dans la liste IDM d'exceptions:
+20824=Ne pas capturer de telechargements d'adresses similaires en utilisant ce modèle:
+336=Rapport pour les développeurs d'Internet Download Manager
+1702=Vous pouvez envoyer un rapport aux développeurs d'Internet Download Manager à propos des téléchargements pris par erreur pour ce site dans les futures versions d'Internet Download Manager
+1698=Exceptions suivantes ajoutées:
+1700=Les referrer des URL desquelles le téléchargement a été lancé par erreur:
+1703=Vous pouvez utiliser des astérisques pour le modèle d'adresses.
+
+//v5.12
+20825=(Limité)
+1707=Utiliser le limiteur de vitesse
+337=Paramètres du limiteur de vitesse
+1704=Toujours démarrer le limiteur de vitesse au démarrage d'Internet Download Manager
+1705=Affichier la case à cocher \"Utiliser le limiteur de vitesse\" dans la fenêtre \"Progression du téléchargement\"
+1706=Mémoriser les exceptions utilisateur dans la fenêtre \"Progression du téléchargement\" pour utiliser le limiteur de vitesse independamment du paramètre global d'activation du limiteur de vitesse
+1708=Vitesse maximale de téléchargement pour un fichier
+1709=Koctes/sec
+1710=Note: Les serveurs Internet peuvent interrompre la connexion quand la vitesse est trop faible ! De fait, il n'est pas recommandé d'utiliser le limiteur de vitesse pour télécharger des fichiers sur des serveurs qui ne disposent pas de l'option \"reprendre\".
+1711=Paramètre du limiteur de vitesse pour les téléchargement individuels
+m34033=Limiteur de vitesse
+34033=Activer
+34034=Désactiver
+34035=Paramètres...
+
+//v5.12 build 5
+20831=Si une video FLV est en cours de lecture sur votre navigateur, il est possible qu'Internet Download Manager ne puisse pas associer lien FLV avec cette page web. Vous devriez essayer d'utiliser l'option \"Choisir parmi les 10 dernières videos FLV demandées\" du menu contextuel du navigateur.\r\n(Le menu contextuel du navigateur peut etre personnalisé dans \"Internet Download Manager Options->Onglet general\")
+20830=Une erreur CRC s'est produite durant le téléchargement. Cela signifie que vous avez des problèmes avec votre disque dur. Vous devriez faire un scans de votre disque pourles erreurs en utilisant l'option \"Verification d'erreurs\" dans la fenetre de windowse des propriétés disque de windows.
+
+//5.12b7
+20832=Vous avez besoin des droits d'administrateur pour enregistrer Internet Download Manager pour tous les utilisateurs sur cet ordinateur
+
+//5.12b8
+20837=Confirmer la suppression des téléchargements
+20833=Les téléchargements selectionnés ne sont pas terminés. Etes vous sur de vouloir les supprimer de la liste des téléchargements ?
+20834=Le téléchargement selectionné n'est pas terminé. Etes vous sur de vouloir le supprimer de la liste des téléchargements ?
+20835=Il existe des téléchargements incomplets parmi les fichiers selectionnés. Etes vous sur de vouloir quand même les supprimer de la liste des téléchargements ?
+20836=Êtes vous sur de vouloir supprimer tous les téléchargements terminés de la liste des téléchargements Internet Download Manager ?
+1715=Êtes vous sur de vouloir supprimer les téléchargements selectionnés de la liste des téléchargements Internet Download Manager ?
+1713=Supprimer aussi complètement les fichiers téléchargés de votre disque dur. Faites attention !
+
+//v5.14
+20850=Vidéo
+20851=Audio
+20852=Télécharger ce fichier %s
+20853=Télécharger ce fichier %s avec Internet Download Manager
+20854=À propos de ce panneau
+20855=Fermer
+20856=Ceci est le panneau de téléchargement IDM.\r\n Il peut être personnalisé activé ou désactivé \"Internet Download Manager->Options fenêtre->Onglet Général\"
+20857=Internet Download Manager panneau de téléchargement
+20858=Télécharger %s depuis cette page
+20859=Télécharger %s depuis cette page avec Internet Download Manager
+20860=Télécharger tout
+20861=%ld %s fichiers
+20862=Fichier
+
+//new on Options->General
+1724=Internet Download Manager panneau de téléchargement pour les navigateurs
+1727=Internet Download Manager peut afficher son panneau de téléchargement dans le navigateur lorsque Internet Download Manager detecte une requete multimedia
+1728=Afficher le panneau:
+1717=Mode complet
+1718=Mode mini
+1726=Afficher le panneau de téléchargement IDM pour les fichiers de types suivants:
+20863=Note: Si vous décochez un type de fichier dans cette liste et si le type de fichier est dans la liste de l'onglet \"Options->Types de fichiers\", les téléchargements de ces fichiers sont automatiquement capturés par Internet Download Manager et ne seront pas lus pas le lecteur-web. Si vous voulez prévenir cela, cochez le bouton suivant:
+1720=Ne pas capturer automatiquement les téléchargements !
+
+//on Scheduler dlg
+1729=Démarrer les téléchargements au lancement d'Internet Download Manager
+
+20864=Vous pouvez utiliser l'intégration dans ce navigateur après avoir activé l'option \"Utiliser l'intégration avancée\" de cette fenêtre
+1731=Attention: Vous exécutez Internet Download Manager avec les privilèges d'Administrateur. \r\n Internet Download Manager ne sera pas en mesure de prendre en charge les téléchargements sous ce mode.
+20865=Firefox ne peut pas transférer les téléchargements vers Internet Download Manager parce que vous avez coché l'option \"Executer ce programme comme administrateur\" dans la fenêtre propriétés d'Internet Download Manageran.exe. \r\n\r\nMerci d'ouvrir le dossier Internet Download Manager, click droit sur \"Internet Download Manageran.exe\", puis \"Propriétés\", basculer sur \"Compatibilité\" et décocher \"Exécuter ce programme comme administrateur\".
+
+//v5.16
+20867=Impossible de reprendre le téléchargement du fichier:
+20868=Internet Download Manager attend une nouvelle adresse pour reprendre ce fichier:
+20869=Il est possible que l'adresse du fichier ne soit plus valide ou que votre session soit expirée.
+20870=Est-ce la nouvelle adresse du téléchargement expiré ?
+20872=Actualiser adresse téléchargement
+20873=Internet Download Manager attend une nouvelle adresse pour un autre chargement expiré. Il n'est pas possible d'utiliser cette option pour plus d'un téléchargement à la fois.
+20874=Internet Download Manager ouvrira une page web dans votre navigateur d'où il a capturé ce téléchargement. Merci de redémarrer le téléchargement du même fichier depuis votre navigateur et Internet Download Manager essaiera de capturer une nouvelle adresse ou session pour reprendre le téléchargement
+20871=Attendre nouvelle donnée
+1732=Arrêter d'attendre
+20875=Un nouveau lien a été trouvé avec succès.
+20876=Merci de démarrer le téléchargement du même fichier manuellement, Internet Download Manager essaiera de capturer une nouvelle adresse ou session pour reprendre le téléchargement
+20877=Essayez de actualiser la session et de récupérer une nouvelle adresse en utilisant le menu \"Actualiser adresse téléchargement\" du menu click droit dans la liste Internet Download Manager des téléchargements. \r\nOu essayez de supprimer ce téléchargement puis relancez le depuis votre navigateur pour le télécharger avec Internet Download Manager depuis le début.
+20878=Téléchargement propriétaire pour actualiser le lien
+20879=Le site web a exécuté une page web au lieu d'un fichier quand Internet Download Manager a fait une requete une deuxième fois sur ce fichier. Il est probable que ce site utilise des liens temporaires et ne permette pas de faire plusieurs requêtes sur la même adresse.\r\n\r\nEssayez de supprimer ce téléchargement puis lancez le depuis votre navigateur et quand Internet Download Manager le capturera, téléchargez le sans arrêter/pause.
+1741=La page web avec ce fichier a été obtenu depuis:
+20880=Test adresse: %s
+20881=Vous n'avez pas selectionné de fichier !\r\n Si vous ne désirez pas télécharger quoique ce soit merci de fermer la fenêtre \"%s\" en utilisant le bouton \"Annuler\".
+20882=Ajout fichiers à télécharger avec Internet Download Manager
+1739=Affichage file d'attente en appuyant sur "Télécharger plus tard"
+1738=Afficher file d'attente lors du téléchargement par partie.
+1735=Ajouter fichiers dans la file:
+20884=Ne pas ajouter dans la file
+1736=Executer la file d'attente
+1737=Ne pas me redemander
+20883=Vous pouvez activer ce panneau dans \"Options->Téléchargements\"
+
+//v5.17b4
+34036=Téléchargement par lot depuis presse-papiers
+20885=Plusieurs adresses URL dans le presse papier. Voulez-vous les télécharger ?
+20886=Téléchargement par lot depuis presse-papiers.
+20887=Impossible de trouver une adresse Web dans le presse-papiers !
+
+//v5.18b3
+m34037=IDM en zone de notification
+34037=3D style
+34038=Style classique
+34039=Ne pas afficher
+
+//v5.18b5
+20889=Votre licence pour Internet Download Manager est expirée.\r\n Internet Download Manager a cessé de fonctionner. Il faut SVP obtenir une nouvelle licence pour utiliser Internet Download Manager
+20890=Attention:\r\nVotre licence pour Internet Download Manager expirera dans %ld jours.\r\n\r\n Merci de noter que \"Enregistrement->Enregistrement\" du menu est désactivé,\r\n mais il sera activé une fois votre licence expirée !
+
+20891=Vous n'avez pas vérifié le jours de la semaine à partir duquel le planificateur doit démarrer !
+20892=Lancement quotidien
+
+20893=Vous avez entré un espace avant le nom d'utilisateur. Si l'espace a était entré par erreur, souhaitez-vous que Internet Download Manager supprime l'espace ?
+20894=Vous avez entré un espace après le nom d'utilisateur. Si l'espace a était entré par erreur, souhaitez-vous que Internet Download Manager supprime l'espace ?
+20895=Vous avez entré un espace avant le mot de passe. Si l'espace a était entré par erreur, souhaitez-vous que Internet Download Manager supprime l'espace ?
+20896=Vous avez entré un espace après le mot de passe. Si l'espace a était entré par erreur, souhaitez-vous que Internet Download Manager supprime l'espace ?
+
+//5.19
+1748=Personnalisation panneau de téléchargement IDM dans les navigateurs 
+20899=Pour lecteurs web
+20900=Pour fichiers sélectionnés
+1749=Internet Download Manager peut afficher le panneau de téléchargement sur une page Web quand vous sélectionnez un texte qui contient des liens de téléchargement.
+20901=(Actuellement, ça ne fonctionne que sur Internet Explorer - Firefox, les navigateurs basés sur Internet Explorer & Mozilla)
+20903=Télécharger les fichiers sélectionnés avec Internet Download Manager
+1744=Afficher panneau de téléchargement pour tous les liens sélectionnés
+1745=Ne pas afficher panneau de téléchargement des liens sélectionnés
+1746=Afficher panneau de téléchargement des liens sélectionnés pour les sites suivants:
+1751=Intégration aux navigateurs suivants:
+1742=Sélectionner tout
+1743=Désélectionner tout
+
+//5.19b3
+20904=Internet Download Manager ne peut pas trouver le composant qui installe/desinstalle l'intégration au navigateur. Réinstallez Internet Download Manager s'il vous plait.
+20911=Internet Download Manager téléchargera une page Web au lieu d'un fichier.
+20909=Voudriez-vous savoir comment télécharger des fichiers de rapidshare avec Internet Download Manager ?
+20910=Voudriez-vous savoir comment télécharger depuis des sites de partage de fichier avec Internet Download Manager ?
+20905=Ne peut pas transférer le téléchargement vers Internet Download Manager
+20906=Il\ est possible que votre navigateur et Internet Download Manager soient configurés pour démarrer avec différents privilèges (des différents niveaux d'Élévation).\r\n\r\nSi vous démarrez Internet Download Manager en utilisant \"Exécuter en tant qu'administrateur \", s'il vous plaît quitter Internet Download Manager et redémarrer Internet Download Manager normalement.\r\n\r\nPeut-être que vous avez fait \"Exécuter ce programme en tant qu'administrateur \" dans les propiétés d'Internet Download Manageran.exe. Ouvrez s'il vous plaît le dossier Internet Download Manager,  clic droit sur \"Internet Download Manageran.exe \", choisissez "Propriétés \", puis l'onglet \" Compatibilité \" ensuite décocher \"Exécuter ce programme en tant qu'administrateur\". Vous avez aussi besoin de supprimer la compatibilité avec les versions précédentes de Windows s'il est coché. Redémarrer s'il vous plaît Internet Download Manager après les modifications.
+20907=SI \"Démarrer ce programme en administrateur\" ou \"compatibilité avec des anciennes versions de Windows\" Ces options ne sont pas controlées par Internet Download Manager, SVP décochez les dans les propriétés de windows dans votre navigateur.
+
+//v6.0b
+20897=vidéo %dx%d, durée %d:%02d
+20912=Durée
+20913=Notez s'il vous plaît que si vous avez plusieurs utilisateurs sur votre ordinateur, l'intégration au navigateur sera désactivée pour tous les utilisateurs.
+20914=Après avoir intégré une nouvelle application vous pouvez decocher l'option \"Détecter de Nouvelles Applications \" pour de meilleure performances.
+20915=C'est une version Bêta d'Internet Download Manager \r\n et donc il installera un nouveau driver, qui améliore de façon significative l'intégration avec les lecteurs web et modifie l'ancienne intégration avec plusieurs navigateurs comme Chrome ou Opéra. Si vous rencontrez des problèmes en vous connectant à Internet, par exemple, un système qui se fige , ou un crash, etc., ouvrez s'il vous plaît les options Internet Download Manager et éteignez \"L'intégration de navigateur \" dans l'onglet Général. Il arrétera le nouveau driver.
+
+//v6.03b2
+20919=Internet Download Manager a trouvé que votre ordinateur pourrait ne pas disposer de lecteur pouvant lire les videos %s. Vous devez installer un lecteur %s.\r\n\r\nVoulez vous des informations sur un lecteur %s ?
+20920=Une video %s a été téléchargée
+
+//
+//Dear translators, please note that we have changed several old strings:
+//
+t1278=Cacher les catégories
+t32789=Ajouter manuellement une nouvelle adresse de téléchargement
+t1004=Ajouter un fichier à la liste Internet Download Manager pour téléchargement plus tard
+t1061=Système de contrôle du presse-papiers de liens pour télécharger avec Internet Download Manager
+187=Cible de déplacement d'Internet Download Manager. Déposer des liens web à télécharger ici.
+20176=Le fichier demandé ressemble à la page web html.\r\n\r\nSi ce téléchargement a été repris depuis votre navigateur automatiquement lorsque vous avez cliqué sur un lien, essayez de maintenez la touche Alt enfoncée lorsque vous cliquez sur le lien pour laisser Internet Explorer ouvrir la page.\r\n\r\nVous souhaitez continuer le téléchargement du fichier avec Internet Download Manager et enregistrez-le en tant que page html ?
+20177=Le fichier téléchargé ressemble à la page web html.\r\n\r\nSi ce téléchargement a été repris depuis votre navigateur automatiquement lorsque vous avez cliqué sur un lien, essayez de maintenez la touche Alt enfoncée lorsque vous cliquez sur le lien pour laisser Internet Explorer ouvrir la page.\r\n\r\nVous souhaitez renommer le fichier téléchargé à la page html ?
+34012=Rechercher de nouvelles barres d'outils
+20573=Recherchez de nouvelles barres d'outils
+57670=Contenu de l'aide
+20721=Internet Download Manager a été intégré avec succès dans Mozilla Firefox.\n Vous devez redémarrer le navigateur Firefox pour appliquer les modifications
+20342=Télécharger lien a été trouvé dans le presse-papiers. Vous voulez le télécharger ?
+
+//Old strings 20016, 20017, 20350 replaced with:
+20916=Une erreur inconnue s'est produite pendant le téléchargement. S'il vous plaît essayer de nouveau.
+20917=Une erreur est survenue pendant le téléchargement. S'il vous plaît essayer de nouveau.
+20918=Votre n° de série pour Internet Download Manager a été bloqué en raison de différents enregistrements. Internet Download Manager est sortie...
+
+//And deleted the following strings: 
+//20178, 20179, 20180, 20181, 20182, 20183, 20184, 20185, 20186, 20187, 20188, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 
+//20198, 20200, 20201, 20202, 20208, 20209, 20210, 20223, 20224, 1238, 1251, 1314, t1065, t1068, 20016, 20017, 20350
+
+//v6.03b3
+//We have changed the old strings: 20146 and 20033 (Tab name)
+
+20921=Désirez vous savoir comment télécharger des fichiers depuis le site %s avec Internet Download Manager?
+20923=L'executable d'Internet Download Manager est sur le bureau
+20922=Vous avez placé l'executable d'Internet Download Manager sur le bureau. Internet Download Manager ne peut pas fonctionner correctement sans ses autres fichiers, merci de déplacer Internet Download Manageran.exe vers le repertoire du programme et de créer un raccourci sur le bureau. Pour créer un raccourci, ouvrir le répertoire Internet Download Manager, faire un clic droit sur Internet Download Manageran.exe et choisir l'option \"Envoyer vers -> Bureau (creation de raccourci)\".
+20924=Note 2: Parfoirs, lorsque vous cliquez sur un lien, votre navigateur demande d'autres fichiers AU MEME MOMENT comme Java scripts, pages web, images, etc. Quand vous appuyez sur une touche spéciale, Internet Download Manager intercepte ces fichier, et le navigateur peut ne pas demander les fichiers nécessaires parce qu'il ne lance pas un Javascript, qui a été intercepté par Internet Download Manager par erreur. Si vous voulez intercepter et telecharger avec Internet Download Manager les fichiers nécessaires, activez l'option suivante:
+1753=Quand vous appuyez sur une touche spéciale NE PAS prendre les téléchargements qui sont des pages web, imagess, scripts et etc.
+20925=Vous avez une intégration avec votre navigateur %s obsolete, ou l'integration avec %s n'est pas installée. Désirez vous lire comment corriger le probleme ?
+20926=Internet Download Manager montre un panneau de telechargement au lieu de capturer les fichiers dans le lecteur web quand l'integration de %s fonctionne correctement.
+
+//v6.04b2
+20928=Internet Download Manager a intercepté ce fichier du lecteur web media à cause de la desactivation dans le panneau de configuration pour le type de fichier dans les options d'Internet Download Manager.\r\n\r\n Si vous voulez qu'Internet Download Manager s'abstienne d'intercepter ce type de fichier merci d'aller dans l'onglet \"General\" , cliquer le bouton \"Edit...\" pour le panneau de telechargement et activer \"Ne pas capturer les téléchargements du player web\" dans la fenetre.
+20929=Internet Download Manager ne pas mettre l'integration avancé dans le navigateur du fait d'une des raisons suivantes:\r\n1. Vous n'avez pas les droits d'administrations ou vous n'autorisez pas l'Internet Download Manager helper à se démarrer comme Administrateur.\r\n2. Vous avez appuyé sur Annulation durant l'installation du driver reseau Internet Download Manager.\r\n3. Vous avez bloqué le lancement du driver reseau Internet Download Manager ou du fait d'un logiciel de sécurité tiers ou d'un antivirus.
+//v6.04b3
+20930=Internet Download Manager ne peut pas trouver le(s) fichier(s) %ld qui sont necessaires à l'intégration du systeme et du navigateur. Merci de réinstaller Internet Download Manager 
+
+//v6.06
+//"Serial Number" explanation on registration dialog
+20931=Qu'est ce que le \"%s\"?
+20932=%s est une clef produit d'Internet Download Manager.\r\nC'est un code alphanumérique unique pour chaque utilisateur et qui ressemble à\r\n xxxxx-xxxxx-xxxxx-xxxxx\r\n\r\nVous recevrez votre n° de Série UNIQUEMENT après l'achat du logiciel.\r\nMerci de cliquer sur le bouton \"%s\" pour acheter Internet Download Manager.
+
+//v6.07
+20933=Ces paramètres sont indisponibles pour les téléchargements qui sont issus de la file d'attente
+20934=Ces paramètres sont indisponibles quand \"%s\" est activé
+363=Statut téléchargement
+364=Options à l'achèvement
+20935=Internet Download Manager a terminé de télécharger un fichier. Du fait de vos paramètres pour ce chargement, Internet Download Manager va sortir. Mais vous avez d'autres téléchargements en cours qui seront interrompus lors de la sortie. Appuyez sur Annuler pour ne pas arrêter le logiciel.
+20936=Internet Download Manager a terminé de télécharger un fichier. Du fait de vos paramètres pour ce chargement, Internet Download Manager va raccrocher votre modem.
+20937=Internet Download Manager a terminé de télécharger un fichier. Du fait de vos paramètres pour ce chargement, votre ordinateur va s'arrêter.
+1762= Affiche le panneau de téléchargement pour les contenus protégés \r\n qu'Internet Download Manager ne peut pas télécharger
+20938=contenu protégé
+20939=Internet Download Manager ne peut pas télécharger ce flux pour des raisons légales. Le téléchargement de ce type de flux n'est pas supporté parce qu'Internet Download Manager ne peut pas passer outre les mesures technologiques mises en place pour la protection de contenus audio, video et de données.\r\n\r\nIl est  possible de désactiver le panneau de téléchargement pour les contenus protégés qu'Internet Download Manager ne peut pas télécharger dans \"Internet Download Manager Options -> Onglet General\"
+
+//v6.07b7
+365=Limiteur de vitesse
+1763=Vitesse de téléchargement maximum:
+1765=Memoriser parametres limiteur de vitesse pour ce fichier file\r\n lors de telechargement arrêter/reprise
+1772=Cacher onglet
+367=Personnaliser fenetre de progression de téléchargement
+1767=Personnaliser la fenêtre "Progression du téléchargement" 
+1775=Démarrer avis:
+1774=Note: L'option "Démarrer visu" n'est pas liée à la file d'attente. Lorsqu'Internet Download Manager traite les files d'attente,  la fenetre "Progression de téléchargement" se lance toujours minimisée dans la barre des taches
+1768=Afficher l'onglet "Limiteur de Vitesse"
+1769=Afficher l'onglet "Options à l'achèvement" 
+1773=Afficher les boutons "Cachet onglet"
+
+//v6.07b12
+20941=Erreur connection VPN
+20940=Il est possible que vous devriez changer de connection VPN dans les options Internet Download Manager, ou l'arreter  \"Utiliser Windows Dial Up / VPN Reseau\" case dans Internet Download Manager options -> \"Dial Up / VPN\" onglet
+20942=qualité
+
+//v6.08b2 beta
+20949=Proxy/Socks
+20948=Proxy/socks configuration
+369=Paramètres avancés proxy 
+1777=Avancés...
+1778=Utiliser proxy
+1785=Utiliser ce proxy pour les protocoles suivants:
+1779=Utiliser socks
+1786=Adresse serveur socks
+20943=Connection impossible au serveur socks, autorisation nécessaire
+20944=Le serveur Socks ne peut se connecter à %s 
+20945=Connection impossible via serveur socks, type de socks inconnu
+20946=Connection impossible via serveur socks, échec autorisation !
+20947=Connection impossible au serveur socks %s
+
+//v6.09b2 beta
+1787=Exceptions
+370=Exceptions panneau de téléchargement
+1788=Ne pas afficher le panneau de téléchargement IDM pour les sites suivants:
+1789=Séparer les noms par des espaces. Vous pouvez utiliser des asteriques comme modèle
+20950=Internet Download Manager ne peut mettre en route l'intégration d'un navigateur avancée parce que le service \"Base Filtering Engine\" n'est pas en route. Merci de faire clique-droit sur l'icône ordinateur, sélectionner \"Manage\", puis \"Services et Applications -> Services\", puis trouver \"Base Filtering Engine\" dans la liste et clique-droit pour ouvrir Propriétés. Changer le démarrage en \"Automatique\", cliquer \"Démarrer\" et confirmer les changements.\r\n\r\nCliquer OK pour visiter une page web pour des informations supplémentaires.
+20951=Internet Download Manager ne peut mettre en route l'intégration d'un navigateur avancée parce que le service \"Base Filtering Engine\" est absent. Cela peut se produire suite à un problème sur votre système.\r\n\r\nCliquer OK pour ouvrir une page web avec des instructions de restauration.
+
+//v6.11
+341=Ajout type fichier
+349=Entrer nom site
+1790=Mettre automatiquement dans cette catégorie les fichiers des sites suivant:
+1793=Séparer les sites par des espaces. Vous pouvez utiliser des asteriques comme modèle
+20952=Merci de noter qu'en accord avec la licence d'Internet Download Manager que vous avez acceptée durant l'installation, vous devez maintenant soit désinstaller Internet Download Manager ou l'acheter
+
+//v6.11b7
+20953=Récent...
+
+//v6.12b2
+20954=Votre exploreur peut ne pas ouvrir le site d'Internet Download Manager car un fichier est corrompu. Réparer ce fichier ?
+20955=IDM ne peut vérifier les MAJ car un fichier important sur votre ordinateur est corrompu. Réparer le fichier ?
+
+//v6.12b5
+1795=Mettre la date de création comme celle du serveur
+
+//v6.12b6
+20956=Pour pouvoir faire la MAJ d'Internet Download Manager pour Firefox, veuillez fermer Firefox (ou SeaMonkey) puis appuyer sur \"Redémarrer\"\r\nSinon il vous faudras redémarrer votre ordinateur
+
+//v6.12b8
+//Please pay attention that we added the possibility to translate text for IDM installer and IDM uninstaller. 
+//You can find the template to translate installer in "template_inst.lng" file in "Languages" folder
+
+//v6.12b22
+20995=IDM télécharge le fichier avec une seule connexion car des données ont été corrompues.\r\nVoulez-vous lire les raisons possible pour cette corruption?
+20996=IDM télécharge le fichier du début car des données ont été corrompues.\r\nVoulez-vous lire les raisons possible pour cette corruption?
+20997=L'extension Internet Download Manager à été installée (ou mise à jours) dans Google Chrome.\nVous devez redémarrer Chrome pour appliquer les changements
+
+//v6.15
+1796=Script de configuration automatique
+20998=Une autorisation est requise pour ce serveur. Ou bien veuillez désactiver \"Script de configuration automatique\" dans Internet Download Manager
+20999=Internet Download Manager a trouvé que vous utiliser ce script de configuration automatique dans Internet Explorer:\r\n%s\r\n\r\nVoulez-vous utiliser ces mêmes paramètrages dans Internet Download Manager ?
+//v6.15b7
+21000=Ceci est une diffusion en directe. Si vous l'arrêté, vous ne pourez plus continuer la lecture à partir de sa position actuelle.\r\nVoulez-vous arrêter et sauvegarde cette diffusion comme un fichier complet ?
+21001=Enregistrement d'une diffusion en directe
+
+//v6.16b9
+21002=Téléchargement du script proxy érroné
+21003=Voulez-vous voir comment configurer votre firewall pour qu'il fonctionne avec Internet Download Manager ?
+
+//6.15b10
+21004=format inconnu (%d)
+20898=Télécharger up pour détecter une association dans la partie suivante du fichier...
+
+//v6.16
+21105=L'intégration du navigateur évolué ne peut être exécutée parce que le pilote installé de Kaspersky TDI est défectueux !\r\n Si la mise à jour automatique de Kaspersky n'aide pas, contactez le support de Kaspersky, une mise à jour de la \"kltdi\" Pour obtenir des pilotes.
+
+//v6.17b7
+21106=Une erreur est survenue lors du montage du fichier
+21109=Cette version d'Internet Download Manager ne supporte pas ce type de téléchargement. Essayez de mettre à jour vers la dernière version.
+21110=Extension de l'Internet Download Manager a été correctement installé dans (ou mis à jour en) navigateur Google Chrome.\r\nVous devez activer \"Internet Download Manager Integration module\" extension dans les paramètres de Google Chrome si vous voulez IDM fonctionne avec Chrome
+21111=1. S'il vous plaît REDÉMARRER Google Chrome et appuyez sur le menu Chrome (flèche 1 sur l'image)\r\n2. Sélectionner \"Paramètres\" élément de menu (flèche 2 sur l'image).\r\n3. Sélectionner \"Extensions\" onglet (flèche 3 sur l'image). \r\n4. Vérifier que \"Module d'intégration Internet Download Manager\" extension est activé (flèche 4 sur l'image).\r\n5. Si vous utilisez le mode incognito en Chrome, vous devez activer \"Permettre à incognito\" case à cocher (flèche 5 sur l'image).
+
+//v6.17b9
+//Dear translators, please pay attention that we have added one new line (1062) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b3 
+//One more :) 
+//Please pay attention that we have added one more new line (21112) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b8
+//we have changed Options->Connection tab
+21113=Vitesse de basse : Modem d'accès à distance/ISDN/Bluetooth/Mobile Edge/IrDA
+21114=Vitesse moyenne : ADSL/DSL/Mobile 3G/Wi-Fi/Bluetooth 3.0/autres
+21115=Vitesse Haute : Direct connexion (câble Ethernet)/Wi-Fi/Mobile 4G/autres
+21116=S'il vous plaît utilisez un nombre élevé de connexions avec prudence. Certains serveurs peuvent comporter des limites spécifiques pour un certain nombre de connexions à partir d'un client. Lorsque le nombre de connexions est élevé, les serveurs peuvent mettre votre ordinateur à une liste noire, en particulier lorsque vous téléchargez plusieurs fichiers en même temps avec un nombre élevé de connexions.\r\n\r\nEn outre, pour certains types de connexion, ou pour les ordinateurs de faible rendement ou routeurs, la vitesse de téléchargement peut diminuer lorsque vous augmentez le nombre de connexions.
+
+//v6.19
+21117=Il y a seulement un nom de dossier dans votre sélection. Veuillez entrer un nom pour le fichier.
+21118=La taille du \"%s\" fichier en %.1f GOctets.\r\nLe lecteur \"%s\" où vous voulez enregistrer ce fichier a le système de fichiers de %s. Les fichiers de plus de %d que Go ne peuvent pas être écrites sur ce système de fichiers.\r\n\r\nVeuillez choisir un dossier pour ce fichier sur un autre disque avec système de fichiers NTFS
+21119=La taille du \r\n%s\r\n fichier en %.1f GOctets.\r\nIDM's répertoire temporaire pour stocker des parties de fichiers pendant le téléchargement se trouve sur le lecteur \"%s\", ce disque a le système de fichiers de %s. Les fichiers de plus de %d que GOctets ne peuvent pas être écrites sur ce système de fichiers.\r\n\r\nPour continuer le téléchargement, veuillez modifier emplacement du répertoire temporaire vers un autre lecteur en \"Options->Enregistrer sous\" et ensuite reprendre le téléchargement
+
+//v6.19b8
+21005=seule la piste audio
+21006=seule la piste vidéo
+
+//v6.19b9
+21120=Rechercher automatiquement les mises à jour a échoué, car les informations de mise à jour ne sont pas valides.\r\nSi vous utilisez le wi-fi qui nécessite la connexion dans le navigateur, veuillez vous connecter avant de vérifier les mises à jour
+21121=Une application a endommagé intégration Internet Download Manager dans les navigateurs\r\n\r\nVous devrez réinstaller Internet Download Manager pour le restaurer. Ou essayer de mettre à jour à l'aide \"Aide->Mises à jour rapide\" Élément de menu Internet Download Manager.\r\nVérifiez également que l'intégration Internet Download Manager dans votre navigateur est activée dans Options d'Internet Download Manager -> Onglet général.
+
+//6.21b3
+21125=Déplacer
+21126=Déplacer/Renommer
+
+//new "Find file" dialog
+487=Rechecher un fichier
+21122=Rechecher un fichier
+21123=Pas de tels fichiers trouvés
+21124=La recherche est terminée
+1807=Nom de fichier ou une partie du nom:
+1809=Description ou une partie de la description:
+1811=Respecter la casse
+1812=Correspond à toute chaîne uniquement
+1673=Rechecher
+//New subitems in "Downloads" main menu
+34040=Rechecher (Ctrl-F)
+34041=Rechecher suivant (F3)
+
+//v6.21b5
+21128=Internet Download Manager n'a pas pu démarrer application de mise à jour. C'est peut-être en raison des paramètres de logiciel antiviral incorrect pour les fichiers contenant des service Internet Download Manager dossier.\r\n\r\nInternet Download Manager va maintenant ouvrir ce dossier, et vous pouvez exécuter \"idmupdt.exe\" fichier manuellement.\r\n\r\nVous pouvez aussi télécharger la dernière version d'Internet Download Manager de site d'accueil Internet Download Manager et installez-le par-dessus votre version actuelle
+21129=Autres qualités...
+21130=Si vous souhaitez télécharger une autre qualité de cette vidéo, veuillez changer la qualité du lecteur web. Après cela, cette qualité sera ajoutée à Internet Download Manager's \"Télécharger cette vidéo\" panneau
+21131=Sélectionner un dossier
+
+//v6.21b11
+21132=Internet Download Manager a téléchargé le fichier %s qui utilise un nouveau codec qui n'est pas installé sur votre ordinateur.\r\nS'il vous plaît lire plus d'informations sur le site d'accueil d'Internet Download Manager pour lire ces fichiers dans votre lecteur.
+1813=Utiliser le traitement de la page web avancé
+21133=Plusieurs modules Internet Download Manager n'ont pas été mis à jour. S'il vous plaît réinstaller la dernière version d'Internet Download Manager, redémarrez votre ordinateur et réessayez de télécharger ce fichier
+
+//v6.21b16
+21134=Internet Download Manager ne sera pas capable de réveiller l'ordinateur mettre en veille pour démarrer votre file d'attente de téléchargement à une heure programmée.
+21135= Veuillez noter que lorsque vous basculez en mode Metro, bureau peut aller mettre en veille.
+21136=Si vous voulez Internet Download Manager Télécharger la file d'attente à l'heure programmée, prière d'activer le sillage minuteries dans les paramètres de Windows.\r\nOuvrir \"Panneau de configuration\\Options d'alimentation\\Modifier les paramètres du mode\\Modifier les paramètres d'alimentation avancés\", puis ouvrir \"Veille\\Autoriser les minuteurs de sortie de veille\" Paramètre \"Activer\".\r\n\r\nVous voulez voir comment le faire sur les captures d'écran ?
+
+//v6.23b12
+21137=Veuillez noter que cette version et toutes les versions précédentes d'Internet Download Manager ne peuvent pas utiliser \"hosts\" fichier lorsqu'ils se connectent au site d'accueil d'Internet Download Manager. Lorsque vous modifiez ce fichier, vous fermez l'accès au site d'Internet Download Manager pour votre navigateur web uniquement. Une fois que vous appuyez sur le bouton OK, Internet Download Manager va vérifier les mises à jour avec succès même avec votre fichier \"hosts\" endommagé.
+21138=Votre navigateur ne peut pas ouvrir site Web Internet Download Manager parce qu'un important système de fichiers est endommagé sur votre ordinateur. Internet Download Manager permet de réparer ce fichier maintenant.
+
+//v6.25b16
+21139=Le n° de série de IDM que vous avez entré est utilisé sur un autre ordinateur et relié à une adresse de messagerie différente
+21140=Le n° de série de IDM\r\n%s\r\nque vous avez entré est utilisé sur un autre ordinateur.\r\n\r\nSi vous souhaitez utiliser ce n° de série sur cet ordinateur, puis vous devrez désinstaller IDM depuis un autre ordinateur (ou tous les autres ordinateurs) où ce n° de série a été utilisé plus tôt. Si vous utilisez le même n° de série sur différents ordinateurs en même temps, ce n° de série sera automatiquement bloqué.\r\n\r\nVous souhaitez continuer l'enregistrement IDM avec\r\n%s\r\nN° de série ?
+
+//v6.25b18
+21142=Vous souhaitez en savoir plus ?
+21141=Vous avez enregistré IDM avec le numéro de série ci-dessous\r\n%s\r\n\r\nCe numéro de série est bloqué sur les serveurs de l’IDM. IDM est sortie...
+
+//v6.26b5
+21146=IDM a trouvé des pièces non référencées et pas supprimés du vieux téléchargements dans le dossier temporaire d’IDM\r\n%s\r\nVous souhaitez IDM de les supprimer pour libérer votre espace disque ?
+
+//v6.27
+21147=Votre n° de série de commence par:  %s...............
+488=Taille minimale
+1822=Taille min.
+21148=Ne pas afficher \"Télécharger cet audio\" panneau si la taille du fichier audio est inférieure à la taille minimale suivante en kilo-octets
+21149=Ne pas afficher \"Télécharger cette vidéo\" panneau si la taille du fichier multimédia est inférieure à la taille minimale suivante en kilo-octets
+21150=Note: Cette limitation ne fonctionne que si la taille du fichier multimédia est connue. Il existe des situations où seulement la durée est connue, ou ne sait rien jusqu'à ce que le fichier est entièrement téléchargé. Pour ce genre de situation, cette limitation de la taille du fichier ne fonctionnera pas.
+
+//v6.28b7
+21151=Il est possible que vous ayez obsolètes bibliothèques cryptographiques de Windows XP.\r\nVous souhaitez en savoir plus ?
+
+21153=Arrêter
+21154=En veille
+21155=Mettre en veille
+21157=Internet Download Manager a terminé le traitement de la file d’attente. Selon les paramètres de planificateur votre ordinateur va mode veille.
+21158=Internet Download Manager a terminé le traitement du projet de carte d’acquisition. Selon les paramètres du planificateur projet votre ordinateur va mode veille.
+21159=Internet Download Manager a fini de télécharger un fichier. Fonction de vos paramètres pour ce téléchargement, votre ordinateur va mode veille.
+21160=Internet Download Manager a terminé le traitement de la file d’attente. Selon les paramètres de planificateur votre ordinateur hibernent.
+21161=Internet Download Manager a terminé le traitement du projet de carte d’acquisition. Selon les paramètres du planificateur projet, votre ordinateur sera mise en veille prolongée.
+21162=Internet Download Manager a fini de télécharger un fichier. Selon vos paramètres pour ce téléchargement, votre ordinateur sera mise en veille prolongée.
+21163=Mode mettre en veille
+21164=Arrêter maintenant
+21165=Mettre en veille prolongée maintenant
+
+21167=Intégration de l’IDM dans Firefox 53 et plus tard fonctionnera uniquement lorsque \"Utiliser le navigateur avancé intégration\" est activée dans Options de IDM -> Onglet général
+
+//v6.30
+1823=Configuration manuelle de proxy/socks
+1824=Détecte automatiquement les paramètres de proxy pour ce réseau
+1825=Utiliser les paramètres système
+1826=Aucun proxy/socks
+21169=IDM ne peut pas détecter l'URL du fichier de configuration automatique de proxy pour ce réseau !/r/n/r/nSi vous n'avez pas de configuration automatique configurée pour votre réseau, vous ne devriez pas utiliser cette option pour éviter les retards lorsque IDM tente de trouver le fichier proxy Pack.
+489=Intégration dans le navigateur Microsoft Edge
+21170=Un nouveau "module d'intégration IDM" extension pour Edge a été libéré. Cette extension est nécessaire pour l'intégration complète à part entière dans Microsoft Edge Browser. IDM va maintenant commencer l'installation de cette extension de Microsoft Store.\r\nLa boîte de dialogue Microsoft Store pour installer l'extension IDM s'affiche lorsque vous fermez cette boîte de dialogue.\r\nVeuillez appuyer sur le bouton "Gérer" de la boîte de dialogue de Microsoft Store car il est illustré sur l'image ci-dessous.
+1828=Ensuite, veuillez attendre l'installation pour terminer et exécuter le navigateur Edge. Dans un bord de quelques secondes montrera une notification de la nouvelle extension. Veuillez confirmer en appuyant sur le bouton "Activer". Voir l'image ci-dessous.
+
+//v6.30b7
+p21171=Veuillez entrer votre adresse e-mail où nous enverrons le numéro de série IDM et d'autres informations d'enregistrement après l'achat.
+p21172=Notez que ce courriel peut être utilisé pour récupérer le numéro de série IDM si vous le perdez, ou il peut être utilisé pour la prise en charge IDM prioritaire. Il est donc important d'entrer un e-mail correct.
+p21173=Entrer votre e-mail
+
+p21174=Votre IDM un an de licence avec un numéro de série qui commence par %s...
+p21175=expire (ou a expiré) le %s
+
+p21176=Voulez-vous étendre cette licence à l'année prochaine ?
+p21177=Prolonger ma licence maintenant
+p21178=Vous pouvez également appuyer sur le bouton acheter dans le menu de la page Web pour ouvrir une page d'achat régulière
+
+//v6.30b8
+21179=Votre licence IDM a été prolongée juste quand %s
+
+//v6.33
+21180=Améliorer la capture des téléchargements
+21181=IDM enverra un rapport sur un problème avec les demandes de téléchargement répétées à partir du site Web %s, et les règles de traitement des téléchargements à partir de ce site Web sans clés spéciales doivent être ajoutées aux serveurs IDM dans un certain temps.\r\n\r\nIl est également possible que les serveurs IDM ont déjà une solution à télécharger à partir de ce site Web, puis IDM mettra à jour sa base de données après l’envoi de ce rapport.
+21182=Les règles de traitement des téléchargements à partir du site Web %s ont été mises à jour.\r\nMaintenant, les téléchargements de ce site peuvent être interceptés sans l’utilisation de touches spéciales.\r\n\r\nVeuillez noter que les anciens téléchargements qui ont été ajoutés avant la mise à jour ne seront pas repris, vous devez les supprimer et les prendre à partir de votre navigateur à nouveau.
+21183=Non modifié
+21184=IDM a intercepté un téléchargement qui, selon les paramètres du site Web %s ne peut être demandée qu’une seule fois, par conséquent IDM tente de le demander avant le navigateur. Mais il n’y a pas assez de données dans la demande interceptée pour télécharger ce fichier.\r\n\r\nIl est possible que vous ajouterez un téléchargement au navigateur en utilisant une manière non conventionnelle contournant le traitement de page Web sur un site Web de partage. Dans ce cas, vous devez recommencer avec un lien public vers un téléchargement et passer toutes les étapes nécessaires afin que la demande interceptée aura toutes les données nécessaires.\r\n\r\nSi ce n’est pas un téléchargement et IDM intercepté par erreur, s’il vous plaît définir une clé spéciale ("del" devrait fonctionner pour la plupart des navigateurs) dans IDM options -> général -> "Personnaliser les clés pour empêcher ou forcer le téléchargement avec IDM" et maintenez-le en cliquant sur un lien pour empêcher le téléchargement avec IDM
+21185=Le fichier avec les règles de téléchargement qui a été téléchargé à partir des serveurs IDM a un nouveau format.\r\nVeuillez mettre à jour IDM en utilisant \"Aide->Vérifier les mises à jour\" Élément de menu IDM afin que IDM puisse utiliser ces règles.

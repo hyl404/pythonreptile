@@ -1,0 +1,14 @@
+IDM übernimmt einen Download von jedem Browser, wenn der Typ mit der Liste der Typen/Dateierweiterungen übereinstimmt. Sie können die Liste der Dateierweiterungen unter "Optionen->Allgemein" editieren. 
+IDM übernimmt jeden Download, wenn Sie während des Klickens auf einen Download-Link im Browser die STRG-Taste gedrückt halten. (Sie können diese Taste unter "Optionen->Allgemein->Tasten" ändern) 
+Wenn Sie während des Klickens auf einen Download-Link in einem Browser die ALT-Taste gedrückt halten, ignoriert IDM den Download und lässt die Datei vom Browser herunterladen. (Sie können diese Taste unter "Optionen->Allgemein->Tasten" ändern)
+Wenn Sie etwas nicht verstehen, drücken Sie die F1-Taste zum Aufruf der kontextsensitiven Hilfe.
+Wenn Sie nicht wollen, dass IDM Downloads vom Browser übernimmt, schalten Sie die Browser-Integration in den IDM-Optionen ab.
+Sie können Links von einem Web-Browser per Drag & Drop in den "Auffangbehälter" ziehen. Der "Auffangbehälter" erscheint, wenn Sie mit der rechten Maustaste auf das IDM Tray-Icon klicken und "Auffangbehälter anzeigen" wählen oder wenn Sie ihn im IDM Hauptfenster unter "Aufgaben->Auffangbehälter anzeigen" aktivieren.
+Sie können den "Download komplett" Dialog, der das Öffnen der Datei anbietet, deaktivieren. Deaktivieren Sie dazu das Kästchen "Download komplett Dialog anzeigen" unter "Optionen->Downloads".
+Sie können den "Download starten" Dialog, der nach dem Speicherpfad der Datei fragt, deaktivieren. Sie brauchen nur die Option "Download starten Dialog anzeigen" unter "Optionen->Downloads" zu deaktivieren.
+Die Download-Fortschritt Dialoge können unter "Optionen->Downloads" minimiert oder ausgeschaltet werden.
+IDM sollte im System-Tray verbleiben, wenn Downloads vom MSN Explorer oder Internet Explorer basierten Browsern übernommen werden sollen.
+Sie können IDM von der Kommandozeile aus starten, um Dateien herunterzuladen. Lesen Sie den "Hilfe->Downloads starten" Abschnitt für weitere Informationen.
+Sie können Dateien aus dem IDM Hauptfenster mit Drag & Drop in andere Anwendungen ziehen (z.B. Winamp, Media Player usw.). Außerdem können Sie mit Drag & Drop Dateien von IDM in beliebige Windows-Ordner verschieben oder kopieren.
+Wenn Sie beim Herunterladen von einem geschützten Server nicht jedesmal denselben Namen und dasselbe Passwort eingeben wollen, können Sie den Server, den Benutzernamen und das Passwort in die Login-Liste unter "Optionen->Webseiten-Logins" eintragen.
+Wenn Sie beim Download von einem Server Probleme haben (wie Server ausgelastet, mehrfache Timeouts oder Server- oder Netzwerkbasierte Probleme), können Sie die Datei in der Warteschlange des IDM Zeitplaners belassen und die Warteschlange starten. Der IDM Zeitplaner wird alle 30 Sekunden versuchen, den Download erneut zu starten.

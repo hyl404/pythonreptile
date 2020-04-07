@@ -1,0 +1,1972 @@
+lang=0x1f Türkçe
+tips=tips_tr.txt
+help=idm_tr.chm
+tutor=tut_tr.chm
+grabberhelp=grabber_tr.chm
+schedulerhelp=scheduler_tr.chm
+
+//Last Update: Sunday May 29 2016 Translator: Burhan Keleþ E-Mail: klsburhan@hotmail.com
+//Son Güncelleme: 29 Mayýs 2016 Pazar Çevirmen: Burhan Keleþ E-Posta: klsburhan@hotmail.com
+//Lütfen çeviri hatalarýný, görüþlerinizi ve önerilerinizi e-postama gönderin.
+//Please send your opinions suggestions and spelling errors to my e-mail.
+
+//Translation Update for IDM 6.33.3
+//Translation Date: Friday July 7 2019
+//Translator: Çaðatay KAYA
+//E-Mail Address: cagataykaya55@hotmail.com
+
+// Dialogs
+
+//main dialog
+1281=Kategoriler
+20369=K
+20370=Dosya Adý
+20371=Durum
+20372=Boyut
+20373=Kalan süre
+20374=Aktarým oraný
+20375=Açýklama
+
+//toolbar
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//A long inscription can make all buttons wider and they may cross the border 
+//of the dialog.
+20376=URL Ekle
+20377=Devam Et
+20378=Durdur
+20379=T. Durdur
+20380=Sil
+20446=Tam. Sil
+20381=Seçenekler
+20382=Programla
+20383=Öner
+//tooltips for buttons
+t32790=Seçili dosya(lar)ý indirmeye baþla/devam et
+t32791=Seçili dosya(lar)ý indirmeyi durdur
+t32792=Tüm indirmeleri durdur
+t32793=Seçili dosya(lar)ý listeden kaldýr
+t32794=Tamamlanan tüm dosyalarý listeden kaldýr
+t32795=Tarayýcý/Sistem iliþkilendirmesi, Dosya türleri, Vekil sunucu, Þifreler ve diðerleri
+t32798=Programlayýcý ve indirme kuyruklarý
+t32788=IDM'yi arkadaþýna öner
+
+//Registration dialog
+138=Internet Download Manager Kayýtý
+1326=Ýlgili alanlara kayýt ayrýntýlarýný girin ve Tamam düðmesine basýn
+1330=Seri numara
+1327=Ad
+1328=Soyad
+1329=E-posta
+1191=&Tamam
+1201=&Nasýl kayýt edilir
+1080=&Ýptal
+
+//Download progress dialog
+103=Ýndirme ilerlemesi
+1154=(bilinmiyor)
+1178=<< Ayrýntýlarý gizle
+20426=<< Ayrýntýlarý gizle
+1158=Duraklat
+20392=Duraklat
+20424=Baþlat
+20425=Ayrýntýlarý göster >>
+1300=Dosya boyutu
+1301=Ýndirilen
+1302=Aktarým oraný
+1303=Kalan süre
+1149=(bilinmiyor)
+1299=Durum:
+1030=Baðlanýyor...
+1305=Baðlantýlara göre indirme ilerlemesi ve baðlantýlarýn baþlangýç konumlarý
+1304=Devam etme özelliði
+1175=(bilinmiyor)
+2=Ýptal
+20416=N.
+20417=Ýndirilen
+20418=Bilgi
+20419=Evet
+20420=Hayýr
+20421=%d saat %d dak
+20422=%d dak %d san
+20423=%d san
+
+130=Dosya Ýndirme Bilgisi
+1006=&Ýndirmeyi Baþlat
+1010=Gözat...
+1004=Daha Sonra &Ýndir
+1298=Açýklama
+1173=Önizleme
+1297=Kategori
+1296=Kaydet
+t1006=Dosyayý indirmeye baþla
+
+148=Ýndirilecek yeni adresi girin
+1182=Yetkilendirme &kullan
+1184=Kullanýcý adý
+1186=Þifre
+1022=T&amam
+
+//Options Dialog
+134=Internet Download Manager Yapýlandýrmasý
+1092=Tamam
+20286=Genel
+20287=Baðlantý
+20288=Ýndirmeler
+20289=Vekil Sunucu
+20290=Site Giriþleri
+20291=Çevirmeli Að/VPN
+20292=Sesler
+20293=Genel
+20294=Baðlantý
+20295=Ýndirmeler
+20296=Vekil Sunucu
+20297=Baðlantýlar
+20298=Çevirmeli Að
+20299=Sesler
+20300=Tarayýcý/Sistem Ýliþkilendirmesi
+20301=Baðlantý türü
+20302=Varsayýlan indirme ayarlarý
+20304=Sunucular/siteler için kullanýcý adlarý ve þifreler
+20305=Çevirmeli að / VPN ayarlarý
+20306=Ses ayarlarý
+//General tab
+1056=Açýlýþta Internet Download Manager'ý baþlat
+1061=Panoya eklenen baðlantýlarý otomatik olarak baþlat
+1065=Internet Explorer, MSN Explorer, ve IE tabanlý tarayýcýlarla iliþkilendir
+1077=&Varsayýlan
+1169=Dosya türleri...
+1270=Aþaðýdaki dosya türlerini indirmeye otomatik olarak baþla:
+t1056=Internet Download Manager'ý sistem açýlýþýnda baþlat
+//Proxy tab
+1102=HTTP vekil sunucu kullan
+1272=Þifreyi onayla
+1122=Vekil sunucu adresi
+1123=Bað. nok.
+1124=Kullanýcý adý
+1125=Þifre
+1107=IE'den al
+1108=FTP vekil sunucu kullan
+1274=Þifreyi onayla
+1126=Vekil sunucu adresi
+1127=Bað. nok.
+1128=Kullanýcý adý
+1129=Þifre
+1113=IE'den al
+1116=PASV modunda FTP kullan
+1118=HTTPS vekil sunucu kullan
+1273=Þifreyi onayla
+1133=Vekil sunucu adresi
+1135=Bað. nok.
+1137=Kullanýcý adý
+1139=Þifre
+1141=IE'den al
+t1107=Internet Explorer yapýlandýrmasýnda HTTP vekil sunucu bul
+t1116=Pasif modda FTP iletiþim kuralýný kullan
+//Connection tal
+1153=Baðlantý Türü/Hýzý
+1306=Azami baðlantý sayýsý
+1254=Ýndirme sýnýrlarý
+//Downloads tab
+1049=Gözat
+1190="Genel" kategorisi klasörü için en son seçilen yolu hatýrla
+1136="Genel" kategorisi için varsayýlan indirme dizini
+1132=Kaydetme...
+1236=Ýndirme tamamlandý iletiþim kutusunu göster
+1317=Virüs denetimi
+1318=Virüs tarayýcý programý
+1165=Gözat
+1319=Komut satýrý parametreleri
+1316=Ýndirme ilerlemesi iletiþim kutusu
+1315=Ýletiþim kutularý
+1059=Ýndirmeyi baþlat iletiþim kutusunu göster
+1138=Geçici dizin
+1054=Gözat
+//Dial Up tab
+1313=Baðlantý:
+1307=Baðlantý seçenekleri
+1166=Uygula
+1308=Yeniden çevirme seçenekleri
+1309=Yen. çevirme giriþimleri (sonsuz ise sýfýr):
+1310=Yen. çevirme giriþimleri arasýndaki süre:
+1312=saniye
+1311=kez
+1058=Windows Çevirmeli/VPN Aðý Kullan
+//Sounds tab
+1320=Internet Download Manager durumlarý için ses seçin
+1172=Gözat...
+1091=Oynat
+//Passwords tab
+20436=Site/yol
+20437=Kullanýcý adý
+20438=Þifre
+1087=Yeni
+1196=Düzenle
+1050=Kaldýr
+
+//File properties dialog
+135=Dosya Özellikleri
+1325=Tür:
+1324=Boyut:
+1323=Kaydedildi:
+1082=&Gözat...
+1322=Kullanýcý adý
+1289=Þifre
+1321=Þifreyi onayla
+1164=Aç
+1240=Son deneme
+1241=Sonuç: 
+
+100=Internet Download Manager hakkýnda
+1284=Ana Site:
+1285=Destek Ekibi:
+1286=Bu ürünün lisanslý kullanýcýsý:
+1181=Kayýt edilmemiþ sürüm
+1161=Güncellemeleri &Denetle
+1185=&Kayýt
+1085=&Satýn al
+1262=Sürüm:
+t1187=IDM ana sitesini ziyaret etmek için týklayýn
+t1189=IDM destek ekibi ile iletiþim kurun
+t1161=www.internetdownloadmanager.com'daki kullanýlabilir güncellemeleri denetleyin
+t1185=Kayýt anahtarý ile IDM'yi kayýt edin
+t1201=IDM için nasýl lisans alýnacaðýný öðrenmek için týklayýn
+t1085=IDM'nin kayýtlý kopyasýný satýn alýn
+
+150=Kapat
+1263=Internet Download Manager kuyruk iþlemini bitirdi. Programlayýcý ayarlarýna göre bilgisayarýnýz kapatýlacak.
+1170=Þimdi kapat
+
+1163=Evet
+1088=Tümüne evet
+1202=Hayýr
+1051=Tümüne hayýr
+
+177=Programlayýcý
+1331=Ýndirme Kuyruðu
+1333=Ayný anda
+1332=Programlayýcý
+1218=Ýndirmeyi baþlat
+1219=Bir kere
+1221=Günlük
+1062=Pazar
+1057=Pazartesi
+1066=Salý
+1069=Çarþamba
+1222=Perþembe
+1223=Cuma
+1224=Cumartesi
+1225=Ýndirmeyi durdur
+1228=Bittiðinde bilgisayarý kapat
+1235=Ýþlemleri durdurmaya zorla
+1089=Uygula
+1232=Þimdi baþlat
+1233=Durdur
+1079=Kapat
+1227=Bittiðinde modemi kapat
+1264=MBytes
+1265=saat
+1266=Þundan fazla indirme:
+1171=Yardým
+1267=her
+1268=Ýndirmeleri durdurmadan önce uyarý göster
+1271=Bittiðinde Internet Download Manager'ý kapat
+1335=dosya indir
+t1229=Öðeyi aþaðý taþý
+t1230=Öðeyi yukarý taþý
+t1231=Öðeyi indirme kuyruðundan kaldýr
+t1232=Kuyruðu baþlat
+t1233=Kuyruðu durdur
+t1235=Bu seçeneði acil bir durumda kullanýn. Bu iþlem uygulamalarýn veri kaybetmesine neden olabilir.
+
+184=Çevirmeli að
+1247=Baðlanýyor...
+1167=Yeniden çevir
+
+186=Çevirmeli Að Seçenekleri
+1336=Çevir
+1237=Þifreyi kaydet
+1288=Kullanýcý adý
+
+190=IDM bileþenlerini indir
+1=Tamam
+1258=Bileþenleri indir
+
+191=Ýndirme listesini çýkart
+1259=Ýndirme kuyruðunu çýkart
+1260=Seçili dosyalarý çýkart
+1261=Tüm dosyalarý çýkart
+
+192=Baðlantýlarý IDM'ye aktar
+1168=Düzenle...
+1090=Sil
+
+193=Aþaðýdaki uzantýlarý indirmeye otomatik olarak baþla:
+
+105=Günün ipucusu
+1001=&Açýlýþta ipucu göster
+1003=&Sonraki ipucu
+107=Günün Ýp&ucusu...
+108=Biliyor muydunuz...
+109=Ýpuçlarý dosyasý belirtilen dizinde yok
+110=Ýpuçlarý dosyasýný okuma sorunu
+
+146=Site giriþi
+1337=Site/yol
+1290=Þifreyi onayla
+1287=Not: Farklý sunucu dizinleri için farklý kullanýcý adlarýnýz varsa sadece yolu yazýn
+
+182=Hýzlý Güncelleme
+1295=Yeni sürüm denetleniyor
+								
+194=Ýndirme sýnýrlarý aþýldý!
+144=Internet Download Manager'ýn yeni sürümü mevcut
+1162=Þimdi güncelle
+1086=Ýptal
+
+//Zip preview dialog
+196=Zip önizlemesi
+20254=Dosya Adý
+20255=Paketli boyut
+20256=Boyut
+20257=Deðiþtirilme tarihi
+
+//New category dialog
+204=IDM kategorileri
+1174=Gözat...
+1291=Kategori adý
+1292=Aþaðýdaki dosya türlerini bu kategoriye otomatik olarak koy:
+1293=Not: Dosya uzantýlarýný boþluk býrakarak ayýrýn (örn. avi mpg mpeg)
+1239=Son kayýt yolunu hatýrla
+1294=Gelecekte bu kategorinin indirmelerini aþaðýdaki klasöre kaydet:
+
+
+// Menu
+m32771=Görevler
+32771=Yeni indirme ekle
+32809=Ýndirme sepetini göster
+m32821=Çýkart
+32821=IDM dosyasýna
+32823=Metin dosyasýna
+m32816=Aktar
+32816=IDM dosyasýndan
+32818=Metin dosyasýndan
+32772=&Çýkýþ
+
+m32774=Dosya
+32774=Ýndirmeyi Durdur
+32775=Kaldýr
+32776=Þimdi Ýndir
+
+m32778=Ýndirmeler
+32778=Tümünü Duraklat
+32779=Tümünü Durdur
+32794=Tamamlananlarýn Tümünü Sil
+32801=Programla
+32781=Seçenekler
+
+m32825=Görünüm
+32825=Kategorileri gizle
+m32828=Dosyalarý düzenle
+32828=Eklenme sýrasýna göre
+32830=Dosya adýna göre
+32832=Boyuta göre
+32834=Duruma göre
+32836=Kalan süreye göre
+32838=Aktarým oranýna göre
+32840=Açýklamaya göre
+m32841=Dil
+
+m57670=Yardým
+32811=Rehberler
+106=Günün ipucusu...
+32813=IDM Ana Sayfa
+32784=IDM Destek Ekibi ile Ýletiþim Kur
+32787=Güncellemeleri denetle...
+32786=IDM hakkýnda
+32788=Öner
+
+m32785=Kayýt
+32785=Çevrimiçi sipariþ et
+32783=Kayýt
+//end menu
+
+
+//Strings & messages
+101=&IDM Hakkýnda...
+32799=Baðlantý Noktasý Açýlýyor
+32800=Baðlantý Noktasý Açýldý
+32802=Aygýt Baðlanýyor
+32804=Aygýt Baðlandý
+32806=Tüm Aygýtlar Baðlandý
+32807=Yetki Baþlatýlýyor
+32808=Yetki Bildirisi
+32810=Yetki Tekrarý
+32812=Geri Arama Ýstendi
+32814=Þifre Deðiþimi Ýstendi
+32815=Projeksiyon Aþamasý Baþlatýldý
+32817=Baðlantý Hýzý Hesaplamasý
+32819=Yetki Kabul Edildi
+32820=Yeniden Yetkilendirme Baþlatýldý
+32822=Yetkilendi
+32826=Modemin Sýfýrlanmasý Bekleniyor
+32827=Geri Arama Bekleniyor
+32829=Etkileþimli
+32831=Yeniden Yetkilendirme
+32833=Geri Arama Arayan Tarafýndan Ayarlandý
+32835=Þifrenin Süresi Dolmuþ
+32837=Baðlandý
+32839=Baðlantý Kesildi
+
+20000=%s dosyasýnýn indirmesi tamamlandý.\n\n%s (%I64d Bytes) indirildi\nDosya %s olarak kaydedildi
+20001=Bu özellik sadece kayýtlý sürümde kullanýlabilir.
+20002=temp klasörüne indirilen (%s) dosyasý %s olarak yeniden adlandýrýlamýyor. Dosya temp klasörüne kaydedildi.
+20003=Þifre doðrulama baþarýsýz! Lütfen tekrar deneyin.
+20004=Þifre alaný dolu deðil!
+20005=Kullanýcý adý alaný dolu deðil! Lütfen tekrar deneyin.
+20006=Site/yol alaný dolu deðil! Lütfen tekrar deneyin
+20007=Bu sitenin giriþ bilgisini silmek istiyor musunuz?
+20008=Bu dosya zaten var 
+20009=.\nBu kullanýcý adlarýný ve þifreleri bu indirmeye uygulamak istiyor musunuz?
+20010=.\nBu indirmenin kullanýcý adýný ve þifresini \"anonim\" olarak deðiþtirmek istiyor musunuz?
+20011=Bu site/yol için giriþ bilgisi zaten þifre listenizde var.\nYeni giriþ bilgisi eklenmedi. Varolaný düzenlemek isteyebilirsiniz.
+20012=\"Site/yol alanýný\" deðiþtirdiniz. Bu yeni site/yol için giriþ bilgileri zaten þifre listenizde var.\nGiriþ bilgisi deðiþtirilmedi. Varolaný düzenlemek isteyebilirsiniz.
+20013=Bu site geçici olarak kullanýlabilir deðil!
+20014=Bu site/yol için yetkilendirme gerekli. Sað týk menüsündeki özellikler öðesini seçerek bu indirme için giriþ bilgisi ayarlayabilirsiniz. Veya bu siteden her dosya indirdiðinizde bu kullanýcý adý ve þifreyi kullanmak için giriþ bilgisini \"Seçenekler/Site Giriþleri\" sekmesine ekleyin.
+20015=Vekil sunucu yetkilendirmesi bu vekil sunucusu için gerekli. Vekil sunucu kullanýcý adýný ve þifresini \"Seçenekler/Vekil Sunucu\" sekmesinde deðiþtirebilirsiniz.
+20018=Bu dosya indirilemiyor.
+20019=Bu dosya indirilemiyor.
+20020=Ýndirmeye devam edecek kadar yeterli hafýza yok.
+20021=Hedef makine etkin olarak reddettiðinden dolayý baðlantý kurulamadý.\nMuhtemelen sunucudaki hizmet kapalý veya Internet Download Manager'ý engelleyen bir güvenlik duvarý yüklediniz. Güvenlik duvarýnýz varsa, lütfen ayarlarýnýn IDM'nin Internet'den indirmesine izin verdiðinden emin olun.
+20022=Ýzin reddedildi.
+20023=Ýstenen adres atanamadý. Ýstenen adres geçerli deðil.
+20024=Varolan bir baðlantý uzak ana makine tarafýndan kapatýldý. Uzak ana makinede eþ uygulamasý aniden durduysa, ana makine yeniden baþlatýldýysa, veya uzak ana makine \'zorla kapatma\' kullandýysa bu normaldir
+20025=Hedef ana makine kapalý olduðundan dolayý soket iþlemi baþarýsýz oldu. Bir soket iþlemi kapalý bir ana makineyle karþýlaþtý. Yerel ana makinedeki að etkinliði baþlatýlamadý.
+20026=Baðlantý hatasý. Böyle bir ana makine bilinmiyor. Ad ana makinenin resmi adý deðil, veya veritabanýnda bulunamýyor.
+20027=Bir soket iþlemi eriþilemeyen bir að için giriþimde bulundu. Bu genellikle yerel yazýlýmýn uzak ana makineye ulaþmak için hiçbir yol bilmediði anlamýna gelir.
+20028=Baðlandýðýnýz ana makine çöktü ve yeniden baþlatýldý.
+20029=Bir soket iþlemi çalýþmayan bir að ile karþýlaþtý. Bu að sisteminde (diðer bir deyiþle WinSock DLL'nin üzerinde çalýþtýðý iletiþim kuralý yýðýný), að arayüzünde, veya yerel aðýn kendisinde ciddi bir hata olduðunu gösterebilir.
+20030=Çok fazla açýk að baðlantýsý var. Lütfen bazý indirmelerin tamamlanmasýný bekleyin.
+20031=Baðlanýrken bir hata oluþtu
+20032=%s dosyasýnýn boyutu %I64d bytes.\nBu dosyayý kaydetmek istediðiniz yer olan \'%s\' sürücüsünde boþ alan yok.\nÝndirilirken biraz boþ alan açmazsanýz, dosya %s dizinine geçici olarak kaydedilecek.
+20033=\'%s\' sürücüsü üzerinde indirilen dosya parçalarýný depolayacak kadar boþ alan kalmadý.\nÝndirmeye devam etmek için biraz disk alaný açýn veya \"Seçenekler->Kaydet\" sekmesindeki geçici dizini deðiþtirin ve ardýndan indirmeye devam edin.
+20034=%s sunucusu bulunamadý
+20035=%s vekil sunucusu bulunamadý
+20036=%s:%ld baðlanýlamadý
+20037=%s:%ld vekil sunucusuna baðlanýlamadý
+20038=%s:%ld baðlanýlamadý\nBaðlantý zaman aþýmýna uðradý
+20039=%s:%ld vekil sunucusuna baðlanýlamadý\nBaðlantý zaman aþýmýna uðradý
+20040=Ýndirilen parçalar birleþtirilirken bilinmeyen bir hata oluþtu
+20041=Ýndirilen parçalar birleþtirilirken bilinmeyen bir hata oluþtu
+20042=Ýndirilen parçalar birleþtirilirken yazmak için yerel dosya açýlamadý
+20043=Ýndirilen parçalar birleþtirilirken sonraki parçanýn boyutu alýnamadý
+20044=Ýndirilen parçalar birleþtirilirken sanal bellek ayýrma hatasý oluþtu
+20045=Ýndirilen parçalar birleþtirilirken önemli bir yazma hatasý oluþtu
+20046=Ýndirilen parçalar birleþtirilirken önemli bir okuma hatasý oluþtu
+20047=Daha önce indirilen parçalar düzenlenirken bilinmeyen bir dosya veya kayýt defteri hatasý oluþtu
+20048=Sunucuya baðlanýlamadý
+20049=Internet soketi okuma hatasý
+20050=Internet soketi yazma hatasý
+20051=Baðlantý zaman aþýmýna uðradý
+20052=Baðlantý zaman aþýmýna uðradý
+20053=Baðlantý zaman aþýmýna uðradý, yeniden baþlatýlýyor...
+20054=Baðlantý baþarýsýz, yeniden baþlatýlýyor...
+20055=Ýndirilirken bilinmeyen bir hata oluþtu
+20056=Baðlantý sunucu tarafýndan kapatýldý.
+20057=Ftp sunucusuna giriþ yapýlamadý.
+20058=Bu dosya ftp sunucusunda bulunamadý.
+20059=Ftp sunucusu baðlantýlara izin vermiyor.
+20060=Ftp sunucusunun cevabý alýnýrken hata oluþtu.
+20061=Ftp sunucusunun cevabý alýnýrken hata oluþtu: Geçersiz cevap biçimi
+20062=PASV komutu cevabýndaki veri soketi için IP adresi bulunamýyor
+20063=Internet soketi açýlamadý.
+20064=Ftp veri soketi açýlamadý
+20065=Adres internet soketine baðlanamýyor
+20066=Veri soketini() dinlemek için arama sýrasýnda hata oluþtu
+20067=Internet soketini() kabul etmek için arama sýrasýnda hata oluþtu.
+20068=PORT komutu gönderilemedi.\nSoket adýný() almak için arama sýrasýnda hata oluþtu.
+20069=PORT komutu baþarýsýz.
+20070=Internet soketinden veri alýrken dosya yazma hatasý oluþtu.\nOlasý neden: Disk dolu.
+20071=Ftp sunucusu PASV komutunu desteklemediðinden ve \"Seçenekler->Vekil Sunucu/Socks\" bölümündeki \"PASV modunda FTP kullan\" açýk olduðundan dolayý veri baðlantýsý açýlamadý.
+20072=%s dosyasýnýn boyutu sunucu cevabýnda bulunamadý
+20073=Sunucu yeniden baþlatma komutunda yanlýþ cevap gönderdi.
+20074=Sunucu yeni konumu gönderdi ve %s dosyasýnýn adý %s olarak deðiþtirildi.\n\nÝndirmeye devam etmek istiyor musunuz?
+20075=Baðlantý kesiliyor...
+20076=Ýndirme tamamlandý, indirilen tüm parçalar birleþtiriliyor...
+20077=Ýsteðe baðlý baðlantýlar oluþturuldu.
+20078=Baðlanýyor...
+20079=Seçim baþarýsýz
+20080=Baðlantý tamam.
+20081=Internet soketinden veri alýrken dosya yazma hatasý oluþtu.
+20082=Recv() iþlemi baþarýsýz
+20083=Baðlantý sunucu tarafýndan kapatýldý.
+20084=Baðlantý kesildi.
+20085=Cevap bekleniyor...
+20086=Cevap tamam
+20087=Veri alýnýyor...
+20088=Tamamlandý.
+20089=Veri baðlantýsý: baðlanýyor...
+20090=Veri baðlantýsý: tamam
+20091=Veriyi almaya hazýr
+20092=Komut dizisi özelliði denetleniyor: iki komut birlikte gönderiliyor...
+20093=Komut dizisi özelliði denetleniyor: ilk cevap tamam, ikinci cevap bekleniyor...
+20094=Dosya bilgisi alýnýyor...
+20095=Sunucu cevabýndaki dizenin sonu bulunamýyor
+20096=Ftp sunucusunun cevabýndaki dizenin sonu bulunamýyor.
+20097=QUIT gönderiliyor.
+20098=Sunucu yeni kullanýcýlar için hazýr deðil.
+20099=Denetim soketi baðlandý.
+20100=Kullanýcý adý gönderiliyor...
+20101=Þifre gönderiliyor...
+20102=Kullanýcý adý baþarýsýz
+20103=Kullanýcý adý tamam
+20104=Þifre baþarýsýz
+20105=Þifre tamam
+20106=PASV komutu gönderiliyor...
+20107=Sunucu PASV desteklemiyor.
+20108=PASV tamam, adres çýkartýlýyor...
+20109=Soket baðlama tamam, arama dinlemeyi deneyin()
+20110=Kabul ediliyor...
+20111=Kabul etme tamam
+20112=PORT komutu gönderiliyor...
+20113=PORT tamam
+20114=Sunucu çalýþma dizini deðiþtiriliyor...
+20115=CWD baþarýsýz.
+20116=CWD tamam
+20117=Baðlantý baþarýsýz.
+20118=TYPE gönderiliyor ...
+20119=TYPE komutu baþarýsýz.
+20120=TYPE tamam.
+20121=REST komutu gönderiliyor...
+20122=REST baþarýsýz
+20123=REST tamam
+20124=RETR komutu gönderiliyor...
+20125=RETR baþarýsýz.
+20126=SIZE komutu gönderiliyor...
+20127=LIST komutu gönderiliyor.
+20128=LIST baþarýsýz.
+20129=LIST tamam
+20130=SIZE baþarýsýz.
+20131=Cevapta dosya boyutu bulunamýyor.
+20132=SIZE tamam
+20133=Denetim soketi sunucuya baðlý deðil.
+20134=Yerel dosya silindiðinden dolayý yeniden baþlatýlýyor. Bu durumda isteðe baðlý bir konumdan devam etmek desteklenmez.
+20135=Baðlantý yeniden baþlatýldý...
+20136=Muhtemelen sunucu ardýþýk komutu desteklemiyor.
+20137=Komut dizisi özelliði: tamam
+20138=HEAD gönderiliyor...
+20139=GET gönderiliyor...
+20140=Daha önce indirilen dosya parçalarý yeniden düzenleniyor...
+20141=Baðlanýyor...
+20142=Ýndirme tamamlandý. Toplam %I64d Bytes indirildi
+20143=Veri alýnýyor...
+20144=Ýsteðe baðlý baðlantýlar, baðlanýyor...
+20145=Ýndirme baþarýsýz. Ýndirilen: Toplam %I64d Bytes
+20146=%s dosyasýnýn boyutu %I64d bytes.\n\'%s\' sürücüsü üzerinde indirilen dosya parçalarýný depolayacak kadar boþ alan kalmadý.\nÝndirmeye devam etmek için diskte yer açýn veya bu dosyayý indirme listesinden kaldýrýn, \"Seçenekler->Kaydet\" sekmesindeki geçici dizin konumunu deðiþtirin, ardýndan tekrar deneyin.
+20147=\'%s\' sürücüsü üzerinde hiç boþ alan kalmadý.
+20148=Ýndirilen dosya parçalarý yeniden düzenlenemiyor.
+20149=Bu indirme zaten tamamlandý, yerel yol deðiþtirilmedi.
+20150=Dosyanýn son deðiþtirilme tarihi sunucu üzerinde deðiþtirilmiþ.\nBu dosyayý baþtan indirmek istiyor musunuz?
+20151=Internet Download Manager'ýn en son sürümünü kullanýyorsunuz. Lütfen daha sonra güncellemeleri tekrar denetleyin.
+20152=Girilen veriyi kaydederken bir hata oluþtu, lütfen tekrar deneyin.
+20153=Sanal bellek ayrýlýrken bir hata oluþtu. Bazý uygulamalarý kapatmayý deneyin ve ardýndan \'Tekrar dene\' düðmesine basýn.
+20154=Yeniden düzenleniyor
+20155=Ýstenen sunucu adý geçerli, fakat çözümlenen doðru iliþkili veriye sahip deðil (Ana makine mevcut, fakat direkt olarak ulaþýlabilir deðil).
+20156=Dosya %s - %s (%I64d Bytes) indirildi. Dosya boyutu bilinmediðinden dolayý bu dosya tamamen indirilmemiþ olabilir.\nDosya %s olarak kaydedildi
+20157=Öðe seçilmedi!
+20158=Yukarý taþý
+20159=Aþaðý taþý
+20160=Öðeyi sil
+20161=Bu dosya indirilemedi. Geçersiz http sunucu yanýtý.
+20164=www.internetdownloadmanager.com'dan yeni dosyalar alýnýyor...
+20166=Internet Download Manager Kullanma Kýlavuzu
+20167=Ýndirme kullanýcý tarafýndan iptal edildi
+20168=Hýzlý güncelleme baþarýsýz, yeni IDM dosyalarýný indirirken bir hata oluþtu. Daha sonra güncellemeyi deneyin.
+20169=Ýstenen dosya yok.
+20170=\nAçmak istiyor musunuz?
+20171=Bu dosya zaten indirme listenizde mevcut. Aynýsýný eklemek istiyor musunuz?
+20172=Sunucu bu dosyayý indirmeye izniniz olmadýðýný söylüyor.
+20173=Telefon rehberini okurken bir hata oluþtu.
+20174=Internet'e baðlanýlamadý.
+20175=Zaman aþýmý yüzünden dosya indirilemedi
+20199=Internet Download Manager'ýn Internet Explorer ile iliþkilendirmesi deðiþtirilemedi çünkü sistem kayýt defterine eriþim hakkýnýz olmayabilir
+20204=Bu dosya taþýnmýþ.
+20205=%s dosyasý taþýnmýþ.
+20206=Ýndirilen dosyayý açma
+20207=IDM bileþini indir
+20211=%s dosyasý %s olarak kaydedilecek. Böyle bir dosya bilgisayarýnýzda zaten var. Varolan dosya ile deðiþtirmek istiyor musunuz?\n\nDeðiþtirmek için \"Evet\" düðmesine basýn, farklý bir ad ile kaydetmek için \"Hayýr\" düðmesine basýn, dosyayý indirme listenize eklemeyi iptal etmek için \"Ýptal\" düðmesine basýn.
+20212=%s dosyasý %s olarak kaydedilecek. Böyle bir dosya indirme listenizde zaten var. Dosyayý bu ad ile kaydetmeyi onaylýyor musunuz?\n\nOnaylamak için \"Evet\" düðmesine basýn, farklý bir ad ile kaydetmek için \"Hayýr\" düðmesine basýn, dosyayý indirme listenize eklemeyi iptal etmek için \"Ýptal\" düðmesine basýn.
+20213=IDM'ye aktar
+20214=Dosyadaki baðlantýlar okunamadý veya dosya bozuk
+20215=Bu dosya geçerli bir IDM dosyasý deðil veya dosya bozuk
+20216=Bu dosya herhangi bir web baðlantýsýna sahip deðil
+20217=Ýþlem çalýþtýrýlýrken bilinmeyen bir hata oldu!
+20218=Bu dosya indirilemedi, belki ftp sunucusu indirmeyi devam etme özelliðini desteklemiyordur. Ayný dosyayý eklemek ve baþtan indirmek ister misiniz?
+20219=Dosya kayýt adý \"%s%s\", fakat sunucu þu adý gönderdi: \"%s\". Dosyayý sunucudan gelen dosya adý ile kaydetmek ister misiniz?
+20220=%s dosya indirmesi tamamlandý.\nBu m3u dosyasý bir mp3 dosyasýna web baðlantýsý içeriyor. Bu mp3 dosyasýný indirmek ister misiniz?
+20221=%s dosya indirmesi tamamlandý.\nBu m3u dosyasý bir veya daha fazla mp3 dosyasýna web baðlantýsý içeriyor. Bu mp3 dosyalarýný indirme listenize eklemek ister misiniz?
+20222=M3U dosyasý indirildi.
+20225=Virüs denetim programý baþlatýlamadý.\n%s
+20226=Internet Download Manager kuyruk iþlemini bitirdi. Programlayýcý ayarlarýna göre IDM modeminizi kapatacak.
+20227=Modemi kapat
+20228=Þimdi kapat
+20229=Þimdi durdur
+20230=Ýndirme sýnýrlarý aþýldý!
+20231=Geçersiz veri
+20232=\"Ýndirme sýnýrlarý\" bölümündeki saat deðeri 1 ve 23 arasýnda olmalý. Lütfen doðru girin veya \"Ýndirme sýnýrlarý\" onay kutusunu iþaretlemeyin.
+20233=Rehberi (yaklaþýk 60 KB) indirip kurmak istiyor musunuz?
+20234=IDM yardým dosyasýný (yaklaþýk 200 KB) indirip kurmak istiyor musunuz?
+20235=Yardým dosyasýný görüntüleyecek HHCtrl.ocx dosyasý bulunamadý!
+20236=IDM yardýmý
+20237=Sunucudaki dosya boyutu deðiþtirilmiþ.\nBaþtan indirilecek.
+20238=Vekil sunucu üzerinden baðlantý oluþturulamadý.
+20239=%s sunucusuna güvenli baðlantý oluþturulurken hata oluþtu.
+20240=Ýstek mesajýný þifrelerken hata oluþtu.
+20241=security dll yüklenirken hata oluþtu. https baðlantýsý oluþturulamadý.
+20245=Internet Download Manager seçenekleri
+20246=Ýndirme tamamlandý
+20247=Ýndirme baþarýsýz
+20248=Kuyruk iþlemi durduruldu/tamamlandý
+20249=Kuyruk iþlemi baþlatýldý
+20250=Durum
+20251=Ses dosyasý
+20252=Seçili ses dosyasý IDM ses klasörüne kopyalanamadý!
+20253=Internet Download Manager'ý kullanmak için %d gününüz kaldý. IDM kopyanýzý þimdi kayýt etmek istiyor musunuz?
+20258=Tüm Ýndirmeler
+20259=Tamamlanmayan
+20260=Tamamlanan
+20261=Programlar
+20262=Müzik
+20263=Video
+20264=Oyunlar
+20265=Belgeler
+20266=Kategori ekle
+20267=Sil
+20268=Özellikler
+20269=\"%s\" kategorisini IDM kategoriler listesinden silmek istiyor musunuz?
+20270=Bir kategoriyi IDM kategoriler listesinden silme
+20271=Bir kategoriyi IDM kategoriler listesine ekleme
+20272=Kategori özelliklerini düzenleme
+20273=Lütfen \"Kategori adý\" alanýný doldurun.
+20274=\"%s\" klasörü yok.\r\nKlasörü oluþturmak istiyor musunuz?
+20275=Klasör oluþturulamadý!\r\n%s
+20276=Kategorileri gizle
+20277=Kategorileri göster
+20278=Bir dizin seç
+20279=Genel
+20280=Tüm eski indirmeleri dosya türlerine göre bu kategorilere yerleþtirmek istiyor musunuz? Dosyalar sabit disk üzerinde taþýnmayacak, belirlenen indirme kategorileri ile iliþkilendirilecekler.
+20281=\"%s\" dosya türüne sahip tüm eski indirmeleri bu kategoriye yerleþtirmek istiyor musunuz? Dosyalar sabit disk üzerinde taþýnmayacak, bu kategori ile iliþkilendirilecekler.
+20282=IDM kategorileri
+20283=IDM dosyanýn indirilen parçalarýný birleþtirirken \"Eriþim engellendi\" hatasý aldý. Bu, virüs programý veya güvenlik duvarý gibi bazý uygulamalarýn dosyayý açmasý yüzünden olmuþ olabilir, doðru bir þekilde kapatmadýnýz, veya indirilirken dosyayý açmayý denediniz. Bilgisayarý yeniden baþlatmalý ve sonra dosyalarý birleþtirmek için Devam Et düðmesine týklamalýsýnýz.
+20284=\"%s\" kategorisi için varsayýlan indirme dizini
+20285=\"%s\" kategorisi için en son seçilen yolu hatýrla
+20307=- Internet Baðlantýnýzý Seçin -
+20314=256K Kablo/DSL/Diðer
+20315=300K Kablo/DSL/Diðer
+20316=512K Kablo/DSL/Diðer
+20319=Diðer
+20320=IDManager hakkýnda
+20321=Önceki boyutuna getir
+20322=Çýkýþ
+20323=Ýletiþim
+20324=Yardým
+20325=Çevrimiçi sipariþ et
+20326=Kayýt
+20327=Ýndirmeyi Durdur
+20328=Kaldýr
+20329=Ýndirmeye Devam Et
+20330=Özellikler
+20331=Geçersiz URL girildi. Lütfen düzeltin.
+20332=Bu indirme tamamlanmadý. Silmeye devam etmek istiyor musunuz?
+20333=Internet Explorer ayarlarýnda vekil sunucu yapýlandýrmasý bulunamadý
+20334=Bu URL ile dosya Internet Download Manager tarafýndan zaten indirilmiþ. Tekrar indirmek istiyor musunuz?
+20335=Bu URL ile dosya zaten listenizde var ve indirmenin tamamlanmasýný bekliyor. Dosyayý indirmeye devam etmek istiyor musunuz?
+20336=Bu ad ile çok dosya var. Lütfen onlarý silin veya adlarýný deðiþtirin
+20337=Lütfen kullanýcý adýnýzý girin.
+20338=Ýliþkili tarayýcý bulunamadý
+20339=Hýzlý Güncelleme uygulamasý bulunamadý.
+20340=Lütfen kayýt adýný girin.
+20341=Geçersiz kayýt numarasý girildi.
+20343=Lütfen adýnýzý girin
+20344=Lütfen soyadýnýzý girin
+20346=Lütfen e-postanýzý girin
+20347=Lütfen seri numaranýzý girin
+20348=Yanlýþ seri numarasý girdiniz.\n\nLütfen seri numaranýzý yazarken 0(sýfýr) ve O(o), I ve 1 karakterlerini karýþtýrmayýn! Seri numaranýzý kopyalayýn ve yapýþtýrýn!
+20349=Internet Download Manager sahte bir seri numara ile kayýt edilmiþ. IDM kapatýlacak...
+20351=Internet Download Manager sahte bir seri numara ile kayýt edilmiþ. IDM kapatýlacak...
+20352=Internet Download Manager 30 gün boyunca kayýt edilmedi. Deneme süresi bitti ve IDM kapatýlacak...
+20353=Internet Download Manager 30 gün boyunca kayýt edilmedi. IDM kapatýlacak...
+20354=Sýrasýnda bilinmeyen hata
+20355=Bilinmiyor
+20356=Ýndirme kuyruðuna ekle
+20357=Kuyruktan sil
+20358=Kuyruðu baþlat
+20359=Kuyruðu durdur
+20360=Aç
+20361=Son deneme tarihi:  
+20362=Sonuç:\n
+20363=Açmak için sadece bir dosya seçin!
+20364=Aç
+20365= zaten bilgisayarýnýzda mevcut. Varolan dosya ile deðiþtirmek istiyor musunuz?\nDeðiþtirmek için \"Evet\" düðmesine basýn, dosyayý farklý bir adla kaydetmek için \"Hayýr\" düðmesine basýn, indirmeyi iptal etmek için \"Ýptal\" düðmesine basýn.
+20366=Ýndirilen yer
+20367=Kaydet
+20368=Tüm tamamlanmýþ indirmeleri silmek istiyor musunuz?
+20384=Ýndirme sepetini göster
+20385=Uyarý: Bu program telif hakký yasalarý ve uluslararasý anlaþmalarla korunmaktadýr. Bu programýn çoðaltýlmasý veya daðýtýlmasý suç sayýlýr, ve bunu yapanlar hakkýnda kanunen yasal ve cezai hükümler geçerli olacaktýr.
+20386=%s klasörü oluþturulamadý, hata kodu = %ld\n
+20387=Hata
+20388=Dosyalar
+20389=Tüm Dosyalar
+20390=Ayrýntýlar:\n
+20391=Tamamlandý.
+20393=Ýndirme tamamlandý. Virüs denetimi devam ediyor...
+20394=AVI: Çöz. %dx%d, saniye baþýna örnekleme %d, Uzunluk %s
+20395=, Uzunluk: 
+20396=, Baþlýk: 
+20397=, Sanatçý: 
+20398=, Albüm: 
+20399=, Tür: 
+20400=WAV: saniye baþýna örnekleme %d, örnekleme baþýna bits %d, Uzunluk: %s
+20401=MPEG: Çöz. %dx%d, saniye baþýna örnekleme %.1f, örnekleme baþýna bits %d
+20402=%s,   toplam %ld dosya
+20403= Deneme
+20404= Tam Sürüm
+20405=%ld  yeniden çevir
+20406=Tanýmsýz RAS Çevirme Hatasý.
+20407=Ana iletiþim kutusundaki dil deðiþiklikleri IDM'yi yeniden baþlatýnca uygulanacak. IDM'yi þimdi yeniden baþlatmak istiyor musunuz?
+20408=%d:%02d saatinden %d:%02d saatine kadar %d MB indirdiniz. IDM Programlayýcý (veya \'Seçenekler->Baðlantý\') bölümündeki indirme sýnýrlarýný aþtýðýnýz için tüm IDM indirmeleri durdurulucak!
+20409=%d:%02d saatinden %d:%02d saatine kadar %d MB indirdiniz. IDM Programlayýcý (veya \'Seçenekler->Baðlantý\') bölümündeki indirme sýnýrlarýný aþtýðýnýz için tüm IDM indirmeleri %d:%02d saatinde durdurulacak!\r\n\r\nDurdurulan tüm indirmeler %02d:%02d saatinde otomatik olarak baþlatýlacak. Ýndirmeleri hemen devam ettirmek istiyorsanýz, Ýndirme Sýnýrlarý ayarlarýný deðiþtirin ve Devam Et düðmesine basýn.
+20410=Tamamlandý
+20411=Yeniden düzenleniyor...
+20412=Baðlantý kesiliyor...
+20413=Metin Dosyalarý
+20414=IDM Dosyalarý
+20415=Farklý kaydet...
+20427=IDM dosyalarý birleþtirirken lütfen indirme ilerlemesi iletiþim kutusunu kapatmayýn, aksi takdirde veri hasar alabilir.
+20428=Hýzlý Güncelleme
+
+20429=IDM'ye aktarýlanlarý indir...
+20430=Geri dönmek ve taramaya devam etmek için 'Geri' düðmesine týklayýn.
+20431=IDM indirmeyi baþlatamadý. Çalýþtýrýlabilir dosya bulunamadý.
+
+20433=Uyarý
+20434=Bir dizin seç
+20435=Virüs tarayýcý programý
+20439=Ses Dosyalarý
+20440=tamamlandý
+20441=Dosya Özellikleri
+20442=Internet%20Download%20Manager%20-%20çok%20güzel%20bir%20uygulama!!!
+20443=indirilen%20yer:
+
+//Please don't replace "English" to your local language, please just translate the "English" word
+20444=Lütfen Ýngilizce kullanýn
+
+20445=Bilinmiyor
+
+20447=Normal boyutu göster
+20448=Küçültülmüþ boyutu göster
+20449=Gösterme
+
+//Please change XXX on the language you are translating IDM to.
+q1=Internet Download Manager varsayýlan Windows dili olarak Türkçe dilini kullandýðýnýzý algýladý. IDM için Türkçe dilini yüklemek istiyor musunuz?
+
+20500=Lütfen ilk önce tam özellikli IDM sürümü satýn alýn ve yükleyin!
+1338=Lütfen IDM kullanýcý arayüzü için dil seçin (Bunu daha sonra "Görünüm->Dil" menü öðesini kullanarak deðiþtirebilirsiniz)
+20501=Internet Download Manager 15 gündür kayýt edilmedi. IDM kapatýlacak...
+20502=Özelleþtir...
+20503=Eklendiði Tarih
+20504=Son Deneme Tarihi
+20505=Kaydedildi
+20506=Kaynak
+33001=Özelleþtir...
+33002=Sütunlarý Özelleþtir...
+33004=Kayýt yoluna göre
+33005=Kaynaða göre
+33006=Son deneme tarihine göre
+20507=Sütunlar...
+
+209=Sütunlar
+1339=Listeden görünmesini istediðiniz sütunlarý iþaretleyin. Sütunlarý yeniden sýralamak için Yukarý Taþý ve Aþaðý Taþý düðmelerini kullanýn.
+1160=Yukarý Taþý
+1083=Aþaðý Taþý
+1340=Göster
+1048=Gizle
+1053=Sýfýrla
+1341=Seçili sütun
+1342=piksel geniþliðinde
+
+//new category
+20508=Sýkýþtýrýlmýþ
+
+//new dialog
+226=Bir sunucu için azami baðlantý sayýsý
+1348=Sunucu
+
+1350=Varsayýlan azami baðlantý sayýsý
+1343=Azami baðlantý sayýsý
+1344=Yeni
+1345=Sil
+1346=Düzenle
+1347=Ýstisnalar:
+20509=Sunucu
+20510=Sayý
+
+228=Tüm Baðlantýlarý IDM ile Ýndir
+20511=Dosya Türü
+20512=Baðlantý Metni
+1234=Baðlantý metinlerini indirme açýklamalarý olarak kullan
+1055=HTML dosyalarýný gizle
+1060=Tekrarlanan dosyalarý gizle
+1353=Tümünü Ýþaretle
+1354=Tüm. Ýþaretleme
+1352=Düzenle...
+1355=IDM indirme listesine eklemek istediðiniz baðlantýlarý lütfen iþaretleyin, ve Tamam düðmesine týklayýn.\r\nIDM'nin tüm dosya türlerini iþaretlemesine ve doldurmasýna kadar bekleyebilirsiniz.
+
+20513=Dosya kayýt adý \"%s\", fakat sunucu þu dosya türünü gönderdi: \"%s\", ve dosya \"%s\" olarak kaydedilmeli. Dosyayý sunucudan alýnan dosya türü ile eþleþen ad ile kaydetmek istiyor musunuz?
+
+//vers. 4.00
+20514=Tekrar indir
+20515=Klasörü aç
+
+q2=\"%s\" (%s), \"%s\" dosyasýný indirmek istiyor.\n\nIDM'nin bu uygulamadan indirmeleri devralmasýný istiyor musunuz?\nDaha sonra IDM'nin \"%s\" indirmelerini devralmasýný IDM->Seçenekler->Genel'de kapatabilir veya açabilirsiniz.
+
+20516=\"%s\" veri iletim iletiþim kuralý þu anda IDM tarafýndan desteklenmiyor. Veya bir yazým hatasý olabilir, bu nedenle lütfen yazýmý kontrol edin ve tekrar deneyin.
+20517=IDM dosya parçalarýný birleþtirirken \"Eriþim Engellendi\" hatasý aldý. Bu belki dosyanýn antivirüs gibi baþka bir uygulama tarafýndan açýlmasý, veya dosyayý kendiniz açmayý denediðiniz için olmuþ olabilir. Bu dosyayý birleþtirmek için, bilgisayarý yeniden baþlatýn, IDM'de dosyayý seçin, ve Devam Et düðmesine basýn.
+20518=Lütfen güncellemeden önce IDM'yi kayýt edin.\r\nKayýt bilgilerinizi girmek için \"Kayýt->Kayýt\" menü öðesini seçin. Sonra güncellemeye baþlamak için \"Yardým->Güncellemeleri Denetle\" menü öðesini seçin.
+20523=Kabul ettiðiniz lisans anlaþmasýna göre, Internet Download Manager'ý satýn aldýktan sonra bir yýl boyunca ücretsiz güncelleyebilirsiniz. Bu þarttan sonra IDM'yi güncellemeye devam etmek istiyorsanýz, güncelleme hizmetine abone olmanýz gerekicek.\r\nIDM abonelik sayfasýna bakmak ister misiniz?
+20519=Ýndirmeyi baþlatma tuþ(lar)ý ile indirmeyi durdurma tuþ(lar)ý ayný olamaz.\r\nLütfen diðer tuþlarý seçin.
+20525=Baðlantý hatasý. Böyle bir ana makine bilinmiyor. Ad resmi bir ana makine adý deðil, veya veritabanýnda bulunamadý.\r\n\r\nAþaðýda bu hata için olasý nedenleri bulun:\r\n\r\n1. Bilgisayarýnýzda güvenlik duvarý uygulamasý varsa, ve Internet Download Manager'ýn mevcut sürümünü yeni yüklediyseniz, deðiþtirdiyseniz veya güncellediyseniz. Lütfen güvenlik duvarý ayarlarýný denetleyin ve IDM'nin Internet'e eriþim hakkýnýn olduðundan emin olun.\r\n\r\n2. Internet'te sunucularý bulan Alan Adý Servisi (DNS) denilen bir servisin geçici sorunlarý var, veya DNS ve bilgisayarýnýz arasýndaki að baðlantýsý bozuk. Bilgisayarý yeniden baþlatmanýz gerekebilir.\r\n\r\n3. Sunucu adýnda yazým hatasý var. Lütfen yazýmýnýzý denetleyin.\r\n
+20522=IDM, tarayýcý ve sistem iliþkilendirmesi için gerekli olan %d dosyayý bulamadý. Ýndirmek ister misiniz?
+
+//Options->general
+1370=Internet'den dosyalarý indirmeye çalýþacak yeni bir uygulama algýla
+1368=IDM ile indirmeyi baþlatacak-durduracak tuþlarý özelleþtir
+1367=Tuþlar...
+1375=IDM'yi tarayýcýlarla iliþkilendir:
+
+229=Özel tuþlarý kullanma
+1361=Aþaðýdaki tuþ(lar)ý IDM ile herhangi bir baðlantýyý indirmeyi durdurmak için kullan:
+1067=Aþaðýdaki tuþ(lar)ý IDM ile herhangi bir baðlantýyý indirmeye baþlamak için kullan:
+1366=Sol fare düðmesinin özel tuþla birlikte týklanýp týklanmadýðýný denetle
+1374=Not: Bazen bir indirme baðlantýsýna týkladýktan sonra, indirmenin X saniye sonra baþlayacaðýný söyleyen bir web sayfasý yüklenir. Bu durumda IDM ile indirmek için aþaðýdaki seçeneði iþaretlemenize gerek yok.
+
+//Download all links with IDM
+1356=Kaydet
+1357=Her dosyayý dosyanýn kategorisine göre
+1358=Tüm dosyalarý tek kategoriye
+1359=Tüm dosyalarý tek dizine
+1360=Gözat...
+
+//Options->Proxy
+1378=Aþaðýdakilerle baþlayan adresler için vekil sunucu kullanma:
+1377=Adlarý boþluk ile ayýrýn
+
+
+20526=Internet Download Manager Að Ýliþkilendirmesi
+20527=Internet Download Manager, að iliþkilendirmesinin bazý üçüncü parti uygulamalar tarafýndan silindiðini algýladý. Internet Download Manager'ýn að iliþkilendirmesini geri yüklemek ister misiniz?
+20528=Internet Download Manager, bazý üçüncü parti uygulamalarýn IDM að iliþkilendirmesini deðiþtirdiðini algýladý. Bu yakýn zamanda yüklenen bir að uygulamasý, veya bir uygulamanýn yanlýþlýkla kayýt defteri kayýtlarýný geri yüklemesi yüzünden olmuþ olabilir. Internet Download Manager'in að iliþkilendirmesini geri yüklemek ister misiniz?
+20529=Internet Download Manager að iliþkilendirmesi deðiþtirilmiþ. Bilgisayarýnýzý yeniden baþlatmanýzý öneriyoruz. Þimdi yeniden baþlatmak istiyor musunuz?
+20530=Internet Download Manager að iliþkilendirmesi deðiþtirilmiþ. Bilgisayarýnýzý yeniden baþlatmanýz gerekiyor, çünkü güvenlik duvarý bu deðiþiklileri algýlayamaz, ve Internet uygulamalarý yeniden baþlatýlana kadar Internet ile düzgün olarak iletiþim kuramaz.\r\n\r\nÇalýþmanýzý kaydedin ve tüm uygulamalarý kapatýn, Tamam düðmesine bastýktan sonra bilgisayar yeniden baþlatýlacak.
+
+20531=Internet Download Manager'ý çalýþan bir uygulama ile iliþkilendirmek için, uygulamayý yeniden baþlatmanýz gerekecektir, çünkü IDM çalýþan uygulamalar ile iliþkilendirilemez.\r\n\r\nUygulama ile iliþkilendirdikten sonra daha iyi randýman almak için \"Yeni Uygulamalarý Algýla\" seçeneðini kapatabilirsiniz.
+20532=Yeni Uygulamalarý Algýla
+
+//v 4.01
+//Download All Links with IDM dialog
+1385=Bu web sayfasýnda bulunan resimleri gizle
+//Options->General dialog
+1381=Geliþmiþ tarayýcý iliþkilendirmesi kullan
+20547=Temel ve geliþmiþ tarayýcý iliþkilendirmeleri arasýnda geçiþ yapmak sistemi yeniden baþlatmayý gerektirebilir. Devam etmek istiyor musunuz?
+//new dialog
+230=Internet Baðlantýsý Denetleniyor
+1382=Denetle
+20536=IDM Internet baðlantýnýzý test etmek için küçük bir test sayfasý indiriyor. Lütfen birkaç saniye bekleyin
+20537=IDM Internet Explorer'ýnýzý test ediyor. Lütfen Internet Explorer küçük bir test sayfasý yüklerken birkaç saniye bekleyin
+//Problem report dialog
+232=Internet Download Manager Sorun Raporu
+20546=Bize gönderebileceðiniz bir yapýlandýrma raporu oluþturduk. Bu sorunu IDM'nin gelecek sürümlerinde düzeltmemize yardým etmek için lütfen aþaðýdaki bilgileri gönderin. Bu veri tekniktir. Kiþisel bilgilerinizi toplamýyoruz ve bu raporu adsýz olarak ele alacaðýz.
+1386=Ýsterseniz aþaðýya herhangi bir yorum veya istek ekleyebilirsiniz. Örnek olarak, IDM geliþmiþ tarayýcý iliþkilendirmesi ile çakýþan uygulamayý biliyorsanýz, lütfen adýný yazýn.
+1391=Sorun çözüldüðünde bilgilendirilmek istiyorsanýz, lütfen aþaðýya e-postanýzý ekleyin
+20545=Veri gönderiliyor...\r\nLütfen birkaç saniye bekleyin
+1390=Gönder
+
+//new messages
+20533=IDM Internet Explorer'da vekil sunucu kullandýðýnýzý algýladý. Ayný vekil sunucu ayarlarýný IDM'de kullanmak istiyor musunuz?
+20534=Internet Download Manager'ýn Ýlk Kez Çalýþmasý
+20535=IDM modeminizi Internet'e baðlamak için Windows Çevirmeli Aðý kullandýðýnýzý algýladý. Bu ayarlarý IDM'de kullanmak istiyor musunuz?
+
+20538=Test sayfasý indirilemedi. Internet Download Manager að iliþkilendirmesi baþka bir Internet uygulamasý veya güvenik duvarý ile çakýþýyor olabilir. IDM özgün ayarlarýnýzý geri yüklemek için geliþmiþ tarayýcý iliþkilendirmesini kapatacak. Geliþmiþ tarayýcý iliþkilendirmesini daha sonra IDM->Seçenekler->Genel iletiþim kutusunda açabilirsiniz.
+20539=Özgün ayarlarýnýzý geri yüklemek için bilgisayarýnýzý yeniden baþlatmanýz gerekiyor. Lütfen çalýþmanýzý kaydedin ve tüm uygulamalarý kapatýn, Tamam düðmesine bastýktan sonra bilgisayar yeniden baþlatýlacak.
+20540=Internet Download Manager að iliþkilendirmesi baþarýyla yüklendi. Nadir bir durumda að iliþkilendirmesi yeni yüklenmiþ bir üçüncü parti Internet uygulamasý ile çakýþabilir. Að iliþkilendirmesi ile ilgili bir sorun bulursanýz, lütfen IDM->Seçenekler->Genel iletiþim kutusundaki \"Geliþmiþ tarayýcý iliþkilendirmesi kullan\" onay kutusunun iþaretini kaldýrýn. 
+20541=Geliþmiþ tarayýcý iliþkilendirmesini kapattýnýz. Geliþmiþ tarayýcý iliþkilendirmesinde bir sorun bulduysanýz, sizin için sorunu düzeltmek istiyoruz. Sorunu düzeltmek için, bilgisayar yapýlandýrmanýz ve yüklü Internet uygulamalarýnýz hakkýnda bazý teknik bilgi tespit etmemiz ve toplamamýz gerekiyor. IDM sonraki aþamada bilgileri toplayacak ve destek ekibine göndermeden önce size gösterecek.\r\n\r\nIDM'nin bu bilgiyi oluþturmasýný istiyor musunuz?
+20542=Geliþmiþ tarayýcý iliþkilendirmesini kapatma
+20543=IDM Internet baðlantýnýzý denetlemek için bir test sayfasý indirmeye çalýþýyor. Lütfen Internet'e baðlý olduðunuzdan emin olun. Güvenlik duvarýnýz varsa, lütfen ilerlemeden önce IDM'nin yeni sürümünün Internet'e eriþim hakkýnýn olduðundan emin olun. Ardýndan aþaðýdaki \"Denetle\" düðmesine basýn, IDM test sayfasýný tekrar indirmeye çalýþacaktýr.
+20544=IDM að iliþkilendirmesini deðiþtirdi ve Internet baðlantýnýzý tekrar denetlemesi gerekiyor. Internet'e baðlý deðilseniz lütfen baðlanýn ve \"Denetle\" düðmesine basýn.
+20548=Internet Download Manager að iliþkilendirmesi deðiþtirildi. Bilgisayarýnýzý yeniden baþlatmanýz gerekiyor, çünkü Internet uygulamalarýnýz yeniden baþlatýlana kadar düzgün bir þekilde Internet ile iletiþim kuramayacak.\r\n\r\nLütfen çalýþmanýzý kaydedin ve tüm uygulamalarý kapatýn, Tamam düðmesine bastýktan sonra bilgisayar yeniden baþlatýlacak.
+
+//v4.01 build 4
+20549=Internet Download Manager'ýn bu sürümü Geliþmiþ Tarayýcý Ýliþkilendirmesi özelliðine sahiptir. Bu özelliðin kurulumu sisteminizin yeniden baþlatýlmasýný gerektirebilir.\r\n\r\nGeliþmiþ Tarayýcý Ýliþkilendirmesi açýldýðýnda, IDM daha önce, veya baþka bir indirme yöneticisinde yakalanmasý mümkün olmayan indirmeleri yakalayacak. Ayrýca iliþkilendirmeyi kullandýðýnýzda, IDM, FTP/HTTP indirmelerinizi devralmak için herhangi bir tarayýcý ve Internet uygulamasý ile iliþkilendirilebilir.\r\n\r\nNadir bir durumda bu iliþkilendirme yeni yüklenen bir üçüncü parti Internet uygulamasý ile çakýþabilir. Að iliþkilendirmesinde bir sorun bulursanýz, kapatmak için IDM->Seçenekler->Genel iletiþim kutusundaki \"Geliþmiþ tarayýcý iliþkilendirmesi kullan\" onay kutusunun iþaretini kaldýrabilirsiniz.\r\n\r\nGeliþmiþ Tarayýcý Ýliþkilendirmesini yüklemek istiyor musunuz?
+20550=Geliþmiþ Tarayýcý Ýliþkilendirmesi baþarýyla yüklendi!
+
+//menu "File->Redownload"
+33009=Tekrar Ýndir
+
+//new (since v4.00) toolbar buttons of the main window
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//A long inscription can make all buttons wider and they may cross the border 
+//of the dialog.
+20551=K. Baþlat
+20552=K. Durdur
+
+//v4.01 build 5
+20553=Internet Download Manager indirme baðlantýsýný baþka bir Internet uygulamasý dosyayý indirmeye çalýþtýðýnda otomatik olarak aldý. Bu dosyayý IDM ile indirmek ÝSTEMÝYORSANIZ, lütfen Seçenekler düðmesine basarak Seçenekler iletiþim kutusunu açýn\r\n\r\n 1. Bu dosya türünü IDM ile indirmek istemiyorsanýz, otomatik olarak yakalanan dosya türleri listesinden ilgili dosya türünü (dosya uzantýsýný) silebilirsiniz.\r\n\r\n 2. Belirli bir siteden IDM ile herhangi bir dosya indirmek istemiyorsanýz, bu siteyi istisna siteler listesine ekleyebilirsiniz.
+236=IDM ipucu: Otomatik baðlantý yakalama
+1393=Bu ipucunu tekrar gösterme
+1397=IDM diðer Internet uygulamalarýndan indirmeleri devralan veya devralmayan deðiþken bir mekanizmaya sahiptir. Daha fazla bilgi edinmek ister misiniz?
+1396=Daha fazla
+
+//v4.02
+20569=IDM ayný seri numara ile birden fazla bilgisayar üzerinde kullanýldýysa bu hata iletisi çýkabilir. Lütfen IDM'nin her bilgisayar için ayrý lisansa sahip olduðunu unutmayýn. IDM'yi ayný anda birden fazla bilgisayar üzerinde kullanmak için lütfen her biri için lisans satýn alýn.
+20570=Küçük Düðmeler
+20571=Büyük Düðmeler
+20572=Klasik Düðmeler
+
+//new main menu items
+m33001=Araç çubuðu
+33510=Klasik Düðmeler
+34010=Küçük Düðmeler
+34011=Büyük Düðmeler
+
+//a new (since 4.401) button on the Options dialog
+1371=Yardým
+
+// The abbreviation of second, kilobytes, megabytes and gigabytes, 
+// it's used when denoting download speed measurement units, 
+// e.g. KB/sec --- kilobytes per second, etc.
+20575=san
+20576=GB
+20577=MB
+20578=KB
+20579=Bytes
+
+//v4.03
+20588=Ýndirilen dosya yeniden düzenlenemiyor. Sýralý indirilmiþ parçalar bozuk. Sorunun olasý nedenlerini aþaðýda bulun.\r\n\r\n 1. Dosya parçalarý indirilirken/birleþtirilirken bilgisayar elektrik kesintisinden dolayý kapanmýþ.\r\n 2. Baþka bir uygulama veya kullanýcý Internet Download Manager iþlemini dosya parçalarýný indirirken/birleþtirirken kapatmýþ. Büyük dosyalarý yeniden düzenlemenin zaman alacaðýný unutmayýn. Lütfen endiþelenmeyin, sabýrlý olun, ve IDM birleþtirmeyi bitirene kadar bekleyin. Lütfen Internet Download Manager iþlemini Görev Yöneticisinden kapatmayýn.\r\n\r\nBu olaylar olmadýysa, lütfen %s dosyasýný(varsa) Internet Download Manager teknik destek bölümüne incelenmesi için gönderin.
+
+
+//v 5.00 --- grabber
+1429=< Geri
+1430=Ýleri >
+
+1405=Filtre Ekle
+1421=Filtre Ekle
+1437=Dosyalarý sadece bu sitede ara
+1459=Eþleþen tüm dosyalarý hemen indirmeye baþla
+1471=Ýlk önce siteyi araþtýrabilir, ihtiyacýnýz olan dosyalarý iþaretleyebilir, ve dosyalarý ana Yakalayýcý penceresinde indirebilir, veya dosyalarý ana IDM listesine ekleyebilirsiniz. Bu seçenek araþtýrýlan tüm dosyalarý indirir.
+1515=Aþaðýdaki dosyalarý (dosya türlerini) indir
+1516=Aþaðýdaki dosyalarý (dosya türlerini) indirme
+1480=Þundan az deðil:
+1482=Þundan fazla deðil:
+1483=Sadece aþaðýdaki yollarda ve baðlantýlarda olan dosyalarý indir:
+1486=Aþaðýdaki yollarda ve baðlantýlarda olan dosyalarý indirme:
+1517=Dosya boyutu þu ise indir:
+1488=Giriþleri ayýrmak için noktalý virgül ( ; ) kullanýn.
+
+241=IDM Site Yakalayýcý
+1446=Ýndirilen Dosyalar:
+1448=Bulunan Dosyalar:
+1450=Ýþlenen web sayfalarý:
+
+244=Filtreler
+1423=Ekle
+1424=Düzenle
+1425=Sil
+
+245=Filtre
+1426=Ad
+1427=Maske
+
+1414=Yakalayýcý Projesi Adý
+1510=Baþlangýç sayfasý/adresi
+1439=Yetkilendirme Kullan
+1441=Aþaðýdaki web sayfalarýnda kullanýcý adýný ve þifreyi elle gir:
+1511=Proje þablonu
+1470=Bir proje þablonu seçerseniz, sihirbaz ileriki adýmlarda gerekli proje ayarlarýný seçili proje þablonuna göre yapacaktýr. Ayarlarý elle deðiþtirebileceðinizi unutmayýn.
+
+1514=Orijinal baðlantýlý alt dizinleri kullan
+1468=Ýndirilen html dosyalarýndaki baðlantýlarý çevrimdýþý gözatma için yerel dosyalara çevir
+1469=Varolan dosyalarýn üzerine yaz
+1436=Yakalayýcý kapanýþýnda iþaretli dosyalarý IDM ana listesine ve indirme kuyruðuna ekle
+
+262=IDM Yakalayýcý ayarlarý
+1518=IDM ana listesine dosya eklendiðinde baðlantý metnini indirme açýklamasý olarak kullan
+1466=ayný anda araþtýrýlacak dosyalar (1/10)
+1467=ayný anda indirilecek dosyalar (1/10)
+1509=Ayný anda araþtýrýlan (indirilen) dosya sayýsýný büyük ayarlarsanýz sunucunun istekleri reddedebileceðini unutmayýn.
+
+1416=Üst dizinleri araþtýrma
+1490=temel sitedeki düzeyler
+1435=Tüm siteyi araþtýr
+1445=Belirlenen baðlantý düzey numaralarýný araþtýr:
+1491=diðer sitelerdeki düzeyler
+1474=Sadece aþaðýdaki yollarý/alanlarý içeren web sayfalarýný araþtýr:
+1476=Aþaðýdaki yollarý/alanlarý içeren web sayfalarýný araþtýrma:
+1512=Bu adýmda gerekli dosyalarý bulmak için araþtýrýlacak web sayfalarýný belirleyebilirsiniz. Bir sonraki adýmda, dosya türlerini, konumu ve diðer filtreleri ayarlayabilirsiniz.
+1489=Baðlantý düzey numaralarý nedir?
+1493=Ana alan içindeki tüm siteleri araþtýr
+1494=Açýlýr pencereleri yoksay
+
+268=Þablon Adý
+1508=Lütfen yakalayýcý þablonu için bir ad girin
+
+269=IDM Yakalayýcý projesini kaydetme
+1507=Bu projeyi aþaðýdaki ad ile kaydet
+1513=Dosya adý özelse bu iletiþim kutusunu gösterme
+
+270=Proje yükle
+
+32811=Rehberler
+34022=Yakalayýcý yardýmý
+      
+
+m1458=Proje
+1458=Yeni
+1438=Yükle...
+1442=Kaydet
+34020=Mevcut ayarlarý þablon olarak kaydet
+m34013=Son projeler
+34013=Son projeler listesi
+m1457=Seçenekler
+1457=Yakalayýcý ayarlarý
+34021=Projeyi programla
+
+t1398=Siteyi Araþtýrmaya Baþla
+t1401=Siteyi Araþtýrmayý Durdur
+t1353=Tüm Dosyalarý Ýþaretle
+t1354=Tüm Dosyalarýn Ýþaretini Kaldýr
+t1432=Ýþaretli dosyalarý indirmeye baþla
+t1433=Ýþaretli dosyalarý indirmeyi durdur
+t1434=Ýþaretli dosyalarý ana IDM listesine ve indirme kuyruðuna ekle
+
+
+20580=Özel ayarlar
+20581=Web sitesinin tüm resimleri
+20582=Baþlangýç sayfasý ve sonraki sayfalardaki ses dosyalarý
+20583=Web sitesinin tüm video dosyalarý
+20584=Web sayfalarý ve resimler hariç web sitenin tüm dosyalarý
+20585=Tüm web site
+
+20589=Web içeriði
+20590=Geliþmiþ
+20591=Yakalayýcý projeleri
+20592=IDM Yakalayýcý
+20593=Baþlangýç sayfasý/adresi girin
+20594=Baþlangýç sayfasý/adresi
+20595=Lütfen kullanýcý adýnýzý ve þifrenizi girin veya \"Yetkilendirme Kullan\" onay kutusunun iþaretini kaldýrýn
+20596=Lütfen giriþi elle yapýn veya ilgili onay kutusunun iþaretini kaldýrýn
+20597=Elle giriþ sayfasý
+20598=Ýþaretli dosya yok!
+20599=%ld dosya ana IDM listesine eklendi.
+20600=Dosya eklenemedi. Çok fazla dosya iþaretlenmiþ. Lütfen dosyalarý araç çubuðundaki \"Ýþaretli dosyalarý indirmeye baþla\" düðmesine basarak indirin.
+20601=Yeni dosyalar eklenemedi. Ana IDM listesi çok fazla dosya içeriyor ve IDM'yi yavaþlatabilir. Lütfen bazý dosyalarý listeden silin.
+
+20602=Bu ad kullanýlmýþ. Lütfen þablonunuz için baþka bir ad seçin.
+20603=Böyle bir ad ile þablon zaten mevcut. Þablon ile deðiþtirmek istiyor musunuz?
+20604=Yakalayýcý projesini kaydetmek istiyor musunuz?
+
+//right click menu
+20605=Projeyi aç
+20606=Projeyi programla
+20607=Projeyi sil
+
+20608=Lütfen önce çalýþan yakalayýcý projesini kapatýn.
+20609=Yakalayýcý projesi programla
+20610=Çok yakýnda!!!\r\n\r\nIDM'nin bir sonraki sürümünde bu özelliði denetleyin
+
+//displayed statuses
+20611=Site araþtýrýlýyor
+20612=Ýndiriliyor
+20613=Tamamlandý
+20614=Durduruldu
+
+20615=\"%s\" adý ile baþka bir proje zaten mevcut. Lütfen baþka bir ad seçin.
+20616=Kayýtlý IDM yakalayýcý projesi yok
+20617=Lütfen proje adý seçin!
+20618=\"%s\" yakalayýcý projesini silmek istiyor musunuz?
+20619=Geçersiz ayný anda araþtýrýlacak dosya sayýsý. Lütfen doðru bir sayý ayarlayýn.
+20620=Geçersiz ayný anda indirilecek dosya sayýsý. Lütfen doðru bir sayý ayarlayýn.
+20621=\"%s\" dosyasý açýlamadý\r\n\r\n%s
+20622=IDM Yakalayýcý yardým dosyasýný (yaklaþýk 100 KB) indirip kurmak istiyor musunuz?
+20623=Proje yüklenemedi.\r\nBellek ayýrma hatasý.
+20624=Proje yüklenemedi.\r\nYakalayýcý projesi dosyasý bozuk veya sürümü uygun deðil.
+20625=Yakalayýcý projesi dosyasý bozuk. Birkaç dosya yüklenemedi
+20626=Þablon yüklenemedi.\r\nÞablon bilgi dosyasý bozuk veya sürümü uygun deðil.
+20627=Yakalayýcý þablonunu yükleme
+20628=Yakalayýcý þablonunu kaydetme
+20629=Yakalayýcý projesini kaydetme
+20630=Yakalayýcý projesini yükleme
+      
+//step dialogs captions
+20631=IDM Site Yakalayýcý. Adým %d --- %s
+20632=Baþlangýç sayfasý ayarla
+20633=Dosyalarý kaydet
+20634=Araþtýrma filtrelerini ayarla
+20635=Dosya filtrelerini ayarla
+
+20636=Elle giriþ sayfasý
+20637=Giriþ iþlemi tamamlandýðýnda Tamam düðmesine basýn
+20638=Tamam
+20639=Ýptal
+
+//v4.04
+20640=Ýndirmeleri sadece Internet Explorer'dan devralmayý düþünüyorsanýz, o zaman bu özelliðe ihtiyacýnýz yok, ve \"Hayýr\" cevabýný vermelisiniz.
+
+//v4.06
+20641=Baðlanýyor
+20642=Bölge:
+1534=Bu þifreyi IDM þifre listesine kaydet
+1536=Kullanýcý adýnýzý ve þifrenizi yazýn.
+1537=Kullanýcý adý:
+1538=Þifre:
+
+//v4.07
+
+280=Toplu indir
+1553=IDM indirme kuyruðu için img001.jpg, img002.jpg, img100.jpg gibi bir ardýþýk dosya adý grubu ekleyebilirsiniz. Dosya adý þablonu için yýldýz kullanýn.\nÖrnek olarak: http://www.internetdownloadmanager.com/pictures/img*.jpg
+1540=Numaralar
+1541=Harfler
+1556=Baþlangýç:
+1557=Bitiþ:
+1547=Özel karakter boyutu
+1555=Yýldýz yerleþtir
+1558=Ýlk dosya:
+1559=Ýkinci dosya:
+1560=Son dosya:
+
+20643=Seçili tüm dosyalarý iþaretle
+20644=Seçili tüm dosyalarýn iþaretini kaldýr
+
+1552=Dosya adý þablonu için dosya adlarýna yýldýz koy:
+
+34024=Toplu indirme ekle
+
+20645=Ýndirme listesini oluþturmak için URL'de yýldýz iþareti yok!
+20646=Toplu indirme
+20647=Çok fazla dosya var. Dosya sayýsý bini aþmamalý. Lütfen baþka aralýk seçin.
+20648=Dizine/Kategoriye kaydet
+
+//v5.00 beta
+
+20574=Yakalayýcý
+20649=Lütfen çýkýþ sayfasýný girin veya ilgili onay kutusunun iþaretini kaldýrýn
+
+20554=Tüm Dosyalar
+20555=Resim Dosyalarý
+20556=Video Dosyalarý
+20557=Ses Dosyalarý
+20558=Çalýþtýrýlabilir Dosyalar
+20559=Sýkýþtýrýlmýþ Dosyalar
+20560=PDF Dosyalarý
+
+20561=Hariç tutulanlar filtresini kullanma
+
+20562=Site Haritasý
+20563=Ayarlar
+
+20564=Filtre adý
+20565=Maske
+20566=Lütfen filtre adýný doldurun
+20567=Lütfen maske adýný doldurun
+20568=\"%s\" adý ile baþka bir filtre zaten mevcut. Lütfen baþka bir ad seçin.
+
+20650=Lütfen bekleyin...
+20651=Geçici dosyalar siliniyor
+20652=Yakalayýcý projesi kaydediliyor
+20653=Yakalayýcý projesi siliniyor
+20654=Deðiþiklikler uygulanýyor
+20655=Yakalayýcý projesi yükleniyor
+20661=Deðiþiklikler denetleniyor
+20662=Elle giriþ sayfasý indiriliyor
+
+20656=%s sürücüsü üzerinde yakalayýcý projesini iþleyecek kadar boþ alan yok. Lütfen boþ alan açýn ve tekrar deneyin.
+20657=%s sürücüsü üzerinde yakalayýcý projesini açacak kadar boþ alan yok. Lütfen boþ alan açýn ve tekrar deneyin.
+20658=Proje açýlamýyor. Bazý proje dosyalarý bozulmuþ veya silinmiþ.
+
+20659=Çevrimdýþý gözatma için tüm resim, stil ve komut dosyalarý ile baþlangýç sayfasýnýn tamamý
+20660=Baþlangýç sayfasýnýn tamamý
+
+20663=Elle giriþ sayfasý indirilemiyor. Lütfen URL giriþini kontrol edin.
+
+33010=Site yakalayýcýyý çalýþtýr
+
+1563=Elle giriþi etkinleþtirmek veya bir çýkýþ sayfasýný devre dýþý býrakmak için geliþmiþ düðmesine basýn.
+1561=Çýkýþ sayfasýný açma:
+1564=Bazý siteler Yakalayýcýnýn açamayacaðý çýkýþ sayfalarýna sahiptir. Burada farklý çýkýþ sayfalarý için bir þablon belirlemek için yýldýz iþareti kullanabilirsiniz.
+1571=Farklý yerlerde bulunan ayný adlý dosyalarý gizle
+1565=JavaScript'i çalýþtýr
+1567=Bu seçeneði dikkatli kullanýn. Risk nedir?
+1573=Ýndirmeden önce IE önbelleðine bak
+1568=Özel sembol olarak yýldýz kullanýn. Aralarda boþluk býrakmadan virgül kullanýn. 
+
+//grabber dlg tree
+20664=Tüm Dosyalar
+20665=Baðlantý Görünümü
+20671=Klasör Görünümü
+20667=Diðer siteler
+20668=siteler
+
+20669=Hariç tutulanlar filtresi
+20670=Dahil edilenler filtresi
+
+t34023=Yakalayýcý istatistiklerini göster
+271=IDM Yakalayýcý Ýstatistikleri
+1574=Durum:
+1575=Ýþlenen web sayfalarý
+1576=Basit
+1577=Geliþmiþ
+1578=Dosyalar
+1579=Toplam
+1580=Araþtýrýlan
+1581=Eþleþen
+1582=Ýndirilen
+
+//v5.00 build 3
+20672=Küçük Resim Görünümü
+20673=Ýndirilen dosya yok
+
+20674=Bulunamadý
+20675=Yasak
+20676=Hata
+
+//v5.01
+284=Yakalayýcý projesi programla
+1583=Bir kez araþtýrma/indirme
+1584=Düzenli senkronizasyon
+1585=Sadece araþtýr
+1586=Siteyi araþtýr ve eþleþen dosyalarý indir
+1587=Ýþaretlenen dosyalarý indir
+1588=Adým 3. Programlama
+1601=Adým 2. Eylem seç
+1600=Adým 1. Tür seç
+1593=Proje:
+1590=Aþaðýdaki dosyayý bittiðinde aç:
+1595=Tekrar baþlat
+1597=saat
+1598=dak
+1599=Gün
+1602=Not: IDM programlanan projeyi baþlatmak için belirlenen zamanda bildirim alanýnda çalýþýyor olmalý
+20677=Proje programlayýcýsýný kullanmak için öncelikle projeyi kaydetmelisiniz. Projeyi þimdi kaydetmek istiyor musunuz?
+20678=Internet Download Manager yakalayýcý projesi iþlemini bitirdi. Proje programlayýcýsýna göre bilgisayarýnýz kapatýlacak.
+t33010=Site yakalayýcýyý çalýþtýr
+t34021=Proje programla
+t34025=Tümünü güncelle
+20679=Proje çalýþtýðýndan dolayý programlanan yakalayýcý projesi %d:%02d saatinde baþlatýlamadý.
+20680=Proje düzenlendiðinden dolayý programlanan yakalayýcý projesi %d:%02d saatinde baþlatýlamadý.
+20681=Java-script zaten araþtýrýlan/iþlenilen web sayfalarý için çalýþtýrýlmayacak. Bu sayfalar için Java-script'i çalýþtýrmak istiyorsanýz, Yakalayýcý eylem iletiþim kutusundaki \"Tümünü güncelle\" araç çubuðu düðmesine basýnýz.
+20682=Güncelleme düðmesi (a) siteyi baþlangýç sayfasýndan araþtýrmaya baþlayarak, (b) dosyalar sunucu üzerinde deðiþtirilmiþse dosyalarý güncelleyerek, ve (c) yeni dosyalarý indirirerek projeyi güncelleyecek.
+20683=Güncelleme düðmesi (a) siteyi baþlangýç sayfasýndan araþtýrmaya baþlayarak, (b) indirilmiþ ve iþaretlenmiþ dosyalar sunucu üzerinde deðiþtirilmiþse dosyalarý güncelleyerek projeyi güncelleyecek.
+20684=Güncellemeden önce bulunan dosyalarýn silinmeyeceðini unutmayýn. Yakalayýcý sitedeki tüm web sayfalarýný inceleyecek, bu biraz zaman alabilir.\r\n\r\nBu projeyi güncellemek istediðinize emin misiniz?
+
+//version 5.02
+20685=Projeyi yeniden adlandýr
+20686=Bildirim alanýna küçült
+20688=Tüm indirme ilerlemesi iletiþim kutularýný önceki boyutuna getir
+20689=Bu iletiþim kutusunu \"Seçenekler->Ýndirmeler\" sekmesinde açabilirsiniz
+20690=IDM ayarlarý
+20691=%s (%I64d Bytes) indirildi
+20692=Dosya boyutu bilinmediðinden dolayý dosya tamamen indirilmemiþ olabilir.
+20693=\"%s\" kategorisi için bu yolu hatýrla
+20694=Ýndirme tamamlandý
+1610=Adres
+1611=Dosya kaydedildi
+1606=Klasörü aç
+1607=Bu iletiþim kutusunu tekrar gösterme
+t1608=Gözat
+20695=IDM Ýndirmeleri
+1615=Ýndirmeye devam edildiðinde dosyanýn deðiþtirilme tarihi deðiþikliklerini yoksay
+1613=Daha fazla
+20696=IDM ana sitesinden bir güncelleme sayfasý isteyerek yeni sürümü 2 haftada bir denetler. Güvenlik duvarýnýz IDM'nin güncelleme isteðini engelliyorsa ve ilgili bir uyarý mesajý gösteriyorsa, isteðin yapýldýðýný ve izin vermenin güvenli olduðunu anlayabilirsiniz.
+1617=Adres
+1619=Adres:
+1618=Özel karakter olarak yýldýz kullanabilirsiniz
+
+//Please note that the old menu item string changed from m32771=URL to m32771=Tasks
+//also strings 32771 and 148 have been changed
+
+//v 5.02 Build 2
+1621=Güncelleme bildirisi
+290=IDM güncelleme bildirisi
+20697=Küçültülen indirme yok
+
+// v 5.02 Build 3
+1622=Not: Bu ayarlarýn kuyruk iþlemiyle alakasý yoktur
+
+// v 5.02 Build 6
+20698=Gözat
+
+// v 5.02 Build 10
+20586=Aþaðýda bu hata için olasý nedenleri bulun:\r\n\r\n 1. Internet baðlantýsý bulunamadý. Lütfen Internet baðlantýnýzý denetleyin.\r\n\r\n 2. Bilgisayarýnýzda güvenlik duvarý uygulamasý var, ve Internet Download Manager'ýn mevcut sürümünü, yeni güncellediniz deðiþtirdiniz veya yüklediniz. Lütfen güvenlik duvarý ayarlarýný denetleyin ve IDM'nin Internet'e eriþim izninin olduðundan emin olun.\r\n\r\n 3. Internet'te sunucularý bulan Alan Adý Servisi (DNS) denilen bir servisin geçici sorunlarý var, veya DNS ile bilgisayarýnýz arasýndaki að baðlantýsý bozuk. Bilgisayarý yeniden baþlatmanýz gerekebilir.\r\n
+1570=Kaynak:
+
+// v 5.02 Build 12
+20587=Ýndirmeye devam etmeye çalýþýrken, Internet Download Manager sunucudan indirmeyi devam etme özelliðinin desteklenmediði yanýtýný aldý.\r\nBu sunucunun geçici bir hatasý olabilir, ve baþka bir zamanda dosyayý indirmeye devam edebilirsiniz, fakat þu anda IDM bu dosyayý baþtan indirebilir.\r\n\r\nBu dosyayý baþtan indirmek istiyor musunuz?
+
+// v 5.03
+20699=Baþka bir kategoride yer almayan dosya türleri
+20700="Daha Sonra Ýndir" düðmesine bastýnýz, fakat aslýnda IDM dosyanýn bir parçasýný zaten indirdi. IDM her zaman "Dosya Ýndirme Bilgisi" iletiþim kutusu gösterilirken indirmeye baþlar. Bu seçeneði "Seçenekler->Ýndirmeler" iletiþim kutusunda kapatabilirsiniz
+20701=Daha sonra indir
+20702=Geçici dizin indirme sýrasýnda dosya parçalarýný depolamak için gereklidir.\nBilgisayarýnýzda birkaç fiziksel sürücü varsa, indirilen dosyayý daha hýzlý birleþtirmek için geçici dizin ve "Kaydetme" klasörü için farklý fiziksel sürücüler seçmelisiniz.
+20703=Aþaðýdaki dosya türlerini \"%s\" kategorisine otomatik olarak koy:
+20704=Kaydet
+20705=Kategoriler, dosya türleri, klasörler
+1623="Dosya Ýndirme Bilgisi" iletiþim kutusu gösterilirken indirmeye hemen baþla
+
+292=Bilgisayarý yeniden baþlatma
+1627=Durdur
+20706=%d saniye sonra yeniden baþlatýlacak
+20707=Þimdi yeniden baþlat
+
+// v 5.04
+//Options->File Types and Options->General changes (for basic integration)
+20708=Dosya türleri
+20709=Ýndirilen dosya türleri
+20711=Not: Opera ve OLD Mozilla tabanlý tarayýcýlar IDM ile eklenti kullanýlarak iliþkilendirilir. Bu iliþkilendirme türü sunucu istisnalarý listesini desteklemez. Ayrýca dosya türü listesini deðiþtirdiðinizde eklentileri yeniden yüklemek için bu tarayýcýlarý yeniden baþlatmalýsýnýz.\nBu kýsýtlamalar \"Genel\" sekmesindeki \"Geliþmiþ tarayýcý iliþkilendirmesi kullan\" özelliðini kullanýyorsanýz uygulanmaz.
+1632=Ayrýntýlar
+1633=Tarayýcý ekle...
+1634=Tüm. yen. iliþkilendir
+20710=Not: Opera ve OLD Mozilla tabanlý tarayýcýlar IDM'ye eklenti kullanýlarak iliþkilendirilir. Bu iliþkilendirme türü IDM ile indirmeyi baþlatmak veya durdurmak için özel tuþlarý desteklemez.\nÖzel tuþlarý kullanarak IDM ile indirmeyi baþlatmak veya durdurmak istiyorsanýz, \"Geliþmiþ tarayýcý iliþkilendirmesi\" kullanmalýsýnýz.
+
+//MessageBoxes
+20713=IDM tarayýcý iliþkilendirmesi
+20712=IDM bilgisayarýnýzda %s tarayýcýsýný bulamadý. Sonraki iletiþim kutusunda lütfen tarayýcýnýn çalýþtýrýlabilir dosyasýný gösterin.
+20714=Tarayýcýlar ile eklenti kullanarak iliþkilendirme baþarýsýz!
+20715=%s tarayýcýsý için olan eklenti yüklendi.
+20716=%s %s tarayýcýsý için olan eklenti yüklendi.
+20717=%s tarayýcýsý için olan eklenti kaldýrýldý.
+20718=Deðiþiklikleri uygulamak için lütfen tarayýcýyý yeniden baþlatýn.
+20719=Sonraki iletiþim kutusunda lütfen tarayýcýyý gösterin.
+20720=Mozilla Firefox için idmmzcc.xpi tarayýcý uzantýsý yüklenemedi!
+20722=IDM %s %s tarayýcýsýnýn bilgisayarýnýzda varsayýlan tarayýcý olduðunu algýladý.\nIDM ile iliþkilendirmek ister misiniz?
+20723=idmmzcc.xpi tarayýcý uzantýsý yüklenemedi!
+20724=%s %s tarayýcýsý IDM ile iliþkilendirme uzantýsýný yüklemek için þimdi açýlacak.\nTonec Inc idmmzcc.xpi kurulumunu lütfen tarayýcý iletiþim kutusunda onaylayýn ve kurulumdan sonra tarayýcýyý yeniden baþlatýn.
+20725=%s %s tarayýcýsý için olan eklentiler yüklenemedi!
+20726=IDM baþarýyla Internet Explorer'la iliþkilendirildi.\nDeðiþiklikleri uygulamak için IE'yi yeniden baþlatmanýz gerek.
+20727=IDM ayrýca %s %s tarayýcýsýnýn bilgisayarýnýzda yüklü olduðunu algýladý.\nIDM ile iliþkilendirmek ister misiniz?
+20728=Seçili tarayýcýlar IDM ile iliþkilendirme uzantýsýný yüklemek için açýlacak.\nTonec Inc idmmzcc.xpi kurulumunu lütfen tarayýcý iletiþim kutusunda onaylayýn ve kurulumdan sonra tarayýcýyý yeniden baþlatýn.
+20729=Seçili tarayýcýlar için eklentiler yüklendi.\nDeðiþiklikleri uygulamak için lütfen tarayýcýlarý yeniden baþlatýn.
+20730=IDM zaten Internet Explorer'la iliþkilendirilmiþ!
+20731=IDM temel iliþkilendirme veri tabanýnda bu tarayýcýyý bulamadý. Bu tarayýcýdan indirmeleri yakalamak için geliþmiþ tarayýcý iliþkilendirmesini kullanmalýsýnýz.
+20732=Ýliþkilendirme türü ayný olan tarayýcýlar için eklenti yükleyemezsiniz!
+
+//new dialogs
+296=Tarayýcý iliþkilendirmesi
+1635=IDM aþaðýdaki ek tarayýcýlarýn bilgisayarýnýzda olduðunu algýladý. Lütfen IDM ile iliþkilendirmek istediðiniz tarayýcýyý seçin.
+297=Tarayýcý ayrýntýlarý
+1636=Sürüm ekle...
+20733=Tarayýcý
+20734=Ýliþkilendirme türü
+20735=Yol
+20736=Uzantý
+20737=Eklentiler
+
+//new menu item on main dlg popup menu and new button on Download complete dlg
+20738=Birlikte aç...
+1639=Birlikte aç...
+
+//
+20739=Tarayýcý yerini göster
+
+// v 5.05
+20740=IDM bu dosyayý indiriyor!
+20741=Ayný indirme baðlantýsý
+298=Ayný indirme baðlantýsý
+20742=Ýletiþim kutusu göster ve ne yapýlacaðýný sor.
+20743=Dosyayý numaralandýrýlmýþ dosya adýyla birlikte ekle
+20744=Dosyayý ekle ve varolan dosyanýn üzerine yaz
+20745=Varolan dosya tamamlandýysa, indirme tamamlandý iletiþim kutusunu göster; aksi halde devam et.
+1641=Bu dosya indirme listenizde zaten mevcut. Aþaðýdaki seçeneklerden birini seçebilir, veya bu indirmeyi atlamak için Ýptal düðmesine basabilirsiniz.
+1645=Seçimimi hatýrla ve bu iletiþim kutusunu tekrar gösterme.\r\nSeçiminizi daha sonra IDM Seçenekler->Ýndirmeler'de deðiþtirebilirsiniz.
+1646=Ayný indirme baðlantýsý eklendiyse:
+
+20746=Internet Explorer, MSN Explorer, ve IE tabanlý tarayýcýlar
+20747=Netscape 8.0 ve sonrasý
+20748=Netscape 7.xx ve 6.xx
+
+// v 5.05 build 2
+20749=Bu dosyayý sürükleyip býrakabilirsiniz
+//Dear translators, if you added "CompleteDlg.htm" topic to your help file, or you did not translate the help file and use the English version, please add and translate the phrase "Press F1 to read more" at the next line.
+20750=Ýndirilen dosyaya sürükle ve býrak iþlemi uygulamak için bu simgeyi sürükleyin.\r\nDaha fazla bilgi edinmek için F1 tuþuna basýn.
+//or 20750=Drag this icon to start the drag and drop operation for the downloaded file.\r\nPress F1 to read more.
+20751=Ýndirilen dosyayý sürükle ve býrak
+
+// v 5.07
+1647=Devam et
+20754=Seçilen konumda dosyalarý kaydetmek için yönetici izni saðlamanýz gerekiyor
+20755=Bu iþlemi gerçekleþtirmek için yönetici izni saðlamanýz gerekiyor
+
+// v 5.07 build 2
+20756=IDM kurulum programý kullanýmda olan dosyalarý deðiþtirmek için bilgisayarýnýzý yeniden baþlatmalý. Bilgisayarýnýzý þimdi yeniden baþlatmak için Tamam düðmesine basýn
+20757=Yeniden baþlatmayý onayla
+20758=Internet Download Manager baþarýyla yüklendi. Otomatik olarak baþlatýlacak ve tarayýcýnýzdan indirmeleri devralacak.
+20759=\"Baþlat -> Tüm Programlar -> Internet Download Manager\" menüsünden de baþlatabilirsiniz.
+
+// v 5.07 build 6
+//new checkbox on Options->General
+1650=IE tabanlý tarayýcýlarý (MSN, Avant, vb.) izlemek için modül çalýþtýr
+
+//v 5.08 build 5
+//new dialogs
+302=Otomatik olarak baþlayan bir indirmeyi iptal etme
+1651=Bu indirmeyi iki kez iptal ettiniz.\n\nIDM her zaman bu indirmeyi yanlýþlýkla devralýyorsa, bu siteyi istisna adresler listesine ekleyebilirsiniz:
+1652=Bu siteden indirmeye otomatik olarak baþlama:
+1653=Bu adresden indirmeye otomatik olarak baþlama:
+1655=Ýstisna adresler listesini \"Seçenekler->Dosya türleri\" sekmesinden de düzenleyebilirsiniz
+1654=Bu iletiþim kutusunu tekrar gösterme
+
+303=Ýstisna adresler listesi
+1661=Aþaðýdaki adreslerden indirmeye otomatik olarak baþlama:
+1659=Ýndirme iki defa iptal edildiðinde, istisna adresler listesine bir adres eklemek için iletiþim kutusu göster
+
+304=Ýstisna listesine bir adres ekle
+
+//changes in "Options->File Types" dialog:
+1656=Listeyi düzenle ...
+//label 1372 was divided into 2 parts
+1667=Aþaðýdaki sitelerden indirmeye otomatik olarak baþlama:
+1662=(adlarý boþluklarla ayýrýn)
+
+//v 5.08 build 7
+20763=Ýstenen dosya html web sayfasý gibi görünüyor.\r\n\r\nSunucu ikinci istekte html sayfasý gönderdi. Bazý sunucular ayný dosyayý iki kez indirmeye izin vermiyor. \"Dosya Ýndirme Bilgisi iletiþim kutusu gösterilirken indirmeye hemen baþla\" seçeneði kapalý, IDM ilk isteði dosya türünü ve boyutunu bulmak için gönderir, ve ikinci isteði \"Ýndirmeyi Baþlat\" düðmesine bastýðýnýzda gönderir.\r\n\r\n\"Dosya Ýndirme Bilgisi iletiþim kutusu gösterilirken indirmeye hemen baþla\" seçeneðini \"Seçenekler->Ýndirmeler\" bölümünden etkinleþtirmeyi deneyin, tarayýcýnýzdan sayfayý yenileyin ve bu dosyayý tekrar indirmeyi deneyin.
+
+//v 5.09 build 4
+305=IDM indirmeyi devralamadý
+20764=Bazý siteler ayný anda iki dosya indirmeye izin vermez.\r\n\r\n\"%s\" dosyasýný önce tarayýcý istedi ve ardýndan IDM ayný dosyayý tekrar istediðinde, site IDM'ye indirme yerine web sayfasý gönderdi.\r\n\r\nBu indirmeyi devralmak için \"IDM Seçenekler->Genel->Tuþlar...\" sekmesinde özel bir tuþ ayarlayabilirsiniz. Ýndirme baðlantýsýna/düðmesine týklarken bu tuþa basýlý tutun böylece tarayýcý ilk isteði yapmadan önce IDM indirmeyi devralabilir. \"Ins\" tuþu çoðu tarayýcýlar için çalýþmalýdýr.
+
+//v 5.11
+//new scheduler dialog
+308=Programlayýcý
+1675=Yeni kuyruk
+1678=Sil
+1684=Kuyruklar
+20783=Kuyruklar
+306=Programla
+1680=Ýndirme baþarýsýz olursa tekrar deneme sayýsý:
+307=Kuyruktaki dosyalar
+1687=Ýndirme sýnýrlarý
+20765=Ýndirme sýnýrlarý
+20767=Kuyruk # %ld
+20768=Ana indirme kuyruðu
+20769=Senkronizasyon kuyruðu
+
+20770=Yeni kuyruk oluþtur
+20771=Kuyruða taþý
+20772=Kuyruða ekle
+20773=Þimdi baþlat
+20774=Durdur
+20775=Kuyruðu düzenle
+20776=Programla
+20777=%s kuyruðunu gerçekten silmek istiyor musunuz?
+20778=%s kuyruðunu baþlat
+20779=%s kuyruðunu durdur
+20780=IDM Kuyruklarý
+20781=\"K\" sütunundaki resimler dosyalarýn hangi kuyruða ait olduðunu gösterir.\r\nDosyalarý sað týk menüsü ile bir kuyruktan diðerine taþýyabilirsiniz.\r\nDaha fazla bilgi için, Programlayýcý yardým dosyasýna bakabilirsiniz.
+20782=\"IDM Programlayýcý ve kuyruklar\" yardým dosyasýný (yaklaþýk 100 KB) indirip kurmak istiyor musunuz?
+1685=Kuyruðun baþlangýç saatini programladýnýz.\r\nBelirtilen saatte kuyruðu baþlatmak için, IDM'nin belirtilen saatte çalýþmasýnýn gerekli olduðunu lütfen unutmayýn (aþaðýdaki resme bakýn)
+310=Kuyruk adýný girin
+1686=Yeni kuyruk için kuyruk listesinde gösterilecek bir ad girin
+
+//menu items
+m34026=Kuyruðu baþlat
+m34028=Kuyruðu durdur
+34029=Programlayýcý ve kuyruklar
+//tooltips for "Start queue" and "Stop queue" toolbar buttons.
+t34030=Ana indirme kuyruðunu baþlat, veya listeden baþlatýlacak bir kuyruk seç
+t34031=Ana indirme kuyruðunu durdur, veya listeden durdurulacak bir kuyruk seç
+
+//v 5.11 build 3
+1679=Bir kez indirme
+
+//v 5.11 build 5
+20786=Veri aktarýmý kesildi ve sunucu \"Devam etme özelliði\"ni desteklemiyor. Bu dosyayý baþtan indirmek gerekiyor.\r\n\r\n Bu sorunu çözmek için birkaç yol var:\r\n 1. Sunucuda geçici sorunlar olmasý muhtemel. Bu dosyayý daha sonra tekrar indirmeyi deneyin.\r\n 2. Sadece bu dosyayý kuyruktan çýkarýn(baþka yeni kuyruk oluþturun) ve kuyruðu baþlatýn. Bu durumda IDM dosya tamamen indirilene kadar, baþtan indirmeyi deneyecek.\r\nEn iyi sonucu elde etmek için, IDM'nin \"Seçenekler->Baðlantý\" bölümünden istisnalar kýsmýna bu site için 1 azami baðlantý ayarlamalýsýnýz.\r\n
+20784=IDM'nin bu yeni sürümünde \"IDM CC\" eklentisi Mozilla tabanlý tarayýcýlar için deðiþtirildi. Yeni özellikleri kullanmak için eklentiyi yeniden kurmanýz gerekecek. Eklentiyi %s %s tarayýcýsý için yeniden kurmak ister misiniz?
+20785=IDM'nin bu yeni sürümünde \"IDM CC\" eklentisi Mozilla tabanlý tarayýcýlar için deðiþtirildi. Yeni özellikleri kullanmak için eklentiyi yeniden kurmanýz gerekecek. Yeni \"IDM CC\" eklentisini eski \"IDM CC\" eklentisine sahip tarayýcýlar için yeniden kurmak ister misiniz?
+
+//v 5.11 build 7
+//Items in context menu of browsers:
+20810=IDM ile indir
+20811=IDM ile FLV video indir
+20812=Açýlan son FLV videosunu indir
+20813=Açýlan son 10 FLV videosundan seç
+20814=Açýlan son FLV videosunu IDM ile indir
+20815=Açýlan son 10 FLV videosunu IDM ile indir
+20816=Tüm baðlantýlarý IDM ile indir
+20817=FLV video içeriðini IDM ile indir
+
+20790=FLV video kaydediliyor
+20791=FLV videolarý tarayýcý sað týk menüsünden \"FLV video içeriðini IDM ile indir\" öðesini seçerek kaydedebilirsiniz.\r\n\r\nTarayýcý sað týk menüsünü web sayfasý üzerinde (FLV oynatýcý üzerinde deðil) sað týk yaparak veya klavyeden sað týk menüsü tuþuna basarak görünür
+20792=Bu sayfadaki FLV video baðlantýlarý bulunamýyor.\r\nMuhtemelen tarayýcýnýz video dosyasý için istek göndermemiþtir. Tarayýcýnýzýn istekte bulunmasýný beklemeniz veya tekrar denemeniz gerekiyor. Bazý durumlarda web oynatýcýnýn \"Oynat\" düðmesine basmanýz gerekmektedir.
+20793=IDM ile indir
+20794=Tümünü IDM ile indir
+20795=Baðlantýlar bulunamýyor!\r\nBu sayfa baðlantýlara sahipse, lütfen bu sayfayý yenileyin, ve tekrar deneyin. Sorun devam ederse, IDM destek ekibi ile iletiþim kurun.
+20796=Herhangi bir FLV video baðlantýsý bulunamadý!
+20797=Explorer tarafýndan istenilen video baðlantýsý alýnamýyor!\r\nIE'deki IDM Tarayýcý Yardým Nesnesini devre dýþý býrakmýþsýnýz(veya casus yazýlým engelleyici bir program tarafýndan engellenmiþ). Lütfen \"Araçlar->Eklentileri Yönet->Eklentileri Etkinleþtir veya Devre Dýþý Býrak\" Internet Explorer menü öðesini kullanýn. Ardýndan \"IDMIEHlprObj Class\" eklentisini bulun ve etkinleþtirin.
+20798=Explorer tarafýndan istenilen video baðlantýlarýný izleyen IDM arayüzüne baðlanamýyor.\r\nOlasý sebepler:\r\n - IDM'nin en son güncellemesini yükledikten sonra bilgisayarýnýzý yeniden baþlatmamýþsýnýz. Lütfen bilgisayarýnýzý yeniden baþlatýn ve tekrar deneyin\r\n - IDM doðru bir þekilde yüklenmemiþ. Lütfen IDM'nin en son sürümünü indirin ve tekrar deneyin
+
+//new feature in "Options->General" dialog:
+1688=Düzenle...
+1689=Tarayýcýlarýn sað týk menüsündeki IDM öðelerini özelleþtir
+334=Internet Explorer ve IE tabanlý
+335=Firefox ve diðer Mozilla tabanlý
+1696=Seçilen menü öðeleri, tarayýcý sað týk menüsünde gözükecek:
+20818=Deðiþikliklerin uygulanmasý için lütfen Internet Explorer'ý yeniden baþlatýn
+20819=IE sað týk menüsünü deðiþtirme
+
+//v 5.11 b8
+20820=Þimdi çýk
+20821=IDM'den çýk
+20822=Internet Download Manager kuyruk iþlemini tamamladý. Programlayýcý ayarlarýna göre IDM kapatýlacak. Fakat kapanýþta durdurulacak devam eden indirmeleriniz var. Kapatmamak için Ýptal düðmesine basýn.
+
+//v 5.11 build 9
+20823=Benzer indirmeleri iptal ettiniz.\n\nIDM her zaman bu tür indirmeleri yanlýþlýkla devralýyorsa, IDM istisna listesine bu siteyi veya benzer adresler için bir þablon ekleyebilirsiniz:
+20824=Bu þablonu kullanarak benzer adreslerden olan indirmeleri yakalama:
+336=IDM geliþtiricilerine rapor gönder
+1702=Yanlýþlýkla devralýnan indirmeler ile ilgili geliþtiricilere bir rapor gönderebilirsiniz.
+1698=Aþaðýdaki istisna eklendi:
+1700=Ýndirmenin yanlýþlýkla devralýndýðý URL:
+1703=Adres þablonu için yýldýz iþareti kullanabilirsiniz.
+
+//v5.12
+20825=(Sýnýrlý)
+1707=Hýz Sýnýrlayýcý kullan
+337=Hýz Sýnýrlayýcý ayarlarý
+1704=IDM açýldýðýnda Hýz Sýnýrlayýcýyý aç
+1705=\"Hýz Sýnýrlayýcý kullan\" onay kutusunu \"Ýndirme ilerlemesi\" iletiþim kutusunda göster
+1706=\"Ýndirme ilerlemesi\" iletiþim kutusunda genel Hýz Sýnýrlayýcýnýn açýk veya kapalý olduðuna bakmadan kullanýcý tarafýndan yapýlan istisnalarý hatýrla
+1708=Tek dosya için azami indirme hýzý
+1709=KBytes/san
+1710=Not: Internet sunucularý hýz fazla sýnýrlandýrýldýðýnda baðlantýyý kesebilir! Bundan dolayý \"Devam etme özelliði\" desteklemeyen sunuculardan indirmeler için Hýz Sýnýrlayýcý kullanýlmasý önerilmez.
+1711=Ayrý ayrý indirmeler için Hýz Sýnýrlayýcý ayarlarý
+m34033=Hýz Sýnýrlayýcý
+34033=Açýk
+34034=Kapalý
+34035=Ayarlar...
+
+//v5.12 build 5
+20831=Web sayfasýndaki bir FLV videosu tarayýcýnýz tarafýndan oynatýlýrsa, IDM'nin bu FLV baðlantýsýný bu web sayfasý ile iliþkilendirememesi mümkündür. \"Açýlan son 10 FLV videosunu IDM ile indir\" tarayýcý sað týk menü öðesini kullanmayý denemelisiniz.\r\n(Tarayýcý sað týk menüsü \"IDM Seçenekler->Genel\" sekmesinden düzenlenebilir)
+20830=Ýndirilirken bir CRC hatasý oluþtu. Bu sabit diskinizde bazý sorunlar olduðu anlamýna gelir. Disk hatalarýný Disk Özellikleri->Araçlar Windows iletiþim kutusundaki \"Hata denetimi\" özelliðini kullanarak taramalýsýnýz.
+
+//5.12b7
+20832=IDM'yi bu bilgisayardaki tüm kullanýcýlara kaydetmek için yönetici izni saðlamanýz gerekiyor
+
+//5.12b8
+20837=Ýndirmelerin silinmesini onayla
+20833=Seçili indirmeler tamamlanmadý. IDM indirme listesinden silmek istediðinize emin misiniz?
+20834=Seçili indirme tamamlanmadý. IDM indirme listesinden silmek istediðinize emin misiniz?
+20835=Seçilenler arasýnda tamamlanmayan indirmeler var. IDM indirme listesinden silmek istediðinize emin misiniz?
+20836=IDM indirme listesinden tamamlanan tüm indirmeleri silmek istediðinize emin misiniz?
+1715=Seçili indirmeleri IDM indirme listesinden silmek istediðinize emin misiniz?
+1713=Ýndirilen dosyalarý sabit diskten de sil. Dikkatli olun !
+
+//v5.14
+20850=video
+20851=ses
+20852=Bu %s dosyasýný indir
+20853=Bu %s dosyasýný IDM ile indir
+20854=Bu panel hakkýnda
+20855=Kapat
+20856=Bu IDM indirme panelidir.\r\nIDM indirme paneli \"IDM->Seçenekler->Genel\" sekmesinde özelleþtirilebilir veya kapatýlabilir
+20857=IDM indirme paneli
+20858=Bu sayfadan %s dosyasýný indir
+20859=Bu sayfadan %s dosyasýný IDM ile indir
+20860=Tümünü indir
+20861=%ld %s dosya
+20862=dosyasý
+
+//new on Options->General
+1724=Tarayýcýlardaki web oynatýcýlarý için IDM indirme paneli
+1727=IDM web oynatýcýdan bir çoklu ortam isteði algýladýðýnda web oynatýcý üzerinde indirme panelini gösterebilir
+1728=Panel görünümü:
+1717=Tam mod
+1718=Küçük mod
+1726=Aþaðýdaki dosya türleri için IDM indirme panelini göster:
+20863=Not: Yukarýdaki listeden bir dosya türü seçmezseniz ve listedeki dosya türü \"Seçenekler->Dosya Türleri\" sekmesindeyse, bu dosya türünün indirmeleri IDM tarafýndan otomatik olarak yakalanýr ve web oynatýcýda oynatýlmaz. Bunu engellemek istiyorsanýz, aþaðýdaki onay kutusunu iþaretleyin:
+1720=Web oynatýcýlardan indirmeleri otomatik olarak yakalama
+
+//on Scheduler dlg
+1729=IDM açýldýðýnda indirmeye baþla
+
+20864=Bu tarayýcý iliþkilendirmesini, bu iletiþim kutusundaki \"Geliþmiþ tarayýcý iliþkilendirmesi kullan\" özelliðini etkinleþtirdikten sonra kullanabilirsiniz
+1731=Uyarý: IDM'yi Yönetici haklarý ile çalýþtýrýyorsunuz.\r\nIDM bu modda tarayýcýlardan indirmeleri devralamayacak.
+20865=Firefox dosya indirmesini Internet Download Manager'a aktaramaz çünkü IDMan.exe'nin dosya özellikleri iletiþim kutusundaki \"Bu programý yönetici olarak çalýþtýr\" onay kutusunu iþaretlemiþsiniz.\r\n\r\nLütfen IDM klasörünü açýn, \"IDMan.exe\" dosyasýna sað týklayýn, \"Özellikler\" menü öðesini seçin, \"Uyumluluk\" sekmesine geçin, ve \"Bu programý yönetici olarak çalýþtýr\" onay kutusunun iþaretini kaldýrýn.
+
+//v5.16
+20867=Þu dosyayý indirmeye devam edilemiyor:
+20868=IDM þu dosyayý indirmeye devam etmek için yeni adres bekliyor:
+20869=Dosyanýn adresi artýk geçerli olmayabilir veya oturum süresi bitmiþ olabilir.
+20870=Bu süresi bitmiþ indirmeniz için yeni adres mi?
+20872=Ýndirme adresini yenile
+20873=IDM diðer süresi bitmiþ indirme için yeni adres bekliyor. Ayný anda sadece bir süresi bitmiþ indirme bu özelliði kullanabilir.
+20874=IDM bu indirmeyi yakaladýðý web sayfasýný tarayýcýnýzda açacak. Lütfen tarayýcýnýzdan ayný dosyayý indirmeye tekrar baþlayýn. IDM indirmeye devam etmek için yeni bir adres veya oturum verisi yakalamaya çalýþacak.
+20871=Yeni veri bekleniyor
+1732=Beklemeyi durdur
+20875=Bu dosya için yeni baðlantý adresi baþarýyla alýndý.
+20876=Lütfen tarayýcýnýzdan ayný dosyayý indirmeye baþlayýn, IDM indirmeye devam etmek için yeni bir adres veya yeni oturum verisi yakalamaya çalýþacak.
+20877=Ýndirme oturumunu yenilemeye ve IDM indirme listesindeki dosya sað týk menüsünde bulunan \"Ýndirme adresini yenile\" öðesini kullanarak yeni bir adres elde etmeye çalýþýn.\r\nVeya bu indirmeyi silin, ardýndan IDM ile baþtan indirmek için tarayýcýnýzdan tekrar indirmeye baþlayýn.
+20878=Baðlantý adresini yenilemek için web sayfasý indiriliyor
+20879=IDM bu dosyayý ikinci kez istediðinde web sitesi bir dosya yerine bir web sayfasý gönderdi. Muhtemelen bu site geçici baðlantýlar kullanýyor ve ayný adresin iki kez istenmesine izin vermiyor.\r\n\r\nBu indirmeyi silmeyi deneyin, ardýndan tarayýcýnýzdan tekrar baþlatýn, IDM indirmeyi yakaladýðýnda, durdurmadan/duraklatmadan indirin.
+1741=Bu dosyanýn indirildiði web sayfasý:
+20880=Adres denetleniyor: %s
+20881=Ýndirilecek herhangi bir dosya iþaretlemediniz!\r\nHerhangi bir þey indirmek istemiyorsanýz, lütfen \"Ýptal\" düðmesini kullanarak \"%s\" iletiþim kutusunu kapatýn.
+20882=IDM ile indirilecek dosyalarý ekleme
+1739="Daha Sonra Ýndir" düðmesine basýldýðýnda kuyruk seçim panelini göster
+1738=Toplu indirme eklendiðinde kuyruk seçim panelini göster
+1735=Dosyalarý kuyruða ekle:
+20884=Herhangi bir kuyruða ekleme
+1736=Kuyruðu baþlat
+1737=Tekrar sorma
+20883=Bu paneli \"Seçenekler->Ýndirmeler\" sekmesinde açabilirsiniz
+
+//v5.17b4
+34036=Panodan toplu indirme &ekle
+20885=Panoda birkaç URL bulundu. Ýndirmek istiyor musunuz?
+20886=Panodan toplu indirme
+20887=Panoda herhangi bir web adresi bulunamadý!
+
+//v5.18b3
+m34037=IDM bildirim alaný simgesi
+34037=3B stil
+34038=Klasik stil
+34039=Gösterme
+
+//v5.18b5
+20889=Internet Download Manager lisansýnýzýn süresi bitti.\r\nIDM çalýþmayý durdurdu. IDM'yi kullanmak için lütfen yeni bir lisans satýn alýn
+20890=Dikkat:\r\nIDM lisansýnýzýn süresi %ld gün sonra bitecek.\r\n\r\n\"Kayýt->Kayýt\" menü öðesinin þu anda devre dýþý olduðunu unutmayýn,\r\nfakat lisansýnýzýn süresi bittiðinde etkinleþtirilecek
+
+20891=Programlayýcýnýn baþlayacaðý günü seçmediniz!
+20892=Günlük olarak baþlat
+
+20893=Kullanýcý adýný girerken önüne bir boþluk býraktýnýz. Yanlýþlýkla boþluk býraktýysanýz, IDM'nin bu boþluðu silmesini ister misiniz?
+20894=Kullanýcý adýný girerken sonuna bir boþluk býraktýnýz. Yanlýþlýkla boþluk býraktýysanýz, IDM'nin bu boþluðu silmesini ister misiniz?
+20895=Þifre girerken önüne bir boþluk býraktýnýz. Yanlýþlýkla boþluk býraktýysanýz, IDM'nin bu boþluðu silmesini ister misiniz?
+20896=Þifre girerken sonuna bir boþluk býraktýnýz. Yanlýþlýkla boþluk býraktýysanýz, IDM'nin bu boþluðu silmesini ister misiniz?
+
+//5.19
+1748=Tarayýcýlardaki IDM indirme panellerini özelleþtir
+20899=Web oynatýcýlar için
+20900=Seçili dosyalar için
+1749=Ýndirme baðlantýsý içeren bir metin seçtiðinizde, IDM web sayfasýnda Ýndirme panelini gösterebilir.
+20901=(Bu özellik þu anda Internet Explorer, Firefox, IE ve Mozilla tabanlý tarayýcýlar için çalýþmaktadýr)
+20903=Seçili dosya(lar)ý IDM ile indir
+1744=Ýndirme panelini göster
+1745=Ýndirme panelini gösterme
+1746=Ýndirme panelini sadece aþaðýdaki siteler için göster:
+1751=Aþaðýdaki tarayýcýlardan indirmeleri yakala:
+1742=Tümünü Seç
+1743=Tümünü Temizle
+
+//5.19b3
+20904=IDM geliþmiþ tarayýcý iliþkilendirmesini yükleyen veya kaldýran bir bileþen bulamadý. Lütfen IDM'yi tekrar yükleyin.
+20911=IDM bir dosya yerine bir web sayfasý indirecek.
+20909=IDM ile rapidshare'den nasýl dosya indirildiðini öðrenmek ister misiniz?
+20910=IDM ile dosya paylaþým sitelerinden nasýl dosya indirildiðini öðrenmek ister misiniz?
+20905=Ýndirme IDM'ye aktarýlamýyor
+20906=Tarayýcýnýzýn ve IDM'nin farklý ayrýcalýklar verilerek çalýþtýrýlmasý mümkün.\r\n\r\nIDM'yi \"Yönetici olarak çalýþtýr\" menü öðesini kullanarak çalýþtýrýyorsanýz, lütfen IDM'yi kapatýn (IDM ana iletiþim kutusunda \"Görevler->Çýkýþ\" menü öðesine týklayarak) ve IDM'yi normal olarak tekrar açýn.\r\n\r\nBelki IDMan.exe dosyasýnýn Windows dosya özellikleri iletiþim kutusundaki \"Bu programý yönetici olarak çalýþtýr\" onay kutusu iþaretlidir. Lütfen IDM klasörünü açýn, \"IDMan.exe\" üzerine sað týklayýn, \"Özellikler\" öðesini seçin, \"Uyumluluk\" sekmesine geçin, ve \"Yönetici olarak çalýþtýr\" onay kutusunun iþaretini kaldýrýn. Ayrýca "Bu programýn çalýþtýrýlacaðý uyumluluk modu" seçeneði de etkinse iptal edin. Lütfen bunlardan sonra IDM'yi yeniden baþlatýn.
+20907=\"Bu programý yönetici olarak çalýtýr\" veya \"Bu programýn çalýþtýrýlacaðý uyumluluk modu\" onay kutularý IDM için iþaretliyse, lütfen Windows özelliklerinde iþaretleri kaldýrýn.
+
+//v6.0b
+20897=video %dx%d, süre %d:%02d
+20912=Süre
+20913=Bilgisayarýnýzda birkaç kullanýcý varsa, geliþmiþ tarayýcý iliþkilendirmesinin tüm kullanýcýlar için kapatýlacaðýný unutmayýn.
+20914=Internet Download Manager'ý yeni uygulama ile iliþkilendirdikten sonra daha iyi randýman için \"Yeni Uygulamalarý Algýla\" seçeneðini devre dýþý býrakmalýsýnýz.
+20915=Bu Internet Download Manager'ýn bir BETA sürümüdür.\r\nIDM web oynatýcý iliþkilendirmesini güçlendirmek ve Chrome veya Opera gibi tarayýcýlarýn eski iliþkilendirmesini deðiþtirmek için yeni bir að sürücüsü yükleyecek. Internet'e baðlanýrken sistem donmasý, çökme gibi bir sorunla karþýlaþýrsanýz, lütfen IDM seçeneklerini açýn ve Genel sekmesindeki \"Geliþmiþ tarayýcý iliþkilendirmesini kullan\" seçeneðini devre dýþý býrakýn. Yeni sürücü devre dýþý býrakýlacaktýr.
+
+//v6.03b2
+20919=IDM bilgisayarýnýzda %s videosunu oynatacak bir ortam oynatýcýsý bulamadý. Herhangi bir %s oynatýcýsý yüklemeniz gerekecek.\r\n\r\n%s oynatýcýsý hakkýnda daha fazla bilgi edinmek ister misiniz?
+20920=%s videosu indirildi
+
+//
+//Dear translators, please note that we have changed several old strings:
+//
+t1278=Kategorileri gizle
+t32789=Yeni indirme adresini elle ekle
+t1004=Daha sonra indirmek için IDM listesine bir dosya ekle
+t1061=Sistem panosundaki baðlantýlarý IDM ile indirmek için izle
+187=IDM indirme sepeti. Ýndirmek için web baðlantýlarýný buraya býrakýn.
+20176=Ýstenen dosya html web sayfasýna benziyor.\r\n\r\nBu indirme tarayýcýnýzdan bir baðlantýya týkladýðýnýzda otomatik olarak devralýnmýþsa, IE'nin sayfayý açmasý için klavyede "Alt" tuþuna basarak baðlantýya týklamayý deneyin.\r\n\r\nIDM ile dosyayý indirmeye devam etmek ve html sayfa olarak kaydetmek ister misiniz?
+20177=Ýndirilen dosya html web sayfasýna benziyor.\r\n\r\nBu indirme tarayýcýnýzdan bir baðlantýya týkladýðýnýzda otomatik olarak devralýnmýþsa, IE'nin sayfayý açmasý için klavyede "Alt" tuþuna basarak baðlantýya týklamayý deneyin.\r\n\r\nÝndirilen dosyayý html sayfa olarak adlandýrmak ister misiniz?
+34012=Yeni araç çubuklarý ara
+20573=Yeni araç çubuklarý ara
+57670=Yardým
+20721=IDM baþarýyla Mozilla Firefox ile iliþkilendirildi.\nDeðiþiklikleri uygulamak için Firefox tarayýcýsýný yeniden baþlatmanýz gerekiyor
+20342=Panoda indirme baðlantýsý bulundu. Ýndirmek istiyor musunuz?
+
+//Old strings 20016, 20017, 20350 replaced with:
+20916=Ýndirme sýrasýnda bilinmeyen bir hata oluþtu. Lütfen tekrar deneyin.
+20917=Ýndirme sýrasýnda bir hata oluþtu. Lütfen tekrar deneyin.
+20918=Internet Download Manager seri numaranýz baþka bir kayýtta kullanýldýðý için engellendi. IDM kapatýlacak...
+
+//And deleted the following strings: 
+//20178, 20179, 20180, 20181, 20182, 20183, 20184, 20185, 20186, 20187, 20188, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 
+//20198, 20200, 20201, 20202, 20208, 20209, 20210, 20223, 20224, 1238, 1251, 1314, t1065, t1068, 20016, 20017, 20350
+
+//v6.03b3
+//We have changed the old strings: 20146 and 20033 (Tab name) 
+
+20921=%s sitesinden IDM ile nasýl dosya indirebileceðinizi öðrenmek ister misiniz?
+20923=Çalýþtýrýlabilir IDM dosyasý masaüstünde
+20922=Çalýþtýrýlabilir IDM dosyasýný masaüstüne taþýmýþsýnýz. IDM tüm dosyalar olmadan düzgün çalýþmaz.Lütfen IDMan.exe'yi Program Files içine taþýyýn ve Masaüstüne kýsayol oluþturmak için IDMan.exe'ye sað týklayýp \"Gönder->Masaüstü (kýsayol oluþtur)\" komutunu kullanýn. 
+20924=Not 2: Bazen bir baðlantýya týkladýðýnýzda web tarayýcýnýz AYNI ZAMANDA Java scripts, web sayfalarý, resimler, vb. gibi baþka dosyalarý da ister. Özel tuþa bastýðýnýzda, IDM bu dosyalarý engeller ve tarayýcýnýz gerekli dosyayý isteyemeyebilir çünkü IDM Javascript'i engellediðinden dolayý tarayýcý bir Javascript çalýþtýrmayacaktýr. Bu dosyalarý engellemek ve sadece gerekli dosyalarý indirmek istiyorsanýz, lütfen aþaðýdaki seçeneði etkinleþtirin. 
+1753=Özel tuþa basýlýyorken web sayfalarý, komut dosyalarý, resimler vb. gibi indirmeleri devralma.
+20925=Eskimiþ %s iliþkilendirmeniz var, ya da %s iliþkilendirmesi yüklenmemiþ. Nasýl düzelteceðinizi öðrenmek ister misiniz?
+20926=%s iliþkilendirmesi doðru çalýþtýðýnda IDM web oynatýcýlarýndan indirme yakalamak yerine indirme paneli gösterir.
+
+//v6.04b2
+20928=IDM bu dosyayý web oynatýcýsýndan engelledi çünkü indirme paneli etkin deðildi.\r\n\r\nIDM'nin bu tarz içeriði engellemesini istemiyorsanýz ayarlardan \"Genel\" sekmesine gidin, Tarayýcýlardaki IDM indirme panellerini özelleþtir'in yanýndaki \"Düzenle...\" düðmesine týklayýn ve  \"Web oynatýcýlardan indirmeleri otomatik olarak yakalama\" seçeneðini etkinleþtirin.
+20929=IDM aþaðýdaki sebepler yüzünden Geliþmiþ Tarayýcý Ýliþkilendirmesini baþlatamýyor:\r\n1. Yönetici haklarýna sahip deðilsiniz ya da IDM Helper uygulamasýný yönetici haklarýyla çalýþtýrmadýnýz.\r\n2. IDM að sürücüsü yüklemesinde Ýptal düðmesine bastýnýz.\r\n3. IDM að sürücüsünün baþlamasýný ya da yüklemesini üçüncü parti güvenlik yazýlýmý ya da antivirüs ile engellediniz.
+//v6.04b3
+20930=IDM, tarayýcý ve sistem iliþkilendirmesi için gerekli olan %ld dosyayý bulamýyor. Lütfen IDM'yi tekrar yükleyin 
+
+//v6.06
+//"Serial Number" explanation on registration dialog
+20931= \"%s\" nedir?
+20932=%s Internet Download Manager'ýn ürün anahtarýdýr.\r\nSeri numara þu þekilde görünen kullanýcýya özgü bir koddur\r\n xxxxx-xxxxx-xxxxx-xxxxx\r\n\r\nSeri numaranýzý SADECE IDM'yi satýn aldýktan sonra alabilirsiniz.\r\nIDM'yi satýn almak için \"%s\" düðmesine basýn.
+
+//v6.07
+20933=IDM kuyruðunda indirilen indirmeler için bu ayarlar kullanýlabilir deðil
+20934=Bu ayarlar \"%s\" açýk olduðunda kullanýlabilir deðil
+363=Ýndirme durumu
+364=Tamamlandýktan sonraki seçenekler
+20935=Internet Download Manager bir dosyayý indirmeyi tamamladý. Bu indirme ayarlarýna göre IDM kapatýlacak. Çýkýþta durdurulacak baþka indirmeleriniz varsa. Çýkmamak için Ýptal düðmesine basýn.
+20936=Internet Download Manager bir dosyayý indirmeyi tamamladý. Bu indirme ayarlarýna göre IDM modeminizi kapatacak.
+20937=Internet Download Manager bir dosyayý indirmeyi tamamladý. Bu indirme ayarlarýna göre IDM bilgisayarýnýzý kapatacak.
+1762=IDM'nin indiremeyebileceði korumalý içerik için\r\nindirme paneli göster.
+20938=korumalý içerik
+20939=IDM yasal nedenler yüzünden bu korumalý yayýný indiremez. Böyle yayýnlarýn indirilmesi desteklenmez çünkü IDM, ses video ve veri içeriði korumasý için yapýlan teknolojik önlemleri aþamayabilir.\r\n\r\n\"IDM Seçenekler -> Genel\" sekmesinde IDM'nin korumalý içerikleri indirmemesi için indirme panelini kapatabilirsiniz 
+
+//v6.07b7
+365=Hýz Sýnýrlayýcý
+1763=Azami indirme hýzý:
+1765=Bu dosya için olan Hýz Sýnýrlayýcý ayarlarýný hatýrla
+1772=Sekmeyi gizle
+367=Ýndirme ilerlemesi iletiþim kutusunu özelleþtir
+1767="Ýndirme ilerlemesi" iletiþim kutusunu özelleþtir
+1775=Baþlangýç görünümü:
+1774=Not: Baþlangýç görünümünün kuyruk iþlemiyle alakasý yoktur. IDM kuyruðu çalýþtýrýrken, "Ýndirme ilerlemesi" iletiþim kutusu her zaman bildirim alanýna küçültülmüþ olarak baþlar.
+1768="Hýz Sýnýrlayýcý" sekmesini göster
+1769="Tamamlandýktan sonraki seçenekler" sekmesini göster
+1773="Sekmeyi gizle" düðmesini göster
+
+//v6.07b12
+20941=VPN'ye baðlanýlamadý
+20940=IDM seçeneklerinde ayarlanan VPN baðlantýsýný deðiþtirmeniz, veya IDM Seçenekler -> \"Çevirmeli Að/VPN\" sekmesindeki \"Windows Çevirmeli/VPN Aðý Kullan\" onay kutusunu kapatmanýz gerekebilir
+20942=kalite
+
+//v6.08b2 beta
+20949=Vekil Sunucu/Socks
+20948=Vekil sun. / socks yapýlandýrmasý
+369=Geliþmiþ vekil sunucu ayarlarý
+1777=Geliþmiþ...
+1778=Vekil sunucu kullan
+1785=Aþaðýdaki iletiþim kurallarý için bu vekil sunucuyu kullan:
+1779=Socks kullan
+1786=Socks sunucu adresi
+20943=Socks sunucusuna baðlanýlamadý, yetkilendirme gerekli
+20944=%s socks sunucusuna baðlanamadý 
+20945=Socks sunucusu üzerinden baðlanýlamadý, bilinmeyen socks türü
+20946=Socks sunucusu üzerinden baðlanýlamadý, yetkilendirme baþarýsýz!
+20947=%s socks sunucusuna baðlanamadý
+
+//v6.09b2 beta
+1787=Ýstisnalar
+370=Ýndirme paneli istisnalarý
+1788=Aþaðýdaki siteler için IDM indirme panelini gösterme:
+1789=Adlarý boþluk ile ayýrýn. Özel karakter þablonu olarak yýldýz iþareti kullanabilirsiniz
+20950=IDM, Geliþmiþ Tarayýcý Ýliþkilendirmesini açamadý çünkü Windows hizmeti \"Temel Filtre Altyapýsý\" çalýþmýyor. Lütfen Bu bilgisayar simgesine sað týklayýn, \"Yönet\" öðesini seçin, \"Hizmetler ve Uygulamalar -> Hizmetler\" bölümüne gidin, ardýndan listede \"Temel Filtre Altyapýsý\" öðesini seçin ve Özellikleri açmak için sað týklayýn. Baþlangýç türünü \"Otomatik\" olarak deðiþtirin, \"Baþlat\" düðmesine týklayýn ve deðiþiklikleri onaylayýn.\r\n\r\nEk bilgi için Tamam düðmesine týklayýn.
+20951=IDM, Geliþmiþ Tarayýcý Ýliþkilendirmesini açamadý çünkü Windows hizmeti \"Temel Filtre Altyapýsý\" eksik. Bu bilgisayarýnýzýn kötü amaçlý bir yazýlým tarafýndan hasar almasý yüzünden olmuþ olabilir.\r\n\r\nSistem geri yükleme talimatlarý için Tamam düðmesine týklayýn.
+
+//v6.11
+341=Dosya türü ekle
+349=Site adý gir
+1790=Sadece aþaðýdaki sitelerdeki dosyalarý bu kategoriye otomatik olarak koy:
+1793=Siteleri boþluklarla ayýrýn. Özel karakter þablonu olarak yýldýz iþareti kullanabilirsiniz
+20952=IDM kurulumunda kabul ettiðiniz IDM lisansýna göre, þimdi IDM'yi kaldýrmalýsýnýz veya satýn almalýsýnýz
+
+//v6.11b7
+20953=Son...
+
+//v6.12b2
+20954=Tarayýcýnýz bilgisayarýnýzdaki önemli bir sistem dosyasý hasarlý olduðundan dolayý IDM web sitesini açamayabilir. Bu dosyayý onarmak istiyor musunuz?
+20955=IDM bilgisayarýnýzdaki önemli bir sistem dosyasý hasarlý olduðundan dolayý güncellemeleri denetleyemiyor. Bu dosyayý onarmak istiyor musunuz?
+
+//v6.12b5
+1795=Dosya oluþturulma tarihini sunucudan al
+
+//v6.12b6
+20956=Firefox uzantýsýný güncellemek için lütfen Firefox'dan (veya SeaMonkey) çýkýn ve ardýndan \"Tekrar dene\" düðmesine basýn\r\nYoksa bilgisayarýnýzý yeniden baþlatmanýz gerekir
+
+//v6.12b8
+//Please pay attention that we added the possibility to translate text for IDM installer and IDM uninstaller.
+
+//v6.12b22
+20995=IDM'nin birkaç baðlantýdan aldýðý veri daha önce indirdiði veri ile eþleþmediðinden dolayý IDM dosyayý tek baðlantý kullanarak indirmeye baþladý.\r\nVeri bozukluðunun olasý sebepleri ile ilgili daha fazla bilgi edinmek istiyor musunuz?
+20996=IDM veri bozulduðundan beri indirmeye baþtan baþladý çünkü yeni veri daha önce indirilen veri ile eþleþmiyor.\r\nVeri bozukluðunun olasý sebepleri ile ilgili daha fazla bilgi edinmek istiyor musunuz?
+20997=IDM uzantýsý Google Chrome tarayýcýsýna baþarýyla yüklendi (veya güncellendi).\nDeðiþiklikleri uygulamak için Chrome'u yeniden baþlatmalýsýnýz.
+
+//v6.15
+1796=Otomatik yapýlandýrma komut dosyasý kullan
+20998=Bu vekil sunucu için vekil sunucu yetkilendirmesi gerekli. Veya lütfen IDM Seçenekler->Vekil Sunucu/Socks'daki \"Otomatik yapýlandýrma komut dosyasý\" onay kutusunu kapatýn 
+20999=IDM Internet Explorer'da aþaðýdaki otomatik vekil sunucu yapýlandýrma komut dosyasýný kullandýðýnýzý algýladý:\r\n%s\r\n\r\nAyný vekil sunucu ayarlarýný IDM'de kullanmak ister misiniz?
+//v6.15b7
+21000=Bu bir canlý yayýn. Durdurursanýz, mevcut konumdan indirmeye devam edemeyeceksiniz.\r\nDurdurmak ve yayýný tamamlanmýþ bir dosya olarak kaydetmek ister misiniz?
+21001=Canlý yayýn kayýtý
+
+//v6.15b9
+21002=Vekil sunucu komut dosyasý indirilemedi
+21003=Güvenlik duvarýnýzý nasýl yapýlandýracaðýnýz ile ilgili ayrýntýlý talimatlarý okumak ister misiniz?
+
+//6.15b10
+21004=bilinmeyen biçim (%d)
+20898=Sonraki dosya parçasýnda bir bölüm ile eþleþene kadar indiriliyor...
+
+//v6.16
+21105=Geliþmiþ Tarayýcý Ýliþkilendirmesi açýlamadý çünkü Kaspersky TDI sürücüsünün hatalý bir sürümü yüklü!\r\nKaspersky ürününü güncellemek yardýmcý olmadýysa, \"kltdi\" sürücü güncellemesi almak için Kaspersky desteði ile iletiþime geçin.
+
+//v6.17b7
+21106=Dosyayý birleþtirirken bir hata oluþtu
+21109=IDM'nin bu sürümü bu indirme türünü desteklemiyor. IDM'yi en son sürüme yükseltmeyi deneyin.
+21110=IDM uzantýsý Google Chrome tarayýcýsýna baþarýyla yüklendi (veya güncellendi).\r\nIDM'nin Chrome ile düzgün çalýþmasýný istiyorsanýz Google Chrome ayarlarýndaki \"IDM Integration Module\" uzantýsýný açýn.
+21111=1. Lütfen Google Chrome'u YENÝDEN BAÞLATIN ve Chrome menüsüne týklayýn (resimdeki birinci ok).\r\n2. \"Ayarlar\" menü öðesini seçin (resimdeki ikinci ok).\r\n3. \"Uzantýlar\" sekmesini seçin (resimdeki üçüncü ok). \r\n4. \"IDM Integration Module\" uzantýsýný etkinleþtirin (resimdeki dördüncü ok).\r\n5. Chrome'da gizli modu kullanýyorsanýz, \"Gizli modda izin ver\" onay kutusunu iþaretlemeniz gerek (resimdeki beþinci ok).
+
+//v6.18b8
+21113=Düþük hýz: Çevirmeli modem / ISDN / Bluetooth / Mobil Edge / Kýzýlötesi
+21114=Orta hýz: ADSL / DSL /  Mobil 3G / Kablosuz Bað. / Bluetooth 3.0 / Diðer
+21115=Yüksek hýz: Doðrudan bað. (Ethernet/Kablo) / Kablosuz Bað. / Mobil 4G / Diðer
+21116=Lütfen yüksek baðlantý sayýlarýný dikkatli kullanýn. Bazý sunucular tek bir istemciden baðlantý sayýsý için özel bir sýnýrlama koyabilir. Baðlantý sayýlarý yüksek olduðunda, özellikle yüksek baðlantý sayýsý ile ayný anda birkaç dosya indirirken, sunucular bilgisayarýnýzý bir kara listeye koyabilir.\r\n\r\nDahasý, bazý baðlantý türleri, düþük randýmanlý bilgisayarlar veya yönlendiriciler için baðlantý sayýsýný arttýrdýðýnýzda indirme hýzý azalabilir.
+
+//v6.19
+21117=Seçiminizde sadece klasör adý var. Lütfen dosya için bir ad girin.
+21118=\"%s\" dosyasýnýn boyutu %.1f GBytes.\r\nBu dosyayý kaydetmek istediðiniz yer olan \"%s\" sürücüsü %s dosya sistemine sahip. %d GBytes'dan daha büyük dosyalar bu dosya sistemi üzerinde yazýlamaz.\r\n\r\nLütfen bu dosya için NTFS dosya sistemine sahip baþka bir sürücü üzerinde klasör seçin
+21119=\r\n%s\r\n dosyasýnýn boyutu %.1f GBytes.\r\nIDM'nin indirme sýrasýnda dosya parçalarýný depolamasý için gerekli olan geçici dizin \"%s\" sürücüsünde, bu sürücü %s dosya sistemine sahip. %d GBytes'dan büyük dosyalar bu dosya sistemi üzerinde yazýlamaz.\r\n\r\nÝndirmeye devam etmek için, lütfen geçici dizin konumunu \"Seçenekler->Kaydet\" bölümünde baþka bir sürücü ile deðiþtirin ve ardýndan indirmeye devam edin
+
+//v6.19b8
+21005=sadece ses bölümü
+21006=sadece video bölümü
+
+//v6.19b9
+21120=Güncelleme bilgisi geçersiz olduðundan dolayý güncellemeler denetlenemedi.\r\nTarayýcýda giriþ yapmayý gerektiren bir kablosuz að kullanýyorsanýz, lütfen güncellemeleri denetlemeden önce giriþ yapýn
+21121=Bir uygulama IDM tarayýcý iliþkilendirmesine hasar vermiþ.\r\n\r\nIDM tarayýcý iliþkilendirmesini geri yüklemek için IDM'yi tekrar yüklemeniz gerekiyor. Veya \"Yardým->Güncellemeleri denetle\" menü öðesini kullanarak IDM'yi güncellemeyi deneyin.\r\nAyrýca IDM Seçenekler -> Genel sekmesinde tarayýcýnýzýn iliþkilendirmesinin açýk olduðundan da emin olun.
+
+//6.21b3
+21125=Taþý
+21126=Taþý/Yeniden adlandýr
+21127=Dosya taþýma ilerlemesi
+
+//new "Find file" dialog
+487=Dosya bul
+21122=Dosya bul
+21123=Böyle bir dosya bulunamadý
+21124=Arama bitti
+1807=Dosya adý veya dosya adýnýn bir kýsmý:
+1809=Açýklama veya açýklamanýn bir kýsmý:
+1811=Büyük küçük harfe duyarlý
+1812=Sadece tam dizeyi eþleþtir
+1673=Bul
+//New subitems in "Downloads" main menu
+34040=Bul (Ctrl-F)
+34041=Sonrakini Bul (F3)
+
+//v6.21b5
+21128=IDM Güncelleme uygulamasýný baþlatamadý. Bu IDM hizmet dosyalarýný içeren klasör için olan antivirüs ayarlarýnýn yanlýþ olmasýndan dolayý olabilir.\r\n\r\nIDM þimdi bu klasörü açacak, \"idmupdt.exe\" dosyasýný elle çalýþtýrabilirsiniz.\r\n\r\nVeya IDM'nin en son sürümünü ana siteden indirebilir, ve mevcut sürümünüzün üstüne yükleyebilirsiniz
+21129=Diðer Kaliteler...
+21130=Bu videoyu baþka bir kalitede indirmek istiyorsanýz, lütfen web oynatýcýsýnda istediðiniz kaliteyi seçin. Ardýndan, seçili kalite IDM\'nin \"Bu video dosyasýný indir\" panelinde görünecektir.
+21131=Bir Klasör Seçin
+
+//v6.21b11
+21132=IDM, bilgisayarýnýzda yüklü olmayan bir kodeði kullanan %s dosyasýný indirdi.\r\nLütfen ana siteden daha fazla bilgi edinin.
+1813=Geliþmiþ web sayfasý iþlemeyi kullan
+21133=Birkaç IDM modülü güncellenmedi. Lütfen IDM'nin en son sürümünü tekrar yükleyin, bilgisayarýnýzý yeniden baþlatýn, ve bu dosyayý tekrar indirmeye çalýþýn
+
+//v6.21b16
+21134=IDM, indirme kuyruðunuzu ayarlanan bir zamanda baþlatmak için bilgisayarýnýzý uykudan uyandýramayacak.
+21135=Metro moduna geçtiðinizde, masaüstünün uyku moduna geçebileceðini unutmayýn.
+21136=IDM'nin kuyruðu ayarlanan bir zamanda indirmesini istiyorsanýz, lütfen Windows ayarlarýndaki uyandýrma zamanlayýcýlarýný etkinleþtirin.\r\n\"Denetim Masasý\\Güç Seçenekleri\\Plan ayarlarýný deðiþtir\\Geliþmiþ güç ayarlarýný deðiþtir\" bölümünü açýn, ardýndan \"Uyku\\Uyandýrma zamanlayýcýlarýna izin ver\" bölümünü açýn ve \"Etkinleþtir\" olarak ayarlayýn.\r\n\r\nEkran görüntüleri ile nasýl yapýldýðýna bakmak ister misiniz?
+
+//v6.23b12
+21137=IDM'nin bu ve daha önceki tüm sürümlerinin ana siteye baðlanýrken \"hosts\" dosyasýný kullanamayabileceklerini unutmayýn. Bu dosyayý deðiþtirdiðinizde, sadece web tarayýcýnýzýn IDM web sitesine eriþimini kapatýrsýnýz. Tamam düðmesi üzerine bastýðýnýzda, \"hosts\" dosyanýz hasarlý olsa bile IDM güncellemeleri baþarýyla denetleyecektir.
+21138=Tarayýcýnýz bilgisayarýnýzdaki önemli bir sistem dosyasý hasarlý olduðundan dolayý IDM web sitesini açamayabilir. IDM bu dosyayý þimdi onaracak.
+
+//v6.25b16
+21139=IDM için girdiðiniz seri numara baþka bir bilgisayar üzerinde kullanýlýyor ve farklý bir e-posta adresine baðlý
+21140=IDM için girdiðiniz seri numara\r\n%s\r\nbaþka bir bilgisayar üzerinde kullanýlýyor.\r\n\r\nBu seri numarayý bu bilgisayar üzerinde kullanmak istiyorsanýz, o zaman IDM'yi bu seri numaranýnýn daha önce kullanýldýðý diðer bilgisayardan (veya tüm bilgisayarlardan) kaldýrmanýz gerekiyor. Ayný seri numarayý ayný anda farklý bilgisayarlar üzerinde kullanýyorsanýz, seri numara otomatik olarak engellenecektir.\r\n\r\nIDM kayýtýna\r\n%s\r\nseri numarasý ile devam etmek istiyor musunuz?
+
+//v6.25b18
+21142=Daha fazla okumak ister misiniz?
+21141=IDM'yi aþaðýdaki seri numara ile kayýt ettiniz\r\n%s\r\n\r\nBu seri numara IDM sunucularý üzerinde engelli. IDM'den çýkýlacak...
+
+//v6.26b5
+21146=IDM, geçici klasörde baðlantýsý olmayan ve parçalarý silinmemiþ eski indirmeler buldu.\r\n%s\r\nDisk alanýnýn boþaltýlmasý için IDM'nin onlarý silmesini ister misiniz?
+
+//v6.27
+21147=Seri numaranýz þununla baþlýyor:  %s...............
+488=En düþük boyut
+1822=En düþük boyut
+21148=Ses dosyasý aþaðýdaki boyuttan küçükse \"Bu ses dosyasýný indir\" panelini gösterme
+21149=Ortam dosyasý aþaðýdaki boyuttan küçükse \"Bu video dosyasýný indir\" panelini gösterme
+21150=Not: Bu kýsýtlama ortam dosyasýný boyutu biliniyorsa çalýþýr. Sadece süreninin veya dosya tamamen indirilene kadar hiçbir þeyin bilinmediði durumlar vardýr. Böyle durumlarda bu kýsýtlama çalýþmayacaktýr.
+
+//v6.28b7
+21151=Eski Windows XP þifreleme kütüphanesine sahip olabilirsiniz.\r\nDaha fazla okumak ister misiniz?
+
+21153=Bilgisayarý kapat
+21154=Uyut
+21155=Hazýrda beklet
+21157=Internet Download Manager kuyruk iþlemini tamamladý. Programlayýcý yarlarýna göre bilgisayarýnýz uyku moduna geçecek.
+21158=Internet Download Manager yakalayýcý projesi iþlemini tamamladý. Proje programlayýcýsý ayarlarýna göre bilgisayarýnýz uyku moduna geçecek.
+21159=Internet Download Manager bir dosyayý indirmeyi tamamladý. Bu indirme için olan ayarlarýnýza göre bilgisayarýnýz uyku moduna geçecek.
+21160=Internet Download Manager kuyruk iþlemini tamamladý. Programlayýcý ayarlarýna göre bilgisayarýnýz hazýrda bekleme moduna geçecek.
+21161=Internet Download Manager yakalayýcý projesini iþlemini tamamladý. Proje programlayýcýsý ayarlarýna göre bilgisayarýnýz hazýrda bekleme moduna geçecek.
+21162=Internet Download Manager bir dosyayý indirmeyi tamamladý. Bu indirme için olan ayarlarýnýza göre bilgisayarýnýz hazýrda bekleme moduna geçecek.
+21163=Uyku modu
+21164=Uyut
+21165=Hazýrda beklet
+
+21167=IDM'nin Firefox 53 ve daha sonraki sürümleriyle olan iliþkilendirmesi sadece IDM Seçenekler -> Genel sekmesindeki \"Geliþmiþ tarayýcý iliþkilendirmesini kullan\" seçeneði açýkken çalýþacaktýr
+
+//v6.30
+//Translated by Çaðatay KAYA (cagataykaya55@hotmail.com)
+1823=El ile vekil sunucu/socks ayarlama
+1824=Bu að için vekil sunucu ayarlarýný otomatik olarak tespit et
+1825=Sistem ayarlarýný kullan
+1826=Vekil sunucu/socks kullanma
+21169=IDM bu að için Vekil Sunucu Otýmatik Ayarlama dosyasýnýn URL'sini tespit edemiyor!/r/n/r/nEðer aðýnýz için bir otomatik ayarlama tanýmlanmadýysa, IDM'nin vekil sunucu paketi dosyasýný ararken olan yaþanacak gecikmeyi engellemek adýna bu seçeneði kullanmamalýsýnýz.
+489=Microsoft Edge tarayýcýsý ile iliþkilendirme
+21170=Edge için yeni "IDM iliþkilendirme bileþeni" yayýnlandý. Bu eklenti, Microsoft Edge tarayýcýsý ile IDM arasýndaki iliþkilendirmenin tam olarak yapýlabilmesi için gereklidir. IDM, Microsoft maðazasýndan bu eklentiyi indirip kurmaya baþlayacaktýr.\r\nBu iletiþim kutusunu kapattýðýnýzda IDM'nin Edge için olan eklentisinin yüklenmesiyle ilgili bir ileti göreceksiniz.\r\nLütfen aþaðýda da gösterildiði gibi açýlacak olan Microsoft maðazasý ekranýnda "Al" düðmesine týklayýn.
+1828=Ardýndan lütfen eklentinin yüklenmesini bekleyin ve Edge tarayýcýsýný çalýþtýrýn. Birkaç saniye içerisinde Edge size IDM'nin eklentisiyle alakalý bir bildirim gösterecektir. Lütfen aþaðýdaki resimde de gösterildiði gibi eklentiyi etkinleþtirin.
+
+//v6.30b7
+//Translated by Çaðatay KAYA (cagataykaya55@hotmail.com)
+p21171=Lütfen satýn alým sonrasýnda IDM seri numarasýný ve diðer etkinleþtirme bilgilerini göndereceðimiz e-posta adresini girin.
+p21172=Bu e-posta adresinin kaybedilen IDM seri numarasýný telafi etmek ve öncelikli destek almak için kullanýlabileceðini lütfen unutmayýn. Bundan dolayý, doðru bir e-posta adresi girmeniz önemlidir.
+p21173=E-posta adresinizi girin
+
+p21174=Bir yýllýk IDM lisansýnýzýn seri numarasý %s ile baþlýyor...
+p21175=þu tarihte süresi doluyor (veya doldu): %s
+
+p21176=Bu lisansý önümüzdeki yýl için uzatmak ister misiniz?
+p21177=Lisansýmý þimdi uzat
+p21178=Ýsterseniz standart satýn alým sayfasýný açmak için web sayfasý menüsündeki "Satýn Al" düðmesine de týklayabilirsiniz.
+
+//v6.30b8
+//Translated by Çaðatay KAYA (cagataykaya55@hotmail.com)
+21179=IDM lisansýnýzýn bitiþ süresi þu tarihe kadar uzatýldý: %s
+
+//v6.33
+//Translated by Çaðatay KAYA (cagataykaya55@hotmail.com)
+21180=Ýndirmelerin yakalanmasýný geliþtir
+21181=IDM, þu web sitesinden tekrar tekrar talep yakalanmasýyla ilgili bir sorunu iþbu web sitesinden özel kýsayol tuþu kullanmaksýzýn indirme yapýlabilmesi için gerekli olan kurallarýn oluþturulabilmesi için IDM sunucularýna bir ara rapor edecek: %s.\r\n\r\nÝþbu siteden indirme yapmayla ilgili sorunu çözen bir çözümün IDM sunucularýnda bulunmasý ihtimali de vardýr; bu durumda IDM, raporu gönderdikten sonra veri tabanýný güncelleþtirerek sorununuzu çözecektir.
+21182=Þu web sitesinden indirme yapýlabilmesi için gerekli olan kurallar güncelleþtirildi: %s.\r\nArtýk iþbu siteden özel kýsayol tuþlarýný kullanmadan IDM ile indirme yapabilirsiniz.\r\n\r\nAmma velakin güncelleþtirmeden önce yarým býrakmýþ olduðunuz indirmeleriniz varsa, bunlarý devam ettiremeyeceksiniz; bundan ötürü iþbu indirmeleri hangi siteden baþlattýysanýz yeniden baþlatmak durumundasýnýz.
+21183=Düzenlenmedi
+21184=IDM, þu web sitesinin ayarlarýna göre yalnýzca bir kez talep edilebilen bir indirme yakaladý; bundan dolayý IDM iþbu web sitesini tarayýcýnýzda açmaya çalýþýyor: %s. Amma velakin yakalanan talep, dosyanýn indirilebilmesi için yeterli düzeyde veriyi barýndýrmýyor.\r\n\r\nBu sorun, paylaþýlan bir sitesinde web sitesi iþlemeyi es geçmek suretiyle tarayýcýnýza indirme eklemek için alýþýlmadýk bir yöntem kullanmýþ olmanýzdan kaynaklanýyor olabilir. Bu durumda yakalanan talebin gerekli olan tüm verileri barýndýrabilmesi için iþbu indirmeyi herkese açýk bir adresten baþlatmak ve gereken tüm adýmlarý uygulamak durumundasýnýz.\r\n\r\nÞayet bu bir indirme deðilse ve IDM bunu yanlýþlýkla yakaladýysa, bu sorunun önüne geçmek için lütfen Ýndirmeler -> Seçenekler -> Genel -> "IDM ile indirmeyi baþlatacak-durduracak tuþlarý özelleþtir" yolunu izleyerek bir kýsayol tuþu ayarlayýn ve bu türden bir linke týklamadan evvel ayarladýðýnýz kýsayol tuþunu basýlý tutarak iþbu linke öyle týklayýn ("Del" tuþu çoðu tarayýcýda iþe yaramaktadýr).
+21185=IDM sunucularýndan indirilen indirme kurallarýna sahip dosyanýn arýk formatý deðiþti.\r\nIDM'nin iþbu kurallarý kullanabilmesi açýsýndan lütfen \"Yardým->Güncellemeleri denetle...\" yolunu izleyerek IDM'yi güncelleþtirin.
+
+//v6.33b3
+//Translated by Çaðatay KAYA (cagataykaya55@hotmail.com)
+21186=Bu sorun, "IDM iliþkilendirme bileþeni"nin tarayýcýnýzda devre dýþý býrakýlmýþ olmasý ya da yüklü olmamasý olabilir.

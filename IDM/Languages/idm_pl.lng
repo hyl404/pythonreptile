@@ -1,0 +1,2039 @@
+lang=0x15 Polish
+tips=tips_pl.txt
+
+// Dialogs
+
+//main dialog
+1281=Kategorie
+t1278=Ukryj foldery
+20369=Q
+20370=Nazwa pliku
+20371=Stan
+20372=Rozmiar
+20373=Czas pozosta³y
+20374=Szybkoœæ
+20375=Opis
+
+//toolbar
+//Please try to make all inscriptions for the buttons on the toolbar shorter.
+//A long inscription can make all buttons wider and they may cross the border
+//of the dialog.
+20376=Dodaj URL
+20377=Dokoñcz
+20378=Zatrzymaj
+20379=Zat. wszys.
+20380=Usuñ
+20446=Usuñ zak.
+20381=Opcje
+20382=Planow.
+20383=Poleæ znaj.
+//tooltips for buttons
+t32789=Dodaj/Œci¹gnij nowy adres URL rêcznie
+t32790=Rozpocznij/Dokoñcz œci¹ganie zaznaczonych plików
+t32791=Zatrzymaj œci¹ganie zaznaczonych plików
+t32792=Zatrzymaj œci¹ganie wszystkich plików
+t32793=Usuñ zaznaczone pliki z listy
+t32794=Usuñ wszystkie zakoñczone pliki z listy
+t32795=Integracja z przegl¹dark¹/systemem, obs³uga rozszerzeñ plików, serwery proxy, has³a i inne
+t32798=Planowanie i kolejkowanie plików do œci¹gniêcia
+t32788=Napisz znajomym o IDM
+
+//Registration dialog
+138=Rejestracja Internet Download Managera
+1326=Proszê wprowadziæ dane rejestracyjne w odpowiednich polach, a nastêpnie klikn¹æ OK.
+1330=Numer seryjny
+1327=Imiê
+1328=Nazwisko
+1329=E-mail
+1191=&OK
+1201=&Zasady licencji
+1080=&Zrezygnuj
+
+//Download progress dialog
+103=Œci¹ganie pliku
+1154=(brak danych)
+1178=<< Ukryj szczegó³y
+20426=<< Ukryj szczegó³y
+1158=Zatrzymaj
+20392=Zatrzymane
+20424=Œci¹gaj
+20425=Poka¿ szczegó³y >>
+1300=Rozmiar pliku:
+1301=Œci¹gniêto:
+1302=Szybkoœæ transferu:
+1303=Czas pozosta³y:
+1149=(brak danych)
+1299=Stan:
+1030=£¹czenie...
+1305=Œci¹gane czêœci pliku i ich zaawansowanie wed³ug po³¹czeñ:
+1304=Opcja wznawiania:
+1175=(brak danych)
+2=Zrezygnuj
+20416=N.
+20417=Œci¹gniêto
+20418=Stan
+20419=Tak
+20420=Nie
+20421=%d godz. %d min.
+20422=%d min. %d sek.
+20423=%d sekund
+
+130=Œci¹ganie pliku
+1006=&Œci¹gaj teraz
+1010=Wybierz...
+1004=Œci¹gaj &póŸniej
+1298=Opis
+1173=Podgl¹d
+1297=Kategoria
+1296=Zapisz jako
+t1004=Dodaj plik do listy i œci¹gnij póŸniej
+t1006=Rozpocznij œci¹ganie pliku
+
+148=Podaj nowy adres do œci¹gania
+1182=U¿yj &autoryzacji
+1184=Login
+1186=Has³o
+1022=O&K
+
+//Options Dialog
+134=Konfiguracja Internet Download Managera
+1092=OK
+20286=Ogólne
+20287=Po³¹czenia
+20288=Œci¹ganie
+20289=Serwery proxy
+20290=Autoryzacje
+20291=Dzwonienie
+20292=DŸwiêki
+20293=Ogólne
+20294=Po³¹czenia
+20295=Œci¹ganie
+20296=Serwery proxy
+20297=Autoryzacje
+20298=Dzwonienie
+20299=DŸwiêki
+20300=Integracja z przegl¹dark¹/systemem
+20301=Typ po³¹czenia
+20302=Domyœlne parametry œci¹gania
+20303=Konfiguracja proxy HTTP, HTTPS i FTP
+20304=Nazwy u¿ytkowników i has³a dostêpu
+20305=Parametry po³¹czenia z ISP
+20306=Ustawienia dŸwiêków
+//General tab
+1134=Integracja z Internet Explorerem i Netscape 4.x
+1056=Uruchom Internet Download Managera przy starcie systemu
+1061=Automatycznie œci¹gaj adresy URL umieszczone w schowku
+1065=Integruj z Internet Explorerem, MSN Explorerem i na nich opartymi
+1068=Integruj z Netscape 4.x
+1077=&Domyœlne
+1238=U¿ywaj klawisza ALT do pominiêcia IDM przy œci¹ganiu pliku
+1251=U¿ywaj klawisza CTRL do wywo³ania IDM przy œci¹ganiu pliku
+1253=Integruj z Netscape 6.x
+1255=Integruj z Oper¹
+1256=Integruj z Mozill¹
+1257=Integruj z Netscape 7.x
+1314=Modu³y
+1169=Typy plików...
+1270=Automatycznie œci¹gaj nastêpuj¹ce typy plików:
+t1056=Uruchom Internet Download Managera przy starcie komputera
+t1061=Monitoruj schowek w celu poszukiwania adresów URL
+t1065=Monitoruj klikniêcia adresów URL w Internet Explorerze
+t1068=Monitoruj klikniêcia adresów URL w Netscape Navigatorze
+//Proxy tab
+1102=U¿ywaj proxy HTTP
+1272=PotwierdŸ has³o
+1122=Adres
+1123=Port
+1124=Login
+1125=Has³o
+1107=Pobierz z IE
+1108=U¿ywaj proxy FTP
+1274=PotwierdŸ has³o
+1126=Adres
+1127=Port
+1128=Login
+1129=Has³o
+1113=Pobierz z IE
+1116=U¿ywaj trybu PASV w FTP
+1118=U¿ywaj proxy HTTPS
+1273=PotwierdŸ has³o
+1133=Adres
+1135=Port
+1137=Login
+1139=Has³o
+1141=Pobierz z IE
+t1107=Spróbuj znaleŸæ konfiguracjê serwerów proxy w Internet Explorerze
+t1116=U¿ywaj protoko³u FTP w trybie pasywnym (potrzebne przy ³¹czeniu przez firewall)
+//Connection tal
+1153=Typ i szybkoœæ po³¹czenia
+1306=Maks. liczba po³¹czeñ
+1254=Ograniczenia
+//Downloads tab
+1049=Wybierz...
+1190=Pamiêtaj ostatnio u¿ywan¹ œcie¿kê dla kategorii "Ogólne"
+1136=Domyœlna œcie¿ka dla kategorii "Ogólne"
+1132=Zapisz do...
+1236=Poka¿ okno zakoñczenia œci¹gania
+1317=Sprawdzanie antywirusowe
+1318=Skaner antywirusowy
+1165=Wybierz...
+1319=Parametry linii poleceñ
+1316=Okno œci¹gania pliku
+1315=Okienka informacyjne
+1059=Poka¿ okno rozpoczêcia œci¹gania
+1138=Folder tymczasowy
+1054=Wybierz...
+//Dial Up tab
+1313=Po³¹czenie:
+1307=Parametry po³¹czenia
+1166=Zastosuj
+1308=Opcje ponowienia dzwonienia
+1309=Iloœæ prób (podaj 0 jeœli "do skutku"):
+1310=Czas miêdzy kolejnymi próbami:
+1312=sekund
+1311=razy
+1058=U¿ywaj modu³u dzwonienia Windows
+//Sounds tab
+1320=Wybierz dŸwiêki dla zdarzeñ Internet Download Managera
+1172=Wybierz...
+1091=Odtwórz
+//Passwords tab
+20436=Serwer/œcie¿ka
+20437=U¿ytkownik
+20438=Has³o
+1087=Nowy
+1196=Edycja
+1050=Usuñ
+
+//File properties dialog
+135=Parametry pliku
+1325=Typ:
+1324=Rozmiar:
+1323=Zapisz do:
+1082=&Wybierz...
+1322=Login
+1289=Has³o
+1321=PotwierdŸ has³o
+1164=Otwórz
+1240=Ostatnia próba
+1241=Rezultat:
+
+100=O Internet Download Managerze
+1284=Strona w Internecie:
+1285=Wsparcie techniczne:
+1286=Ten produkt jest zarejestrowany na:
+1181=Wersja niezarejestrowana
+1161=Szukaj &aktualizacji
+1185=&Rejestracja
+1085=&Zakup
+1262=Wersja:
+t1187=OdwiedŸ stronê internetow¹ IDM
+t1189=Skontaktuj siê z dzia³em wsparcia u¿ytkowników
+t1161=Poszukuj nowych wersji programu na stronie www.internetdownloadmanager.com
+t1185=Zarejestruj IDM za pomoc¹ numeru seryjnego
+t1201=Poka¿ informacje licencyjne IDM
+t1085=Kup wersjê zarejestrowan¹ IDM
+
+150=Zamknij
+1263=Internet Download Manager zakoñczy³ œci¹ganie z listy. Zgodnie z ustawieniami nast¹pi teraz wy³¹czenie komputera.
+1170=Wy³¹cz
+
+1163=Tak
+1088=Wszystkie=Tak
+1202=Nie
+1051=Wszystkie=Nie
+
+177=Planowanie
+1331=Kolejka plików
+1333=Œci¹gaj
+1332=Planowanie
+1218=Rozpocznij œci¹ganie o
+1219=Tylko raz
+1221=Codziennie
+1062=Niedziela
+1057=Poniedzia³ek
+1066=Wtorek
+1069=Œroda
+1222=Czwartek
+1223=Pi¹tek
+1224=Sobota
+1225=Zatrzymaj œci¹ganie o
+1228=Wy³¹cz komputer po zakoñczeniu
+1235=Zmuœ programy do zakoñczenia pracy
+1089=Zastosuj
+1232=Zacznij teraz
+1233=Zatrzymaj
+1079=Zamknij
+1227=Od³¹cz siê od Internetu po zakoñczeniu
+1264=megabajtów
+1265=godzin
+1266=Œci¹gaj nie wiêcej ni¿
+1171=Pomoc
+1267=w ci¹gu
+1268=Poka¿ ostrze¿enie przed przerwaniem œci¹gania
+1271=Zamknij Internet Download Managera po zakoñczeniu
+1335=plik(ów) jednoczeœnie
+t1229=Przesuñ w dó³
+t1230=Przesuñ do góry
+t1231=Usuñ plik z listy
+t1232=Rozpocznij œci¹ganie
+t1233=Zatrzymaj œci¹ganie
+t1235=U¿ywaj tylko w ostatecznoœci. Mo¿e spowodowaæ utratê niezapisanych danych w programach.
+
+184=Dzwonienie
+1247=£¹czê ...
+1167=Ponowienie
+
+186=Parametry dzwonienia
+1336=Wybieranie
+1237=Zapisz has³o
+1288=U¿ytkownik
+
+187=Wrzuæ adresy tutaj
+
+190=Œci¹gnij komponenty IDM
+1=OK
+1258=Œci¹gaj komponenty
+
+191=Eksportuj listê adresów
+1259=Eksportuj kolejkê adresów
+1260=Eksportuj zaznaczone
+1261=Eksportuj wszystkie
+
+192=Importuj linki do IDM
+1168=Edytuj...
+1090=Skasuj
+
+193=Automatycznie œci¹gaj pliki nastêpuj¹cych typów:
+
+105=Porada dnia
+1001=&Poka¿ porady przy starcie
+1003=&Nastêpna
+107=Ra&da dnia...
+108=Czy wiesz, ¿e...
+109=Plik z poradami nie zosta³ odnaleziony
+110=Wyst¹pi³ problem przy odczycie pliku z poradami
+
+146=Login
+1337=Serwer/œcie¿ka
+1290=PotwierdŸ has³o
+1287=Uwaga: Podaj œcie¿kê tylko wtedy, gdy posiadasz ró¿ne loginy do ró¿nych œcie¿ek na serwerze.
+
+182=Szybka aktualizacja
+1295=Sprawdzam czy jest nowsza wersja
+
+194=Przekroczono limit œci¹gania!
+
+144=Nowsza wersja Intenet Download Managera jest dostêpna
+1162=Uaktualnij
+1086=Zrezygnuj
+
+//Zip preview dialog
+196=Podgl¹d pliku ZIP
+20254=Nazwa pliku
+20255=Spakowane
+20256=Rozmiar
+20257=Zmodyfikowane
+
+//New category dialog
+204=Kategorie IDM
+1174=Wybierz...
+1291=Nazwa kategorii
+1292=Automatycznie umieœæ w tej kategorii nastêpuj¹ce typy plików:
+1293=Uwaga: wprowadzaj rozszerzenia plików oddzielone spacjami (np. avi mpg mpeg)
+1239=Pamiêtaj ostatnio u¿yt¹ œcie¿kê
+1294=Zapisz pliki tej kategorii w nastêpuj¹cym folderze:
+
+
+// Menu
+m32771=Zadania
+32771=Dodaj nowe œci¹ganie
+32809=Poka¿ okienko wrzutowe
+m32821=Eksportuj
+32821=Do pliku eksportowego IDM
+32823=Do pliku tekstowego
+m32816=Importuj
+32816=Z pliku eksportowego IDM
+32818=Z pliku tekstowego
+32772=&Wyjœcie
+
+m32774=Plik
+32774=Zatrzymaj œci¹ganie
+32775=Usuñ
+32776=Rozpocznij œci¹ganie
+
+m32778=Œci¹ganie
+32778=Zatrzymaj wszystkie
+32779=Przerwij wszystkie
+32794=Usuñ wszystkie zakoñczone
+32801=Planowanie
+32803=Rozpocznij kolejkê
+32805=Zatrzymaj kolejkê
+32781=Opcje
+
+m32825=Widok
+32825=Ukryj kategorie
+m32828=Uporz¹dkuj pliki
+32828=Wg. kolejnoœci dodawania
+32830=Wg. nazw
+32832=Wg. rozmiarów
+32834=Wg. stanu
+32836=Wg. pozosta³ego czasu
+32838=Wg. szybkoœci œci¹gania
+32840=Wg. opisów
+m32841=Jêzyk
+
+m57670=Pomoc
+57670=Spis treœci
+32811=Samouczek
+106=Porada dnia...
+32813=Strona IDM w Internecie
+32784=Kontakt
+32787=Szybka aktualizacja
+32786=O programie
+32788=Zaproponuj IDM znajomym
+
+m32785=Rejestracja
+32785=Zamówienie online
+32783=Rejestracja
+//end menu
+
+
+//Strings & messages
+101=&O IDM...
+32799=Otwieranie portu
+32800=Port otwarty
+32802=£¹czê z urz¹dzeniem
+32804=Urz¹dzenie po³¹czone
+32806=Wszystkie urz¹dzenia po³¹czone
+32807=Rozpoczynam autoryzacjê
+32808=Zg³oszenie autoryzacji
+32810=Ponowienie autoryzacji
+32812=¯¹danie po³¹czenia zwrotnego
+32814=¯¹danie zmiany has³a
+32815=Faza projekcji rozpoczêta
+32817=Przewidywanie szybkoœci po³¹czenia
+32819=Potwierdzenie autoryzacji
+32820=Rozpoczêcie ponownej autoryzacji
+32822=Autoryzowano
+32826=Oczekiwanie na zresetowanie modemu
+32827=Oczekiwanie na po³¹czenie zwrotne
+32829=Interaktywnie
+32831=Ponów autoryzacjê
+32833=Po³¹czenie zwrotne ustanowione przez dzwoni¹cego
+32835=Wa¿noœæ has³a wygas³a
+32837=Po³¹czono
+32839=Roz³¹czono
+
+20000=Plik %s œci¹gniêty.\n\nOtrzymano %s (%I64d bajtów)\nPlik zapisany jako %s
+20001=Ta funkcja jest dostêpna wy³¹cznie w wersji zarejestrowanej.
+20002=Nie mogê zmieniæ nazwy œci¹gniêtego pliku w folderze tymczasowym (%s) na %s. Plik zosta³ zapisany w folderze tymczasowym.
+20003=Has³o niezgodne! WprowadŸ jeszcze raz.
+20004=W polu Has³o nie zosta³o nic wpisane!
+20005=W polu U¿ytkownik nie zosta³o nic wpisane! Spróbuj jeszcze raz.
+20006=W polu Serwer/œcie¿ka nie zosta³o nic wpisane! Spróbuj jeszcze raz.
+20007=Potwierdzasz usuniêcie danych dla tego serwera?
+20008=Lista adresów zawiera plik, który bêdzie œci¹gniêty z
+20009=.\nZastosowaæ tê nazwê u¿ytkownika i has³o dla tego adresu?
+20010=.\nZmieniæ nazwê u¿ytkownika i has³o na \"anonymous\" ?
+20011=Dane dla tego serwera/œcie¿ki s¹ ju¿ na Twojej liœcie hase³.\nNowe dane nie zosta³y zapisane. Mo¿esz edytowaæ istniej¹ce dane.
+20012=Zmieni³eœ dane w polu \"Serwer/œcie¿ka.\" Dane dla tego nowego serwera/œcie¿ki s¹ ju¿ na Twojej liœcie hase³.\nDane nie zosta³y zmienione. Mo¿esz edytowaæ istniej¹ce dane.
+20013=Serwer jest tymczasowo niedostêpny!
+20014=Autoryzacja jest wymagana dla tego serwera/œcie¿ki. Mo¿esz wpisaæ dane autoryzacyjne dla tego pliku w opcji Parametry (kliknij prawym kl. myszki na pliku). Ewentualnie wprowadŸ te dane w \"Opcje/Autoryzacje\", aby u¿ywaæ ich zawsze przy œci¹ganiu plików z tego adresu.
+20015=Autoryzacja jest wymagana dla tego serwera proxy. Mo¿esz podaæ te dane w \"Opcje->Serwery proxy\"
+20016=Wyst¹pi³ nieznany b³¹d podczas œci¹gania.\nProsimy o przes³anie plików LOG %s i %s (jeœli istniej¹) do autorów programu.
+20017=Wyst¹pi³ b³¹d podczas œci¹gania.\n Proszê spróbowaæ jeszcze raz. Jeœli mo¿esz œci¹gn¹æ ten plik innym programem, ale nie za pomoc¹ IDM, prosimy o przes³anie pliku LOG %s (jeœli istnieje).
+20018=Nie mo¿na œci¹gn¹æ tego pliku.
+20019=Nie mo¿na œci¹gn¹æ tego pliku.
+20020=Brak pamiêci, nie mo¿na dokoñczyæ œci¹gania.
+20021=Nie mo¿na nawi¹zaæ po³¹czenia, poniewa¿ serwer odrzuca je. \nPrawdopodobnie obs³uga protoko³u jest nieaktywna na tamtym serwerze lub zainstalowany firewall blokuje Internet Download Managera. Jeœli u¿ywasz firewalla, upewnij siê ¿e jego ustawienia pozwalaj¹ na dostêp IDM do Internetu.
+20022=Odmowa dostêpu.
+20023=Nie mogê odnaleŸæ adresu. ¯¹dany adres nie jest prawid³owy.
+20024=Istniej¹ce po³¹czenie zosta³o nagle zerwane przez serwer. To zdarza siê zwykle gdy obs³uguj¹ca aplikacja na serwerze zosta³a nagle zamkniêta, serwer podlega restartowi lub serwer zosta³ \'zamkniêty na si³ê\'
+20025=Otwarcie gniazda nie uda³o siê poniewa¿ serwer nie odpowiedzia³ na ¿¹danie. Serwer nie wykazuje ¿adnej aktywnoœci na ¿¹danym gnieŸdzie.
+20026=B³¹d ³¹czenia. Serwer nieznany. Nazwa nie jest oficjalnym adresem lub aliasem, albo te¿ nie mo¿e zostaæ odnaleziona w bazie danych podczas odpytywania.
+20027=Próba otwarcia gniazda dla niedostêpnej sieci. Zwykle oznacza to, ¿e oprogramowanie sieci nie jest w stanie ustaliæ sposobu po³¹czenia z serwerem.
+20028=System operacyjny serwera z którym ten komputer by³ po³¹czony wygenerowa³ b³¹d i zosta³ zrestartowany.
+20029=Próba otwarcia gniazda napotka³a niedostêpn¹ sieæ. To mo¿e oznaczaæ powa¿n¹ awariê systemu obs³ugi sieci (np. przepe³nienie stosu protoko³ów w WinSock DLL), karty sieciowej lub sieci lokalnej.
+20030=Zbyt wiele otwartych po³¹czeñ sieciowych. Proszê zaczekaæ a¿ czêœæ plików zostanie œci¹gniêta.
+20031=Wyst¹pi³ b³¹d podczas nawi¹zywania po³¹czenia
+20032=Rozmiar %s wynosi %I64d bajtów.\nZabrak³o miejsca na dysku \'%s\' gdzie plik mia³ byæ zapisany.\nJeœli podczas œci¹gania nie zwolni siê miejsce, plik bêdzie zapisany w folderze tymczasowym jako %s
+20033=Na dysku \'%s\' zabraknie miejsca ¿eby przechowaæ wszystkie œci¹gane fragmenty pliku.\nAby kontynuowaæ œci¹ganie zwolnij miejsce lub zmieñ folder tymczasowy ustawiony w Opcje\\Ogólne i wybierz \'Dokoñcz\'
+20034=Nie mogê odnaleŸæ serwera %s
+20035=Nie mogê odnaleŸæ serwera proxy %s
+20036=Nie mogê po³¹czyæ siê z %s:%ld
+20037=Nie mogê po³¹czyæ siê z serwerem proxy %s:%ld
+20038=Nie mogê po³¹czyæ siê z %s:%ld\nPrzekroczony czas próbowania.
+20039=Nie mogê po³¹czyæ siê z serwerem proxy %s:%ld\nPrzekroczony czas próbowania.
+20040=Nieznany b³¹d wyst¹pi³ podczas ³¹czenia fragmentów pliku.
+20041=Nieznany b³¹d wyst¹pi³ podczas ³¹czenia fragmentów pliku.
+20042=Nie mogê zapisywaæ do pliku podczas ³¹czenia œci¹gniêtych fragmentów
+20043=Nie mogê odczytaæ wielkoœci nastêpnego fragmentu podczas ³¹czenia czêœci pliku
+20044=B³¹d pamiêci wirtualnej podczas ³¹czenia fragmentów pliku
+20045=Fatalny b³¹d podczas ³¹czenia fragmentów pliku
+20046=Fatalny b³¹d podczas ³¹czenia fragmentów pliku
+20047=Nieznany b³¹d pliku lub rejestru Windows wyst¹pi³ podczas ³¹czenia starych fragmentów pliku.
+20048=Nie mogê po³¹czyæ siê z serwerem
+20049=B³¹d odczytu z gniazda internetowego
+20050=B³¹d zapisu do gniazda internetowego
+20051=Przekroczony czas prób nawi¹zania po³¹czenia
+20052=Przekroczony czas prób nawi¹zania po³¹czenia
+20053=Przekroczony czas prób nawi¹zania po³¹czenia, próbujê ponownie...
+20054=Po³¹czenie nie uda³o siê, próbujê ponownie...
+20055=Nast¹pi³ b³¹d podczas otrzymywania danych
+20056=Po³¹czenie zosta³o zamkniête przez serwer.
+20057=Nie mogê zalogowaæ siê na serwerze FTP.
+20058=Nie mogê odnaleŸæ pliku na serwerze FTP.
+20059=Serwer FTP nie zezwala na ¿adne po³¹czenia.
+20060=Wyst¹pi³ b³¹d podczas otrzymywania odpowiedzi z serwera FTP.
+20061=Wyst¹pi³ b³¹d podczas otrzymywania odpowiedzi z serwera FTP: B³êdny format odpowiedzi
+20062=Nie mogê odnaleŸæ adresu IP gniazda w odpowiedzi na polecenie PASV.
+20063=Nie mogê otworzyæ gniazda internetowego.
+20064=Nie mogê otworzyæ gniazda FTP.
+20065=Nie mogê podpi¹æ adresu do gniazda internetowwgo.
+20066=B³¹d podczas wywo³ania listen() gniazda
+20067=B³¹d podczas wywo³ania accept() gniazda
+20068=Nie mogê wys³aæ polecenia PORT.\nB³¹d podczas wywo³ania getsockname().
+20069=Polecenie PORT nieudane.
+20070=B³¹d zapisu do pliku podczas otrzymywania danych z gniazda internetowego.\nPrawdopodobnie brak miejsca na dysku.
+20071=Nie mogê nawi¹zaæ po³¹czenia poniewa¿ serwer FTP nie obs³uguje polecenia PASV, a kratka \'U¿yj FTP w trybie PASV\' w Opcje->Serwery proxy jest zaznaczona.
+20072=Rozmiar pliku %s nie zosta³ podany w odpowiedzi z serwera
+20073=Serwer przes³a³ niepoprawn¹ odpowiedŸ na polecenie rozpoczêcia ponownego.
+20074=Serwer przes³a³ nowy adres i nazwa pliku %s zosta³a zmieniona na %s.\n\nKontynuowaæ ?
+20075=Roz³¹czanie...
+20076=Œci¹ganie zakoñczone, ³¹czê wszystkie czêœci w jeden plik...
+20077=Zosta³y nawi¹zane po³¹czenia pomocnicze.
+20078=£¹czenie...
+20079=Wybór nie uda³ siê
+20080=Po³¹czenie OK
+20081=B³¹d zapisu podczas otrzymywania danych z gniazda internetowego.
+20082=Procedura Recv() nieudana
+20083=Po³¹czenie zosta³o zamkniête przez serwer.
+20084=Roz³¹czono.
+20085=Oczekiwanie na odpowiedŸ...
+20086=OdpowiedŸ OK
+20087=Otrzymywanie danych...
+20088=Zakoñczono.
+20089=Przesy³anie danych: nawi¹zywanie po³¹czenia...
+20090=Przesy³anie danych: OK
+20091=Gotów do otrzymywania danych
+20092=Sprawdzam funkcjê kolejnych poleceñ: wysy³anie dwóch poleceñ jednoczeœnie...
+20093=Sprawdzam funkcjê kolejnych poleceñ: pierwsza odpowiedŸ OK, oczekujê na drug¹...
+20094=Otrzymujê dane o pliku...
+20095=Nie mogê odnaleŸæ znaku koñca ³añcucha znaków w odpowiedzi z serwera.
+20096=Nie mogê odnaleŸæ znaku koñca ³añcucha znaków w odpowiedzi z serwera ftp.
+20097=Wysy³am QUIT.
+20098=Serwer nie pozwala na zalogowanie nowego u¿ytkownika.
+20099=Gniazdo kontrolne po³¹czone.
+20100=Wysy³am nazwê u¿ytkownika...
+20101=Wysy³am has³o...
+20102=Nieprawid³owa nazwa u¿ytkownika
+20103=Nazwa u¿ytkownika OK
+20104=B³êdne has³o
+20105=Has³o prawid³owe
+20106=Wysy³am polecenie PASV...
+20107=Serwer nie obs³uguje PASV.
+20108=PASV OK, odczytujê adres...
+20109=Podpiêcie gniazda OK, próbujê wywo³aæ listen()
+20110=Akceptujê...
+20111=Zaakceptowano
+20112=Wysy³am polecenie PORT...
+20113=PORT OK
+20114=Zmieniam folder na serwerze (CWD)...
+20115=CWD nieudane.
+20116=CWD OK
+20117=Po³¹czenie nieudane.
+20118=Wysy³am TYPE ...
+20119=TYPE nieudane.
+20120=TYPE OK.
+20121=Wysy³am polecenie REST...
+20122=REST nieudane
+20123=REST OK
+20124=Wysy³am polecenie RETR...
+20125=RETR nieudane.
+20126=Wysy³am polecenie SIZE...
+20127=Wysy³am polecenie LIST.
+20128=LIST nieudane.
+20129=LIST OK
+20130=SIZE nieudane.
+20131=Nie mogê odnaleŸæ rozmiaru pliku w odpowiedzi z serwera.
+20132=SIZE OK
+20133=Gniazdo kontrolne nie jest po³¹czone z serwerem.
+20134=Rozpoczynam œci¹ganie pliku od pocz¹tku poniewa¿ plik na tym komputerze zosta³ skasowany. Kontynuacja od dowolnej pozycji nie jest mo¿liwa w tym przypadku.
+20135=Po³¹czenie jest nawi¹zywane ponownie...
+20136=Prawdopodobnie serwer nie obs³uguje funkcji kolejkowania poleceñ (pipelining).
+20137=Funkcja kolejnych poleceñ: OK
+20138=Wysy³am HEAD...
+20139=Wysy³am GET...
+20140=Odbudowujê stare fragmenty œci¹gniêtego pliku...
+20141=£¹czenie...
+20142=Œci¹ganie zakoñczone. Œci¹gniêto w sumie %I64d bajtów.
+20143=Pobieram dane...
+20144=Dodatkowe po³¹czenia, nawi¹zujê...
+20145=Œci¹ganie nieudane. Otrzymano w sumie: %I64d bajtów
+20146=Rozmiar pliku %s wynosi %I64d bajtów.\nNa dysku \'%s\' jest za ma³o miejsca ¿eby przechowaæ œci¹gniête fragmenty.\nAby kontynuowaæ zwolnij miejsce na dysku lub usuñ ten adres z listy do œci¹gniêcia, zmieñ folder tymczasowy w Opcje\\Ogólne, oraz spróbuj ponownie.
+20147=Zabrak³o miejsca na dysku \'%s\'.
+20148=Nie mogê po³¹czyæ fragmentów pliku.
+20149=Œci¹ganie tego pliku zosta³o ju¿ zakoñczone, lokalna œcie¿ka nie zosta³a zmieniona.
+20150=Data ostatniej modyfikacji tego pliku zosta³a zmieniona na serwerze.\nCzy chcesz œci¹gn¹æ ten plik od pocz¹tku?
+20151=Nie ma nowszej wersji Internet Download Managera.
+20152=Wyst¹pi³ b³¹d podczas zapamiêtywania wprowadzonych danych, proszê spróbowaæ ponownie.
+20153=Wyst¹pi³ b³¹d podczas rezerwowania pamiêci wirtualnej. Spróbuj zamkn¹æ inne programy, potem naciœnij \'Ponownie\'.
+20154=Odbudowujê
+20155=Nazwa serwera jest prawid³owa, ale nie mo¿na ustaliæ z nim po³¹czenia (brak danych o dostêpie do tego adresu).
+20156=Plik %s - œci¹gniêto %s (%I64d bajtów). Byæ mo¿e nie zosta³ œci¹gniêty w ca³oœci, poniewa¿ jego rozmiar by³ nieznany.\nPlik zapisano jako %s
+20157=Nie wybrano ¿adnych pozycji!
+20158=Przesuñ w górê
+20159=Przesuñ w dó³
+20160=Skasuj
+20161=Nie mogê œci¹gn¹æ tego pliku. Nieprawid³owa odpowiedŸ z serwera.
+20162=Nie mogê odnaleŸæ nowej wersji pliku pomocy IDM!
+20163=Nie mogê zmieniæ nazwy nowego pliku pomocy IDM: newIDMan.hlp na idman.hlp. Jeœli pomoc jest otwarta zamknij j¹ i zmieñ nazwê rêcznie.
+20164=Szybka Aktualizacja IDM z www.internetdownloadmanager.com. Œci¹gam nowe pliki...
+20165=Szybka Aktualizacja IDM z www.tonec.com. Œci¹gam nowe pliki...
+20166=Instrukcja Internet Download Managera
+20167=Œci¹ganie zosta³o przerwane przez u¿ytkownika
+20168=Szybka Aktualizacja nieudana, wyst¹pi³ b³¹d podczas œci¹gania nowych plików IDM. Spróbuj póŸniej.
+20169=¯¹dany plik nie istnieje.
+20170=\nCzy chcesz go otworzyæ?
+20171=Ten plik ju¿ jest na liœcie do œci¹gania. Czy chcesz dodaæ duplikat?
+20172=Serwer twierdzi ¿e nie masz pozwolenia na œci¹ganie tego pliku.
+20173=Wyst¹pi³ b³¹d podczas odczytu ksi¹¿ki tel.
+20174=Nie mogê po³¹czyæ siê z Internetem.
+20175=Nie mogê œci¹gaæ pliku. Przekroczony czas oczekiwania.
+20176=¯¹dany plik wygl¹da jak strona www.\r\n\r\nJeœli ten adres zosta³ przekazany automatycznie z Internet Explorera gdy link zosta³ klikniêty, spróbuj nacisn¹æ Alt przy klikniêciu, aby IE otworzy³ nastêpn¹ stronê.\r\n\r\nCzy chcesz kontynuowaæ œci¹ganie i zapisaæ plik jako stronê www?
+20177=Œci¹gniêty plik wygl¹da jak strona www.\r\n\r\nJeœli jego adres zosta³ przekazany automatycznie z Internet Explorera gdy link zosta³ klikniêty, spróbuj nacisn¹æ Alt przy klikniêciu, aby IE otworzy³ nastêpn¹ stronê.\r\n\r\nCzy chcesz zmieniæ rozszerzenie pliku na html?
+20178=Internet Download Manager zosta³ pomyœlnie zintegrowany z Netscape 6. Aby rozpocz¹æ jego dzia³anie musisz ponownie uruchomiæ Netscape.
+20179=Nie mogê zintegrowaæ Internet Download Managera z Netscape 6.
+20180=Integracja IDM z Netscape 6 zosta³a pomyœlnie usuniêta. Proszê zamkn¹æ i zrestartowaæ Netscape.
+20181=Nie mogê usun¹æ integracji Internet Download Managera z Netscape 6. Proszê zamkn¹æ Netscape i spróbowaæ ponownie.
+20182=Internet Download Manager zosta³ pomyœlnie zintegrowany z Netscape 7. Aby rozpocz¹æ jego dzia³anie musisz ponownie uruchomiæ Netscape.
+20183=Nie mogê zintegrowaæ Internet Download Managera z Netscape 7.
+20184=Integracja IDM z Netscape 7 zosta³a pomyœlnie usuniêta. Proszê zamkn¹æ i zrestartowaæ Netscape.
+20185=Nie mogê usun¹æ integracji Internet Download Managera z Netscape 7. Proszê zamkn¹æ Netscape i spróbowaæ ponownie.
+20186=Internet Download Manager zosta³ pomyœlnie zintegrowany z Netscape. Aby rozpocz¹æ jego dzia³anie musisz ponownie uruchomiæ Netscape.
+20187=Nie mogê zintegrowaæ Internet Download Managera z Netscape.
+20188=Integracja IDM z Netscape 7 zosta³a pomyœlnie usuniêta. Proszê zamkn¹æ i zrestartowaæ Netscape.
+20189=Nie mogê usun¹æ integracji Internet Download Managera z Netscape. Proszê zamkn¹æ przegl¹darkê i spróbowaæ ponownie.
+20190=Internet Download Manager zosta³ pomyœlnie zintegrowany z Oper¹. Aby rozpocz¹æ jego dzia³anie musisz zamkn¹æ i ponownie uruchomiæ Operê, a potem zmieniæ preferencje w \'File->Preferences->Multimedia->Find_plug-ins...\'
+20191=Nie mogê zintegrowaæ Internet Download Managera z Oper¹.
+20192=Integracja IDM z Oper¹ zosta³a pomyœlnie usuniêta. Musisz zamkn¹æ Operê, uruchomiæ j¹ ponownie oraz zmieniæ opcje Opery w \'File->Preferences->Multimedia->Find_plug-ins...\'
+20193=Nie mogê usun¹æ integracji z Oper¹. Zamknij Operê i spróbuj ponownie.
+20194=Internet Download Manager zosta³ pomyœlnie zintegrowany z Mozill¹. Aby rozpocz¹æ jego dzia³¹nie. musisz zamkn¹æ Internet Explorer i uruchomiæ go ponownie.
+20195=Nie mogê zintegrowaæ Internet Download Managera z twoim Netscape.
+20196=Integracja IDM z Mozill¹ zosta³a pomyœlnie usuniêta. Zamknij i uruchom j¹ ponownie .
+20197=Nie mogê usun¹æ integracji Internet Download Managera z Mozill¹. Zamknij Mozillê i spróbuj ponownie.
+20198=Nie mogê zmieniæ integracji Internet Download Managera z IE. Wyst¹pi³ b³¹d. Prosimy o przes³anie pliku %s do autorów IDM.
+20199=Nie mogê zmieniæ integracji Internet Download Managera z Internet Explorerem, poniewa¿ nie masz wystarczaj¹cych praw do modyfikacji rejestru Windows.
+20200=Internet Download Manager zosta³ pomyœlnie zintegrowany z Internet Explorerem. Aby rozpocz¹æ jego dzia³anie. musisz zamkn¹æ Internet Explorer i uruchomiæ go ponownie.
+20201=Integracja IDM z Internet Explorerem zosta³a pomyœlnie usuniêta. Zamknij i uruchom ponownie IE.
+20202=Nie mogê œci¹gn¹æ dodatkowych modu³ów plug-in, szczegó³y - w pliku \"%s\".
+20203=To jest 60-dniowa wersja testowa Internet Download Managera.
+20204=Plik zosta³ przeniesiony.
+20205=Plik %s zosta³ przeniesiony.
+20206=Otwieram œci¹gniêty plik
+20207=Œci¹gnij komponent IDM
+20208=Nie mogê zmieniæ integracji Internet Download Managera z Netscape, poniewa¿ nie masz wystarczaj¹cych praw do modyfikacji rejestru Windows.
+20209=Ta wersja etcprotocol.dll jest przestarza³a. Œci¹gn¹æ now¹ wersjê? Proszê zamkn¹æ Internet Explorer, aby uaktualniæ plik!
+20210=Nie mogê zmieniæ nazwy %s na %s. Spróbuj zamkn¹æ Internet Explorer i spróbuj zrobiæ to rêcznie.
+20211=Plik %s bêdzie zachowany jako %s. Taki plik ju¿ istnieje. Czy chcesz go zast¹piæ?\n\n Kliknij \"TAK\", aby zast¹piæ, \"NIE\", aby zapisaæ pod inn¹ nazw¹, \"ZREZYGNUJ\", aby nie dodawaæ nowego pliku do listy do œci¹gania.
+20212=Plika %s bêdzie zachowany jako %s. Tak plik ju¿ jest na liœcie do œci¹gania. Czy chcesz zachowaæ plik pod ta nazw¹?\n\n Naciœnij \"TAK\", aby potwierdziæ, \"NIE\", aby zapisaæ pod inn¹ nazw¹, \"ZREZYGNUJ\", aby zrezygnowaæ ze œci¹gania.
+20213=Import do IDM
+20214=Nie mogê odczytaæ linków z pliku, byæ mo¿e jest on uszkodzony
+20215=Ten plik nie jest poprawny plikiem eksporty z IDM lub jest on uszkodzony
+20216=Ten plik nie zawiera ¿adnych linków internetowych
+20217=Wyst¹pi³ nieokreœlony b³¹d!
+20218=Nie mogê œci¹gaæ tego pliku, byæ mo¿e serwer ftp nie obs³uguje funkcji dokañczania œci¹gania. Czy chcesz dodaæ jeszcze raz ten plik do listy i œci¹gaæ od pocz¹tku?
+20219=Oczekiwano pliku \"%s%s\", ale serwer zamierza przes³aæ \"%s\". Czy chcesz zachowaæ plik pod now¹ nazw¹ ?
+20220=Œci¹ganie %s zakoñczone.\nTen plik typu m3u zawiera link do jednego pliku mp3. Czy chcesz go œci¹gn¹æ ?
+20221=Œci¹ganie %s zakoñczone.\nTen lpik typu m3u zawiera jeden lub wiêcej linków do plików mp3. Czy chcesz dodaæ je wszystkie do listy do œci¹gania?
+20222=Plik M3U œci¹gniêto.
+20223=Rozszerzenie
+20224=Typ Mime
+20225=nie mogê uruchomiæ skanera antywirusowego.\n%s
+20226=Internet Download Manager zakoñczy³ œci¹ganie wg. kolejki. Zgodnie z ustawieniami IDM zamierza teraz roz³¹czyæ po³¹czenie internetowe.
+20227=Roz³¹cz po³¹czenie
+20228=Roz³¹cz teraz
+20229=Przerwij
+20230=Przekroczone Ograniczenia œci¹gania!
+20231=B³êdne dane
+20232=Wartoœæ godzin w \"Ograniczenia œci¹gania\" musi siê zawieraæ pomiêdzy 1 i 23. Proszê poprawiæ lub odznaczyæ kratkê  \"Ograniczenia œci¹gania\".
+20233=Czy chcesz œci¹gn¹æ tutorial (oko³o 60 KB) ze strony programu IDM?
+20234=Czy chcesz œci¹gn¹æ i zainstalowaæ plik pomocy IDM (oko³o 200 KB)?
+20235=Nie mogê odnaleŸæ HHCtrl.ocx potrzebnego do wyœwietlania Pomocy!
+20236=Pomoc IDM
+20237=Rozmiar pliku na serwerze zosta³ zmieniony.\nŒci¹ganie zacznie siê od pocz¹tku.
+20238=Nie mogê po³¹czyæ siê przez serwer proxy.
+20239=Wyst¹pi³ b³¹d podczas nawi¹zywania bezpiecznego po³¹czenia z %s.
+20240=Wyst¹pi³ b³¹d podczas szyfrowania polecenia pobierania pliku.
+20241=Wyst¹pi³ b³¹d podczas ³adowania pliku dll obs³uguj¹cego bezpieczeñstwo. Nie mogê utworzy³ po³¹czenia https.
+20242=Niestety pole has³a i potwierdzenia has³a dla serwerów proxy http nie s¹ zgodne! WprowadŸ jeszcze raz.
+20243=Niestety pole has³a i potwierdzenia has³a dla serwerów proxy https nie s¹ zgodne! WprowadŸ jeszcze raz.
+20244=Niestety pole has³a i potwierdzenia has³a dla serwerów proxy ftp nie s¹ zgodne! WprowadŸ jeszcze raz.
+20245=Opcje Internet Download Managera
+20246=Œci¹ganie zakoñczone
+20247=Œci¹ganie nieudane
+20248=Œci¹ganie wg. kolejki zatrzymane/zakoñczone
+20249=Œci¹ganie wg. kolejki rozpoczête
+20250=Zdarzenie
+20251=Plik dŸwiêkowy
+20252=Nie mogê skopiowaæ wybranego pliku dŸwiêkowego do folderu sounds IDM!
+20253=Pozosta³o %d dni do testowania Internet Download Managera. Czy chcesz zarejestrowaæ swoj¹ kopiê programu teraz ?
+20258=Wszystkie
+20259=Niedokoñczone
+20260=Zakoñczone
+20261=Programy
+20262=Muzyka
+20263=Filmy
+20264=Gry
+20265=Dokumenty
+20266=Dodaj kategoriê
+20267=Usuñ
+20268=Parametry
+20269=Czy na pewno chcesz usun¹æ kategoriê \"%s\" ?
+20270=Usuwam kategoriê z listy
+20271=Dodajê kategoriê do listy
+20272=Edycja danych kategorii
+20273=Proszê wprowadziæ nazwê w polu \"Nazwa kategorii\".
+20274=Folder \"%s\" nie istnieje.\r\nCzy chcesz go utworzyæ ?
+20275=Nie mogê utworzyæ foldera!\r\n%s
+20276=Ukryj kategorie
+20277=Poka¿ kategorie
+20278=Wybierz folder
+20279=Ogólne
+20280=Would you like to place all old downloads to these categories according to files types? The files won\'t be moved on the hard drive, but will be associated with their designated download categories.
+20281=Would you like to place all old downloads with \"%s\" file types to this category? The files won\'t be moved on the hard drive, but will be associated with this category.
+20282=Kategorie IDM
+20283=Wyst¹pi³ b³¹d \"Odmowa dostêpu\" podczas ³¹czenia œci¹gniêtych fragmentów pliku. Mog³o to byæ spowodowane tym, ze jakaœ aplikacja (jak program antywirusowy lub firewall otworzy³ plik, ale nie zamkn¹³ go poprawnie, albo te¿ próbowa³ otworzyæ plik wtedy gdy by³ on œci¹gany. Nale¿y uruchomiæ ponownie komputer a nastêpnie klikn¹æ na plik i przycisk Dokoñcz, plik bêdzie wtedy odbudowany.
+20284=Domyœlny folder dla plików z kategorii \"%s\"
+20285=Zapamiêtaj ostatni folder dla kategorii \"%s\"
+20307=- Wybierz swój sposób ³¹czenia siê z Internetem -
+20314=Linia 256Kb/s
+20315=Linia 300Kb/s
+20316=Linia 512Kb/s
+20319=Inna
+20320=O programie IDM
+20321=Otwórz
+20322=Wyjœcie
+20323=Kontakt z autorami
+20324=Pomoc
+20325=Zamówienie online
+20326=Rejestracja
+20327=Zatrzymaj œci¹ganie
+20328=Usuñ
+20329=Dokoñcz œci¹ganie
+20330=Parametry
+20331=B³êdny adres URL. Proszê poprawiæ.
+20332=Ten plik nie jest œci¹gniêty w ca³oœci. Czy na pewno skasowaæ?
+20333=Nie mogê odnaleŸæ konfiguracji serwera proxy w Internet Explorerze.
+20334=Plik spod takiego adresu zosta³ ju¿ œci¹gniêty przez Internet Download Managera. Czy chcesz œci¹gn¹æ go ponownie?
+20335=Plik o takim adresie jest ju¿ na liœcie i jego œci¹ganie bêdzie kontynuowane. Czy chcesz to rozpocz¹æ teraz?
+20336=Zbyt wiele plików o tej nazwie. Proszê je skasowaæ lub zmieniæ ich nazwy.
+20337=Proszê podaæ identyfikator.
+20338=Nie mogê odnaleŸæ przypisanej przegl¹darki.
+20339=Nie mo¿na odnaleŸæ modu³u Szybkiego Uaktualniania.
+20340=Proszê wprowadziæ dane rejestracyjne.
+20341=Wprowadzono b³êdny numer seryjny.
+20342=Odnaleziono adres URL w schowku. Czy chcesz go œci¹gn¹æ?
+20343=Proszê podaæ imiê
+20344=Proszê podaæ nazwisko
+20346=Proszê podaæ swój e-mail
+20347=Proszê podaæ swój numer seryjny
+20348=Wprowadzono b³êdny numer seryjny
+20349=Internet Download Manager zosta³ zarejestrowany fa³szywym numerem seryjnym. IDM koñczy pracê...
+20350=Internet Download Manager - liczba rejestracji za pomoc¹ tego numeru seryjnego przekracza ograniczenia. IDM koñczy pracê...
+20351=Internet Download Manager zosta³ zarejestrowany fa³szywym numerem seryjnym. IDM koñczy pracê...
+20352=Internet Download Manager nie zosta³ zarejestrowany w ci¹gu 60 dni. Koniec okresu testowania, IDM nie bêdzie d³u¿ej dzia³a³...
+20353=Internet Download Manager nie zosta³ zarejestrowany w ci¹gu 15 dni. Koniec okresu testowania, IDM nie bêdzie d³u¿ej dzia³a³...
+20354=Nieznany b³¹d podczas
+20355=Nieznany
+20356=Dodaj do kolejki
+20357=Usuñ z kolejki
+20358=Rozpocznij kolejkê
+20359=Zatrzymaj kolejkê
+20360=Otwórz
+20361=Ostatnia próba:
+20362=Wynik:\n
+20363=Wybierz tylko jeden plik przy otwieraniu!
+20364=Otwórz
+20365= ju¿ istnieje na twoim komputerze. Czy chcesz zast¹piæ istniej¹cy plik?\n Kliknij \"TAK\", aby zast¹piæ, \"NIE\", aby zapisaæ pod inn¹ nazw¹, \"ZREZYGNUJ\", aby nie œci¹gaæ go.
+20366=Œci¹ganie z
+20367=Zapisz do
+20368=Na pewno chcesz usun¹æ wszystkie zakoñczone pozycje?
+20384=Poka¿ okienko wrzutowe
+20385=Uwaga: Ten program jest chroniony prawem autorskim i miêdzynarodowymi umowami prawnymi. Jego u¿ywanie lub dystrybuowanie niezgodne z licencj¹ (dotyczy tak¿e jego czêœci), mo¿e skutkowaæ powa¿nymi sankcjami karnymi i bêdzie œcigane w ka¿dy mo¿liwy sposób.
+20386=Nie mogê utworzyæ folderu %s, b³¹d = %ld\n
+20387=B³¹d
+20388=Pliki
+20389=Wszystkie pliki
+20390=Szczegó³y:\n
+20391=Zakoñczono.
+20393=Œci¹ganie zakoñczone. Sprawdzanie antywirusowe...
+20394=AVI: Rozdz. %dx%d, %d kl/s, D³ugoœæ: %s
+20395=, D³ugoœæ: 
+20396=, Tytu³: 
+20397=, Twórca: 
+20398=, Album: 
+20399=, Rodzaj: 
+20400=WAV: %d kl/s, %d bitów/kl, Rozmiar: %s
+20401=MPEG: Rozdz. %dx%d, %.1f kl/s, %d bitów/kl
+20402=%s, w sumie %ld pliki(ów)
+20403= Testowa
+20404= Pe³na
+20405=Dzwoniê ponownie %ld
+20406=Nieokreœlony b³¹d dzwonienia RAS.
+20407=Wybrany jêzyk w g³ównym okienku bêdzie aktywny po restarcie IDM. Czy chcesz teraz zrestartowaæ IDM?
+20408=Od %d:%02d do %d:%02d œci¹gniêto %d MB. Œci¹ganie przez IDM zostanie przerwane poniewa¿ przekroczy³o limity okreœlone w Planerze IDM (lub w \'Opcje->Po³¹czenia\')!
+20409=Od %d:%02d do %d:%02d œci¹gniêto %d MB. Œci¹ganie przez IDM zosta³o przerwane o %d:%02d poniewa¿ przekroczono limity ustawione w Planerze IDM (lub w \'Opcje->Po³¹czenia\')!\r\n\r\nWszystkie przerwane pliki zostan¹ dokoñczone automatycznie o %02d:%02d. Jeœli chcesz œci¹gaæ je od razu, zmieñ ustawienia Ograniczenia œci¹gania i kliknij Dokoñcz.
+20410=Zakoñczono
+20411=£¹czê w ca³oœæ...
+20412=Roz³¹czam...
+20413=Pliki tekstowe
+20414=Pliki eksportu z IDM
+20415=Zachowaj jako...
+20427=Proszê nie zamykaæ okna œci¹gania gdy IDM ³¹czy w ca³oœæ plik, gdy¿ mo¿e on zostaæ uszkodzony.
+20428=Szybka aktualizacja
+
+20429=Adres przekazany do IDM...
+20430=Kliknij 'Wstecz', aby powróciæ do przegl¹danej strony.
+20431=IDM nie mo¿e œci¹gaæ pliku. G³ówny program IDM nie odnaleziony.
+
+20433=Ostrze¿enie
+20434=Wybierz folder
+20435=Skaner antywirusowy
+20439=Pliki dŸwiêkowe
+20440=ca³oœci
+20441=Dane pliku
+20442=Internet%20Download%20Manager%20-%20bardzo%20fajny%20program!
+20443=Œci¹gnij%20z%20
+
+//Please don't replace "English" to your local language, please just translate the "English" word
+20444=Proszê u¿yæ jêzyka angielskiego
+
+20445=Nieznany
+
+20447=Poka¿ normalnej wielkoœci
+20448=Poka¿ zminimalizowane
+20449=Nie pokazuj
+
+//Please change XXX on the language you are translating IDM to.
+q1=Internet Download Manager wykry³ ¿e u¿ywasz jêzyka polskiego jako domyœlnego w Windows. Czy chcesz zainstalowaæ jêzyk polski dla IDM?
+
+20500=Najpierw zakup i zainstaluj pe³n¹ wersj¹ IDM!
+1338=Wybierz jêzyk dla interfejsu IDM (mo¿esz go zmieniæ póŸniej w menu "Widok->Jêzyk")
+20501=Internet Download Manager nie zosta³ zarejestrowany przez 15 dni. IDM koñczy pracê...
+20502=Dostosuj...
+20503=Data dodania
+20504=Ostatnia próba
+20505=Zapisz do
+20506=Odnoœnik
+33001=Dostosuj pasek narzêdzi...
+33002=Dostosuj listê URL...
+33004=Wg. œcie¿ek zapisu
+33005=Wg. odnoœników
+33006=Wg. ostatniej próby
+20507=Kolumny...
+
+209=Kolumny
+1339=Zaznacz kolumny, które chcia³byœ umieœciæ na tej liœcie. U¿yj przycisków W górê i W dó³, aby pogrupowaæ kolumny wed³ug w³asnego uznania.
+1160=W górê
+1083=W dó³
+1340=Poka¿
+1048=Ukryj
+1053=Resetuj
+1341=Wybrana kolumna powinna mieæ szer.
+1342=pikseli
+
+//new category
+20508=Skompresowane
+
+//new dialog
+226=Maks. iloœæ po³¹czeñ na serwer
+1348=Serwer
+
+1350=Domyœlna maks. iloœæ po³¹czeñ
+1343=Maks. iloœæ po³¹czeñ
+1344=Nowy
+1345=Usuñ
+1346=Edytuj
+1347=Wyj¹tki:
+20509=Serwer
+20510=Numer
+
+228=Œci¹gnij wszystkie linki z IDM
+20511=Typ pliku
+20512=Tekst adresu
+1234=U¿yj tekstów adresu jako opisów pliku
+1055=Ukryj pliki HTML
+1060=Ukryj powtarzaj¹ce siê pliki
+1353=Zaznacz wszystko
+1354=Odznacz wszystko
+1352=Edytuj...
+1355=SprawdŸ adresy, które chcesz dodaæ do listy pobierañ w IDM, a nastêpnie kliknij OK.\r\nMo¿esz poczekaæ, a¿ IDM sprawdzi i wype³ni wszystkie typy plików.
+
+20513=Zapisywany plik nosi³ nazwê \"%s\", ale serwer wys³a³ nastêpuj¹cy typ pliku \"%s\", wiêc plik powinien zostaæ zapisany jako  \"%s\". Czy chcia³byœ zapisaæ plik z nazw¹ odpowiadaj¹c¹ typowi pliku otrzymanemu z serwera?
+
+//vers. 4.00
+20514=Œci¹gnij ponownie
+20515=Otwórz folder
+
+q2=\"%s\" (%s) chce œci¹gn¹æ plik \"%s\".\n\nCzy chcesz, aby IDM przej¹³ pobieranie od tej aplikacji?\nPóŸniej mo¿esz wy³¹czyæ lub w³¹czyæ przejmowanie pobierania przez IDM od \"%s\" w IDM->Opcje->Ogólne
+
+20516=Protokó³ transmisji danych \"%s\" nie jest aktualnie wspierany przez IDM. Mo¿e byæ to b³¹d w pisowni, wiêc sprawdŸ pisowniê i spróbuj ponownie.
+20517=IDM otrzyma³ b³¹d \"Dostêp zabroniony\" w czasie ³¹czenia fragmentów pliku. Powodem mo¿e byæ otwarcie pliku przez inn¹ aplikacjê (np. antywirus) lub próbê otwarcia go przez ciebie. Aby plik zosta³ po³¹czony, musisz zrestartowaæ komputer, wybraæ plik w IDM, a nastêpnie u¿yæ przycisku Dokoñcz.
+20518=Zarejestruj IDM przed aktualizacj¹.\r\n Wybierz w menu \"Rejestracja->Rejestracja\" i wpisz swoje dane rejestracyjne. Nastêpnie wybierz w menu \"Pomoc->Szybka aktualizacja\", aby rozpocz¹æ aktualizacjê.
+20523=Zgodnie z nasz¹ umow¹ licencyjn¹, któr¹ zaakceptowa³eœ, mo¿esz darmowo aktualizowaæ Internet Download Managera w czasie jednego roku od zakupu programu. Jeœli chcesz kontynuowaæ aktualizowanie IDM po tym czasie, bêdziesz musia³ zarejestrowaæ siê w serwisie aktualizacyjnym.\r\n Czy chcia³byœ odwiedziæ stronê rejestracyjn¹ IDM?
+20519=Klawisze deaktywuj¹ce pobieranie nie powinny znajdowaæ siê jednoczeœnie wœród klawiszy wymuszaj¹cych pobieranie. \r\n Proszê wybraæ inne klawisze.
+20525=B³¹d po³¹czenia. Nieznany host. Nazwa nie jest oficjaln¹ nazw¹ hosta b¹dŸ aliasu, albo nie mo¿e zostaæ znaleziona w bazie danych.\r\n\r\nPoni¿ej znajdziesz mo¿liwe powody tego b³êdu:\r\n\r\n1. Posiadasz firewalla i w³aœnie zainstalowa³eœ, zast¹pi³eœ lub zaktualizowa³eœ swoj¹ obecn¹ wersjê Internet Download Managera. SprawdŸ ustawienia swojego firewalla i upewnij siê, ¿e IDM posiada pozwolenie na po³¹czenie z Internetem.\r\n\r\n2. Serwis odnajduj¹cy serwery w Internecie zwany Domain Name Service (DNS) ma tymczasowe problemy lub po³¹czenia sieciowe miêdzy DNS a twoim komputerem s¹ wadliwe. Mo¿liwe, ¿e musisz zrestartowaæ komputer.\r\n\r\n3. W nazwie serwera znajduje siê b³¹d. SprawdŸ pisowniê.\r\n
+20522=IDM nie mo¿e znaleŸæ pliku(ów) %d które s¹ niezbêdne do integracji z przegl¹dark¹ i systemem. Chcia³byœ œci¹gn¹æ te pliki?
+
+//Options->general
+1370=Wykryj nowe aplikacje próbuj¹ce œci¹gaæ pliki z Internetu
+1372=Nie rozpoczynaj automatycznie œci¹gania plików z nastêpuj¹cych stron internetowych (oddziel nazwy spacjami):
+1368=Wybierz klawisze deaktywuj¹ce/wymuszaj¹ce pobieranie
+1367=Klawisze...
+1375=Zintegruj IDM z przegl¹darkami:
+
+229=U¿ywanie klawiszy specjalnych
+1361=U¿yj nastêpuj¹cych klawiszy, aby deaktywowaæ pobieranie przez IDM jakichkolwiek linków:
+1067=U¿yj nastêpuj¹cych klawiszy, aby wymusiæ pobieranie przez IDM jakichkolwiek linków:
+1366=Zaznacz, jeœli klikaj¹c w link chcesz u¿ywaæ lewego przycisku myszy razem z klawiszami specjalnymi w celu wymuszenia pobierania.
+1374=Uwaga: Czasami po klikniêciu w link ³aduje siê strona informuj¹ca o rozpoczêciu pobierania w czasie X sekund. W takim wypadku bêdziesz musia³ odznaczyæ poni¿sz¹ opcjê, aby wymusiæ pobieranie przez IDM.
+
+//Download all links with IDM
+1356=Zapisz do
+1357=Ka¿dy plik do folderu wed³ug kategorii
+1358=Wszystkie pliki do jednej kategorii
+1359=Wszystkie pliki do jednego folderu
+1360=Wybierz...
+
+//Options->Proxy
+1378=Nie u¿ywaj serwera proxy dla adresów rozpoczynaj¹cych siê od:
+1377=Oddziel nazwy spacjami
+
+
+20526=Integracja sieciowa Internet Download Managera
+20527=Internet Download Manager wykry³, ¿e jego integracja sieciowa zosta³a usuniêta przez inn¹ aplikacjê. Czy chcia³byœ przywróciæ integracjê sieciow¹ Internet Download Managera?
+20528=Internet Download Manager wykry³, ¿e inna aplikacja zmieni³a integracjê sieciow¹ IDM. Mog³o siê tak staæ za spraw¹ instalacji nowej aplikacji sieciowej b¹dŸ z powodu programu, który b³êdnie przywraca zapisy rejestru. Czy chcia³byœ przywróciæ integracjê sieciow¹ Internet Download Managera?
+20529=Integracja sieciowa Internet Download Managera zosta³a zmieniona. Zalecamy ponowne uruchomienie komputera. Czy chcia³byœ teraz ponownie uruchomiæ komputer?
+20530=Integracja sieciowa Internet Download Managera zosta³a zmieniona. Musisz ponownie uruchomiæ komputer, poniewa¿ Twój firewall nie mo¿e wykryæ tych zmian, a aplikacje internetowe nie bêd¹ poprawnie komunikowa³y siê z sieci¹ bez restartu systemu.\r\n\r\nZapisz swoj¹ pracê i zamknij wszystkie aplikacje. Komputer zostanie uruchomiony ponownie, kiedy wciœniesz przycisk OK.
+
+20531=Jeœli chcesz zintegrowaæ Internet Download Managera z uruchomion¹ aplikacj¹, musisz zrestartowaæ tê aplikacjê, poniewa¿ IDM nie mo¿e integrowaæ siê z programami, które aktualnie dzia³aj¹.\r\n\r\nPo integracji IDM z aplikacj¹ mo¿esz wy³¹czyæ opcjê \"Wykryj nowe aplikacje\" dla lepszej wydajnoœci.
+20532=Wykryj nowe aplikacje
+
+//v 4.01
+//Download All Links with IDM dialog
+1385=Ukryj obrazy umieszczone na tej stronie
+//Options->General dialog
+1381=Zaawansowana integracja z przegl¹dark¹
+20547=Prze³¹czanie miêdzy podstawow¹ i zaawansowan¹ integracj¹ z przegl¹dark¹ mo¿e wymagaæ restartu komputera. Jesteœ pewien, ¿e chcesz kontynuowaæ?
+//new dialog
+230=Sprawdzanie po³¹czenia z internetem
+1382=SprawdŸ
+20536=IDM pobiera ma³¹ stronê testow¹, aby sprawdziæ Twoje po³¹czenie z Internetem. Poczekaj kilka sekund
+20537=IDM testuje Twojego Internet Explorera. Poczekaj kilka sekund, a¿ Internet Explorer za³aduje ma³¹ stronê testow¹
+//Problem report dialog
+232=Raport o problemie z Internet Download Managerem
+20546=Stworzyliœmy raport z konfiguracji, który mo¿esz do nas wys³aæ. Przeœlij nastêpuj¹ce informacje, aby pomóc nam naprawiæ ten problem w kolejnych wersjach IDM. Dane maj¹ charakter techniczny. Nie gromadzimy twoich informacji osobistych, a raport bêdziemy traktowaæ jako poufny i anonimowy.
+1386=Poni¿ej mo¿esz dodaæ swój komentarz i umieœciæ ewentualne proœby
+1391=Jeœli chcesz otrzymaæ informacjê, kiedy problem zostanie rozwi¹zany, dodaj poni¿ej swój adres e-mail
+20545=Wysy³am dane...\r\nPoczekaj kilka sekund
+1390=Wyœlij
+
+//new messages
+20533=IDM wykry³, ¿e u¿ywasz serwera proxy w Internet Explorerze. Czy chcia³byœ u¿yæ tych samych ustawieñ proxy w IDM?
+20534=Pierwsze uruchomienie Internet Download Managera
+20535=IDM wykry³, ¿e u¿ywasz po³¹czenia typu Windows DialUp w celu ³¹czenia modemu z Internetem. Czy chcia³byœ u¿yæ tych ustawieñ w IDM?
+
+20538=Nie mogê pobraæ strony testowej. Mo¿liwe, ¿e integracja sieciowa Internet Download Managera powoduje konflikt z inn¹ aplikacj¹ internetow¹ lub firewallem. IDM wy³¹czy zaawansowan¹ integracjê z przegl¹dark¹, aby przywróciæ Twoje oryginalne ustawienia. PóŸniej mo¿esz w³¹czyæ zaawansowan¹ integracjê z przegl¹dark¹ w IDM->Opcje->Ogólne
+20539=Musisz zrestartowaæ komputer, aby przywróciæ oryginalne ustawienia. Zapisz swoj¹ pracê i zamknij wszystkie aplikacje. Komputer zostanie uruchomiony ponownie, kiedy wciœniesz przycisk OK.
+20540=Integracja sieciowa Internet Download Managera zosta³a zainstalowana pomyœlnie. W rzadkich przypadkach integracja sieciowa mo¿e powodowaæ konflikt z now¹ aplikacj¹ internetow¹ innej firmy. Jeœli pojawi¹ siê jakiekolwiek problemy z integracj¹ sieciow¹, odznacz opcjê \"Zaawansowana integracja z przegl¹dark¹\" w IDM->Opcje->Ogólne
+20541=Wy³¹czy³eœ zaawansowan¹ integracjê z przegl¹dark¹. Jeœli pojawi³ siê problem z zaawansowan¹ integracj¹ z przegl¹dark¹, chcielibyœmy naprawiæ ten problem dla ciebie. Aby naprawiæ problem, musimy zgromadziæ i zanalizowaæ pewne informacje techniczne dotycz¹ce Twojej konfiguracji komputera i zainstalowanych aplikacjach internetowych. IDM zgromadzi i poka¿e ci te informacje w nastêpnej fazie, zanim wyœle je do naszego dzia³u pomocy technicznej.\r\n\r\n Czy chcia³byœ, aby IDM wygenerowa³ te informacje?
+20542=Wy³¹czanie zaawansowanej integracji z przegl¹dark¹
+20543=IDM próbuje pobraæ stronê testow¹, aby sprawdziæ Twoje po³¹czenie z Internetem. Upewnij siê, ¿e jesteœ po³¹czony z Internetem. Jeœli posiadasz firewall, upewnij siê, ¿e nowa wersja IDM ma pozwolenie na dostêp do Internetu. Nastêpnie wciœnij przycisk \"SprawdŸ\" poni¿ej, a IDM spróbuje ponownie pobraæ stronê testow¹.
+20544=IDM zmieni³ swoj¹ integracjê sieciow¹ i musi ponownie sprawdziæ Twoje po³¹czenie z Internetem. Jeœli nie jesteœ po³¹czony z Internetem, to po³¹cz siê teraz i wciœnij przycisk \"SprawdŸ\".
+20548=Integracja sieciowa Internet Download Managera zosta³a zmieniona. Musisz zrestartowaæ komputer, poniewa¿ Twoje aplikacje internetowe nie bêd¹ poprawnie komunikowaæ siê z sieci¹, a¿ do ponownego uruchomienia systemu.\r\n\r\nZapisz swoj¹ pracê i zamknij wszystkie aplikacje. Komputer zostanie uruchomiony ponownie, kiedy wciœniesz przycisk OK.
+
+//v4.01 build 4
+20549=Ta wersja Internet Download Managera posiada opcjê zaawansowanej integracji z przegl¹dark¹. Instalacja tej opcji mo¿e wymagaæ zrestartowania systemu.\r\n\r\nKiedy zaawansowana integracja z przegl¹dark¹ jest w³¹czona, IDM mo¿e przejmowaæ pobierania, które by³y niemo¿liwe do przejêcia przez IDM, ani przez ¿adnego innego menad¿era pobierania plików. U¿ywaj¹c tej opcji, IDM mo¿e zostaæ zintegrowany z ka¿d¹ przegl¹dark¹ i aplikacj¹ internetow¹ w celu przejêcia œci¹gania przez FTP/HTTP.\r\n\r\nW rzadkich przypadkach ten rodzaj integracji mo¿e powodowaæ konflikt z now¹ aplikacj¹ internetow¹ innej firmy. Jeœli pojawi¹ siê jakiekolwiek problemy z integracj¹ sieciow¹, mo¿esz odznaczyæ opcjê \"Zaawansowana integracja z przegl¹dark¹\" w IDM->Opcje->Ogólne.\r\n\r\nCzy chcesz zainstalowaæ zaawansowan¹ integracjê z przegl¹dark¹?
+20550=Zaawansowana integracja z przegl¹dark¹ zosta³a zainstalowana pomyœlnie!
+
+//menu "File->Redownload"
+33009=Pobierz od nowa
+
+//new (since v4.00) toolbar buttons of the main window
+//Please try to make all inscriptions for the buttons on the toolbar shorter.
+//A long inscription can make all buttons wider and they may cross the border
+//of the dialog.
+20551=Roz. kolej.
+20552=Zat. kolej.
+
+//tooltips for these buttons. You can write long descriptions here.
+t32803=Rozpocznij œci¹ganie plików wed³ug kolejki
+t32805=Zatrzymaj œci¹ganie plików wed³ug kolejki
+
+//v4.01 build 5
+20553=Internet Download Manager automatycznie przechwyci³ link z innej aplikacji internetowej, kiedy ta próbowa³a œci¹gn¹æ plik. Jeœli NIE CHCESZ œci¹gaæ tego pliku przy pomocy IDM, wejdŸ do konfiguracji programu klikaj¹c przycisk Opcje.\r\n\r\n 1. Jeœli nie chcesz œci¹gaæ tego typu plików za pomoc¹ IDM, mo¿esz usun¹æ odpowiedni typ pliku (rozszerzenie pliku) z listy automatycznie œci¹ganych typów plików.\r\n\r\n 2. Jeœli nie chcesz œci¹gaæ ¿adnych plików przez IDM z danej strony, mo¿esz dodaæ jej adres do listy ignorowanych stron.
+236=Porada IDM: Automatyczne przechwytywanie linku
+1393=Nie pokazuj wiêcej tej porady
+1397=IDM posiada elastyczny mechanizm przechwytuj¹cy lub ignoruj¹cy œci¹ganie plików w innych aplikacjach internetowych. Czy chcia³byœ przeczytaæ wiêcej?
+1396=Czytaj wiêcej
+
+//v4.02
+20569=Ten komunikat b³êdu mo¿e pojawiaæ siê, jeœli IDM by³ u¿ywany na wielu komputerach z tym samym numerem seryjnym. Pamiêtaj, ¿e masz licencjê IDM tylko na jeden komputer. Aby u¿ywaæ IDM na wielu komputerach w tym samym czasie, wykup licencjê dla ka¿dego z nich.
+20570=Ma³e przyciski
+20571=Du¿e przyciski
+20572=Przyciski klasyczne
+20573=Szukaj nowych
+
+//new main menu items
+m33001=Pasek narzêdzi
+33510=Przyciski klasyczne
+34010=Ma³e przyciski
+34011=Du¿e przyciski
+34012=Szukaj nowych
+
+//a new (since 4.401) button on the Options dialog
+1371=Pomoc
+
+// The abbreviation of second, kilobytes, megabytes and gigabytes,
+// it's used when denoting download speed measurement units,
+// e.g. KB/sec --- kilobytes per second, etc.
+20575=sek
+20576=GB
+20577=MB
+20578=KB
+20579=Bajtów
+
+//v4.03
+20588=Nie mo¿na po³¹czyæ fragmentów œci¹gniêtego pliku. Budowa sekwencyjna œci¹gniêtych fragmentów jest wadliwa. ZnajdŸ poni¿ej mo¿liwe powody tego problemu.\r\n\r\n 1.	Komputer zosta³ niespodziewanie wy³¹czony z powodu braku energii podczas œci¹gania/³¹czenia fragmentów pliku.\r\n 2.	Inna aplikacja b¹dŸ u¿ytkownik wy³¹czy³ proces Internet Download Managera podczas œci¹gania/³¹czenia fragmentów pliku. Pamiêtaj, ¿e ³¹czenie du¿ych plików mo¿e zaj¹æ trochê czasu. Nie martw siê, b¹dŸ cierpliwy i czekaj, a¿ IDM zakoñczy ³¹czenie. Nie przerywaj dzia³ania procesu Internet Download Managera z poziomu Mened¿era zadañ Windows.\r\n\r\nJeœli ¿adne z tych zdarzeñ nie mia³o miejsca, przeœlij plik %s (je¿eli istnieje) do dzia³u pomocy technicznej Internet Download Managera w celu analizy.
+
+
+//v 5.00 --- grabber
+1429=< Cofnij
+1430=Dalej >
+
+1405=Dodaj filtr
+1421=Dodaj filtr
+1437=Szukaj plików tylko na tej stronie
+1459=Rozpocznij œci¹ganie wszystkich pasuj¹cych plików jednoczeœnie
+1471=Mo¿esz najpierw przeszukaæ stronê, zaznaczyæ pliki, których potrzebujesz i œci¹gn¹æ je w g³ównym oknie Grabbera, albo dodaæ je do g³ównej listy w IDM. Ta opcja pozwala natychmiastowo œci¹gn¹æ wszystkie znalezione pliki.
+1515=Œci¹gaj nastêpuj¹ce pliki (typy plików)
+1516=Nie œci¹gaj nastêpuj¹cych plików (typów plików)
+1480=Nie mniej ni¿
+1482=Nie wiêcej ni¿
+1483=Œci¹gaj pliki zlokalizowane tylko pod nastêpuj¹cymi adresami/domenami:
+1486=Nie œci¹gaj plików zlokalizowanych pod nastêpuj¹cymi adresami/domenami:
+1517=Œci¹gaj jeœli rozmiar pliku wynosi
+1488=U¿yj œredników ( ; ) do oddzielenia wpisów
+
+241=Grabber IDM
+1446=Œci¹gniêtych plików:
+1448=Znalezionych plików:
+1450=Przetworzonych stron:
+
+244=Filtry
+1423=Dodaj
+1424=Edytuj
+1425=Usuñ
+
+245=Filtr
+1426=Nazwa
+1427=Maska
+
+1414=Nazwa projektu Grabbera
+1510=Strona/adres startowy
+1439=U¿yj autoryzacji
+1441=Wpisz rêcznie u¿ytkownika i has³o na nastêpuj¹cej stronie:
+1511=Szablon projektu
+1470=Jeœli wybierzesz szablon projektu, w nastêpnych krokach kreator ustawi potrzebne opcje projektu dla wybranego szablonu. Pamiêtaj, ¿e zawsze mo¿esz rêcznie zmieniæ wszystkie ustawienia.
+
+1514=U¿yj oryginalnych pokrewnych subfolderów
+1468=Konwertuj linki w pobranych plikach html do plików lokalnych (przegl¹danie offline)
+1469=Zamieñ istniej¹ce pliki
+1436=Dodaj zaznaczone pliki do g³ównej listy IDM i do kolejki œci¹gania przy zamykaniu Grabbera
+
+262=Ustawienia Grabbera IDM
+1518=U¿yj tekstów linków jako opisów podczas dodawania plików do g³ównej listy IDM
+1466=eksplorowane(ych) pliki(ów) w tym samym czasie (1 do 10)
+1467=œci¹gane(ych) pliki(ów) w tym samym czasie (1 do 10)
+1509=Pamiêtaj, ¿e serwer mo¿e odrzuciæ zapytanie jeœli ustawisz zbyt du¿¹ iloœæ plików do eksplorowania (œci¹gania) w tym samym czasie.
+
+1416=Nie eksploruj nadrzêdnych katalogów
+1490=poziomy(ów) na stronie podstawowej
+1435=Eksploruj ca³¹ stronê
+1445=Eksploruj podan¹ iloœæ poziomów linków:
+1491=poziomy(ów) na innych stronach
+1474=Eksploruj strony tylko w nastêpuj¹cych adresach/domenach:
+1476=Nie eksploruj stron w nastêpuj¹cych adresach/domenach:
+1512=W tym kroku powinieneœ wskazaæ, które strony eksplorowaæ w celu znalezienia odpowiednich plików. W nastêpnym kroku bêdziesz móg³ ustawiæ typy plików, lokalizacjê i inne filtry.
+1489=Jaka jest iloœæ poziomów linków?
+1493=Eksploruj wszystkie strony w g³ównej domenie
+1494=Ignoruj okienka popup
+
+268=Nazwa szablonu
+1508=WprowadŸ nazwê dla szablonu Grabbera
+
+269=Zapisywanie projektu Grabbera IDM
+1507=Zapisz ten projekt z nastêpuj¹c¹ nazw¹
+1513=Nie pokazuj tego komunikatu jeœli nazwa jest unikalna
+
+270=Otwórz projekt
+
+32811=Tutoriale
+34022=Pomoc dla Grabbera
+
+
+m1458=Projekt
+1458=Nowy
+1438=Otwórz...
+1442=Zapisz
+34020=Zapisz bie¿¹ce ustawienia jako szablon
+m34013=Ostatnie projekty
+34013=Ostatnia lista projektów
+m1457=Opcje
+1457=Ustawienia Grabbera
+34021=Zaplanuj projekt
+
+t1398=Rozpocznij eksploracjê strony
+t1401=Zatrzymaj eksploracjê strony
+t1353=Zaznacz wszystkie pliki
+t1354=Odznacz wszystkie pliki
+t1432=Rozpocznij œci¹ganie zaznaczonych plików
+t1433=Zatrzymaj œci¹ganie zaznaczonych plików
+t1434=Dodaj zaznaczone pliki do g³ównej listy IDM i do kolejki œci¹gania
+
+
+20580=Ró¿ne ustawienia
+20581=Wszystkie obrazy na stronie
+20582=Pliki audio ze strony startowej i z jednego nastêpnego poziomu
+20583=Wszystkie pliki wideo na stronie
+20584=Wszystkie pliki na stronie oprócz samej strony i obrazów
+20585=Ca³¹ stronê
+
+20589=Zawartoœæ sieci
+20590=Zaawansowane
+20591=Projekty Grabbera
+20592=Grabber IDM
+20593=Wpisz stronê startow¹/adres
+20594=Strona startowa/adres
+20595=Wpisz u¿ytkownika i has³o lub odznacz opcjê \"U¿yj autoryzacji\"
+20596=Wpisz rêcznie u¿ytkownika strony lub odznacz odpowiedni¹ opcjê
+20597=Strona rêcznego logowania
+20598=Nie zaznaczono plików!
+20599=%ld pliki(ów) zosta³y(o) dodane(ych) do g³ównej listy IDM.
+20600=Nie mo¿na dodaæ plików. Zbyt wiele plików zosta³o zaznaczonych. Œci¹gnij je w tym projekcie przez klikniêcie przycisku \"Œci¹gnij Zaznaczone\" na pasku narzêdzi.
+20601=Nie mo¿na dodaæ nowych plików. G³ówna lista IDM zawiera zbyt wiele plików, co mo¿e spowolniæ pracê IDM. Usuñ jakieœ pliki z g³ównej listy.
+
+20602=Ta nazwa jest zarezerwowana. Wybierz inn¹ nazwê dla swojego szablonu.
+20603=Szablon o takiej nazwie ju¿ istnieje. Czy chcesz zast¹piæ istniej¹cy szablon?
+20604=Zapisaæ projekt Grabbera?
+
+//right click menu
+20605=Otwórz projekt
+20606=Zaplanuj projekt
+20607=Usuñ projekt
+
+20608=Najpierw zamknij uruchomiony projekt Grabbera.
+20609=Zaplanuj projekt Grabbera
+20610=Ju¿ wkrótce!!!\r\n\r\nSprawdŸ tê opcjê w kolejnej wersji IDM
+
+//displayed statuses
+20611=Eksplorowanie strony
+20612=Œci¹ganie
+20613=Zakoñczono
+20614=Zatrzymano
+
+20615=Projekt o nazwie \"%s\" ju¿ istnieje. Wybierz inn¹ nazwê.
+20616=Nie ma zapisanych projektów Grabbera IDM
+20617=Wybierz nazwê projektu!
+20618=Czy chcesz usun¹æ projekt Grabbera \"%s\"?
+20619=Niew³aœciwa iloœæ plików eksplorowanych w tym samym czasie. Wybierz prawid³ow¹ iloœæ.
+20620=Niew³aœciwa iloœæ plików œci¹ganych w tym samym czasie. Wybierz prawid³ow¹ iloœæ.
+20621=Nie mo¿na otworzyæ pliku \"%s\"\r\n\r\n%s
+20622=Czy chcia³byœ œci¹gn¹æ i zainstalowaæ plik pomocy Grabbera IDM (oko³o 100 KB) ze strony domowej IDM?
+20623=Nie mo¿na za³adowaæ projektu.\r\nB³¹d alokacji pamiêci.
+20624=Nie mo¿na za³adowaæ projektu.\r\nPlik projektu Grabbera jest wadliwy lub jego wersja nie jest akceptowana.
+20625=Plik projektu Grabbera jest wadliwy. Kilka plików nie zosta³o za³adowanych
+20626=Nie mo¿na za³adowaæ szablonu.\r\nPlik z informacjami szablonu jest wadliwy lub jego wersja nie jest akceptowana.
+20627=£adowanie szablonu Grabbera
+20628=Zapisywanie szablonu Grabbera
+20629=Zapisywanie projektu Grabbera
+20630=£adowanie projektu Grabbera
+
+//step dialogs captions
+20631=Grabber IDM. Krok %d --- %s
+20632=Ustaw stronê startow¹
+20633=Zapisz pliki do
+20634=Ustaw filtry eksplorera
+20635=Ustaw filtry pliku
+
+20636=Strona z rêcznym logowaniem
+20637=Wciœnij przycisk OK gdy proces logowania zakoñczy siê
+20638=OK
+20639=Anuluj
+
+//v4.04
+20640=Jeœli planujesz przej¹æ œci¹ganie plików tylko z Internet Explorera, to nie potrzebujesz tej opcji i powinieneœ odpowiedzieæ \"Nie\".
+
+//v4.06
+20641=£¹czenie z
+20642=Zakres:
+1534=Zapisz to has³o na liœcie hase³ IDM
+1536=Wpisz nazwê u¿ytkownika i has³o.
+1537=Nazwa u¿ytkownika:
+1538=Has³o:
+
+//v4.07
+
+280=Œci¹ganie wsadowe
+1553=Istnieje mo¿liwoœæ dodania grupy sekwencyjnych nazw plików, jak img001.jpg, img002.jpg, itd., img100.jpg do kolejki œci¹gania w IDM. U¿yj gwiazdki jako znaku zastêpczego we wzorcu nazwy pliku. \nNa przyk³ad:   http://www.internetdownloadmanager.com/pictures/img*.jpg
+1540=Liczby
+1541=Litery
+1556=Od:
+1557=Do:
+1547=Rozmiar znaku zastêpczego
+1555=Zast¹p gwiazdkê
+1558=Pierwszy plik:
+1559=Drugi plik:
+1560=Ostatni plik:
+
+20643=Zaznacz wszystkie wybrane pliki
+20644=Odznacz wszystkie wybrane pliki
+
+1552=Zast¹p nazwy plików u¿ywaj¹c gwiazdki jako znaku zastêpczego we wzorcu nazwy pliku:
+
+34024=Dodaj œci¹ganie wsadowe
+
+20645=W adresie brakuje gwiazdki jako znaku zastêpczego, aby stworzyæ listê œci¹ganych plików!
+20646=Œci¹ganie wsadowe
+20647=Za du¿o plików. Iloœæ plików nie powinna przekraczaæ 1000. Wybierz inn¹ wartoœæ \"od : do :\".
+20648=Zapisz w katalogu/kategorii
+
+//v5.00 beta
+
+20574=Grabber
+20649=Ustaw stronê wylogowania lub odznacz odpowiedni¹ opcjê
+
+20554=Wszystkie pliki
+20555=Pliki obrazów
+20556=Pliki wideo
+20557=Pliki audio
+20558=Pliki wykonywalne
+20559=Pliki skompresowane
+20560=Dokumenty PDF
+
+20561=Nie u¿ywaj filtra wykluczaj¹cego
+
+20562=Mapa strony
+20563=Ustawienia
+
+20564=Nazwa filtra
+20565=Maska
+20566=WprowadŸ nazwê filtra
+20567=WprowadŸ maskê
+20568=Filtr o nazwie \"%s\" ju¿ istnieje. Wybierz inn¹ nazwê.
+
+20650=Proszê czekaæ...
+20651=Usuwanie plików tymczasowych
+20652=Zapisywanie projektu Grabbera
+20653=Usuwanie projektu Grabbera
+20654=Wprowadzanie zmian
+20655=£adowanie projektu Grabbera
+20661=Sprawdzanie zmian
+20662=Œci¹ganie strony z rêcznym logowaniem
+
+20656=Na dysku %s nie ma wystarczaj¹cej iloœci miejsca, aby przetworzyæ projekt Grabbera. Zwolnij trochê miejsca i spróbuj ponownie.
+20657=Na dysku %s nie ma wystarczaj¹cej iloœci miejsca, aby otworzyæ projekt Grabbera. Zwolnij trochê miejsca i spróbuj ponownie.
+20658=Nie mo¿na otworzyæ projektu. Niektóre pliki projektu zosta³y uszkodzone lub usuniête.
+
+20659=Uzupe³nij stronê startow¹ wszystkimi obrazami, stylami i skryptami w celu przegl¹dania jej w trybie offline
+20660=Uzupe³nij stronê startow¹
+
+20663=Nie mo¿na rozpocz¹æ œci¹gania strony z rêcznym logowaniem. SprawdŸ sk³adniê adresu URL.
+
+33010=Uruchom Grabbera
+
+1563=Wciœnij przycisk Zaawansowane, aby w³¹czyæ rêczne logowanie lub wy³¹czyæ stronê wylogowania
+1561=Nie otwieraj strony wylogowania:
+1564=Wiele serwisów posiada stronê(y) wylogowania, których Grabber nie powinien otwieraæ. Tutaj mo¿esz u¿yæ gwiazdki jako znaku zastêpczego, aby sprecyzowaæ wzorzec nazw dla ró¿nych stron wylogowania.
+1571=Ukryj zduplikowane pliki znalezione w ró¿nych lokalizacjach
+1565=Przetwarzaj Java-script
+1567=U¿ywaj tej opcji ostro¿nie. Jakie jest ryzyko?
+1573=Przed œci¹ganiem szukaj plików w pamiêci podrêcznej IE
+1568=U¿yj gwiazdki jako znaku zastêpczego we wzorcu. U¿yj przecinków bez spacji, aby oddzieliæ wpisy
+
+//grabber dlg tree
+20664=Wszystkie pliki
+20665=Widok linku
+20671=Widok folderu
+20667=Inne strony
+20668=strony
+
+20669=Wy³¹cz filtry
+20670=W³¹cz filtry
+
+t34023=Poka¿ statystyki Grabbera
+271=Statystyki Grabbera IDM
+1574=Stan:
+1575=Strony przetworzone
+1576=Proste:
+1577=Zaawansowane:
+1578=Pliki
+1579=Ogólnie:
+1580=Eksplorowane:
+1581=Pasuj¹ce:
+1582=Œci¹gniête:
+
+//v5.00 build 3
+20672=Podgl¹d miniatur
+20673=Nie ma œci¹gniêtych plików
+
+20674=Nie znaleziono
+20675=Zabronione
+20676=B³¹d
+
+//v5.01
+284=Zaplanuj projekt Grabbera
+1583=Jednorazowa eksploracja/œci¹ganie
+1584=Synchronizacja okresowa
+1585=Tylko eksploracja
+1586=Eksploruj stronê i œci¹gaj pasuj¹ce pliki
+1587=Œci¹gaj zaznaczone pliki
+1588=Krok 3. Planowanie
+1601=Krok 2. Wybierz akcjê
+1600=Krok 1. Wybierz typ
+1593=Projekt:
+1590=Otwórz nastêpuj¹cy plik, gdy zakoñczono:
+1595=Uruchom ponownie co
+1597=godz.
+1598=min.
+1599=Codziennie
+1602=Uwaga: W wyznaczonym czasie IDM powinien byæ aktywny w zasobniku systemowym, aby móc rozpocz¹æ zaplanowany projekt.
+20677=Aby u¿yæ planowania projektu powinieneœ najpierw zapisaæ projekt. Czy chcesz teraz zapisaæ projekt?
+20678=Internet Download Manager zakoñczy³ przetwarzanie projektu Grabbera. Zgodnie z ustawieniami planowania projektu Twój komputer zostanie wy³¹czony.
+t33010=Uruchom Grabbera
+t34021=Zaplanuj projekt
+t34025=Aktualizuj wszystko
+20679=Zaplanowany projekt Grabbera nie mo¿e zostaæ uruchomiony o %d:%02d poniewa¿ projekt by³ w tym czasie aktywny.
+20680=Zaplanowany projekt Grabbera nie mo¿e zostaæ uruchomiony o %d:%02d poniewa¿ ustawienia projektu by³y w tym czasie edytowane.
+20681=Java-script nie bêdzie przetwarzany na stronach, które by³y ju¿ eksplorowane/przetwarzane. Jeœli chcesz przetwarzaæ Java-script na tych stronach, musisz wcisn¹æ przycisk \"Aktualizauj wszystko\" w oknie wybierania akcji dla Grabbera.
+20682=Przycisk aktualizacyjny uaktualni projekt przez (a) rozpoczêcie eksploracji witryny od strony startowej, (b) aktualizacjê plików, jeœli zosta³y one zmodyfikowane na serwerze i przez (c) œci¹gniêcie nowych plików.
+20683=Przycisk aktualizacyjny uaktualni projekt przez (a) rozpoczêcie eksploracji witryny od strony startowej, (b) aktualizacjê œci¹gniêtych i zaznaczonych plików, jeœli zosta³y one zmodyfikowane na serwerze.
+20684= Musisz wiedzieæ, ¿e stare pliki znalezione przed aktualizacj¹ nie zostan¹ skasowane. Grabber bêdzie ponownie parsowaæ wszystkie strony na witrynie i mo¿e to chwilê potrwaæ.\r\n\r\nJesteœ pewien, ¿e chcesz zaktualizowaæ ten projekt?
+
+//version 5.02
+20685=Zmieñ nazwê projektu
+20686=Minimalizuj do traya
+20688=Przywróæ wszystkie okna œci¹gania
+20689=Mo¿esz w³¹czyæ to okno w \"Opcje->Œci¹ganie\"
+20690=Ustawienia IDM
+20691=Œci¹gniêto %s (%I64d Bajtów)
+20692=Plik móg³ nie zostaæ œci¹gniêty w ca³oœci, bo jego wielkoœæ jest nieznana.
+20693=Zapamiêtaj tê œcie¿kê dla kategorii \"%s\"
+20694=Œci¹ganie zakoñczone
+1610=Adres
+1611=Plik zapisany jako
+1606=Otwórz folder
+1607=Nie pokazuj wiêcej tego okna
+t1608=Wybierz...
+20695=Œci¹ganie plików IDM
+1615=Ignoruj czas modyfikacji plików podczas wznawiania œci¹gania
+1613=Czytaj wiêcej
+20696=IDM szuka nowych wersji co 2 tygodnie, wysy³aj¹c zapytanie do strony aktualizacyjnej na swoim serwerze domowym. Jeœli Twój firewall blokuje zapytanie aktualizacyjne IDM i wyœwietla zwi¹zany z tym komunikat ostrzegawczy, powinieneœ wiedzieæ, ¿e zapytanie jest OK i wyra¿enie na nie zgody nie powoduje ¿adnego niebezpieczeñstwa.
+1617=Adres
+1619=Adres:
+1618=Mo¿esz u¿yæ gwiazdki jako znaku zastêpczego we wzorcu
+
+//Please note that the old menu item string changed from m32771=URL to m32771=Tasks
+//also strings 32771 and 148 have been changed
+
+//v 5.02 Build 2
+1621=Komunikat aktualizacyjny
+290=Komunikat aktualizacyjny IDM
+20697=Nie ma zminimalizowanych œci¹gañ
+
+// v 5.02 Build 3
+1622=Uwaga: Te ustawienia nie maj¹ wp³ywu na œci¹ganie planowane
+
+// v 5.02 Build 6
+20698=Wybierz...
+
+// v 5.02 Build 10
+20586=Poni¿ej znajdziesz mo¿liwe przyczyny tego b³êdu:\r\n\r\n 1. Po³¹czenie sieciowe nie zosta³o znalezione. SprawdŸ swoje po³¹czenie sieciowe.\r\n\r\n 2. Na twoim komputerze jest firewall, a w³aœnie zainstalowa³eœ, zast¹pi³eœ lub zaktualizowa³eœ obecn¹ wersjê Internet Download Managera. SprawdŸ ustawienia swojego firewalla i upewnij siê, ¿e IDM posiada uprawnienia do ³¹czenia siê z Internetem.\r\n\r\n 3. Us³uga zwana Domain Name Service (DNS), która znajduje serwery w Internecie, ma tymczasowe problemy, albo po³¹czenie sieciowe miêdzy DNS i twoim komputerem jest przerywane. Mo¿liwe, ¿e musisz ponownie uruchomiæ komputer.\r\n
+1570=Odwo³anie:
+
+// v 5.02 Build 12
+20587=Podczas próby wznowienia œci¹gania, Internet Download Manager otrzyma³ odpowiedŸ z serwera, ¿e nie obs³uguje on wznawiania œci¹gania. \r\nMo¿liwe, ¿e to tymczasowy b³¹d serwera i bêdziesz móg³ wznowiæ œci¹ganie w póŸniejszym czasie, ale w chwili obecnej IDM mo¿e pobraæ ten plik od pocz¹tku. \r\n\r\n Czy chcesz pobraæ ten plik od pocz¹tku?
+
+// v 5.03
+20699=Typy plików, które nie s¹ przypisane do ¿adnej innej kategorii
+20700=Nacisn¹³eœ przycisk "Œci¹gaj póŸniej", ale IDM pobra³ ju¿ czêœæ pliku. IDM zawsze rozpoczyna pobieranie podczas wyœwietlania okna rozpoczêcia œci¹gania. Mo¿esz wy³¹czyæ tê funkcjê w "Opcje->Œci¹ganie".
+20701=Œci¹gaj póŸniej
+20702=Folder tymczasowy jest potrzebny do sortowania czêœci pliku podczas œci¹gania. Jeœli posiadasz kilka napêdów fizycznych w komputerze, powinieneœ wybraæ osobny napêd dla folderu tymczasowego i osobny dla katalogu "Zapisz do", co pozwoli na szybsze ³¹czenie pobranych plików.
+20703=Nastêpuj¹ce typy plików umieœæ automatycznie w kategorii \"%s\":
+20704=Zapisz do
+20705=Kategorie, typy plików, foldery
+1623=Rozpocznij pobieranie natychmiast po wyœwietleniu okna œci¹gania pliku
+
+292=Ponowne uruchamianie komputera
+1627=Zatrzymaj
+20706=Ponowne uruchomienie nast¹pi w czasie %d sekund
+20707=Uruchom ponownie teraz
+
+// v 5.04
+//Options->File Types and Options->General changes (for basic integration)
+20708=Typy plików
+20709=Œci¹gane typy plików
+20711=Uwaga: Przegl¹darki bazuj¹ce na Operze i STAREJ Mozilli mo¿na integrowaæ z IDM u¿ywaj¹c wtyczek. Ten typ integracji nie obs³uguje listy wyj¹tków z serwerami, które maj¹ ignorowaæ IDM. Je¿eli zmodyfikujesz listê œci¹ganych typów plików, musisz ponownie uruchomiæ przegl¹darki, aby prze³adowaæ wtyczki. Wspomniane ograniczenia nie wystêpuj¹, jeœli w³¹czysz \"Zaawansowan¹ integracjê z przegl¹dark¹\" na zak³adce \"Ogólne\".
+1632=Szczegó³y
+1633=Dodaj przegl¹darkê...
+1634=Reintegruj wszystkie
+20710=Uwaga: Przegl¹darki bazuj¹ce na Operze i STAREJ Mozilli mo¿na integrowaæ z IDM u¿ywaj¹c wtyczek. Ten typ integracji nie obs³uguje klawiszy specjalnych, które deaktywuj¹ lub wymuszaj¹ pobieranie przez IDM. Jeœli chcesz u¿ywaæ klawiszy specjalnych w w/w przegl¹darkach, musisz w³¹czyæ \"Zaawansowan¹ integracjê z przegl¹dark¹\".
+
+//MessageBoxes
+20713=Integracja IDM z przegl¹dark¹
+20712=IDM nie mo¿e znaleŸæ przegl¹darki %s na twoim komputerze. Zlokalizuj plik wykonywalny przegl¹darki w nastêpnym oknie dialogowym.
+20714=Integracja z przegl¹darkami za pomoc¹ wtyczek nie powiod³a siê!
+20715=Wtyczki dla przegl¹darki %s zosta³y zainstalowane.
+20716=Wtyczki dla przegl¹darki %s %s zosta³y zainstalowane.
+20717=Wtyczki dla przegl¹darki %s zosta³y usuniête.
+20718=Uruchom ponownie przegl¹darkê, aby zastosowaæ zmiany.
+20719=Zlokalizuj plik wykonywalny przegl¹darki w nastêpnym oknie dialogowym.
+20720=Nie mo¿na zainstalowaæ rozszerzenia idmmzcc.xpi dla Mozilli Firefox!
+20721=IDM zosta³ pomyœlnie zintegrowany z Mozill¹ Firefox 1.5 i póŸn.\n Musisz ponownie uruchomiæ przegl¹darkê Firefox, aby zastosowaæ zmiany.
+20722=IDM wykry³, ¿e %s %s jest domyœln¹ przegl¹dark¹ na twoim komputerze. \n Chcia³byœ j¹ zintegrowaæ z IDM?
+20723=Nie mo¿na zainstalowaæ rozszerzenia idmmzcc.xpi!
+20724=Przegl¹darka %s %s zostanie teraz otworzona w celu instalacji rozszerzenia integruj¹cego j¹ z IDM.\n PotwierdŸ instalacjê rozszerzenia idmmzcc.xpi z Tonec Inc. w odpowiednim oknie dialogowym, a po zakoñczeniu instalacji ponownie uruchom przegl¹darkê.
+20725=Nie mo¿na zainstalowaæ wtyczek dla przegl¹darki %s %s!
+20726=IDM zosta³ pomyœlnie zintegrowany z Internet Explorerem.\n Musisz ponownie uruchomiæ IE, aby zastosowaæ zmiany.
+20727=IDM wykry³, ¿e przegl¹darka %s %s równie¿ zosta³a zainstalowana na twoim komputerze. \n Chcia³byœ j¹ tak¿e zintegrowaæ z IDM?
+20728=Wybrane przegl¹darki zostan¹ teraz otworzone w celu instalacji rozszerzenia integruj¹cego je z IDM.\n PotwierdŸ instalacjê rozszerzenia idmmzcc.xpi z Tonec Inc. w odpowiednim oknie dialogowym, a po zakoñczeniu instalacji ponownie uruchom przegl¹darkê.
+20729=Wtyczki dla wybranych przegl¹darek zosta³y zainstalowane.\n Uruchom ponownie przegl¹darki, aby zastosowaæ zmiany.
+20730=IDM zosta³ ju¿ zintegrowany z Internet Explorerem!
+20731=IDM nie mo¿e znaleŸæ tej przegl¹darki w bazie danych podstawowej integracji. Spróbuj u¿yæ zaawansowanej integracji z przegl¹dark¹, aby przechwytywaæ œci¹ganie plików z tej przegl¹darki.
+20732=Nie mo¿na zainstalowaæ wtyczek dla przegl¹darek z wybranym typem integracji!
+
+//new dialogs
+296=Integracja z przegl¹dark¹
+1635=IDM wykry³ nastêpuj¹ce, dodatkowe przegl¹darki na twoim komputerze. Wybierz przegl¹darki, które chcesz zintegrowaæ z IDM.
+297=Szczegó³y przegl¹darki
+1636=Dodaj wersjê...
+20733=Przegl¹darka
+20734=Typ integracji
+20735=Œcie¿ka
+20736=Rozszerzenie
+20737=Wtyczki
+
+//new menu item on main dlg popup menu and new button on Download complete dlg
+20738=Otwórz z...
+1639=Otwórz z...
+
+//
+20739=Zlokalizuj przegl¹darkê
+
+// v 5.05
+20740=Ten plik jest teraz œci¹gany przez IDM!
+20741=Powielony link œci¹gania
+298=Powielony link œci¹gania
+20742=Poka¿ komunikat i zapytaj co zrobiæ
+20743=Dodaj duplikat z numerowan¹ nazw¹ pliku
+20744=Dodaj duplikat i zast¹p istniej¹cy plik
+20745=Jeœli zak. œci¹ganie istn. pliku, poka¿ okno zak.; w innym wypadku dokoñcz
+1641=Ten plik jest ju¿ na liœcie œci¹ganych. Mo¿esz wybraæ jedn¹ z nastêpuj¹cych opcji, albo klikn¹æ przycisk Anuluj, ¿eby pomin¹æ œci¹ganie tego pliku.
+1645=Zapamiêtaj mój wybór i nie pokazuj wiêcej tego komunikatu.\r\n PóŸniej mo¿esz zmieniæ te ustawienie w IDM Opcje->Œci¹ganie.
+1646=Jeœli dodano powielony link œci¹gania:
+
+20746=Internet Explorer, MSN Explorer i przegl¹darki bazuj¹ce na IE
+20747=Netscape 8.0 i póŸniejsze
+20748=Netscape 7.xx i 6.xx
+
+// v 5.05 build 2
+20749=Mo¿esz przeci¹gn¹æ i upuœciæ ten plik
+//Dear translators, if you added "CompleteDlg.htm" topic to your help file, or you did not translate the help file and use the English version, please add and translate the phrase "Press F1 to read more" at the next line.
+20750=Przeci¹gnij tê ikonê, aby rozpocz¹æ operacjê przeci¹gania i upuszczania œci¹gniêtego pliku.\r\nWciœnij F1, aby przeczytaæ wiêcej.
+//or 20750=Drag this icon to start the drag and drop operation for the downloaded file.\r\nPress F1 to read more.
+20751=Przeci¹gnij i upuœæ œci¹gniêty plik
+
+// v 5.07
+1647=Kontynuuj
+20754=Musisz posiadaæ uprawnienia administratora, aby zapisaæ pliki w wybranej lokacji.
+20755=Musisz posiadaæ uprawnienia administratora, aby wykonaæ tê operacjê.
+
+// v 5.07 build 2
+20756=Program instalacyjny IDM musi uruchomiæ ponownie Twój komputer, aby zast¹piæ pliki, które by³y w u¿yciu. Kliknij przycisk OK, aby zrestartowaæ teraz komputer.
+20757=PotwierdŸ restart
+20758=Internet Download Manager zosta³ pomyœlnie zainstalowany. Program uruchomi siê automatycznie i przejmie od Twojej przegl¹darki pobieranie plików.
+20759=Mo¿esz tak¿e uruchomiæ aplikacjê z menu \"Start->Programy->Internet Download Manager\".
+
+// v 5.07 build 6
+//new checkbox on Options->General
+1650=Modu³ monitoruj¹cy klikniêcia w przegl. opartych na IE (MSN, Avant, itd.)
+
+// v 5.07 build 7
+20760=IDM wykry³, ¿e twoj¹ domyœln¹ przegl¹dark¹ jest %s.\n W tej wersji IDM wystarczy u¿ywaæ podstawowej integracji z przegl¹dark¹, aby przej¹æ pobieranie od wszystkich wa¿niejszych przegl¹darek. Modu³ \"Zaawansowanej integracji z przegl¹dark¹\" zosta³ skorygowany i mo¿e powodowaæ nowe konflikty z innymi aplikacjami internetowymi. Jeœli nie u¿ywasz \"Zaawansowanej integracji z przegl¹dark¹\", aby przejmowaæ pobieranie od innych programów internetowych, to zalecamy wy³¹czenie funkcji \"Zaawansowana integracja z przegl¹dark¹\" na zak³adce \"Opcje->Ogólne\".
+
+//v 5.08 build 5
+//new dialogs
+302=Anulowanie rozpoczêtego automatycznie œci¹gania
+1651=Anulowa³eœ to œci¹ganie dwukrotnie.\n\n Jeœli IDM zawsze przechwytuje to œci¹ganie przez pomy³kê, mo¿esz dodaæ ten adres lub stronê do listy wyj¹tków IDM:
+1652=Nie rozpoczynaj automatycznie œci¹gania z tej strony:
+1653=Nie rozpoczynaj automatycznie œci¹gania z tego adresu:
+1655=Mo¿esz tak¿e edytowaæ listê wyj¹tków na zak³adce \"Opcje->Typy plików\".
+1654=Nie pokazuj wiêcej tego komunikatu
+
+303=Lista wyj¹tków z adresami
+1661=Nie rozpoczynaj automatycznie œci¹gania z nastêpuj¹cych adresów:
+1659=Poka¿ komunikat umo¿liwiaj¹cy dodanie adresu do listy wyj¹tków dla dwukrotnie anulowanego œci¹gania
+
+304=Dodaj adres do listy wyj¹tków
+
+//changes in "Options->File Types" dialog:
+1656=Edytuj listê ...
+//label 1372 was divided into 2 parts
+1667=Nie rozpoczynaj automatycznie œci¹gania z nastêpuj¹cych stron:
+1662=(Oddziel nazwy spacjami)
+
+//v 5.08 build 7
+20763=¯¹dany plik wygl¹da jak strona html.\r\n\r\n Serwer wys³a³ stronê html za drugim podejœciem. Niektóre serwery nie pozwalaj¹ dwukrotnie wysy³aæ zapytañ do tego samego pliku. Ze wzglêdu na to, ¿e wy³¹czono opcjê \"Rozpocznij pobieranie natychmiast po wyœwietleniu okna œci¹gania pliku\", IDM wys³a³ pierwsze zapytanie, aby ustaliæ typ i wielkoœæ pliku, a drugie gdy wcisn¹³eœ \"Œci¹gaj teraz\". \r\n\r\n Spróbuj w³¹czyæ opcjê \"Rozpocznij pobieranie natychmiast po wyœwietleniu okna œci¹gania pliku\" w \"Opcje->Œci¹ganie\", odœwie¿ stronê w przegl¹darce, a nastêpnie spróbuj œci¹gn¹æ ten plik ponownie.
+
+//v 5.09 build 4
+305=IDM nie móg³ przej¹æ pobierania
+20764=Niektóre strony nie pozwalaj¹ dwukrotnie wysy³aæ zapytañ do tego samego pliku.\r\n\r\n Przegl¹darka wykona³a pierwsze zapytanie do pliku \"%s\", a nastêpnie, gdy IDM próbowa³ ponownie wys³aæ zapytanie do tego samego pliku, serwis wys³a³ do programu stronê internetow¹ zamiast œci¹ganego pliku.\r\n\r\n Aby przej¹æ to pobieranie, mo¿esz ustawiæ klawisz specjalny w \"Opcje->Ogólne->Klawisze...\". Naciœnij i przytrzymaj ten klawisz podczas klikania w link/przycisk do œci¹ganego pliku, aby IDM móg³ przej¹æ pobieranie zanim przegl¹darka wykona pierwsze zapytanie. Klawisz \"Ins\" powinien dzia³aæ z wiêkszoœci¹ przegl¹darek.
+
+//v 5.11
+//new scheduler dialog
+308=Planowanie
+1675=Nowa kolejka
+1678=Usuñ
+1684=Kolejki
+20783=Kolejki
+306=Zaplanuj
+1680=Liczba wznowieñ dla ka¿dego pliku w razie niepowodzenia:
+307=Pliki w kolejce
+1687=Limity œci¹gania
+20765=Limity œci¹gania
+20767=Kolejka # %ld
+20768=Kolejka g³ówna
+20769=Kolejka synchronizacyjna
+
+20770=Stwórz now¹ kolejkê
+20771=Przenieœ do kolejki
+20772=Dodaj do kolejki
+20773=Rozpocznij teraz
+20774=Zatrzymaj
+20775=Edytuj kolejkê
+20776=Planowanie
+20777=Na pewno chcesz usun¹æ %s?
+20778=Rozpocznij - %s
+20779=Zatrzymaj - %s
+20780=Kolejki IDM
+20781=Obrazy w kolumnie \"Q\" pokazuj¹, do której kolejki nale¿¹ pliki.\r\nMo¿esz przenosiæ pliki z jednej kolejki do drugiej za pomoc¹ menu kontekstowego pliku.\r\nAby uzyskaæ wiêcej informacji na temat kolejek, zapoznaj siê z plikiem pomocy Planowania i kolejek.
+20782=Czy chcia³byœ pobraæ i zainstalowaæ plik pomocy \"IDM Planowanie i kolejki\" (oko³o 100 KB) ze strony domowej IDM?
+1685=Zaplanowa³eœ czas rozpoczêcia przetwarzania kolejki.\r\nAby rozpocz¹æ kolejkê w zaplanowanym czasie, IDM musi dzia³aæ wtedy przynajmniej w obszarze powiadomieñ paska zadañ - zasobniku systemowym (zobacz obraz poni¿ej).
+310=Wpisz nazwê kolejki
+1686=Podaj nazwê dla nowej kolejki, która bêdzie widoczna na liœcie kolejek:
+
+//menu items
+m34026=Rozpocznij kolejkê
+m34028=Zatrzymaj kolejkê
+34029=Planowanie i kolejki
+//tooltips for "Start queue" and "Stop queue" toolbar buttons.
+t34030=Rozpocznij kolejkê g³ówn¹ œci¹gania, albo wybierz kolejkê do rozpoczêci¹ z opuszczanej listy
+t34031=Zatrzymaj kolejkê g³ówn¹, albo wybierz kolejkê do zatrzymania z opuszczanej listy
+
+//v 5.11 build 3
+1679=Œci¹ganie jednorazowe
+
+//v 5.11 build 5
+20786=Transfer danych zosta³ przerwany, a serwer nie umo¿liwia \"wznawiania\". Jedynym wyjœciem jest œci¹gniêcie tego pliku od pocz¹tku.\r\n\r\n Jest wiele sposobów na rozwi¹zanie tego problemu:\r\n 1. Mo¿liwe, ¿e na serwerze wystêpuj¹ tymczasowe zak³ócenia. Spróbuj wznowiæ te pobieranie w póŸniejszym czasie.\r\n 2. Mo¿esz zostawiæ ten plik samodzielnie w kolejce (stworzyæ inn¹ now¹ kolejkê) i rozpocz¹æ kolejkê. W takim wypadku IDM bêdzie próbowaæ ponownie œci¹gn¹æ plik od pocz¹tku, a¿ do zakoñczenia pobierania pe³nym sukcesem.\r\n Aby osi¹gn¹æ najlepszy rezultat, powinieneœ tak¿e ustawiæ 1 po³¹czenie do tej strony na liœcie wyj¹tków w IDM \"Opcje->Po³¹czenia\".\r\n
+20784=Rozszerzenie \"IDM CC\" dla przegl¹darek opartych na Mozilli zmieni³o siê w tej wersji IDM. Musisz zreinstalowaæ rozszerzenie, aby u¿ywaæ nowych funkcji. Czy chcesz zreinstalowaæ rozszerzenie dla przegl¹darki %s %s?
+20785=Rozszerzenie \"IDM CC\" dla przegl¹darek opartych na Mozilli zmieni³o siê w tej wersji IDM. Musisz zreinstalowaæ rozszerzenie, aby u¿ywaæ nowych funkcji. Czy chcesz zainstalowaæ nowe rozszerzenie \"IDM CC\" w przegl¹darkach, które u¿ywaj¹ starego rozszerzenia \"IDM CC\"?
+
+//v 5.11 build 7
+//Items in context menu of browsers:
+20810=Œci¹gnij przez IDM
+20811=Œci¹gnij wideo FLV przez IDM
+20812=Œci¹gnij ostatnio ¿¹dane wideo FLV
+20813=Wybierz z 10 ostatnio ¿¹danych wideo FLV
+20814=Œci¹gnij ostatnio ¿¹dane wideo FLV przez IDM
+20815=Œci¹gnij wideo FLV przez IDM z 10 ostatnio ¿¹danych
+20816=Œci¹gnij wszystkie linki przez IDM
+20817=Œci¹gnij zawartoœæ wideo FLV przez IDM
+
+20790=Zapisywanie wideo FLV
+20791=Mo¿esz zapisywaæ wideo FLV u¿ywaj¹c opcji \"Œci¹gnij zawartoœæ wideo FLV przez IDM\" z menu kontekstowego przegl¹darki internetowej. \r\n\r\nMenu kontekstowe przegl¹darki wyœwietla siê po klikniêciu PPM na stronie internetowej (ale nie na odtwarzaczu FLV) lub po u¿yciu klawisza menu kontekstowego na klawiaturze.
+20792=Program nie znalaz³ linków do wideo FLV na tej stronie.\r\nMo¿liwe, ¿e twoja przegl¹darka nie wys³a³a jeszcze ¿¹dania do pliku wideo. Musisz poczekaæ, a¿ przegl¹darka wyœle ¿¹danie i spróbowaæ ponownie. W niektórych przypadkach wystarczy tylko wcisn¹æ przycisk \"Play\" w odtwarzaczu na stronie.
+20793=Œci¹gnij przez IDM
+20794=Œci¹gnij wszystko przez IDM
+20795=Program nie znalaz³ linków!\r\nJeœli na stronie znajduj¹ siê linki, odœwie¿ j¹ i spróbuj ponownie. Je¿eli problem wystêpuje nadal, skontaktuj siê z pomoc¹ techniczn¹ IDM.
+20796=Program nie znalaz³ ¿adnych linków do wideo FLV!
+20797=Nie mo¿na pobraæ linków do wideo ¿¹danych przez explorera!\r\nWy³¹czy³eœ (albo zrobi³ to jakiœ program antyszpiegowski) dodatek IDM Browser Helper Object w IE. U¿yj opcji \"Narzêdzia->Zarz¹dzaj dodatkami->W³¹cz lub wy³¹cz dodatki\" w menu Internet Explorera. Nastêpnie znajdŸ i w³¹cz dodatek \"IDMIEHlprObj Class\".
+20798=Program nie mo¿e po³¹czyæ siê z interfejsem IDM, który monitoruje internetowe linki wideo ¿¹dane przez explorera.\r\nMo¿liwe przyczyny:\r\n - Nie uruchomi³eœ ponownie komputera po aktualizacji IDM do ostatniej wersji. Uruchom ponownie komputer i spróbuj jeszcze raz.\r\n - IDM nie zosta³ poprawnie zainstalowany. Œci¹gnij najnowsz¹ wersjê IDM ze strony oficjalnej i zainstaluj go ponownie.
+
+//new feature in "Options->General" dialog:
+1688=Edytuj...
+1689=Dostosuj funkcje IDM w menu kontekstowym przegl¹darek
+334=Internet Explorer i bazuj¹ce na IE
+335=Firefox i inne bazuj¹ce na Mozilli
+1696=Zaznaczone funkcje pojawi¹ siê w menu kontekstowym przegl¹darki:
+20818=Uruchom ponownie Internet Explorera, aby zachowaæ zmiany
+20819=Zmiana menu kontekstowego IE
+
+//v 5.11 b8
+20820=Zamknij teraz
+20821=Zamknij IDM
+20822=Internet Download Manager zakoñczy³ przetwarzanie kolejki. Zgodnie z ustawieniami Planowania i kolejek IDM zostanie teraz zamkniêty. Masz jednak inne aktywne pobierania, które zostan¹ wstrzymane przy wyjœciu. Naciœnij przycisk Anuluj, aby nie zamykaæ programu.
+
+//v 5.11 build 9
+20823=Anulowa³eœ podobne œci¹gania.\n\n Jeœli IDM zawsze przechwytuje takie œci¹gania przez pomy³kê, mo¿esz dodaæ t¹ stronê lub wzorzec dla podobnych adresów do listy wyj¹tków IDM:
+20824=Nie przechwytuj œci¹gañ z podobnych adresów u¿ywaj¹c tego wzorca:
+336=Raport dla twórców IDM
+1702=Mo¿esz wys³aæ raport do twórców IDM opisuj¹cy œci¹gania, które zosta³y b³êdnie przechwycone. Pozwoli to wykonaæ obejœcie dla tej strony w przysz³ych wersjach IDM.
+1698=Dodano nastêpuj¹cy wyj¹tek:
+1700=Odwo³any URL, z którego œci¹ganie zosta³o przechwycone przez pomy³kê:
+1703=Mo¿esz u¿yæ gwiazdki jako znaku zastêpczego we wzorcu adresu.
+
+//v5.12
+20825=(Ograniczenie)
+1707=U¿yj Ogranicznika Szybkoœci
+337=Ustawienia Ogranicznika Szybkoœci
+1704=W³¹czaj Ogranicznik Szybkoœci podczas ka¿dego uruchomienia IDM
+1705=Poka¿ opcjê \"U¿yj Ogranicznika Szybkoœci\" w oknie dialogowym \"Œci¹ganie pliku\"
+1706=Pamiêtaj wyj¹tki ustawione w oknie dialogowym \"Œci¹ganie pliku\" do u¿ywania Ogranicznika Szybkoœci mimo tego, ¿e zosta³ on globalnie w³¹czony lub wy³¹czony
+1708=Maksymalna szybkoœæ œci¹gania jednego pliku
+1709=KBajtów/sek.
+1710=Uwaga: Serwery internetowe mog¹ zrywaæ po³¹czenie gdy szybkoœæ jest zbyt mocno ograniczona! Dlatego te¿ nie zaleca siê u¿ywania Ogranicznika Szybkoœci do œci¹gania z serwerów, które nie wspieraj¹ funkcji wznawiania.
+1711=Ustawienia Ogranicznika Szybkoœci dla indywidualnych pobierañ
+m34033=Ogranicznik Szybkoœci
+34033=W³¹cz
+34034=Wy³¹cz
+34035=Ustawienia...
+
+//v5.12 build 5
+20831=Jeœli wideo FLV jest odtwarzane przez twoj¹ przegl¹darkê na stronie internetowej, to prawdopodobnie IDM nie mo¿e powi¹zaæ odnoœnika FLV z t¹ stron¹. Spróbuj u¿yæ opcji \"Œci¹gnij wideo FLV przez IDM z 10 ostatnio ¿¹danych\" z menu kontekstowego przegl¹darki.\r\n(Menu kontekstowe przegl¹darek mo¿esz konfigurowaæ w \"IDM Opcje->Ogólne\").
+20830=Podczas œci¹gania wyst¹pi³ b³¹d CRC. Oznacza to, ¿e mia³eœ jakiœ problem z twardym dyskiem. Powinieneœ przeskanowaæ swój dysk w poszukiwaniu b³êdów u¿ywaj¹c modu³u \"Sprawdzanie b³êdów\" we w³aœciwoœciach dysku w systemie Windows->zak³adka Narzêdzia.
+
+//5.12b7
+20832=Musisz posiadaæ prawa administratora, aby zarejestrowaæ IDM dla wszystkich u¿ytkowników tego komputera.
+
+//5.12b8
+20837=PotwierdŸ usuniêcie œci¹ganych plików
+20833=Zaznaczone pobierania nie zosta³y ukoñczone. Jesteœ pewien, ¿e chcesz usun¹æ je z listy œci¹ganych plików IDM?
+20834=Zaznaczone pobieranie nie zosta³o ukoñczone. Jesteœ pewien, ¿e chcesz usun¹æ je z listy œci¹ganych plików IDM?
+20835=Wœród zaznaczonych pobierañ s¹ takie, które nie zosta³y ukoñczone. Jesteœ pewien, ¿e chcesz je równie¿ usun¹æ z listy œci¹ganych plików IDM?
+20836=Jesteœ pewien, ¿e chcesz usun¹æ wszystkie ukoñczone pobierania z listy œci¹ganych plików IDM?
+1715=Jesteœ pewien, ¿e chcesz usun¹æ zaznaczone pobierania z listy œci¹ganych plików IDM?
+1713=Usuñ ca³kowicie pobrane pliki - tak¿e z dysku twardego. B¹dŸ ostro¿ny!
+
+//v5.14
+20850=wideo
+20851=audio
+20852=Œci¹gnij ten plik %s
+20853=Œci¹gnij ten plik %s za pomoc¹ IDM
+20854=Informacje o panelu
+20855=Zamknij
+20856=To jest panel œci¹gania IDM.\r\n Mo¿na go dostosowaæ lub wy³¹czyæ na zak³adce "IDM->Opcje->Ogólne\".
+20857=Panel œci¹gania IDM
+20858=Œci¹gnij %s z tej strony
+20859=Œci¹gnij %s z tej strony za pomoc¹ IDM
+20860=Œci¹gnij wszystko
+20861=%ld %s pliki
+20862=plik
+
+//new on Options->General
+1724=Panel œci¹gania IDM dla odtwarzaczy sieciowych
+1727=IDM mo¿e wyœwietliæ panel œci¹gania na odtwarzaczu sieciowym w przegl¹darce, gdy wykryje z niego ¿¹danie multimedialne.
+1728=Widok panelu:
+1717=Tryb pe³ny
+1718=Tryb mini
+1726=Wyœwietl panel œci¹gania IDM dla nastêpuj¹cych typów plików:
+20863=Uwaga: Jeœli odznaczysz typ pliku na liœcie powy¿ej, a znajduje siê on na liœcie pod zak³adk¹ \"Opcje->Typy plików\", wtedy œci¹ganie plików tego typu jest automatycznie przechwytywane przez IDM i nie zostan¹ one uruchomione w odtwarzaczu sieciowym. Je¿eli chcesz temu zapobiec, zaznacz poni¿sz¹ opcjê:
+1720=Nie przechwytuj automatycznie pobierañ z odtwarzaczy sieciowych
+
+//on Scheduler dlg
+1729=Rozpocznij œci¹ganie podczas uruchamiania IDM
+
+//v5.14b5
+20864=Mo¿esz u¿yæ integracji z t¹ przegl¹dark¹ po w³¹czeniu funkcji \"Zaawansowana integracja z przegl¹dark¹\" w tym oknie dialogowym
+
+//v5.15b2
+1731=Uwaga: Uruchomi³eœ IDM z prawami administratora. \r\n IDM nie bêdzie móg³ przechwytywaæ pobierañ z przegl¹darek pracuj¹c w tym trybie.
+20865=Firefox nie mo¿e dokonaæ transferu œci¹ganego pliku do Internet Download Managera, poniewa¿ zaznaczy³eœ opcjê \"Uruchom ten program jako administrator\" w oknie dialogowym z w³aœciwoœciami pliku IDMan.exe. \r\n\r\nOtwórz folder IDM, kliknij prawym przyciskiem myszy na \"IDMan.exe\", wybierz \"W³aœciwoœci\" z menu, przejdŸ do zak³adki \"Zgodnoœæ\", a nastêpnie odznacz opcjê \"Uruchom ten program jako administrator\".
+
+//v5.16
+20867=Nieudana próba wznowienia pobierania pliku:
+20868=IDM czeka na nowy adres, aby wznowiæ pobieranie pliku:
+20869=Mo¿liwe, ¿e adres pliku zmieni³ siê, jest nieprawid³owy lub twoja sesja wygas³a.
+20870=Czy to jest nowy adres dla pobierania, które wygas³o?
+20872=Odœwie¿ adres pobierania
+20873=IDM czeka na nowy adres dla pobierania, które wygas³o. Funkcji tej powinno u¿ywaæ siê tylko dla jednego wygaœniêtego pobierania w tym samym czasie.
+20874=IDM otworzy stronê w przegl¹darce, na której pobieranie zosta³o przechwycone. Uruchom ponownie œci¹ganie tego samego pliku ze swojej przegl¹darki, a IDM spróbuje przechwyciæ nowy adres lub dane nowej sesji, aby wznowiæ pobieranie.
+20871=Czekam na nowe dane
+1732=Przerwij czekanie
+20875=Pozyskiwanie nowego adresu dla pliku zakoñczy³o siê sukcesem.
+20876=Uruchom rêcznie œci¹ganie tego samego pliku ze swojej przegl¹darki, a IDM spróbuje przechwyciæ nowy adres lub dane nowej sesji, aby wznowiæ pobieranie.
+20877=Spróbuj odœwie¿yæ sesjê pobierania i pozyskaj nowy adres u¿ywaj¹c opcji \"Odœwie¿ adres pobierania\", która uka¿e siê w menu po naciœniêciu PPM na liœcie œci¹gania plików IDM. \r\nMo¿na te¿ usun¹æ te pobieranie, a nastêpnie uruchomiæ je ponownie w przegl¹darce, aby IDM móg³ rozpocz¹æ œci¹ganie od pocz¹tku.
+20878=Œci¹ganie strony macierzystej w celu odœwie¿enia adresu odnoœnika
+20879=Serwis przes³a³ stronê internetow¹ zamiast pliku, gdy IDM wys³a³ zapytanie do pliku po raz drugi. Serwis prawdopodobnie u¿ywa odnoœników tymczasowych i nie pozwala wysy³aæ kilku zapytañ pod ten sam adres.\r\n\r\nSpróbuj usun¹æ pobieranie, a nastêpnie uruchomiæ je ponownie w przegl¹darce. Gdy IDM przechwyci œci¹ganie, pobierz plik bez przerywania/zatrzymywania.
+1741=Strona, z której pochodzi plik:
+20880=Sprawdzanie adresu: %s
+20881=Nie wybrano ¿adnego pliku do œci¹gania!\r\n Jeœli nie chcesz niczego œci¹gaæ, to zamknij okno dialogowe \"%s\" u¿ywaj¹c przycisku \"Zrezygnuj\".
+20882=Dodawanie plików do œci¹gania przez IDM
+1739=Poka¿ panel wyboru kolejki po u¿yciu przycisku "Œci¹gaj póŸniej"
+1738=Poka¿ panel wyboru kolejki podczas dodawania œci¹gania wsadowego
+1735=Dodaj pliki do kolejki:
+20884=Nie dodawaj do ¿adnej kolejki
+1736=Uruchom przetwarzanie kolejki
+1737=Nie pytaj mnie ponownie
+20883=Mo¿esz w³¹czyæ ten panel w menu \"Opcje->Œci¹ganie\"
+
+//v5.17b4
+34036=Dodaj œci¹ganie wsadowe ze schowka
+20885=W schowku znaleziono kilka adresów URL. Chcesz je œci¹gn¹æ?
+20886=Œci¹ganie wsadowe ze schowka.
+20887=W schowku nie znaleziono ¿adnych adresów!
+
+//v5.18b3
+m34037=Ikona w zasobniku
+34037=Styl 3D
+34038=Styl klasyczny
+34039=Nie pokazuj
+
+//v5.18b5
+20889=Twoja licencja na Internet Download Managera wygas³a.\r\n IDM przesta³ dzia³aæ. Pozyskaj now¹ licencjê by u¿ywaæ IDM.
+20890=Uwaga:\r\nTwoja licencja na IDM wygaœnie za %ld dni.\r\n\r\n Zauwa¿, ¿e opcja \"Rejestracja->Rejestracja\" jest w tej chwili niekatywna,\r\n ale bêdzie dostêpna ponownie gdy licencja wygaœnie.
+
+20891=Nie zaznaczy³eœ dni tygodnia, w których planowanie powinno siê uruchomiæ!
+20892=Uruchom codziennie
+
+20893=Wstawi³eœ spacjê przed nazw¹ u¿ytkownika. Czy chcesz, aby IDM usun¹³ spacjê, jeœli zosta³a wprowadzona omy³kowo?
+20894=Wstawi³eœ spacjê po nazwie u¿ytkownika. Czy chcesz, aby IDM usun¹³ spacjê, jeœli zosta³a wprowadzona omy³kowo?
+20895=Wstawi³eœ spacjê przed has³em. Czy chcesz, aby IDM usun¹³ spacjê, jeœli zosta³a wprowadzona omy³kowo?
+20896=Wstawi³eœ spacjê po haœle. Czy chcesz, aby IDM usun¹³ spacjê, jeœli zosta³a wprowadzona omy³kowo?
+
+//5.19
+1748=Dostosuj panele œci¹gania IDM w przegl¹darkach
+20899=Dla odtwarzaczy sieciowych
+20900=Dla wybranych plików
+1749=IDM mo¿e wyœwietliæ panel œci¹gania na stronie, gdy zaznaczysz tekst zawieraj¹cy linki do pobrania.
+20901=(Funkcja dzia³a obecnie w Internet Explorerze, przegl¹darkach bazuj¹cych na IE, Firefoxie i przegl¹darkach opartych na Mozilli)
+20903=Œci¹gnij wybrany(e) plik(i) przez IDM
+1744=Wyœwietl panel œci¹gania dla ka¿dego zaznaczonego linku
+1745=Nie wyœwietlaj panelu œci¹gania dla zaznaczonych linków
+1746=Wyœwietl panel œci¹gania dla zaznaczonych linków tylko na poni¿szych stronach:
+1751=Przechwyæ œci¹ganie z poni¿szych przegl¹darek:
+1742=Zaznacz wszystkie
+1743=Odznacz wszystkie
+
+//5.19b3
+20904=IDM nie mo¿e znaleŸæ urz¹dzenia, które instaluje / odinstalowuje zaawansowan¹ integracjê przegl¹darki. Proszê ponownie zainstalowaæ IDM.
+20911=IDM pobierze stronê internetow¹ zamiast pliku.
+20909=Chcesz wiedzieæ, jak pobieraæ pliki z rapidshare przez IDM?
+20910=Chcesz wiedzieæ, jak pobraæ z witryn do udostêpniania plików przez IDM?
+20905=Nie mo¿na przenieœæ pobrania do IDM
+20906=Mo¿liwe, ¿e Twoja przegl¹darka i IDM s¹ ustawione do ró¿nych przywilejów (ró¿ne poziomy elewacyjne).\r\n\r\nW przypadku uruchomienia za pomoc¹ IDM \"Uruchom jako Administrator\", proszê wyjœæ  z IDM (wybierz \"Zadania->Wyjœcie\" w g³ównym oknie IDM) i uruchomiæ ponownie IDM normalnie.\r\n\r\nMo¿e masz \"Uruchom ten program jako administrator\" pole zaznaczone w oknie w³aœciwoœci plików z systemu Windows w IDMan.exe. Proszê otworzyæ folder IDM, kliknij prawym przyciskiem myszy na \"IDMan.exe\", Wybierz pozycjê \"W³aœciwoœci\" , przejdŸ do zak³adki \"Zgodnoœæ\" , i usuñ zaznaczenie z pola \"Uruchom ten program jako administrator\". Równie¿ trzeba usun¹æ zgodnoœci z poprzednimi wersjami systemu Windows, czy s¹ jakieœ aktywne. Potem uruchom ponownie IDM.
+20907=Jeœli pola \"Uruchom ten program jako administrator\" lub \"zgodnoœæ z poprzednimi wersjami systemu Windows\" nie s¹ sprawdzane przez IDM, odznacz je we w³aœciwoœciach systemu Windows w przegl¹darce.
+
+//v6.0b
+20897=film %dx%d, czas trwania %d:%02d
+20912=Czas trwania
+20913 = Proszê pamiêtaæ, ¿e jeœli na komputerze jest kilka kont u¿ytkowników, zaawansowana integracja przegl¹darki zostanie wy³¹czona dla wszystkich u¿ytkowników.
+20914 = Po integracji Internet Download Manager do nowej aplikacji mo¿na wy³¹czyæ \ "Wykrywanie nowych aplikacji \" dla lepszej wydajnoœci.
+20915=To jest wersja BETA Internet Download Manager.\r\nBêdzie ona instalowaæ nowy sterownik sieciowy, co znacznie poprawia integracjê z odtwarzaczy internetowych i zmiany starych integracji z kilku przegl¹darek takich jak Chrome czy Opera. Jeœli pojawi¹ siê jakiekolwiek problemy przy ³¹czeniu siê z Internetem, na przyk³ad, awarie, itd., nale¿y otworzyæ opcje IDM i wy³¹czyæ pole  \"U¿yj zaawansowanych integracji przegl¹darki\" na zak³adce Ogólne. To wy³¹czy nowy sterownik.
+
+//v6.03b2
+20919=IDM wykry³ ¿e Twój komputer nie ma ¿adnego programu do odtwarzania %s filmów. Musisz zainstalowaæ dowolny %s odtwarzacz.\r\n\r\nChcesz przeczytaæ o %s odtwarzaczu?
+20920=%s film zosta³ pobrany
+
+/ /
+/ / Drodzy t³umacze, nale¿y pamiêtaæ, ¿e musimy zmieniæ kilka starych ci¹gów:
+/ /
+
+t1278=Ukryj kategorie
+t32789=Dodaj rêcznie nowy adres pobierania
+t1004=Dodaj plik do listy IDM do pobierania póŸniej
+t1061=Monitorowanie schowka systemowego z linkami do pobrania z IDM
+187=Porzuæ cel IDM. Porzuæ linki do pobrania tutaj.
+20176=¯¹dany plik wygl¹da jak plik strony html.\r\n\r\nJe¿eli ten plik zosta³ przejêty z przegl¹darki automatycznie po klikniêciu na link, spróbuj przytrzymaæ klawisz Alt, po klikniêciu na link, aby pozwoliæ IE otworzyæ stronê.\r\n\r\nCzy chcesz kontynuowaæ pobieranie pliku z IDM i zapisaæ go jako strony html?
+20177=Pobrany plik wygl¹da jak plik strony html.\r\n\r\nJe¿eli ten plik zosta³ przejêty z przegl¹darki automatycznie po klikniêciu na link, spróbuj przytrzymaæ klawisz Alt, po klikniêciu na link, aby pozwoliæ IE otworzyæ stronê.\r\n\r\nChcesz zmieniæ nazwê pobranego pliku na stronie HTML?
+34012=Poszukaj nowych pasków narzêdzi
+20573=Poszukaj nowych pasków narzêdzi
+57670=Zawartoœæ pomocy
+20721=IDM zosta³ pomyœlnie zintegrowany z programem Mozilla Firefox.\n Musisz ponownie uruchomiæ przegl¹darkê Firefox, aby zastosowaæ zmiany.
+20342=Link do pliku zosta³ znaleziony w schowku. Czy chcesz go œci¹gn¹æ?
+
+//Stare znaki 20016, 20017, 20350 zast¹pione przez:
+20916=Wyst¹pi³ nieznany b³¹d podczas pobierania. Prosimy spróbowaæ ponownie.
+20917=Wyst¹pi³ b³¹d podczas pobierania. Prosimy spróbowaæ ponownie.
+20918=Twój numer seryjny dla Internet Download Manager zosta³ zablokowany z powodu ró¿nych/wielu rejestracji. IDM jest wy³¹czony...
+
+//I usuniête nastêpuj¹ce ci¹gi: 
+//20178, 20179, 20180, 20181, 20182, 20183, 20184, 20185, 20186, 20187, 20188, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 
+//20198, 20200, 20201, 20202, 20208, 20209, 20210, 20223, 20224, 1238, 1251, 1314, t1065, t1068, 20016, 20017, 20350
+
+//v6.03b3
+//Zmieniliœmy stare teksty: 20146 i 20033 (Etykiera nazwa)
+
+20921=Chcesz wiedzieæ jak pobieraæ pliki z %s przez IDM?
+20923=IDM wykonywalny jest na pulpicie
+20922=Ty umieœci³eœ plik wykonywalny IDM na pulpicie. IDM nie mo¿e dzia³aæ poprawnie bez ich innych plików, przenieœ IDMan.exe z powrotem do programów i utwórz skrót do IDM na pulpicie. Aby utworzyæ skrót, otwórz folder, IDM w programach, kliknij prawym przyciskiem na pliku IDMan.exe i wybierz \ "Wyœlij do -> Pulpit (utwórz skrót) \" z menu podrêcznego.
+20924=Uwaga 2: Czasami po klikniêciu na link, Twoja przegl¹darka ¿¹da innych plików W TYM SAMYM CZASIE jak skrypty Java, strony internetowe, obrazki, itd. Po naciœniêciu i przytrzymaniu specjalnego przycisku, IDM przechwytuje te pliki, i przegl¹darka nie mo¿e zwróciæ siê do niezbêdnego pliku, poniewa¿ nie bêdzie uruchomiæ JavaScript, która zosta³a przejêta przez IDM b³êdnie. Jeœli chcesz przechwyciæ i pobraæ tylko potrzebne pliki przez IDM, nale¿y w³¹czyæ opcjê poni¿ej:
+1753=Przytrzymuj¹c specjalny klawisz NIE przejmujesz pobierania stron internetowych, obrazków, skryptów itd.
+20925=Masz nieaktualn¹ integracjê przegl¹darki %s lub integracja %s nie jest zainstalowana. Czy chcesz przeczytaæ, jak to naprawiæ?
+20926=IDM pokazuje panel pobierania zamiast przechwytywania pobieranie odtwarzaczy internetowej, gdy %s integracja dzia³a poprawnie.
+
+//v6.04b2
+20928=IDM przechwyci³ ten plik z sieci odtwarzacza multimedialnego, poniewa¿ wy³¹czono panel pobierania dla odpowiedniego typu pliku w Opcjach IDM.\r\n\r\n Jeœli chcesz, IDM wstrzyma siê od przechwytywania takich plików. Proszê klikn¹æ na zak³adkê \"Ogólne\" w Opcjach IDM, nastêpnie na  \"Edytuj...\", \"Dostosuj panele œci¹gania IDM w przegl¹darkach\" i zaznaczyæ pole \"Nie przechwytuj automatycznie pobierañ z odtwarzaczy sieciowych\".
+20929=IDM nie mo¿e anga¿owaæ Zaawansowanej Integracji Przegl¹darki z powodu jednego z nastêpuj¹cych powodów:\r\n1. Nie masz uprawnieñ Administratora lub nie masz uprawnieñ do uruchomienia Programu Pomocniczego IDM do wykonania jako Administrator.\r\n2. Zosta³ naciœniêty przycisk Anuluj w sieci sterownika instalacji IDM.\r\n3. Zablokowano sterownik rozruchowy sieci IDM lub instalacjê za pomoc¹ tego oprogramowania firm trzecich bezpieczeñstwa lub program antywirusowy.
+//v6.04b3
+20930=IDM nie mo¿e znaleŸæ %ld pliku(ów) które s¹ niezbêdne dla przegl¹darki i integracji systemu. Proszê ponownie zainstalowaæ IDM
+
+//v6.06
+//"Numer seryjny" wyjaœnienie w oknie rejestracyjnym
+20931=Co to jest \"%s\"?
+20932=%s jest kluczem Internet Download Manager.\r\nJest to unikalny kod alfanumeryczny dla ka¿dego u¿ytkownika, który wygl¹da jak\r\n xxxxx-xxxxx-xxxxx-xxxxx\r\n\r\nOtrzymasz numer seryjny TYLKO po zakupie IDM.\r\nProszê nacisn¹æ przycisk \"%s\" ¿eby kupiæ IDM.
+
+//v6.07
+20933=Te ustawienia s¹ niedostêpne dla plików do pobrania, które s¹ przetwarzane przez kolejkê IDM 
+20934=Te ustawienia s¹ niedostêpne, kiedy opcja \"%s\" jest w³¹czona
+363=Status pobierania
+364=Opcje na zakoñczenie
+20935=Internet Download Manager zakoñczy³ pobierania pliku. Wed³ug Twoich ustawieñ dla tego pobierania IDM wy³¹czy siê. Ale masz inne pliki do pobrania w toku, które zostan¹ zatrzymane po wyjœciu. Naciœnij przycisk Anuluj, aby nie wyjœæ.
+20936=Internet Download Manager zakoñczy³ pobierania pliku. Wed³ug Twoich ustawieñ dla tego pobierania IDM roz³¹czy Twój modem.
+20937=Internet Download Manager zakoñczy³ pobierania pliku. Wed³ug Twoich ustawieñ dla tego pobierania IDM Twój komputer zostanie wy³¹czony.
+1762= Poka¿ panel pobierania dla chronionej treœci \r\n które IDM nie mo¿e pobieraæ
+20938=chroniona treœæ
+20939=IDM nie mo¿e pobraæ tego strumienia chronionego ze wzglêdów prawnych. Pobieranie takich strumieni nie jest obs³ugiwane, poniewa¿ IDM nie mo¿e omin¹æ œrodków technicznych, które s¹ wykonane w celu ochrony treœci audio, wideo i danych.\r\n\r\nTo jest mo¿liwe, aby wy³¹czyæ panel pobierania dla chronionej zawartoœci IDM w \ "Opcje IDM -> zak³adka Ogólne \"
+
+//v6.07b7
+365=Ogranicznik prêdkoœci
+1763=Maksymalna prêdkoœæ pobierania:
+1765=Zapamiêtaj ustawienia Ogranicznika prêdkoœci dla tego pliku\r\n do pobierania zatrzymaj/przywróæ
+1772=Ukryj zak³adkê
+367=Dostosuj pobieranie dialog postêpu
+1767=Dostosuj "Postêp pobierania" dialog
+1775=Rozpocznij przegl¹danie:
+1774=Uwaga: "Start view" option doesn't relate to queue processing. When IDM is processing queues,  "Download progress" dialog always starts minimized in system tray
+1768=Poka¿ zak³adkê "Ogranicznik prêdkoœci" 
+1769=Poka¿ zak³adkê "Opcje na zakoñczenie" 
+1773=Poka¿ przyciski "Ukryj zak³adkê"
+
+//v6.07b12
+20941=B³¹d podczas ³¹czenia z VPN
+20940=Mo¿liwe, ¿e trzeba zmieniæ po³¹czenie VPN, które jest ustawione w opcjach IDM, lub wy³¹czyæ pole \"U¿yj Windows Dial Up / Sieæ VPN\" w opcjach IDM  zak³adka -> \"Dial Up / VPN\" 
+20942=jakoœæ
+
+//v6.08b2 beta
+20949=Proxy/Socks
+20948=Konfiguracja Proxy / socks 
+369=Zaawansowane ustawienia proxy 
+1777=Zaawansowane...
+1778=U¿yj proxy
+1785=U¿yj tego proxy dla nastêpuj¹cych protoko³ów:
+1779=U¿yj socks
+1786=adres serwera Socks 
+20943=Nie mo¿na po³¹czyæ siê z serwerem Socks , wymagane zezwolenie
+20944=Serwer Socks nie mo¿e po³¹czyæ siê %s 
+20945=Nie mo¿na siê po³¹czyæ za poœrednictwem serwera socks, nieznany typ socks
+20946=Nie mo¿na siê po³¹czyæ za poœrednictwem serwera socks, brak autoryzacji!
+20947=Nie mo¿na po³¹czyæ siê z serwerem socks %s
+
+//v6.09b2 beta
+1787=Wyj¹tki
+370=Pobierz wyj¹tki panelu
+1788=Nie pokazuj panelu pobierania IDM na nastêpuj¹cych stronach:
+1789=Oddziel nazwy spacjami. Mo¿esz u¿yæ gwiazdki jako zamiennika dowolnego wzoru
+20950=IDM nie mo¿e anga¿owaæ Zaawansowanej Integracji Przegl¹darki poniewa¿ us³uga Windows \"Podstawowy aparat filtrowania\" Windows nie jest uruchomiona. Proszê klikn¹æ prawym przyciskiem myszy ikonê Mój Komputer, wybierz \ "Zarz¹dzaj \", przejdŸ do \ "Us³ugi i aplikacje -> Us³ugi \", a nastêpnie wybraæ \ "Podstawowy aparat filtrowania \" na liœcie i kliknij prawym przyciskiem myszy na tym, aby otworzyæ okno W³aœciwoœci. Zmieñ typ uruchamiania na \"Automatyczny\", kliknij \"Start\" i potwierdŸ zmiany.\r\n\r\nKliknij OK, aby odwiedziæ stronê internetow¹ po dodatkowe informacje.
+20951=IDM nie mo¿e anga¿owaæ Zaawansowanej Integracji Przegl¹darki poniewa¿ us³uga Windows \"Podstawowy aparat filtrowania\" jest niedostêpna. To mo¿e byæ uszkodzone przez szkodliwe oprogramowania na komputerze\r\n\r\nKliknij przycisk OK, aby otworzyæ stronê internetow¹ z instrukcjami odzyskiwania.
+
+//v6.11
+341=Dodaj typ pliku
+349=Wpisz nazwê strony
+1790=Automatycznie umieœciæ pliki w tej kategorii tylko z nastêpuj¹cych witryn :
+1793=Oddziel strony spacjami. Mo¿esz u¿yæ gwiazdki jako zamiennika dowolnego wzoru
+20952=Nale¿y pamiêtaæ, ¿e zgodnie z warunkami IDM, które zosta³y przyjête podczas instalacji, teraz nale¿y albo odinstalowaæ IDM, albo kupiæ licencjê.
+
+//v6.11b7
+20953=Ostatni...
+
+
+//v6.12b2
+20954=Twoja przegl¹darka nie mo¿e otworzyæ strony IDM, poniewa¿ wa¿ny plik na Twoim komputerze jest uszkodzony. Naprawiæ ten plik ?
+20955=IDM nie mo¿e sprawdziæ dostêpnoœci aktualizacji poniewa¿ wa¿ny plik na Twoim komputerze jest uszkodzony. Naprawiæ ten plik ?
+
+//v6.12b5
+1795=Ustaw datê utworzenia pliku jak przewidziano przez serwer
+
+//v6.12b6
+20956=W celu aktualizacji rozszerzenia IDM dla Firefox proszê zamkn¹æ Firefox(lub SeaMonkey) a nastêpnie naciœnij przycisk \"Ponów\" \r\nAlbo trzeba bêdzie ponownie uruchomiæ komputer póŸniej
+
+//v6.12b8
+//Proszê zwróciæ uwagê, ¿e dodaliœmy mo¿liwoœæ przet³umaczenia tekstu instalatora IDM instalatora i deinstalatora IDM. 
+//Mo¿na znaleŸæ szablon do przet³umaczenia instalatora w plku "template_inst.lng" w folderze "Languages" 
+
+//v6.12b22
+20995=IDM zacz¹³ pobraæ plik za pomoc¹ jednego po³¹czenia z powodu utraty danych, gdy nowo otrzymane dane w kilku po³¹czeniach nie pasuj¹ do tych samych danych pobranych wczeœniej.\r\nChcesz przeczytaæ o mo¿liwych przyczynach utraty danych?
+20996=IDM zacz¹³ pobraæ plik od pocz¹tku, poniewa¿ dane zosta³y uszkodzone. Nowo otrzymane dane nie pasuj¹ do tych samych danych pobranych wczeœniej.\r\nChcesz przeczytaæ o mo¿liwych przyczynach utraty danych?
+20997=Rozszerzenie IDM zosta³o pomyœlnie zainstalowane n(lub zaktualizowane) dla przegl¹darki Google Chrome.\nMusisz ponownie uruchomiæ Google Chrome, ¿eby zaakceptowaæ zmiany.
+
+//v6.15
+1796=U¿yj skryptu automatycznej konfiguracji
+20998=Autoryzacja Proxy jest wymagana dla tego serwera proxy. Lub proszê odznaczyæ pole \"U¿yj skryptu automatycznej konfiguracji\" w opcjach IDM Opcje->Proxy/Socks
+20999=IDM wykry³, ¿e u¿ywasz nastêpuj¹cego skryptu automatycznej konfiguracji serwera proxy w programie Internet Explorer:\r\n%s\r\n\r\nCzy chcesz korzystaæ z tych samych ustawieñ serwera proxy w IDM?
+
+//v6.15b7
+21000=To jest transmisja nadawana na ¿ywo. Jeœli j¹ zatrzymasz, to program nie bêdzie w stanie wznowiæ pobierania od aktualnej pozycji.\r\nChcesz ¿eby zatrzymaæ i zapisaæ transmisjê jako kompletny plik?
+21001=Zapisywanie strumienia na ¿ywo
+
+//v6.15b9
+21002=Pobieranie przez skrypt proxy nie powiod³o siê
+21003=Chcesz przeczytaæ szczegó³owe instrukcje, jak skonfigurowaæ Firewall/Zaporê do pracy z IDM?
+
+//6.15b10
+21004=nieznany format (%d)
+20898=Pobieranie a¿ ramka bêdzie pasowaæ do nastêpnej czêœci pliku...
+
+//v6.16
+21105=Zaawansowana Integracja Przegl¹darki nie mo¿e byæ w³¹czona, poniewa¿ wersja Kaspersky po zainstalowaniu sterownika TDI jest wadliwa!\r\n Jeœli automatyczna aktualizacja produktu Kaspersky nie pomo¿e, skontaktuj siê z obs³ug¹ Kaspersky, która pozwoli uzyskaæ aktualizacjê sterownika \ "kltdi \" .
+
+//v6.17b7
+21106=Wyst¹pi³ b³¹d podczas ³¹czenia pliku
+21109=Ta wersja IDM nie obs³uguje tego typu pobierania. Spróbuj zaktualizowaæ IDM do najnowszej wersji.
+21110=Rozszerzenie IDM zosta³o pomyœlnie zainstalowane w przegl¹darce Google Chrome.\r\nMusisz w³¹czyæ  rozszerzenie \"Modu³ integracji IDM\" w ustawieniach Google Chrome, jeœli chcesz, aby IDM wspó³pracowa³ z Chrome
+21111=1. Uruchom ponownie Google Chrome i naciœnij na menu Chrome (strza³ka 1 na zdjêciu).\r\n2. Wybierz pozycjê \"Wiêcej narzêdzi\" z menu (strza³ka 2 na zdjêciu).\r\n3. Wybierz zak³adkê \"Rozszerzenia\" (strza³ka 3 na zdjêciu). \r\n4. SprawdŸ, czy rozszerzenie \"Modu³ integracji IDM\" jest w³¹czone (strza³ka 4 na zdjêciu).\r\n5. Jeœli korzystasz z trybu incognito w Chrome, musisz zaznaczyæ pole \"Zezwalaj w trybie incognito\"  (strza³ka 5 na zdjêciu).
+
+//v6.17b9
+//Drodzy t³umacze, proszê zwróciæ uwagê, ¿e dodaliœmy jedn¹ now¹ liniê do pliku template_inst.lng . Proszê j¹ przet³umaczyæ i dodaæ do pliku t³umaczenia instalatora.
+
+//v6.18b8
+//we have changed Options->Connection tab
+21113=Niska prêdkoœæ: Dial Up modem / ISDN / Bluetooth / Mobile Edge / IrDA
+21114=Œrednia prêdkoœæ: ADSL / DSL /  Mobile 3G / Wi-Fi / Bluetooth 3.0 / inne
+21115=Wysoka prêdkoœæ: Bezpoœrednie po³¹czenie (Ethernet/Cable) / Wi-Fi / Mobile 4G / inne
+21116=Prosimy o ostro¿noœæ przy korzystaniu z du¿ej liczby po³¹czeñ. Niektóre serwery mog¹ mieæ szczególne ograniczenia na iloœæ po³¹czeñ z jednym klientem. Gdy liczba po³¹czeñ jest du¿a, serwery mog¹ umieœciæ Twój komputer na czarnej liœcie, zw³aszcza je¿eli pobierasz kilka plików w tym samym czasie z du¿¹ liczb¹ po³¹czeñ.\r\n\r\nCo wiêcej, w przypadku niektórych typów po³¹czeñ lub komputerów czy routerów o niskiej wydajnoœci, prêdkoœæ pobierania mo¿e ulec zmniejszeniu, gdy zwiêkszasz liczbê po³¹czeñ.
+
+//v6.19
+21117=Wprowadzi³eœ jedynie nazwê folderu. Proszê wprowadziæ nazwê pliku.
+21118=Rozmiar \"%s\" pliku wynosi %.1f GBajtów.\r\nDysk \"%s\" na którym chcesz zapisaæ ten plik posiada %s plików systemowych. Pliki wiêksze ni¿ %d GBytów nie mog¹ byæ zapisane w tym systemie plików.\r\n\r\nProszê wybierz folder dla tego pliku na kolejnym dysku z systemem plików NTFS
+21119=Rozmiar \r\n%s\r\n pliku wynosi %.1f GBajtów.\r\nIDM\'s tymczasowy katalog do przechowywania czêœci plików podczas pobierania znajduje siê na dysku \"%s\", ten dysk posiada %s plików systemowych. Pliki wiêksze ni¿ %d GBajtów nie mog¹ byæ zapisane w tym systemie plików.\r\n\r\nAby kontynuowaæ pobieranie plików, zmieñ tymczasow¹ lokalizacjê katalogu w \"Opcje->Zapisz do\" i wznów pobieranie
+
+//v6.19b8
+21005=tylko œcie¿ka audio
+21006=tylko œcie¿ka wideo
+
+//v6.19b9
+21120=Sprawdzanie aktualizacji nie powiod³o siê, poniewa¿ aktualizacja informacji jest nieprawid³owa.\r\nJeœli korzystasz z  wi-fi, które wymaga logowania w przegl¹darce, zaloguj siê przed sprawdzeniem aktualizacji
+21121=Niektóre aplikacje uszkodzi³y integracjê IDM z przegl¹darkami\r\n\r\nMusisz przeinstalowaæ IDM, aby to naprawiæ. Mo¿esz równie¿ spróbowaæ uaktualniæ IDM poprzez \"Pomoc->Szybka aktualizacja\" w menu IDM.\r\nUpewnij siê, ¿e masz w³¹czon¹ integracjê IDM z przegl¹darkami Opcje -> Ogólne.
+
+//6.21b3
+21125=Przenieœ
+21126=Przenieœ/zmieñ nazwê
+
+//new "Find file" dialog
+487=ZnajdŸ plik
+21122=ZnajdŸ plik
+21123=Nie znaleziono plików
+21124=Zakoñczono przeszukiwanie
+1807=Nazwa pliku lub czêœæ nazwy:
+1809=Opis lub czêœæ opisu:
+1811=Match case
+1812=Match whole string only
+1673=ZnajdŸ
+//New subitems in "Downloads" main menu
+34040=ZnajdŸ (Ctrl-F)
+34041=ZnajdŸ nastêpne (F3)
+
+//v6.21b5
+21128=IDM nie móg³ rozpocz¹æ aktualizacji. Mo¿e to byæ spowodowane nieprawid³owymi ustawieniami antywirusa dla folderu zawieraj¹cego pliki IDM.\r\n\r\nIDM otworzy teraz ten folder i bêdziesz móg³ uruchomiæ \"idmupdt.exe\" rêcznie.\r\n\r\nMo¿esz te¿ pobraæ najnowsz¹ wersjê IDM ze strony programu i zainstalowaæ j¹ zastêpuj¹c w ten sposób obecn¹
+21129=Inna jakoœæ...
+21130=Je¿eli chcesz pobraæ to wideo w innej jakoœci, wybierz ¿¹dan¹ jakoœæ w odtwarzaczu wideo. Odt¹d, wybrana jakoœæ bêdzie siê pojawiaæ w rozwijanym menu panelu pobierania IDM.
+21131=Wybierz folder
+
+//v6.21b11
+21132=IDM pobra³ %s pliki korzystaj¹ce z nowszego kodeka, który nie jest zainstalowany na twoim komputerze.\r\nWiêcej informacji na ten temat znajdziesz na stronie IDM.
+1813=U¿yj zaawansowanego przetwarzania stron WWW
+21133=Kilka modu³ów IDM nie zosta³o zaktualizowanych. Przeinstaluj najnowsz¹ wersjê IDM, zrestartuj komputer i spróbuj pobraæ ten plik ponownie
+
+//v6.21b16
+21134=IDM nie bêdzie w stanie wybudziæ komputera z trybu uœpienia, aby rozpocz¹æ pobieranie kolejki w zaplanowanym czasie.
+21135=Nale¿y pamiêtaæ, ¿e po prze³¹czeniu do trybu Metro, pulpit mo¿e przejœæ w tryb uœpienia.
+21136=Jeœli chcesz, aby IDM rozpocz¹³ pobieranie kolejki w zaplanowanym czasie, uaktywnij opcjê wznawiania pracy wed³ug czasomierza w ustawieniach systemu Windows.\r\nOtwórz \"Panel sterowania\\Opcje zasilania\\Zmieñ ustawienia planu\\Zmieñ zaawansowane ustawienia zasilania\", potem kliknij na \"Uœpienie\\Zezwalaj na wznawianie pracy wed³ug czasomierza\" i wybierz \"W³¹cz\".\r\n\r\nCzy chcesz zobaczyæ jak to zrobiæ na screenshotach?
+
+//v6.23b12
+21137=Zauwa¿, ¿e ta i inne wersje programu nie mog¹ u¿ywaæ pliku \"hosts\", kiedy ³¹cz¹ siê ze stron¹ IDM. Kiedy zmieniasz ten plik, zamykasz dostêp do strony internetowej IDM w przegl¹darce. Po naciœniêciu przycisku OK, IDM bêdzie sprawdzaæ aktualizacje nawet z uszkodzonym plikiem \"hosts\".
+21138=Twoja przegl¹darka nie mo¿e otworzyæ witryny IDM, poniewa¿ uszkodzony zosta³ wa¿ny plik systemowy. IDM naprawi teraz ten plik.
+
+//v6.25b16
+21139=Numer seryjny IDM, który wpisa³eœ jest u¿ywany na innym komputerze i po³¹czony z innym adresem e-mail
+21140=Numer seryjny IDM\r\n%s\r\n, który wpisa³eœ jest u¿ywany na innym komputerze.\r\n\r\nJeœli chcesz u¿ywaæ ten numer seryjny na tym komputerze, musisz odinstalowaæ IDM z innego komputera (lub wszystkich innych), na którym ten numer seryjny zosta³ wczeœniej u¿yty. Je¿eli korzystasz z tego samego numeru seryjnego na innych komputerach w tym samym czasie, zostanie on automatycznie zablokowany.\r\n\r\nCzy chcesz kontynuowaæ rejestracjê IDM z with\r\n%s\r\nnumerem seryjnym?
+//Please pay attention that we have added one more new line (1063) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.25b18
+21142=Chcesz dowiedzieæ siê wiêcej?
+21141=Zarejestrowa³eœ IDM poni¿szym numerem seryjnym\r\n%s\r\n\r\nTen numer seryjny jest blokowany na serwerach IDM. Trwa zamykanie IDM...
+
+/v6.26b5
+21146=IDM znalaz³ niepowi¹zane i nieusuniête fragmenty starych pobrañ w folderze tymczasowym\r\n%s\r\nCzy chcesz je usun¹æ, aby zwolniæ miejsce na dysku?
+
+//v6.27
+21147=Twój numer seryjny zaczyna siê od:  %s...............
+488=Minimalny rozmiar
+1822=Min. rozmiar
+21148=Nie pokazuj panelu \"Œci¹gnij ten plik audio\", jeœli rozmiar pliku audio jest poni¿ej min. rozmiaru w kilobajtach
+21149=Nie pokazuj panelu \"Œci¹gnij ten plik wideo\", jeœli rozmiar pliku media jest poni¿ej min. rozmiaru w kilobajtach
+21150=Uwaga: Ograniczenie to dzia³a tylko wtedy, gdy rozmiar pliku multimedialnego jest znany. Istniej¹ sytuacje, kiedy znany jest tylko czas trwania albo nic nie jest wiadome a¿ do momentu pobrania ca³ego pliku. W takich sytuacjach ograniczenie rozmiaru pliku nie bêdzie dzia³aæ.
+
+//v6.28b7
+21151=Mo¿liwe, ¿e posiadasz przestarza³e biblioteki kryptograficzne systemu Windows XP.\r\nCzy chcia³byœ dowiedzieæ siê wiêcej?
+
+21153=Zamknij
+21154=Uœpij
+21155=Hibernuj
+21157=Internet Download Manager zakoñczy³ przetwarzanie kolejki. Zgodnie z ustawieniami harmonogramu komputer przejdzie w tryb uœpienia.
+21158=Internet Download Manager zakoñczy³ przetwarzanie projektu grabber. Zgodnie z ustawieniami harmonogramu projektu komputer przejdzie w tryb uœpienia.
+21159=Internet Download Manager zakoñczy³ pobieranie pliku. Zgodnie z ustawieniami dla tego pobierania komputer przejdzie w tryb uœpienia.
+21160=Internet Download Manager zakoñczy³ przetwarzanie kolejki. Zgodnie z ustawieniami harmonogramu komputer przejdzie w tryb hibernacji.
+21161=Internet Download Manager zakoñczy³ przetwarzanie projektu grabber. Zgodnie z ustawieniami harmonogramu projektu komputer przejdzie w tryb hibernacji.
+21162=Internet Download Manager zakoñczy³ pobieranie pliku. Zgodnie z ustawieniami dla tego pobierania komputer przejdzie w tryb hibernacji.
+21163=Tryb uœpienia
+21164=Uœpij teraz
+21165=Hibernuj teraz
+
+21167=Integracja z programem IDM w przegl¹darce Firefox 53 i nowszych bêdzie dzia³aæ tylko wtedy, gdy opcja "Zaawansowana integracja z przegl¹dark¹" jest w³¹czona na karcie Opcje -> Ogólne 
+
+//v6.30
+1823=Rêczna konfiguracja proxy/socks
+1824=Automatycznie wykryj ustawienia proxy dla tej sieci
+1825=U¿yj ustawieñ systemowych
+1826=Brak proxy/socks
+21169=IDM nie mo¿e wykryæ adresu URL pliku automatycznej konfiguracji proxy dla tej sieci!/r/n/r/nJe¿eli Twoja sieæ nie jest skonfigurowana automatycznie, nie powinieneœ u¿ywaæ tej opcji, aby unikn¹æ opóŸnieñ, gdy IDM próbuje znaleŸæ plik pakietu proxy.
+489=Integracja z przegl¹dark¹ Microsoft Edge
+21170=Dodano nowe rozszerzenie modu³u IDM dla przegl¹darki Edge. Jest ono niezbêdne do pe³nej integracji IDM z Microsoft Edge. IDM rozpocznie teraz instalacjê tego rozszerzenia z Microsoft Store.\r\nPo zamkniêciu tego okna dialogowego bêdzie mo¿na zainstalowaæ rozszerzenie IDM.\r\nKliknij na przycisk "Pobierz" w oknie dialogowym Microsoft Store, jak pokazano na poni¿szym obrazku. 
+1828=Nastepnie poczekaj na zakoñczenie instalacji i uruchom Microsoft Edge. Po kilku sekundach przegl¹darka wyœwietli powiadomienie o nowym rozszerzeniu. PotwierdŸ, klikaj¹c przycisk "W³¹cz". Spójrz na obrazek poni¿ej.
+
+//v6.30b7
+p21171=WprowadŸ swój adres e-mail, na który wyœlemy numer seryjny IDM i inne dane rejestracyjne po dokonaniu zakupu.
+p21172=Ten adres e-mail mo¿e zostaæ wykorzystany do odzyskania numeru seryjnego IDM, jeœli go zgubisz lub do priorytetowego wsparcia. Dlatego wa¿ne jest, aby by³ on prawid³owy.
+p21173=WprowadŸ swój adres e-mail
+
+p21174=Twoja roczna licencja IDM z numerem seryjnym rozpoczynaj¹cym siê od %s...
+p21175=wygasa (lub wygas³a) w %s
+
+p21176=Czy chcia³byœ przed³u¿yæ licencjê na kolejny rok?
+p21177=Przed³u¿ licencjê teraz
+p21178=Mo¿esz tak¿e nacisn¹æ przycisk "Buy" w menu strony internetowej, aby otworzyæ zwyk³¹ stronê zakupu
+
+//v6.30b8
+21179=Twoja licencja IDM zosta³a przed³u¿ona do %s
+
+//v6.33
+21180=Popraw przechwytywanie pobrañ
+21181=IDM wyœle raport o problemie z powtarzaj¹cymi siê ¿¹daniami pobierania z %s strony internetowej, a zasady przetwarzania pobrañ z tej strony bez specjalnych klawiszy, powinny zostaæ dodane do serwerów IDM w pewnym czasie.\r\n\r\nMo¿liwe, ¿e serwery IDM maj¹ ju¿ rozwi¹zanie umo¿liwiaj¹ce pobieranie z tej strony, wówczas IDM zaktualizuje swoj¹ bazê danych po wys³aniu tego raportu.
+21182=Regu³y przetwarzania pobrañ ze %s strony internetowej zosta³y zaktualizowane.\r\nTeraz pobieranie z tej strony mo¿e zostaæ przechwycone bez u¿ycia specjalnych klawiszy.\r\n\r\nZauwa¿, ¿e stare pobrania, które zosta³y dodane przed aktualizacj¹, nie zostan¹ wznowione. Musisz je usuñ i pobraæ ponownie. 
+21183=Niezmodyfikowane
+21184=IDM przechwyci³ pobieranie, które zgodnie z %s ustawieniami strony, mo¿e byæ za¿¹dane tylko raz, dlatego IDM próbuje dokonaæ tego poza przegl¹dark¹. Brak wystarczaj¹cej iloœci danych w przechwyconym ¿¹daniu, aby móc pobraæ ten plik.\r\n\rMo¿liwe, ¿e dodajesz plik do przegl¹darki w nietypowy sposób, pomijaj¹c przetwarzanie strony na serwisach hostingowych. W takim przypadku musisz zacz¹æ od publicznego linku do pobierania i przejœæ przez wszystkie niezbêdne kroki, aby przechwycone ¿¹danie zawiera³o wszystkie niezbêdne dane. \r\n\r\nJeœli nie jest to pobieranie, a IDM przez pomy³kê je przechwyci³, proszê ustawiæ specjalny klawisz ("Del" powinien dzia³aæ w wiêkszoœci przegl¹darek) w opcjach IDM -> Ogólne -> "Dostosuj klawisze, aby zapobiec lub wymusiæ pobieranie za pomoc¹ IDM" i przytrzymaæ go, klikaj¹c na link, aby zapobiec pobieraniu za pomoc¹ IDM
+21185=Plik z regu³ami pobierania, który zosta³ pobrany z serwerów IDM ma nowy format.\r\nProszê zaktualizowaæ IDM, wybieraj¹c \"Pomoc->Szybka aktualizacja\" w menu, aby IDM móg³ u¿ywaæ tych regu³.
+
+//v6.33b3
+21186=Mo¿e wyst¹piæ taki problem, poniewa¿ rozszerzenie "Modu³ integracji IDM" jest wy³¹czone lub nie jest zainstalowane w przegl¹darce.

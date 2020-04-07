@@ -1,0 +1,99 @@
+instlng=0x04 正體中文
+full_lng=idm_cht.lng
+//Updated by IMOK (2019/1/23)
+
+//This template should be used to translate Internet Download Manager installer to foreign languages.
+//All files of installer translations should be named using inst_*.lng name pattern convention. 
+//Please place the abbreviated language name (e.g. de, en, es, fr, etc. :) instead of the asterisk. 
+//For example: inst_de.lng, inst_fr.lng etc.
+ 
+//The first string inside the template should be lang=ID Name
+//where Name - the full name of the language,
+//ID - hex number that defines Windows API value of the language, it is the same as in the main lng file.
+//The second line "full_lng=idm_*.lng" is the name of your main lng file
+ 
+
+//It's IMPORTANT when a string has any special characters 
+//(%i %s %d %x %ld %I64d %% \r\n), they should all remain in the translated 
+//string and cannot change places. Remember that IDM inserts dynamic 
+//values instead of these special characters in a predefined order. 
+//Instead of %s IDM inserts a string, %% - %, in all other cases IDM inserts a number.
+ 
+//The strings beginning with // are comments 
+//and you don't need to translate them and it is better if you delete them
+
+//You can read how to test installer translation on the following page
+// http://www.internetdownloadmanager.com/support/testinsttr.html
+
+20984=Internet Download Manager 安裝精靈
+20992=請閱讀 IDM 授權許可協議
+20985=選擇安裝路徑
+20986=選擇開始功能表目錄
+20987=開始安裝 Internet Download Manager
+20988=安裝中
+20989=安裝完成
+20990=選擇移除類型
+20991=開始移除
+20993=Internet Download Manager 快速更新
+1050=歡迎使用 Internet Download Manager 安裝程式，這個程式將安裝 Internet Download Manager 到您的電腦。
+1053=開始安裝之前請先關閉您所有的網頁瀏覽器，然後請按「下一步」開始安裝。
+1054=警告：本軟體受著作權法及國際公約之保護。
+1055=未經授權擅自複製或散佈本程式之全部或它的任何部分，將導致嚴厲的的民事和刑事處分，且將被依法提起最大範圍的追訴。
+1039=將安裝 Internet Download Manager 至下列路徑。
+1040=如果要安裝到不同的路徑，請按「瀏覽...」並選擇一個安裝位置。
+1041=安裝路徑
+1016=瀏覽...
+1044=請輸入 Internet Download Manager 開始功能表名稱
+1047=即將安裝 Internet Download Manager。\r\n\r\n請按「下一步」開始安裝或按「上一步」變更安裝設定。
+1035=Internet Download Manager 已安裝成功。
+1036=請按「完成」結束安裝程式。
+1037=如果您希望 IDM 在安裝完成後立即接管您的下載，請先關閉您所有的網頁瀏覽器，待開始使用 IDM 後再開啟瀏覽器。
+1042=目前進度
+1038=複製檔案：
+1043=所有檔案
+108=IDM 安裝
+1059=安裝未完成，如果您結束程式 Internet Download Manager 將不會安裝到您的電腦。\r\n您需要重新執行安裝程式才能完成安裝。
+1060=如果要繼續安裝請按「恢復」，如果要結束安裝程式，請按「結束」。
+1000=恢復
+1001=結束
+1015=< 上一步
+1008=下一步 >
+1009=完成 >
+1007=取消
+1058=歡迎使用 Internet Download Manager 移除精靈
+1057=您可以選擇「預設值」或「完整」選項進行軟體移除。
+1027=預設值
+1028=完整
+1056=預設值選項將移除 IDM 可執行檔與瀏覽器整合。
+1061=完整選項將額外移除尚未完成的下載、清空 IDM 下載清單與使用者設定。如果您打算稍後繼續使用 IDM 並保留您的下載與相關設定，請勿選擇完整選項。
+1045=即將從您的電腦中移除 Internet Download Manager。
+1046=請按「完成」開始移除或按「取消」結束程式
+1049=正在移除 Internet Download Manager...
+1048=移除檔案：
+1051=請選擇 IDM 使用者界面語言（稍後，您可以透過「檢視->語言」選項變更語言）
+20957=從 %s 瀏覽器移除 IDM 整合時發生未知的錯誤，您可能需要手動刪除 %s
+20958=IDM 移除程式
+20960=剩餘時間：%i 分 %i 秒
+20962=IDM 安裝程式
+20963=請注意
+20964=這個目錄有部分檔案存在。\r\n如果您要繼續安裝並確定要覆寫已存在的檔案，請按「OK」\r\n如果您要選擇其他安裝位置，請按「CANCEL」
+20965=IDM 安裝程式將重新啟動您的電腦以取代或刪除正在使用中的檔案，請按「OK」重新啟動您的電腦
+20966=重新啟動
+20971=Windows 無法註冊「%s」\r\n路徑下所有的 IDM 元件。\r\n\r\n請選擇一個只包含英文字元的路徑來安裝 IDM。
+20972=正在更新 IDM 網路驅動程式...
+20973=請勿取消 Windows 檔案複製的對話框
+20974=在指定的位置建立目錄時發生「拒絕存取」錯誤！請選擇另一個安裝路徑或是以系管理員的身分登入安裝。
+20975=%s\r\n於指定的位置無法建立！請選擇另一個安裝路徑。
+20976=IDM 安裝程式需要大約 10 MB 的磁碟空間，您選擇的磁碟空間不足，無法安裝 IDM！請釋放部分磁碟空間或是選擇另一個安裝路徑。
+20980=當複製 IDM 可執行檔到指定路徑時發生「拒絕存取」錯誤！請選擇另一個安裝路徑或是以系管理員的身分登入安裝。
+20981=IDM 無法安裝一個或多個相關聯的檔案。然而，這個問題並不嚴重，若安裝程式繼續進行，IDM 仍然可以使用。您是否要繼續安裝？
+20982=Internet Download Manager 已更新成功。
+20983=Internet Download Manager 正在執行中。\r\n繼續之前，請先從 IDM 主視窗中選擇「任務->結束」以關閉 IDM。
+//Please change XXX on the language you are translating IDM to
+20994=IDM 需要從官方網站上下載「正體中文」語系檔案
+//new v6.17
+1062=在桌面建立 IDM 捷徑
+//new v6.18b3
+21112=如果您將 IDM 安裝到該路徑，IDM 的進階瀏覽器整合功能將無法整合到 Internet Explorer。\r\n\r\n您必須將 IDM 安裝到「%s」。\r\n\r\n您是否要將安裝路徑變更為「%s」？
+//new v6.25b15
+1063=我接受授權許可協議及其條款

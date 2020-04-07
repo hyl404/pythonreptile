@@ -1,0 +1,1894 @@
+lang=0x2a Tiêìng_Viêòt
+tips=tips_vn.txt
+
+// Dialogs
+
+//main dialog
+1281=ThêÒ loaòi
+20369=KiêÒu chõÌ taÒi
+20370=Tên têòp
+20371=Traòng thaìi
+20372=Kiìch thıõìc
+20373=ThõÌi gian coÌn laòi
+20374=Tôìc ğôò taÒi xuôìng
+20375=Mô taÒ
+
+//toolbar
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//A long inscription can make all buttons wider and they may cross the border 
+//of the dialog.
+20376=Thêm URL
+20377=TaÒi tiêìp
+20378=DıÌng
+20379=DıÌng tâìt caÒ
+20380=Xoìa
+20446=Xoìa caìc muòc taÒi xong
+20381=TuÌy choòn
+20382=Lâòp liòch
+20383=Noìi võìi baòn beÌ
+//tooltips for buttons
+t32790=Bãìt ğâÌu/TaÒi tiêìp (caìc) têòp tin ğıõòc choòn
+t32791=DıÌng taÒi (caìc) têòp tin ğıõòc choòn
+t32792=DıÌng taÒi tâìt caÒ
+t32793=Xoìa (caìc) têòp tin ğıõòc choòn khoÒi danh saìch
+t32794=Xoìa tâìt caÒ têòp tên ğaŞ taÒi xong khoÒi danh saìch
+t32795=Tiìch hõòp triÌnh duyêòt/hêò thôìng, caìc loaòi ğuôi mõÒ rông cuÒa têòp, Proxy, thông tin ğãng nhâòp vaÌ nhiêÌu tuÌy choòn khaìc
+t32798=Lâòp liòch vaÌ chõÌ taÒi
+t32788=Viêìt thı cho baòn beÌ cuÒa baòn vêÌ IDM
+
+//Registration dialog
+138=Ğãng kyì sıÒ duòng Internet Download Manager
+1326=HaŞy ğiêÌn thông tin ğãng kyì cuÒa baòn vaÌo caìc ô tıõng ıìng rôÌi bâìm OK
+1330=Sôì ğãng kyì
+1327=Tên
+1328=Hoò
+1329=E-mail
+1191=&OK
+1201=&Caìch ğãng kyì
+1080=&HuÒy boÒ
+
+//Download progress dialog
+103=Tiêìn triÌnh taÒi xuôìng
+1154=(chıa biêìt)
+1178=<< ÂÒn chi tiêìt
+20426=<< ÂÒn chi tiêìt
+1158=Taòm dıÌng
+20392=Taòm dıÌng
+20424=Bãìt ğâÌu
+20425=Hiêòn chi tiêìt >>
+1300=Kiìch thıõìc têòp tin
+1301=ĞaŞ taÒi ğıõòc
+1302=Tôìc ğôò truyêÌn taÒi
+1303=ThõÌi gian coÌn laòi
+1149=(chıa biêìt)
+1299=Traòng thaìi:
+1030=Ğang kêìt nôìi...
+1305=Tiêìn triÌnh taÒi xuôìng vaÌ caìc viò triì bãìt ğâÌu caìc kêìt nôìi
+1304=HôŞ trõò taÒi laòi
+1175=(chıa biêìt)
+2=HuÒy boÒ
+20416=STT
+20417=ĞaŞ taÒi xuôìng
+20418=Thông tin
+20419=Coì
+20420=Không
+20421=%d giõÌ %d phuìt
+20422=%d phuìt %d giây
+20423=%d giây
+
+130=Thông tin têòp tin taÒi xuôìng
+1006=&Bãìt ğâÌu taÒi
+1010=Duyêòt...
+1004=&SeŞ taÒi sau
+1298=Mô taÒ
+1173=Xem trıõìc
+1297=Nhoìm
+1296=ĞıõÌng dâŞn lıu
+t1006=Bãìt ğâÌu taÒi têòp tin
+
+148=Nhâòp môòt ğiòa chiÒ mõìi ğêÒ taÒi xuôìng
+1182=&Xaìc minh quyêÌn sıÒ duòng
+1184=Tên ğãng nhâòp
+1186=Mâòt khâÒu
+1022=O&K
+
+//Options Dialog
+134=Câìu hiÌnh Internet Download Manager
+1092=OK
+20286=Cõ baÒn
+20287=Kêìt nôìi
+20288=TaÒi xuôìng
+20289=Proxy
+20290=Ğãng nhâòp Sites
+20291=Dial up
+20292=Âm thanh
+20293=Cõ baÒn
+20294=Kêìt nôìi
+20295=TaÒi xuôìng
+20296=Proxy
+20297=Ğãng nhâòp
+20298=Maòng Dial up
+20299=Âm thanh
+20300=Tiìch hõòp TriÌnh duyêòt/Hêò thôìng
+20301=KiêÒu kêìt nôìi
+20302=Thiêìt lâòp taÒi xuôìng mãòc ğiònh
+20304=Tên ğãng nhâòp vaÌ mâòt khâÒu cho caìc trang Web/maìy chuÒ yêu câÌu
+20305=Thiêìt lâòp Dial up
+20306=Thiêìt lâòp âm thanh
+//General tab
+1056=Luôn chaòy Internet Download Manager môŞi khi khõÒi ğôòng maìy
+1061=Tıò ğôòng taÒi xuôìng caìc ğiòa chiÒ URL lıu trong clipboard
+1065=Tiìch hõòp vaÌo Internet Explorer, MSN Explorer vaÌ caìc triÌnh duyêòt nêÌn IE
+1077=&Mãòc ğiònh
+1169=Caìc kiêÒu têòp tin...
+1270=Tıò ğôòng taÒi xuôìng caìc loaòi têòp dıõìi ğây:
+t1056=Chaòy Internet Download Manager môŞi khi hêò thôìng khõÒi ğôòng
+//Proxy tab
+1102=DuÌng HTTP Proxy
+1122=Proxy
+1123=CôÒng
+1124=TaÌi khoaÒn
+1125=Mâòt khâÒu
+1107=Lâìy tıÌ IE
+1108=DuÌng FTP Proxy
+1126=Proxy
+1127=CôÒng
+1128=TaÌi khoaÒn
+1129=Mâòt khâÒu
+1113=Lâìy tıÌ IE
+1116=DuÌng FTP õÒ chêì ğôò PASV
+1118=DuÌng HTTPS Proxy
+1133=Proxy
+1135=CôÒng
+1137=TaÌi khoaÒn
+1139=Mâòt khâÒu
+1141=Lâìy tıÌ IE
+t1107=ThıÒ tiÌm caìc HTTP proxy trong câìu hiÌnh cuÒa Internet Explorer
+t1116=DuÌng giao thıìc FTP õÒ chêì ğôò thuò ğôòng (câÌn ğêÒ sau tıõÌng lıÒa)
+//Connection tab
+1153=KiêÒu/Tôìc ğôò kêìt nôìi
+1306=Sôì kêìt nôìi tôìi ğa
+1254=Caìc giõìi haòn taÒi
+//Downloads tab
+1049=Duyêòt
+1190=Ghi nhõì ğıõÌng dâŞn lıu trıŞ cuôìi cuÌng cho nhoìm "Chung"
+1136=Thı muòc mãòc ğiònh cho nhoìm "Chung"
+1132=Lıu vaÌo...
+1236=Hiêòn hôòp thoaòi hoaÌn tâìt taÒi xuôìng
+1317=KiêÒm tra vi-ruìt
+1318=Chıõng triÌnh queìt vi-ruìt
+1165=Duyêòt
+1319=Tham sôì doÌng lêònh
+1316=Hôòp thoaòi tiêìn triÌnh taÒi xuôìng
+1315=Caìc hôòp thoaòi
+1059=Hiêòn hôòp thoaòi bãìt ğâÌu taÒi xuôìng
+1138=Thı muòc lıu taòm
+1054=Duyêòt
+//Dial Up tab
+1313=Kêìt nôìi:
+1307=TuÌy choòn kêìt nôìi
+1166=Aìp duòng
+1308=TuÌy choòn goòi laòi
+1309=Sôì lâÌn thıÒ goòi laòi (0 nêìu không haòn chêì):
+1310=ThõÌi gian giıŞa caìc lâÌn thıÒ goòi laòi:
+1312=giây
+1311=lâÌn
+1058=SıÒ duòng Windows Dial Up Networking
+//Sounds tab
+1320=SıÒ duòng âm thanh cho caìc sıò kiêòn cuÒa Internet Download Manager
+1172=Duyêòt...
+1091=Chaòy
+//Passwords tab
+20436=ĞıõÌng dâŞn/Website
+20437=Tên ğãng nhâòp
+20438=Mâòt khâÒu
+1087=Mõìi
+1196=SıÒa
+1050=Xoìa
+
+//File properties dialog
+135=Thuôòc tiình têòp
+1325=Loaòi têòp:
+1324=Kiìch thıõìc:
+1323=Lıu vaÌo:
+1082=&Duyêòt...
+1322=Ğãng nhâòp
+1289=Mâòt khâÒu
+1321=Xaìc nhâòn mâòt khâÒu
+1164=MõÒ
+1240=LâÌn thıÒ cuôìi
+1241=Kêìt quaÒ: 
+
+100=Giõìi thiêòu vêÌ Internet Download Manager
+1284=Trang chuÒ:
+1285=Nhoìm hôŞ trõò:
+1286=NgıõÌi mua baÒn quyêÌn:
+1181=Phiên baÒn chıa ğıõòc ğãng kyì
+1161=KiêÒm tra &câòp nhâòt
+1185=Ğã&ng kyì
+1085=&Mua
+1262=Phiên baÒn:
+t1187=Bâìm ğêÒ tõìi trang chuÒ IDM
+t1189=Liên hêò nhoìm hôŞ trõò IDM
+t1161=KiêÒm tra baÒn câòp nhâòt trên www.internetdownloadmanager.com
+t1185=Kiìch hoaòt IDM bãÌng Serial Number cuÒa baòn
+t1201=Bâìm ğêÒ biêìt caìch mua baÒn quyêÌn IDM
+t1085=Ğãng kyì mua baÒn quyêÌn IDM
+
+150=Tãìt maìy
+1263=Internet Download Manager ğaŞ hoaÌn tâìt danh saìch chõÌ taÒi. Maìy tiình cuÒa baòn ğang ğıõòc tãìt theo thiêìt lâòp trong lâòp liòch taÒi.
+1170=Tãìt maìy ngay
+
+1163=Coì
+1088=Coì tâìt caÒ
+1202=Không
+1051=Không tâìt caÒ
+
+177=Lâòp liòch
+1331=ChõÌ taÒi
+1333=TaÒi xuôìng
+1332=Lâòp liòch
+1218=Bãìt ğâÌu taÒi luìc:
+1219=Môòt lâÌn luìc:
+1221=Caìc ngaÌy
+1062=ChuÒ nhâòt
+1057=Thıì hai
+1066=Thıì ba
+1069=Thıì tı
+1222=Thıì nãm
+1223=Thıì saìu
+1224=Thıì baÒy
+1225=DıÌng taÒi luìc
+1228=Tãìt maìy tiình khi hoaÌn thaÌnh
+1235=Eìp caìc tiêìn triÌnh ngıÌng hoaòt ğôòng
+1089=Aìp duòng
+1232=Bãìt ğâÌu ngay
+1233=DıÌng
+1079=Ğoìng
+1227=Ngãìt modem khi hoaÌn thaÌnh
+1264=MByte
+1265=giõÌ
+1266=TaÒi xuôìng không quaì
+1171=Trõò giuìp
+1267=môŞi
+1268=HiêÒn caÒnh baìo khi dıÌng taÒi
+1271=Thoaìt Inernet Download Manager khi hoaÌn thaÌnh
+1335=têòp tin cuÌng luìc
+t1229=ChuyêÒn muòc xuôìng
+t1230=ChuyêÒn muòc lên
+t1231=Xoìa muòc khoÒi danh saìch chõÌ taÒi
+t1232=Bãìt ğâÌu danh saìch chõÌ taÒi
+t1233=DıÌng danh saìch chõÌ taÒi
+t1235=SıÒ duòng tuÌy choòn naÌy trong trıõÌng hõòp khâÒn câìp. Viêòc naÌy coì thêÒ laÌm caìc ıìng duòng mâìt dıŞ liêòu.
+
+184=Dial up
+1247=Ğang kêìt nôìi...
+1167=Goòi laòi
+
+186=TuÌy choòn Dial up
+1336=Goòi
+1237=Lıu mâòt khâÒu
+1288=Tên ğãng nhâòp
+
+190=TaÒi caìc câìu phâÌn cuÒa IDM
+1=OK
+1258=TaÒi caìc câìu phâÌn
+
+191=Xuâìt danh saìch taÒi xuôìng
+1259=Xuâìt danh saìch chõÌ taÒi xuôìng
+1260=Xuâìt caìc têòp tin ğıõòc choòn
+1261=Xuâìt tâìt caÒ caìc têòp tin
+
+192=Nhâòp caìc liên kêìt vaÌo IDM
+1168=ChiÒnh sıÒa...
+1090=Xoìa
+
+193=Tıò ğôòng taÒi xuôìng caìc têòp tin coì phâÌn mõÒ rôòng sau:
+
+105=Meo su dung
+1001=&HiêÒn thiò khi khõÒi ğôòng
+1003=&Tiêìp theo
+107=Meò&o trong ngaÌy...
+108=Ban co biet ...
+109=Têòp tin không tôÌn taòi trong thı muòc quy ğiònh
+110=Coì vâìn ğêÌ khi ğoòc têòp tin
+
+146=Ğãng nhâòp trang
+1337=ĞıõÌng dâŞn/Maìy chuÒ
+1290=Xaìc nhâòn mâòt khâÒu
+1287=Chuì yì: ChiÒ goŞ ğıõÌng dâŞn nêìu baòn coì nhiêÌu tên ğãng nhâòp khaìc nhau cho caìc thı muòc khaìc nhau cuÒa maìy chuÒ.
+
+182=Câòp nhâòt nhanh
+1295=Ğang kiêÒm tra phiên baÒn mõìi
+
+194=ĞaŞ ğêìn giõìi haòn taÒi!                                                                   																					
+
+144=ĞaŞ coì phiên baÒn mõìi cuÒa Intenet Download Manager
+1162=Câòp nhâòt ngay
+1086=HuÒy boÒ
+
+//Zip preview dialog
+196=Xem trıõìc têòp Zip
+20254=Tên têòp
+20255=ĞaŞ neìn
+20256=Kiìch thıõìc
+20257=SıÒa luìc
+
+//New category dialog
+204=Caìc nhoìm IDM
+1174=Duyêòt...
+1291=Tên nhoìm
+1292=Tıò ğôòng ğãòt caìc loaòi têòp sau vaÌo nhoìm naÌy:
+1293=Chuì yì: nhâòp caìc phâÌn mõÒ rông phân biêòt nhau bãÌng dâìu caìch (viì duò avi mpg mpeg)
+1239=Ghi nhõì ğıõÌng dâŞn cuôìi cuÌng
+1294=Lıu caìc baÒn taÒi xuôìng sãìp tõìi cuÒa nhoìm naÌy vaÌo thı muòc sau:
+
+
+// Menu
+m32771=Công viêòc
+32771=Thêm taÒi xuôìng
+32809=Hiêòn hôòp thaÒ liên kêìt
+m32821=Xuâìt dıŞ liêòu
+32821=Ra têòp tin kêìt xuâìt IDM
+32823=Ra têòp vãn baÒn
+m32816=Nhâòp dıŞ liêòu
+32816=TıÌ têòp tin kêìt xuâìt IDM
+32818=TıÌ têòp vãn baÒn
+32772=&Thoaìt
+
+m32774=Têòp tin
+32774=DıÌng taÒi
+32775=Xoìa
+32776=TaÒi xuôìng ngay
+
+m32778=TaÒi xuôìng
+32778=Taòm dıÌng tâìt caÒ
+32779=DıÌng tâìt caÒ
+32794=Xoìa tâìt caÒ caìc muòc taÒi xong
+32801=Lâòp liòch
+32781=TuÌy choòn
+
+m32825=HiêÒn thiò
+32825=ÂÒn caìc nhoìm
+m32828=Sãìp xêìp caìc têòp
+32828=Theo thõÌi ğiêÒm thêm taÒi
+32830=Theo tên têòp
+32832=Theo kiìch thıõìc têòp
+32834=Theo traòng thaìi
+32836=Theo thõÌi gian coÌn laòi
+32838=Theo tôìc ğôò truyêÌn taÒi
+32840=Theo mô taÒ
+m32841=Ngôn ngıŞ
+
+m57670=Trõò giuìp
+32811=Hıõìng dâŞn
+106=Meòo trong ngaÌy...
+32813=Trang chuÒ IDM
+32784=Liên hêò võìi IDM
+32787=Câòp nhâòt lên phiên baÒn mõìi
+32786=Thông tin sıÒ duòng IDM
+32788=Giõìi thiêòu võìi baòn beÌ
+
+m32785=Ğãng kyì
+32785=Mua trıòc tuyêìn
+32783=Ğãng kyì
+//end menu
+
+
+//Strings & messages
+101=&Giõìi thiêòu vêÌ IDM...
+32799=Ğang mõÒ côÒng
+32800=ĞaŞ ğoìng côÒng
+32802=Ğang kêìt nôìi thiêìt biò
+32804=ĞaŞ kêìt nôìi thiêìt biò
+32806=ĞaŞ kêìt nôìi tâìt caÒ thiêìt biò
+32807=Bãìt ğâÌu xaìc minh
+32808=Thông baìo xaìc minh
+32810=Xaìc minh laòi
+32812=Yêu câÌu goòi laòi
+32814=Yêu câÌu ğôÒi mâòt khâÒu
+32815=Pha tham chiêìu ğaŞ bãìt ğâÌu
+32817=Tiình toaìn tôìc ğôòs
+32819=Thông tin xaìc minh ğıõòc châìp nhâòn
+32820=Bãìt ğâÌu xaìc minh laòi
+32822=ĞaŞ xaìc minh
+32826=ChõÌ Modem khõÒi ğôòng laòi
+32827=Ğõòi goòi laòi
+32829=Tıõng taìc
+32831=ThıÒ xaìc minh laòi
+32833=Chêì ğôò goòi laòi ğıõòc ngıõÌi goòi ğãòt
+32835=Mâòt khâÒu hêìt haòn
+32837=ĞaŞ kêìt nôìi
+32839=ĞaŞ ngãìt kêìt nôìi
+
+20000=ĞaŞ taÒi xong têòp tin %s.\n\nĞaŞ taÒi xuôìng %s (%I64d Byte)\nTêòp tin ğıõòc lıu vaÌo %s
+20001=Tiình nãng naÌy chiÒ coì trong phiên baÒn ğaŞ ğãng kyì.
+20002=Không thêÒ ğôÒi tên caìc têòp tin ğaŞ taÒi xuôìng trong thı muòc taòm (%s) thaÌnh %s. Têòp tin vâŞn ğıõòc lıu trong thı muòc taòm.
+20003=Mâòt khâÒu sai! HaŞy thıÒ laòi.
+20004=Baòn chıa ğiêÌn mâòt khâÒu!
+20005=Baòn chıa ğiêÌn tên ğãng nhâòp! HaŞy laÌm laòi.
+20006=Trang/ĞıõÌng dâŞn chıa ğıõòc ğiêÌn! HaŞy laÌm laòi
+20007=Baòn coì chãìc chãìn muôìn xoìa thông tin ğãng nhâòp cho trang naÌy?
+20008=Danh saìch taÒi xuôìng cuÒa baòn coì têòp tin seŞ ğıõòc taÒi xuôìng tıÌ 
+20009=.\nAìp duòng caìc tên ğãng nhâòp vaÌ mâòt khâÒu naÌy cho viêòc taÒi sãìp tõìi?
+20010=.\nĞôÒi tên ğãng nhâòp vaÌ mâòt khâÒu cuÒa viêòc taÒi xuôìng naÌy cho \"anonymous\" ?
+20011=Thông tin ğãng nhâòp cho trang/ğıõÌng dâŞn ğaŞ tôÌn taòi trong danh saìch cuÒa baòn.\nThông tin ğãng nhâòp mõìi chıa ğıõòc thêm vaÌo. Nêìu muôìn baòn coì thêÒ sıÒa nhıŞng caìi ğaŞ coì sãŞn.
+20012=Baòn ğaŞ thay ğôÒi trang/ğıõÌng dâŞn. Thông tin ğãng nhâòp cho trang/ğıõÌng dâŞn mõìi naÌy ğaŞ tôÌn taòi trong danh saìch mâòt khâÒu cuÒa baòn.\nThông tin ğãng nhâòp chıa ğıõòc thay ğôÒi. Nêìu muôìn baòn coì thêÒ sıÒa nhıŞng caìi coì sãŞn.
+20013=Trang naÌy taòm thõÌi chıa coì !
+20014=CâÌn ğãng nhâòp ğêÒ truy câòp cho trang/ğıõÌng dâŞn naÌy. Baòn coì thêÒ ğãòt thông tin ğãng nhâòp cho trang naÌy bãÌng caìch choòn thuôòc tiình cho muòc trong triÌnh ğõn ngıŞ caÒnh khi baòn âìn chuôòt phaÒi. Hoãòc thêm thông tin ğãng nhâòp vaÌo \"Mâòt khâÒu TuÌy choòn/Trang\" ğêÒ sıÒ duòng ğãng nhâòp/mâòt khâÒu môŞi khi taÒi xuôìng caìc têòp tin tıÌ trang naÌy.
+20015=Baòn câÌn coì quyêÌn sıÒ duòng cho maìy chuÒ proxy naÌy. Baòn coì thêÒ thay ğôÒi tên ğãng nhâòp vaÌ mâòt khâÒu proxy trong \"TuÌy choòn/Proxy\"
+20018=Không thêÒ taÒi xuông têòp tin naÌy.
+20019=Không thêÒ taÒi xuông têòp tin naÌy.
+20020=Không coì ğuÒ dung lıõòng bôò nhõì ğêÒ tiêìp tuòc taÒi xuôìng.
+20021=Maìy chuÒ lıu trıŞ têòp tin tıÌ chôìi kêìt nôìi.\nCoì thêÒ diòch vuò không ğıõòc kiìch hoaòt trên maìy chuÒ hoãòc tıõÌng lıÒa cuÒa baòn ğaŞ chãòn Internet Download Manager. Nêìu baòn coì tıõÌng lıÒa, haŞy ğaÒm baÒo rãÌng noì ğıõòc thiêìt lâòp ğêÒ cho pheìp IDM taÒi dıŞ liêòu tıÌ Internet.
+20022=QuyêÌn haòn không ğuÒ.
+20023=Không thêÒ thêm ğiòa chiÒ vıÌa nhâòp. Ğiòa chiÒ yêu câÌu không hõòp lêò.
+20024=Môòt kêìt nôìi ğaŞ biò ğoìng laòi bõÒi maìy chuÒ. Ğây laÌ kêìt quaÒ thıõÌng gãòp trong trıõÌng hõòp : ıìng duòng ngang haÌng trên maìy chuÒ biò dıÌng ğôòt ngôòt, maìy chuÒ khõÒi dôòng laòi, hoãòc maìy chuÒ ngãìt phâÌn cıìng ğôòt ngôòt (\'hard close\')
+20025=Môòt kêìt nôìi ğiêÌu khiêÒn biò lôŞi viÌ maìy chuÒ ğaŞ sâòp. Hoãòc maòng hoaòt ğôòng trên maìy chuÒ cuòc bôò chıa ğıõòc xaìc ğiònh.
+20026=LôŞi kêìt nôìi. Không tiÌm thâìy maìy chuÒ naÌo. Tên không phaÒi tên hoãòc ğiònh danh maìy chuÒ, hoãòc không tiÌm ğıõòc noì trong (caìc) cõ sõÒ dıŞ liêòu ğıõòc truy xuâìt ra.
+20027=Môòt côÒng socket ğiêÌu haÌnh ğaŞ kêìt nôìi ğêìn môòt hêò thôìng maòng nhıng không ğıõòc . ĞiêÌu naÌy coì nghiŞa laÌ phâÌn mêÌm không thêÒ ğiêÌu tuyêìn ğêÒ kêìt nôìi ğêìn caìc maìy chuÒ tıÌ xa
+20028=Maìy chuÒ baòn vıÌa kêìt nôìi ğang biò xung ğôòt vaÌ khõÒi ğôòng laòi.
+20029=Môòt côÒng socket ğiêÌu haÌnh ğaŞ kêìt nôìi tõìi môòt hêò thôìng maòng không hoaòt ğôòng. ĞiêÌu naÌy coì thêÒ cho thâìy tôÌn taòi 1 lôŞi quan troòng trong hêò thôìng maòng(tıìc laÌ biò chôÌng giao thıìc khi chaòy trên WinSock DLL ), giao diêòn maòng, hoãòc trong chiình maòng nôòi bôò.
+20030=Coì quaì nhiêÌu kêìt nôìi maòng ğıõòc mõÒ. HaŞy ğõòi môòt sôì baÒn taÒi xuôìng hoaÌn tâìt.
+20031=XaÒy ra lôŞi khi kêìt nôìi
+20032=Kiìch thıõìc cuÒa %s laÌ %I64d byte.\nKhông coì ğuÒ bôò nhõì coÌn trôìng trong ôÒ \'%s\' maÌ baòn muôìn lıu têòp tin naÌy.\nNêìu baòn không laÌm trôìng thêm ôÒ trong khi taÒi xuôìng, têòp tin seŞ ğıõòc lıu vaÌo môòt thı muòc taòm laÌ %s
+20033=Không coì ğuÒ bôò nhõì coÌn trôìng trong ôÒ \'%s\' ğêÒ chıìa caìc phâÌn ğaŞ taÒi xuôìng.\nĞêÒ tiêìp tuòc taÒi, haŞy laÌm trôìng thêm ôÒ hoãòc thay ğôÒi thı muòc taòm taòi TuÌy choòn\\Cõ baÒn vaÌ taÒi tiêìp
+20034=Không tiÌm thâìy maìy chuÒ %s
+20035=Không tiÌm thâìy maìy chuÒ proxy %s
+20036=Không thêÒ kêìt nôìi tõìi %s:%ld
+20037=Không thêÒ kêìt nôìi tõìi maìy chuÒ proxy %s:%ld
+20038=Không thêÒ kêìt nôìi tõìi %s:%ld\nHêìt thõÌi gian kêìt nôìi
+20039=Không thêÒ kêìt nôìi tõìi maìy chuÒ proxy %s:%ld\nHêìt thõÌi gian kêìt nôìi
+20040=XaÒy ra lôŞi không xaìc ğiònh khi chuyêÒn têòp hoãòc nôìi caìc phâÌn laòi thaÌnh môòt têòp
+20041=XaÒy ra lôŞi không xaìc ğiònh khi nôìi caìc phâÌn laòi thaÌnh môòt têòp
+20042=Không thêÒ mõÒ hoãòc ghi têòp tin cuòc bôò trong khi ğang nôìi caìc phâÌn laòi thaÌnh môòt têòp
+20043=Không thêÒ lâìy kiìch thıõìc cho phâÌn tiêìp theo trong khi ğang nôìi caìc phâÌn ğaŞ taÒi xuôìng thaÌnh môòt têòp
+20044=Ğiònh viò bôò nhõì aÒo xaÒy ra lôŞi trong khi ğang nôìi caìc phâÌn ğaŞ taÒi xuôìng thaÌnh môòt têòp
+20045=XaÒy ra lôŞi ghi nãòng trong khi ğang nôìi caìc phâÌn ğaŞ taÒi xuôìng thaÌnh môòt têòp
+20046=XaÒy ra lôŞi ğoòc nãòng trong khi ğang nôìi caìc phâÌn ğaŞ taÒi xuôìng thaÌnh môòt têòp
+20047=Không nhâòn daòng ğıõòc têòp hoãòc lôŞi trong khi ğang nôìi caìc phâÌn ğaŞ taÒi xuôìng
+20048=Không thêÒ kêìt nôìi ğêìn maìy chuÒ
+20049=CôÒng socket ğoòc Internet biò lôŞi
+20050=CôÒng socket ghi biò lôŞi
+20051=Hêìt thõÌi gian kêìt nôìi
+20052=Hêìt thõÌi gian kêìt nôìi
+20053=Hêìt thõÌi gian kêìt nôìi, ğang khõÒi ğôòng laòi...
+20054=Kêìt nôìi thâìt baòi, ğang khõÒi ğôòng laòi...
+20055=XaÒy ra lôŞi khi ğang nhâòn dıŞ liêòu
+20056=Kêìt nôìi biò ğoìng bõÒi maìy chuÒ.
+20057=Không ğãng nhâòp ğıõòc maìy chu ftp.
+20058=Không tiÌm thâìy têòp naÌy trong maìy chuÒ ftp.
+20059=Maìy chuÒ ftp không châìp nhâòn kêìt nôìi.
+20060=XaÒy ra lôŞi khi nhâòn dıŞ liêòu traÒ lõÌi tıÌ maìy chuÒ ftp.
+20061=XaÒy ra lôŞi khi nhâòn dıŞ liêòu traÒ lõÌi tıÌ maìy chuÒ ftp: Ğiònh daòng traÒ lõÌi không hõòp lêò
+20062=Không tiÌm thâìy ğiòa chiÒ IP hoãòc côÒng socket dıŞ liêòu trong lêònh PASV.
+20063=Không tiÌm thâìy côÒng socket internet.
+20064=Không thêÒ mõÒ côÒng socket dıŞ liêòu ftp
+20065=Không thêÒ giıŞ ğiòa chiÒ trong côÒng socket internet
+20066=LôŞi khi goòi côÒng socket dıŞ liêòu haÌm listen().
+20067=LôŞi khi goòi côÒng socket internet haÌm accept().
+20068=Không thêÒ gıÒi lêònh PORT.\nLôŞi khi goòi haÌm getsockname().
+20069=Lêònh PORT thâìt baòi.
+20070=XaÒy ra lôŞi ghi têòp trong khi nhâòn dıŞ liêòu tıÌ socket Internet.\nCoì thêÒ do lôŞi sau: ĞiŞa ğâÌy.
+20071=Không thêÒ mõÒ kêìt nôìi dıŞ liêòu viÌ maìy chuÒ ftp không hôŞ trõò lêònh PASV trong khi hôòp ğaình dâìu \'DuÌng FTP õÒ chêì ğôò PASV\' õÒ TuÌy choòn\\Proxy/TıõÌng lıÒa ğang bâòt.
+20072=Thông tin vêÌ kiìch thıõìc cuÒa têòp tin %s không tiÌm thâìy trong phaÒn hôÌi cuÒa maìy chuÒ
+20073=Thông tin phaÒn hôÌi cuÒa maìy chuÒ không hõòp lêò võìi lêònh khõÒi dôòng laòi.
+20074=Maìy chuÒ ğaŞ gıÒi môòt viò triì mõìi cho têòp tin %s, seŞ ğıõòc chuyêÒn thaÌnh %s.\n\nTiêìp tuòc taÒi xuôìng?
+20075=Ğang ngãìt kêìt nôìi...
+20076=TaÒi xuôìng hoaÌn tâìt, ğang gheìp caìc phâÌn ğaŞ taÒi xuôìng thaÌnh môòt têòp...
+20077=Kêìt nôìi tuÌy choòn ğaŞ ğıõòc taòo.
+20078=Ğang kêìt nôìi...
+20079=Lıòa choòn thâìt baòi
+20080=Kêìt nôìi thaÌnh công.
+20081=LôŞi ghi têòp trong khi ğang nhâòn dıŞ liêòu tıÌ côÒng socket internet.
+20082=Vi?c Recv() thâìt baòi
+20083=Kêìt nôìi biò ğoìng bõÒi maìy chuÒ.
+20084=Ngãìt kêìt nôìi.
+20085=Ğang chõÌ phaÒn hôÌi...
+20086=PhaÒn hôÌi tôìt
+20087=Ğang nhâòn dıŞ liêòu...
+20088=ĞaŞ hoaÌn thaÌnh.
+20089=Kêìt nôìi dıŞ liêòu: ğang kêìt nôìi...
+20090=Kêìt nôìi dıŞ liêòu: OK
+20091=SãŞn saÌng nhâòn dıŞ liêòu
+20092=KiêÒm tra khaÒ nãng thıòc hiêòn lêònh: ğang gıÒi hai lêònh ğôÌng thõÌi...
+20093=KiêÒm tra khaÒ nãng thıòc hiêòn lêònh: phaÒn hôÌi lâÌn ğâÌu OK, ğang chõÌ phaÒi hôÌi lâÌn thıì hai...
+20094=Ğang nhâòn thông tin têòp...
+20095=Không thâìy phaÒn hôÌi kêìt thuìc tıÌ maìy chuÒ.
+20096=Không thâìy phaÒn hôÌi kêìt thuìc tıÌ maìy chuÒ ftp.
+20097=Ğang gıÒi lêònh QUIT...
+20098=Maìy chuÒ không sãŞn saÌng cho ngıõÌi duÌng mõìi.
+20099=ĞaŞ kêìt nôìi ğiêÌu khiêÒn socket.
+20100=Ğang gıÒi tên ğãng nhâòp...
+20101=Ğang gıÒi mâòt khâÒu...
+20102=Tên ğãng nhâòp không ğıõòc châìp nhâòn
+20103=Tên ğãng nhâòp hoaòt ğôòng
+20104=Mâòt khâÒu không ğıõòc châìp nhâòn
+20105=Mâòt khâÒu hoaòt ğôòng
+20106=GıÒi lêònh PASV...
+20107=Maìy chuÒ không hôŞ trõò PASV.
+20108=Lêònh PASV thaÌnh công, ğang xuâìt ğiòa chiÒ...
+20109=GiıŞ socket ôÒn, thıÒ goòi haÌm listen()
+20110=Ğang châìp nhâòn...
+20111=ĞaŞ châìp nhâòn
+20112=Ğang gıÒi lêònh PORT...
+20113=Lêònh PORT thaÌnh công
+20114=Ğang chuyêÒn thı muòc laÌm viêòc trên maìy chuÒ...
+20115=Lêònh CWD thâìt baòi.
+20116=Lêònh CWD thaÌnh công
+20117=Kêìt nôìi thâìt baòi.
+20118=Ğang gıÒi lêònh TYPE ...
+20119=Lêònh TYPE thâìt baòi.
+20120=Lêònh TYPE thaÌnh công.
+20121=Ğang gıÒi lêònh REST...
+20122=Lêònh REST thâìt baòi
+20123=Lêònh REST thaÌnh công
+20124=Ğang gıÒi lêònh RETR...
+20125=Lêònh RETR thâìt baòi.
+20126=Ğang gıÒi lêònh SIZE...
+20127=Ğang gıÒi lêònh LIST...
+20128=Lêònh LIST thâìt baòi.
+20129=Lêònh LIST thaÌnh công
+20130=Lêònh SIZE thâìt baòi.
+20131=Không tiÌm thâìy kiìch thıõìc têòp tin traÒ vêÌ.
+20132=Lêònh SIZE thaÌnh công
+20133=Socket ğiêÌu kiêÒn không nôìi ğıõòc võìi maìy chuÒ.
+20134=Ğang bãìt ğâÌu laòi tıÌ ğâÌu viÌ têòp tin cuòc bôò ğaŞ biò xoìa. Chıìc nãng taÒi tiêìp không ğıõòc hôŞ trõò trong trıõÌng hõòp naÌy.
+20135=Ğang khõÒi ğôòng laòi kêìt nôìi...
+20136=Taòm thõÌi maìy chuÒ không hôŞ trõò lêònh pipelining.
+20137=KhaÒ nãng thıòc hiêòn lêònh: tôìt
+20138=Ğang gıÒi lêònh HEAD...
+20139=Ğang gıÒi lêònh GET...
+20140=Ğang nôìi caìc phâÌn ğaŞ taÒi xuôìng...
+20141=Ğang kêìt nôìi...
+20142=ĞaŞ taÒi xong. ĞaŞ taÒi tôÒng côòng %I64d Byte
+20143=Nhâòn dıŞ liêòu...
+20144=Kêìt nôìi tuÌy choòn, ğang kêìt nôìi...
+20145=TaÒi xuôìng thâìt baòi. ĞaŞ taÒi tôÒng côòng %I64d Byte
+20146=Kiìch thıõìc cuÒa %s laÌ %I64d byte.\nKhông coÌn ğuÒ bôò nhõì trôìng trong ôÒ \'%s\' ğêÒ chıìa caìc phâÌn taÒi xuôìng.\nĞêÒ tiêìp tuòc taÒi xuôìng, haŞy laÌm trôìng ôÒ ğiŞa hoãòc xoìa têòp tin khoÒi danh saìch taÒi xuôìng, ğôÒi viò triì thı muòc taòm trong TuÌy choòn\\Cõ baÒn, rôÌi thıÒ laòi.
+20147=Không coÌn ğuÒ bôò nhõì trôìng trong ôÒ \'%s\'.
+20148=Không thêÒ nôìi caìc phâÌn cuÒa têòp tin laòi.
+20149=BaÒn taÒi xuôìng naÌy ğaŞ hoaÌn thaÌnh, ğıõÌng dâŞn ğaŞ lıu không thêÒ thay ğôÒi.
+20150=Têòp tin ğaŞ ğıõòc sıÒa ğôÒi trên maìy chuÒ.\nBaòn coì muôìn taÒi laòi têòp tin naÌy tıÌ ğâÌu.
+20151=Baòn ğang sıÒ duòng baÒn  mõìi nhâìt cuÒa Internet Download Manager. HaŞy câòp nhâòt laòi sau.
+20152=Coì lôŞi xaÒy ra khi lıu dıŞ liêòu ğaŞ nhâòp vaÌo, haŞy thıÒ laòi.
+20153=Coì lôŞi xaÒy ra khi ğiònh viò bôò nhõì aÒo. ThıÒ ğoìng môòt sôì ıìng duòng rôÌi bâìm \'ThıÒ laòi\'.
+20154=Ğang nôìi
+20155=Tên maìy chuÒ ğıõòc yêu câÌu không hõòp lêò, vaÌ không tiÌm ğıõòc bâìt kyÌ dıŞ liêòu liên quan naÌo ğêÒ khãìc phuòc (maìy chuÒ tôÌn taòi, nhıng không kêìt nôìi ngay ğıõòc).
+20156=Têòp tin %s - ğaŞ taÒi ğıõòc %s (%I64d Byte). Coì thêÒ têòp tin chıa ğıõòc taÒi xuôìng hoaÌn tâìt, bõÒi viÌ không biêìt roŞ kiìch thıõìc cuÒa têòp tin.\nTêòp tinh ğıõòc lıu thaÌnh %s
+20157=Chıa choòn muòc naÌo!
+20158=ChuyêÒn lên
+20159=ChuyêÒn xuôìng
+20160=Xoìa muòc
+20161=Không thêÒ taÒi xuôìng têòp tin naÌy. PhaÒn hôÌi cuÒa maìy chuÒ http không hõòp lêò.
+20164=Câòp nhâòt phiên baÒn mõìi cho IDM tıÌ www.internetdownloadmanager.com. Ğang nhâòn caìc têòp tin mõìi...
+20166=Internet Download Manager Manual
+20167=TaÒi xuôìng ğaŞ biò huÒy bõÒi ngıõÌi sıÒ duòng
+20168=Câòp nhâòt lên phiên baÒn mõìi thâìt baòi, xaÒy ra lôŞi khi taÒi xuôìng caìc têòp tin IDM mõìi. ThıÒ câòp nhâòt laòi sau.
+20169=Têòp tin yêu câÌu không tôÌn taòi.
+20170=\nBaòn coì muôìn mõÒ noì?
+20171=Têòp tin naÌy ğaŞ tôÌn taòi trong danh saìch taÒi xuôìng cuÒa baòn. Baòn coì muôìn thêm môòt baÒn sao khaìc?
+20172=Thông tin phaÒn hôÌi tıÌ maìy chuÒ cho thâìy không ğıõòc pheìp taÒi têòp tin naÌy.
+20173=XaÒy ra lôŞi khi ğoòc danh baò.
+20174=Không thêÒ kêìt nôìi tõìi Internet.
+20175=Không thêÒ taÒi têòp tin viÌ hêìt thõÌi gian kêìt nôìi
+20199=Không thêÒ thay ğôÒi tiìch hõòp cuÒa Internet Download Manager vaÌo Internet Explorer bõÒi viÌ baòn không coì quyêÌn truy câòp vaÌo registry hêò thôìng
+20204=Têòp tin ğaŞ biò xoìa hoãòc di chuyêÒn.
+20205=Têòp tin %s ğaŞ ğıõòc xoìa.
+20206=MõÒ têòp tin ğaŞ taÒi xuôìng
+20207=TaÒi xuôìng thaÌnh phâÌn IDM
+20211=Têòp tin %s seŞ ğıõòc lıu thaÌnh %s. Coì môòt têòp tin nhı vâòy ğang tôÌn taòi trong maìy tiình cuÒa baòn. Baòn coì muôìn thay thêì têòp tin ğang tôÌn taòi ğoì?\n\n Bâìm \"COì\" ğêÒ thay thêì, \"KHÔNG\" ğêÒ lıu têòp tin võìi môòt tên khaìc, \"HUÒY BOÒ\" ğêÒ huÒy boÒ viêòc thêm têòp tin vaÌo danh saìch taÒi xuôìng.
+20212=Têòp tin %s seŞ ğıõòc lıu thaÌnh %s. Coì môòt têòp tin nhı vâòy ğang tôÌn taòi trong danh saìch taÒi xuôìng cuÒa baòn. Baòn coì chãìc chãìn muôìn lıu têòp tin võìi tên naÌy?\n\n Bâìm \"COì\" ğêÒ xaìc nhâòn, \"KHÔNG\" ğêÒ lıu têòp tin võìi môòt tên khaìc, \"HUÒY BOÒ\" ğêÒ huÒy boÒ viêòc thêm têòp tin vaÌo danh saìch taÒi xuôìng.
+20213=Nhâòp dıŞ liêòu vaÌo IDM
+20214=Không thêÒ mõÒ caìc têòp tin trong liên kêìt hoãòc têòp tin ğaŞ biò hoÒng
+20215=Têòp tin không phaÒi têòp tin maÌ IDM xuâìt ra hõòp lêò hoãòc têòp tin ğaŞ biò hoÒng
+20216=Têòp tin không hêÌ chıìa môòt liên kêìt web naÌo hêìt
+20217=Không roŞ lôŞi khi thıòc thi hoaòt ğôòng!
+20218=Không thêÒ taÒi xuôìng têòp tin naÌy, coì thêÒ maìy chuÒ ftp naÌy không hôŞ trõò taÒi tiêìp. Baòn coì muôìn taÒi môòt têòp giôìng nhı vâòy vaÌ tiêìn haÌnh taÒi noì tıÌ ğâÌu không?
+20219=Tên cuÒa têòp tin ğıõòc lıu laÌ \"%s%s\", nhıng  maìy chuÒ laòi gıÒi xuôìng võìi tên \"%s\". Baòn coì muôìn lıu têòp tin võìi tên nhâòn ğıõòc tıÌ maìy chuÒ?
+20220=ĞaŞ taÒi xong têòp tin %s.\nTêòp tin m3u naÌy chıìa môòt liên kêìt web dâŞn ğêìn môòt têòp tin mp3. Baòn coì muôìn taÒi xuôìng têòp tin mp3 naÌy?
+20221=ĞaŞ taÒi xong têòp tin %s.\nTêòp tin m3u naÌy chıìa môòt liên kêìt web dâŞn ğêìn môòt hoãòc nhiêÌu têòp tin mp3. Baòn coì muôìn thêm nhıŞng têòp tin mp3 naÌy vaÌo danh saìch taÒi xuôìng?
+20222=ĞaŞ taÒi xuôìng têòp tin M3U.
+20225=Không thêÒ khõÒi ğôòng chıõng triÌnh kiêÒm tra vi-ruìt.\n%s
+20226=Internet Download Manager ğaŞ hoaÌn thaÌnh danh saìch chõÌ taÒi. IDM seŞ ngãìt modem cuÒa baòn nhı yêu câÌu trong thiêìt lâòp.
+20227=Ngãìt modem
+20228=Ngãìt ngay
+20229=DıÌng ngay
+20230=ĞaŞ taÒi vıõòt giõìi haòn!
+20231=DıŞ liêòu không hõòp lêò
+20232=Giaì triò giõÌ nhâòp trong \"Haòn chêì taÒi\" phaÒi nãÌm trong khoaÒng 1 ğêìn 23. HaŞy sıÒa laòi hoãòc boÒ choòn hôòp ğaình dâìu \"Haòn chêì taÒi\".
+20233=Baòn coì muôìn taÒi xuôìng hıõìng dâŞn (khoaÒng 60 KB) tıÌ trang chuÒ IDM?
+20234=Baòn coì muôìn taÒi xuôìng tin trõò giuìp cuÒa IDM (khoaÒng 200 KB) tıÌ trang chuÒ IDM?
+20235=Không tiÌm thâìy têòp tin HHCtrl.ocx ğêÒ hiêÒn thiò têòp tin trõò giuìp!
+20236=Trõò giuìp IDM
+20237=Kiìch thıõìc têòp tin ğaŞ biò thay ğôÒi trên maìy chuÒ.\nNoì seŞ ğıõòc taÒi laòi tıÌ ğâÌu.
+20238=Không thêÒ taòo kêìt nôìi qua maìy chuÒ proxy.
+20239=Coì lôŞi xaÒy ra khi taòo kêìt nôìi baÒo mâòt tõìi %s.
+20240=Coì lôŞi xaÒy ra khi maŞ hoìa thông tin.
+20241=Coì lôŞi xaÒy ra khi naòp dll baÒo mâòt. Không thêÒ kêìt nôìi giao thıìc https.
+20245=TuÌy choòn Internet Download Manager
+20246=TaÒi xuôìng hoaÌn thaÌnh
+20247=TaÒi xuôìng thâìt baòi
+20248=Danh saìch chõÌ taÒi ğaŞ dıÌng/hoaÌn thaÌnh
+20249=Danh saìch chõÌ taÒi ğaŞ bãìt ğâÌu
+20250=Sıò kiêòn
+20251=Têòp tin âm thanh
+20252=Không thêÒ sao cheìp têòp tin âm thanh vaÌo thı muòc âm thanh cuÒa IDM!
+20253=Baòn coÌn %d ngaÌy sıÒ duòng Internet Download Manager. Baòn coì muôìn ğãng kyì sıÒ duòng IDM ngay?
+20258=Tâìt caÒ
+20259=Chıa taÒi xong
+20260=ĞaŞ taÒi xong
+20261=Chıõng triÌnh
+20262=Âm nhaòc
+20263=Video
+20264=TroÌ chõi
+20265=TaÌi liêòu
+20266=Thêm nhoìm
+20267=Xoìa
+20268=Thuôòc tiình
+20269=Baòn thıòc sıò muôìn xoìa nhoìm \"%s\" trong danh saìch nhoìm cuÒa IDM?
+20270=Xoìa môòt nhoìm tıÌ danh saìch nhoìm cuÒa IDM
+20271=Thêm môòt nhoìm vaÌo danh saìch nhoìm cuÒa IDM
+20272=SıÒa thuôòc tiình nhoìm
+20273=HaŞy ğiêÌn vaÌo ô \"Tên nhoìm\".
+20274=Thı muòc \"%s\" không tôÌn taòi.\r\nBaòn coì muôìn taòo thı muòc naÌy?
+20275=Không thêÒ taòo thı muòc!\r\n%s
+20276=ÂÒn caìc nhoìm
+20277=Hiêòn caìc nhoìm
+20278=Choòn môòt thı muòc
+20279=Chung
+20280=Baòn coì muôìn ğãòt tâìt caÒ caìc muòc ğaŞ taÒi vaÌo caìc nhoìm tıõng ıìng? Caìc têòp tin seŞ không di chuyêÒn trên ğiŞa cıìng, nhıng chuìng seŞ ğıõòc sãìp xêìp vaÌo ğuìng nhoìm cuÒa chuìng.
+20281=Baòn coì muôìn ğãòt tâìt caÒ caìc kiêÒu têòp tin \"%s\" vaÌo nhoìm naÌy? Caìc têòp tin seŞ không di chuyêÒn trên ğiŞa cıìng, nhıng chuìng seŞ ğıõòc sãìp xêìp vaÌo nhoìm naÌy.
+20282=Caìc nhoìm IDM
+20283=IDM gãòp lôŞi \"Truy nhâòp biò tıÌ chôìi\" trong khi nôìi caìc phâÌn ğaŞ taÒi xuôìng. Ğây coì thêÒ laÌ do môòt sôì ıìng duòng nhı chıõng triÌnh diêòt vi-ruìt hoãòc tıõÌng lıÒa ğaŞ mõÒ têòp tin naÌy nhıng không ğoìng noì laòi ğuìng caìch, hoãòc do baòn ğang thıÒ mõÒ têòp tin khi ğang taÒi xuôìng dõÒ. Baòn câÌn khõÒi ğôòng laòi maìy rôÌi bâìm taÒi tiêìp ğêÒ nôìi têòp tin.
+20284=Thı muòc taÒi xuôìng mãòc ğiònh cho nhoìm \"%s\"
+20285=Ghi nhõì ğıõÌng dâŞn thı muòc lıu cuôìi cuÌng cho nhoìm \"%s\"
+20307=- Choòn tôìc ğôò kêìt nôìi internet cuÒa baòn -
+20319=Khác
+20320=Thông tin phiên baÒn hiêòn taòi
+20321=Khôi phuòc
+20322=Thoát
+20323=Liên hêò võìi IDM
+20324=Trõò giuìp
+20325=Mua trıòc tuyêìn
+20326=Ğãng kyì
+20327=DıÌng taÒi
+20328=Xoìa
+20329=TaÒi tiêìp
+20330=Thuôòc tiình
+20331=URL ğıõòc nhâòp không hõòp lêò. HaŞy sıÒa laòi.
+20332=LâÌn taÒi naÌy không hoaÌn thaÌnh ğıõòc. Xoìa vaÌ tiêìp tuòc?
+20333=Không tiÌm ğıõòc câìu hiÌnh proxy trong thiêìt lâòp Internet Explorer
+20334=Têòp tin võìi URL naÌy ğaŞ ğıõòc taÒi xuôìng bãÌng Internet Download Manager trıõìc ğây. Baòn coì muôìn taÒi noì laòi lâÌn nıŞa?
+20335=Têòp tin võìi URL naÌy ğaŞ tôÌn taòi trong danh saìch vaÌ ğang chõÌ taÒi xong. Baòn coì muôìn taÒi tiêìp noì?
+20336=Quaì nhiêÌu têòp tin cuÌng tên naÌy. HaŞy xoìa hoãòc ğôÒi tênò cuÒa chuìng trên maìy tiình
+20337=HaŞy nhâòp tên ğãng nhâòp.
+20338=Không tiÌm thâìy triÌnh duyêòt kêìt hõòp mãòc ğiònh
+20339=Không tiÌm thâìy ıìng duòng Quick Update.
+20340=HaŞy nhâòp tên ğãng kyì.
+20341=Sôì ğãng kyì baòn nhâòp không hõòp lêò.
+20343=HaŞy nhâòp tên cuÒa baòn
+20344=HaŞy nhâòp hoò cuÒa baòn
+20346=HaŞy nhâòp ğiòa chiÒ email cuÒa baòn
+20347=HaŞy nhâòp vaÌo sôì ğãng kyì baòn ğıõòc cung câìp
+20348=Baòn ğaŞ nhâòp sai sôì ğãng kyì
+20349=Internet Download Manager ğaŞ ğıõòc ğãng kyì võìi môòt sôì ğãng kyì giaÒ maòo. IDM ğang thoaìt...
+20351=Internet Download Manager ğaŞ ğıõòc ğãng kyì võìi môòt sôì ğãng kyì giaÒ maòo. IDM ğang thoaìt...
+20352=Internet Download Manager chıa ğıõòc ğãng kyì trong 60 ngaÌy. ThõÌi gian thıÒ ğaŞ hêìt vaÌ IDM ğang thoaìt...
+20353=Internet Download Manager chıa ğıõòc ğãng kyì trong 15 ngaÌy. IDM ğang thoaìt...
+20354=Coì lôŞi chıa roŞ trong khi
+20355=Chıa biêìt
+20356=Thêm vaÌo danh saìch chõÌ taÒi
+20357=Xoìa khoÒi danh saìch chõÌ taÒi
+20358=Bãìt ğâÌu danh saìch chõÌ taÒi
+20359=DıÌng danh saìch chõÌ taÒi
+20360=MõÒ
+20361=NgaÌy thıÒ cuôìi:  
+20362=Kêìt quaÒ:\n
+20363=ChiÒ choòn môòt têòp tin ğêÒ mõÒ!
+20364=MõÒ
+20365= ğaŞ tôÌn taòi trong maìy tiình cuÒa baòn. Baòn coì muôìn thay thêì têòp tin ğang tôÌn taòi ğoì?\n Bâìm \"COì\" ğêÒ thay thêì, \"KHÔNG\" ğêÒ lıu võìi môòt tên khaìc, \"HUÒY BOÒ\" ğêÒ huÒy boÒ viêòc taÒi xuôìng.
+20366=TaÒi xuôìng tıÌ
+20367=Lıu vaÌo
+20368=Baòn thıòc sıò muôìn xoìa tâìt caÒ caìc baÒn taÒi vêÌ?
+20384=Hiêòn hôòp thaÒ liên kêìt
+20385=CaÒnh baìo: Chıõng triÌnh maìy tiình naÌy ğıõòc baÒo vêò bãÌng luâòt baÒn quyêÌn vaÌ caìc hiêòp ıõìc quôìc têì. Moòi haÌnh vi saÒn xuâìt hoãòc phân phôìi traìi pheìp toaÌn bôò, hoãòc môòt phâÌn cuÒa chıõng triÌnh seŞ biò truy tôì tõìi mıìc tôìi ğa theo quy ğiònh cuÒa phaìp luâòt.
+20386=Không thêÒ taòo thı muòc %s, maŞ lôŞi = %ld\n
+20387=LôŞi
+20388=Têòp tin
+20389=Tâìt caÒ têòp tin
+20390=Chi tiêìt:\n
+20391=HoaÌn tâìt.
+20393=TaÒi xuôìng hoaÌn tâìt. Ğang kiêÒm tra vi-ruìt...
+20394=AVI: Phân giaÒi %dx%d, %d samp/giây, ThõÌi lıõòng %s
+20395=, ThõÌi lıõòng: 
+20396=, Tiêu ğêÌ: 
+20397=, Nghêò siŞ: 
+20398=, Album: 
+20399=, ThêÒ loaòi: 
+20400=WAV: %d samp/giây, %d bit/samp, ThõÌi lıõòng: %s
+20401=MPEG: Phân giaÒi %dx%d, %.1f samp/giây, %d bit/samp
+20402=%s,   tôÒng côòng %ld têòp tin
+20403= BaÒn duÌng thıÒ
+20404= BaÒn ğâÌy ğuÒ
+20405=Goòi laòi  %ld
+20406=LôŞi goòi RAS chıa xaìc ğiònh.
+20407=Thay ğôÒi ngôn ngıŞ trên cıÒa sôÒ chiình seŞ ğıõòc aìp duòng khi khõÒi ğôòng laòi IDM. Baòn coì muôìn khõÒi ğôòng laòi IDM ngay bây giõÌ?
+20408=TıÌ %d:%02d ğêìn %d:%02d baòn ğaŞ taÒi ğıõòc %d MB. Tâìt caÒ caìc baÒn taÒi xuôìng võìi IDM seŞ dıÌng laòi theo thiêìt lâòp haòn chêì taÒi cuÒa baòn trong TriÌnh lâòp liòch taÒi cuÒa IDM (hoãòc \'TuÌy choòn->Kêìt nôìi\')!
+20409=TıÌ %d:%02d ğêìn %d:%02d baòn ğaŞ taÒi ğıõòc %d MB. Tâìt caÒ caìc baÒn taÒi xuôìng võìi IDM ğaŞ dıÌng laòi luìc %d:%02d theo thiêìt lâòp haòn chêì taÒi cuÒa baòn trong TriÌnh lâòp liòch taÒi cuÒa IDM (hoãòc \'TuÌy choòn->Kêìt nôìi\')!\r\n\r\nTâìt caÒ caìc baÒn taÒi xuôìng seŞ ğıõòc tıò ğôòng taÒi tiêìp luìc %02d:%02d. Nêìu baòn muôìn taÒi tiêìp ngay bây giõÌ, haŞy thay ğôÒi thiêìt lâòp trong Giõìi haòn taÒi rôÌi bâìm TaÒi tiêìp.
+20410=HoaÌn thaÌnh
+20411=Ğang nôìi têòp...
+20412=Ğang ngãìt kêìt nôìi...
+20413=Têòp vãn baÒn
+20414=Têòp kêìt xuâìt IDM
+20415=Lıu thaÌnh...
+20427=Vui loÌng không ğoìng hôòp thoaòi taÒi xuôìng trong khi IDM ğang nôìi têòp, nêìu không dıŞ liêòu coì thêÒ biò hı haòi.
+20428=Câòp nhâòt
+
+20429=ChuyêÒn taÒi xuôìng tõìi IDM...
+20430=Bâìm 'Quay laòi' ğêÒ quay laòi vaÌ giıŞ nguyên trang duyêòt.
+20431=IDM không thêÒ bãìt ğâÌu taÒi. Không tiÌm thâìy têòp tin thıòc thi.
+
+20433=CaÒnh baìo
+20434=Choòn thı muòc
+20435=Chıõng triÌnh queìt vi-ruìt
+20439=Têòp tin âm thanh
+20440=HoaÌn thaÌnh
+20441=Thuôòc tiình têòp
+20442=Internet%20Download%20Manager%20-%20laÌ%20môòt%20chıõng%20triÌnh%20tuyêòt%20võÌi!!!
+20443=taÒi%20xuôìng%20tıÌ%20
+
+//Please don't replace "English" to your local language, please just translate the "English" word
+20444=HaŞy sıÒ duòng English
+
+20445=Chıa biêìt
+
+20447=Hiêòn kiìch thıõìc biÌnh thıõÌng
+20448=Hiêòn kiìch thıõìc thu nhoÒ
+20449=Không hiêòn
+
+//Please change XXX on the language you are translating IDM to.
+q1=Internet Download Manager ğaŞ nhâòn ra baòn ğang sıÒ duòng ngôn ngıŞ Tiêìng Viêòt laÌm ngôn ngıŞ mãòc ğiònh trong Windows. Baòn coì muôìn caÌi ğãòt ngôn ngıŞ Tiêìng Viêòt cho IDM?
+
+20500=HaŞy mua baÒn quyêÌn vaÌ caÌi ğãòt phiên baÒn IDM ğâÌy ğuÒ tiình nãng trıõìc!
+1338=HaŞy choòn ngôn ngıŞ cho IDM (Baòn coì thêÒ thay ğôÒi sau bãÌng caìch choòn tıÌ triÌnh ğõn "HiêÒn thiò->Ngôn ngıŞ")
+20501=Internet Download Manager chıa ğıõòc ğãng kyì baÒn quyêÌn sau khi hêìt duÌng thıÒ 15 ngaÌy . IDM ğang thoaìt...
+20502=TuÌy chiÒnh...
+20503=NgaÌy thêm
+20504=NgaÌy taÒi
+20505=Lıu vaÌo
+20506=NguôÌn
+33001=TuÌy chiÒnh thanh công cuò...
+33002=TuÌy chiÒnh danh saìch URL...
+33004=Theo ğıõÌng dâŞn lıu
+33005=Theo nguôÌn
+33006=Theo ngaÌy taÒi cuôìi
+20507=Caìc côòt...
+
+209=Caìc côòt
+1339=Ğaình dâìu vaÌo caìc côòt baòn muôìn hiêÒn thiò trong danh saìch. DuÌng nuìt ChuyêÒn lên vaÌ ChuyêÒn xuôìng ğêÒ thay ğôÒi viò triì caìc côòt theo yì baòn.
+1160=ChuyêÒn lên
+1083=ChuyêÒn xuôìng
+1340=Hiêòn
+1048=ÂÒn
+1053=Ğãòt laòi
+1341=Côòt ğıõòc choòn coì thêÒ rôòng:
+1342=pixels
+
+//new category
+20508=DıŞ liêòu neìn
+
+//new dialog
+226=Sôì kêìt nôìi tôìi ğa cho môòt maìy chuÒ
+1348=Maìy chuÒ
+
+1350=Sôì kêìt nôìi tôìi ğa mãòc ğiònh
+1343=Sôì kêìt nôìi tôìi ğa
+1344=Mõìi
+1345=Xoìa
+1346=SıÒa
+1347=Loaòi trıÌ:
+20509=Maìy chuÒ
+20510=Sôì
+
+228=TaÒi xuâìt tâìt caÒ liên kêìt bãÌng IDM
+20511=Loaòi têòp tin
+20512=Vãn baÒn liên kêìt
+1234=SıÒ duòng liên kêìt caìc vãn baÒn ğêÒ mô taÒ caìc muòc taÒi xuôìng
+1055=ÂÒn caìc têòp tin HTML
+1060=ÂÒn caìc têòp tin ğaŞ biò thay thêì
+1353=Choòn tâìt caÒ
+1354=BoÒ choòn tâìt caÒ
+1352=SıÒa...
+1355=HaŞy kiêÒm tra laòi caìc liên kêìt maÌ baòn muôìn thêm vaÌo danh saìch taÒi xuôìng cuÒa IDM, sau ğoì bâìm nuìt OK.\r\nCoì thêÒ baòn phaÒi chõÌ ğêìn khi IDM kiêÒm tra vaÌ ğiêÌn ğâÌy ğuÒ loaòi têòp.
+
+20513=Tên têòp ğıõòc lıu laÌ \"%s\", nhıng maìy chuÒ ğaŞ gıÒi xuôìng noì laÌ loaòi \"%s\", vaÌ têòp tin ğıõòc lıu laÌ \"%s\". Baòn coì muôìn lıu têòp tin võìi tên ğaŞ nhâòn ğıõòc tıÌ maìy chuÒ?
+
+//vers. 4.00
+20514=TaÒi laòi
+20515=MõÒ thı muòc
+
+q2=\"%s\" (%s) muôìn taÒi xuôìng têòp tin \"%s\".\n\nBaòn coì muôìn ğêÒ IDM nhâòn taÒi xuôìng tıÌ ıìng duòng naÌy?\nSau naÌy baòn coì thêÒ cho pheìp hoãòc không cho pheìp IDM nhâòn taÒi xuôìng tıÌ \"%s\" trong Tùy choòn->Cõ baÒn
+
+20516=Giao thıìc truyêÌn dıŞ liêòu \"%s\" hiêòn chıa ğıõòc IDM hôŞ trõò. Hoãòc noì sai cuì phaìp, baòn haŞy kiêÒm tra rôÌi thıÒ laòi.
+20517=IDM gãòp lôŞi \"Truy nhâòp biò tıÌ chôìi\" khi nôìi caìc phâÌn cuÒa têòp tin laòi. Có thêÒ laÌ do têòp tin ğang ğıõòc mõÒ bãÌng môòt ıìng duòng khaìc hoãòc phâÌn mêÌm chôìng vi-ruìt, hoãòc coì thêÒ baòn ğang tıò mõÒ noì. ĞêÒ nôìi laòi têòp tin naÌy, baòn phaÒi khõÒi ğôòng laòi maìy, sau ğoì choòn têòp tin ğoì trong danh saìch taÒi xuôìng cuÒa IDM rôÌi bâìm nuìt taÒi tiêìp.
+20518=HaŞy ğãng kyì sıÒ duòng baÒn quyêÌn cuÒa IDM trıõìc khi câòp nhâòt.\r\nChoòn \"Ğãng kyì->Ğãng kyì\" vaÌ nhâòp vaÌo thông tin ğãng kyì baÒn quyêÌn cuÒa baòn. Sau ğoì choòn \"Trõò giúp->Câòp nhâòt lên phiên baÒn mõìi\" ğêÒ bãìt ğâÌu câòp nhâòt.
+20523=Theo ğiêÌu khoaÒn sıÒ duòng maÌ baòn ğaŞ châìp nhâòn, baòn seŞ ğıõòc câòp nhâòt miêŞn phiì Internet Download Manager trong voÌng 1 nãm sau khi mua. Sau thõÌi gian ğoì, nêìu baòn muôìn tiêìp tuòc câòp nhâòt IDM, baòn seŞ phaÒi traÒ tiêÌn cho diòch vuò câòp nhâòt.\r\nBaòn coì muôìn chuyêÒn sang trang thanh toaìn cuÒa IDM?
+20519=(Các) phím chãòn taÒi xuôìng không ğıõòc chıìa caìc phiìm eìp taÒi xuôìng.\r\nHaŞy choòn caìc phiìm khaìc.
+20525=LôŞi kêìt nôìi. Không nhâòn ra maìy chuÒ. Tên naÌy không phaÒi tên hoãòc ğiònh danh cuÒa maìy chuÒ, hoãòc không tiÌm ğıõòc noì trong (các) cõ sõÒ dıŞ liêòu ğıõòc truy vâìn.\r\n\r\nCoì thêÒ laÌ do caìc nguyên nhân sau:\r\n\r\n1. Baòn ğang sıÒ duòng tıõÌng lıÒa, vaÌ baòn vıÌa mõìi caÌi ğãòt, thay ğôÒi hoãòc câòp nhâòt Internet Download Manager . HaŞy kiêÒm tra thiêìt lâòp tıõÌng lıÒa vaÌ ğaÒm baÒo rãÌng noì cho pheìp IDM truy câòp Internet.\r\n\r\n2. Môòt diòch vuò tiÌm maìy chuÒ trên Internet goòi là Domain Name Service (DNS) hiêòn ğang coì vâìn ğêÌ, hoãòc kêìt nôìi maòng giıŞa baòn vaÌ DNS biò ngãìt. HaŞy khõÒi ğôòng laòi maìy tiình.\r\n\r\n3. Sai lôŞi chiình taÒ õÒ tên maìy chuÒ. HaŞy kiêÒm tra laòi chiình taÒ.\r\n
+20522=IDM không tiÌm thâìy (caìc) têòp tin %d câÌn ğêÒ thıòc hiêòn tiìch hõòp triÌnh duyêòt vaÌ hêò thôìng. Baòn coì muôìn taÒi chuìng xuôìng?
+
+//Options->general
+1370=TiÌm thâìy caìc ıìng duòng mõìi ğang taÒi caìc têòp tin tıÌ internet xuôìng
+1368=TuÌy chiÒnh phiìm ğêÒ chãòn hoãòc eìp taÒi bãÌng IDM
+1367=Phiìm...
+1375=Tiìch hõòp IDM vaÌo triÌnh duyêòt:
+
+229=SıÒ duòng caìc phiìm ğãòc biêòt
+1361=SıÒ duòng (caìc) phiìm sau ğêÒ chãòn IDM taÒi bâìt kyÌ liên kêìt naÌo:
+1067=SıÒ duòng (caìc) phiìm sau ğêÒ eìp IDM taÒi xuôìng võìi tâìt caÒ caìc liên kêìt:
+1366=Bâìm chuôòt traìi vaÌo liên kêìt trong khi nh?n và giıŞ caìc phiìm ğãòc biêòt ğêÒ eìp taÒi liên kêìt bãÌng IDM
+1374=Chú yì: Ğôi khi  baòn bâìm vaÌo liên kêìt taÒi xuôìng, trang web thông báo rãÌng baòn câÌn chõÌ X giây trıõìc khi bãìt ğâÌu taÒi. Trong trıõÌng hõòp naÌy, baòn câÌn boÒ caìc tuÌy choòn naÌy ğêÒ eìp taÒi xuôìng bãÌng IDM.
+
+//Download all links with IDM
+1356=Lıu vaÌo
+1357=Tâìt caÒ caìc têòp vaÌo viò triì nhoìm cuÒa chuìng
+1358=Tâìt caÒ caìc têòp vaÌo môòt nhoìm
+1359=Tâìt caÒ caìc têòp vaÌo môòt thı muòc
+1360=Duyêòt...
+
+//Options->Proxy
+1378=Baòn không sıÒ duòng maìy chuÒ proxy cho các ğiòa chiÒ bãìt ğâÌu bãÌng:
+1377=Phân biêòt caìc tên bãÌng dâìu caìch
+
+
+20526=Tích hõòp maòng cuÒa Internet Download Manager
+20527=Internet Download Manager ğaŞ phaìt hiêòn thâìy tiìch hõòp maòng ğaŞ biò xoìa bõÒi ıìng duòng thıì 3. Baòn coì muôìn khôi phuòc tiìch hõòp maòng cho Internet Download Manager?
+20528=Internet Download Manager ğaŞ phaìt hiêòn thâìy môòt ıìng duòng thıì 3 ğaŞ thay ğôÒi tiìch hõòp maòng cuÒa IDM. ĞiêÌu naÌy coì thêÒ xaÒy ra khi baòn caÌi ğãòt môòt ıìng duòng maòng mõìi, hoãòc do môòt ıìng duòng ğaŞ khôi phuòc giaì triò registry trıõìc ğoì. Baòn coì muôìn khôi phuòc tiìch hõòp maòng cho Internet Download Manager?
+20529=Tiìch hõòp maòng cuÒa Internet Download Manager ğaŞ biò thay ğôÒi. Baòn nên khõÒi ğôòng laòi maìy. Baòn coì muôìn khõÒi ğôòng laòi ngay?
+20530=Tiìch hõòp maòng cuÒa Internet Download Manager ğaŞ biò thay ğôÒi. Baòn nên khõÒi ğôòng laòi maìy viÌ tıõÌng lıÒa không thêÒ phaìt hiêòn nhıŞng thay ğôÒi naÌy, vaÌ caìc ıìng duòng maòng seŞ không thêÒ giao tiêìp võìi Internet cho ğêìn khi hêò thôìng khõÒi ğôòng laòi.\r\n\r\nHaŞy lıu caìc công viêòc vaÌ ğoìng tâìt caÒ caìc ıìng duòng ngay, maìy tiình seŞ khõÒi ğôòng laòi khi baòn bâìm OK.
+
+20531=Nêìu baòn muôìn tiìch hõòp Internet Download Manager vaÌo môòt ıìng duòng ğang chaòy, baòn seŞ phaÒi khõÒi ğôòng laòi noì ğêÒ tiìch hõòp coì taìc duòng viÌ IDM không thêÒ tiìch hõòp vaÌo môòt ıìng duòng ğang chaòy.\r\n\r\nSau khi tích hõòp IDM vaÌo ıìng duòng coì thêÒ baòn phaÒi tãìt tuÌy choòn \"Phaìt hiêòn ıìng duòng mõìi\" ğêÒ coì ğıõòc tiìch hõòp tôìt nhâìt.
+20532=Phaìt hiêòn ıìng duòng mõìi
+
+//v 4.01
+//Download All Links with IDM dialog
+1385=ÂÒn tâìt caÒ hiÌnh aÒnh trong trang web này
+//Options->General dialog
+1381=SıÒ duòng Tiìch hõòp triÌnh duyêòt nâng cao
+20547=Viêòc chuyêÒn ğôÒi giıŞa tiìch hõòp triÌnh duyêòt cõ baÒn vaÌ nâng cao yêu câÌu phaÒi khõÒi ğôòng laòi maìy. Baòn chãìc chãìn muôìn tiêìp tuòc?
+//new dialog
+230=KiêÒm tra kêìt nôìi Internet
+1382=KiêÒm tra
+20536=IDM ğang thıÒ taÒi xuôìng môòt trang web nhoÒ ğêÒ kiêÒm tra kêìt nôìi Internet cuÒa baòn. HaŞy chõÌ vaÌi giây
+20537=IDM ğang kiêÒm tra Internet Explorer. HaŞy chõÌ vaÌi giây ğêÒ Internet Explorer naòp môòt trang nhoÒ
+//Problem report dialog
+232=Báo cáo lôŞi cuÒa Internet Download Manager
+20546=Chúng tôi ğaŞ taòo ra môòt báo cáo caìc thiêìt lâòp ğêÒ baòn có thêÒ gıÒi laòi cho chúng tôi. HaŞy gıÒi cho chúng tôi nhıŞng thông tin sau ğêÒ chúng tôi có thêÒ sıÒa nhıŞng lôŞi ğó trong các phiên baÒn IDM sau này. Ğây là loaòi dıŞ liêòu kyŞ thuâòt. Chúng tôi không thu thâòp thông tin cá nhân cuÒa baòn và ğaÒm baÒo rãÌng báo cáo cuÒa baòn là nãòc danh và bí mâòt.
+1386=Thêm caìc nhâòn xeìt vaÌ yêu câÌu vaÌo bên dıõìi nêìu baòn muôìn
+1391=Nêìu baòn muôìn nhâòn thông baìo khi coì lôŞi mõìi ğıõòc khãìc phuòc, haŞy ğiêÌn e-mail cuÒa baòn vaÌo bên dıõìi
+20545=Ğang gıÒi dıŞ liêòu...\r\nHaŞy chõÌ trong giây laìt
+1390=GıÒi
+
+//new messages
+20533=IDM ğaŞ phaìt hiêòn rãÌng baòn ğang sıÒ duòng môòt maìy chuÒ proxy cho Internet Explorer. Baòn coì muôìn sıÒ duòng caìc thiêìt lâòp proxy ğó cho IDM?
+20534=LâÌn ğâÌu chaòy Internet Download Manager
+20535=IDM ğaŞ phaìt hiêòn rãÌng baòn dang sıÒ duòng Windows DialUp ğêÒ kêìt nôìi Internet. Baòn coì muôìn sıÒ duòng caìc thiêìt lâòp ğoì cho IDM?
+
+20538=Không thêÒ taÒi trang thıÒ nghiêòm. Coì thêÒ do tiìch hõòp maòng cuÒa Internet Download Manager xung ğôòt võìi ıìng duòng Internet khác hoãòc võìi tıõÌng lıÒa. IDM seŞ tãìt Tiìch hõòp triÌnh duyêòt nâng cao vaÌ traÒ laòi thiêìt lâòp gôìc. Baòn coì thêÒ tıò tãìt Tiìch hõòp triÌnh duyêòt nâng cao trong hôòp thoaòi TaÒi xuôìng->TuÌy choòn->Cõ baÒn
+20539=Baòn câÌn khõÒi ğôòng laòi maìy trong trıõÌng hõòp muôìn khôi phuòc caìc thiêìt lâòp gôìc. HaŞy lıu caìc công viêòc vaÌ ğoìng tâìt caÒ ıìng duòng ngay, máy tính seŞ khõÒi ğôòng laòi sau khi baòn bâìm OK.
+20540=Tiìch hõòp maòng cuÒa Internet Download Manager ğaŞ ğıõòc caÌi thaÌnh công. Môòt sôì iìt trıõÌng hõòp xaÒy ra xung ğôòt võìi ıìng duòng Internet thıì 3 mõìi ğıõòc caÌi ğãòt. Nêìu baòn gãòp bâìt kyÌ lôŞi naÌo võìi tiìch hõòp maòng, haŞy boÒ choòn ğaình dâìu \"SıÒ duòng Tiìch hõòp triÌnh duyêòt nâng cao\" trong hôòp thoaòi TaÒi xuôìng->TuÌy choòn->Cõ baÒn
+20541=Baòn ğaŞ tãìt Tiìch hõòp triÌnh duyêòt nâng cao. Nêìu baòn gãòp lôŞi võìi Tiìch hõòp triÌnh duyêòt nâng cao, chúng tôi seŞ sıÒa noì cho baòn. ĞêÒ sıÒa caìc lôŞi naÌy, chúng  tôi câÌn thu thâòp vaÌ phan tiìch môòt sôì thông tin vêÌ caìc thiêìt lâòp vaÌ môòt sôì ıìng duòng Internet cuÒa baòn. IDM seŞ không thu thâòp và xem nhıng thông tin này trıõìc khi nó ğıõòc gıÒi ğêìn bôò phâòn hôŞ trõò cuÒa chuìng tôi.\r\n\r\nBaòn coì muôìn cho IDM xuâìt ra nhıŞng thông tin naÌy?
+20542=Ğang tãìt Tiìch hõòp triÌnh duyêòt nâng cao
+20543=IDM ğang taÒi môòt trang ğêÒ kiêÒm tra kêìt nôìi Internet cuÒa baòn. HaŞy ğaÒm baÒo rãÌng baòn ğaŞ kêìt nôìi tõìi Internet. Nêìu baòn coì tıõÌng lıÒa, haŞy ğaÒm baÒo rãÌng noì cho pheìp phiên baÒn mõìi nhâìt cuÒa IDM ğıõòc truy câòp Internet trıõìc khi thıòc hiêòn. Sau ğó bâìm nút \"KiêÒm tra\" bên dıõìi, IDM seŞ taÒi laòi trang thıÒ môòt lâÌn nıŞa.
+20544=IDM ğaŞ thay ğôÒi tiìch hõòp maòng cuÒa noì vaÌ câÌn kiêÒm tra laòi kêìt nôìi Internet lâÌn nıŞa. Nêìu baòn chıa kêìt nôìi Internet thiÌ haŞy kêìt nôìi ngay rôÌi bâìm \"KiêÒm tra\".
+20548=Tích hõòp maòng cuÒa Internet Download Manager ğaŞ thay ğôÒi. Baòn câÌn khõÒi ğôòng laòi maìy viÌ caìc ıìng duòng Internet seŞ không thêÒ giao tiêìp võìi Internet cho tõìi khi hêò thôìng khõÒi ğôòng laòi.\r\n\r\nHaŞy lıu các công viêòc vaÌ ğoìng caìc ıìng duòng ngay, máy tính seŞ khõÒi ğôòng laòi sau khi baòn bâìm OK.
+
+//v4.01 build 4
+20549=Phiên baÒn Internet Download Manager này ğaŞ có chıìc nãng Tích hõòp triÌnh duyêòt nâng cao. Viêòc cài ğãòt tính nãng này yêu câÌu khõÒi ğôòng laòi hêò thôìng.\r\n\r\nKhi Tích hõòp triÌnh duyêòt nâng cao ğıõòc bâòt, IDM có thêÒ bãìt caìc liên kêìt tıÌ caìc chıõng triÌnh quaÒn lyì taÒi xuôìng khaìc. Khi sıÒ duòng tiìch hõòp, IDM cuŞng coì thêÒ tiìch hõòp vaÌo moòi triÌnh duyêòt vaÌ ıìng duòng Internet khaìc ğêÒ taÒi xuôìng tıÌ FTP/HTTP.\r\n\r\nMôòt sôì iìt trıõÌng hõòp, sıò tiìch hõòp naÌy coì thêÒ gây xung ğôòt võìi ıìng duòng Internet thıì 3. Nêìu baòn gãòp bâìt kyÌ lôŞi naÌo võìi tiìch hõòp maòng, haŞy boÒ choòn hôòp ğaình dâìu \"SıÒ duòng Tiìch hõòp triÌnh duyêòt nâng cao\" trong hôòp thoaòi TaÒi xuôìng->Tùy choòn->Cõ baÒn ğêÒ tãìt nó.\r\n\r\nBaòn coì muôìn caÌi ğãòt Tích hõòp triÌnh duyêòt nâng cao?
+20550=Tích hõòp triÌnh duyêòt nâng cao ğaŞ ğıõòc caÌi ğãòt thaÌnh công!
+
+//menu "File->Redownload"
+33009=TaÒi laòi
+
+//new (since v4.00) toolbar buttons of the main window
+//Please try to make all inscriptions for the buttons on the toolbar shorter. 
+//A long inscription can make all buttons wider and they may cross the border 
+//of the dialog.
+20551=Bãìt ğâÌu danh saìch chõÌ taÒi
+20552=DıÌng danh saìch chõÌ taÒi
+
+//v4.01 build 5
+20553=Internet Download Manager seŞ tıò ğôòng bãìt caìc liên kêìt taÒi xuôìng tıÌ caìc ıìng duòng Internet khác và taÒi chuìng. Nêìu baòn KHÔNG MUÔìN taÒi môòt sôì loaòi têòp bãÌng IDM, haŞy mõÒ hôòp thoaòi TuÌy choòn\r\n\r\n1. Nêìu không muôìn IDM taÒi caìc têòp coì phaÌn mõÒ rôòng naÌo thiÌ xoìa caìc phâÌn mõÒ rôòng tıõng ıìng trong danh sách nhıŞng loaòi têòp tıò ğôòng taÒi.\r\n\r\n2. Nêìu không muôìn taÒi tâìt caÒ caìc têòp tin tıÌ môòt trang naÌo ğoì IDM, haŞy thêm trang ğoì vaÌo danh saìch caìc trang loaòi trıÌ.
+236=Meòo sıÒ duòng IDM: Tıò ğôòng bãìt liên kêìt
+1393=Không hiêòn meòo naÌy nıŞa
+1397=IDM có cõ chêì châìp nhâòn taÒi xuôìng tıÌ caìc ıìng duòng Internet khác môòt caìch linh ğôòng. Baòn coì muôìn tiÌm hiêÒu thêm?
+1396=TiÌm hiêÒu thêm
+
+//v4.02
+20569=Thông baìo lôŞi naÌy coì nghiŞa IDM ğıõòc ğãng kyì trên nhiêÌu maìy võìi cuÌng môòt sôì Serial baÒn quyêÌn. HaŞy nhõì rãÌng môŞi maìy tiình khi sıÒ duòng IDM ğêÌu ğıõòc câìp pheìp sıÒ duòng baÒn quyêÌn riêng. Trong trıõÌng hõòp baòn muôìn sıÒ duòng IDM trên nhiêÌu maìy, haŞy ğãng kyì cho môŞi maìy môòt quyêÌn sıÒ duòng riêng.
+20570=Nuìt nhoÒ
+20571=Nuìt lõìn
+20572=Nuìt côÒ ğiêÒn
+
+//new main menu items
+m33001=Thanh công cuò
+33510=Nuìt côÒ ğiêÒn
+34010=Nuìt nhoÒ
+34011=Nuìt lõìn
+
+//a new (since 4.401) button on the Options dialog
+1371=Trõò giuìp
+
+// The abbreviation of second, kilobytes, megabytes and gigabytes, 
+// it's used when denoting download speed measurement units, 
+// e.g. KB/sec --- kilobytes per second, etc.
+20575=giây
+20576=GB
+20577=MB
+20578=KB
+20579=Byte
+
+//v4.03
+20588=Không thêÒ nôìi laòi caìc phâÌn têòp tin ğaŞ taÒi xuôìng. ChuôŞi caìc phâÌn taÒi xuôìng ğaŞ biò hoÒng. Coì thêÒ do môòt trong caìc nguyên nhân sau.\r\n\r\n 1. Maìy tiình ğaŞ tãìt ğôòt ngôòt do mâìt nguôÌn trong khi taÒi/nôìi caìc phâÌn cuÒa têòp tin.\r\n 2.	Môòt ıìng duòng khaìc hoãòc ngıõÌi sıÒ duòng ğaŞ tãìt Internet Download Manager khi noì ğang taÒi/nôìi caìc phâÌn cuÒa têòp tin. Chuì yì viêòc naÌy khi nôìi laòi caìc têòp tin lõìn. Nhıng ğıÌng lo, haŞy chõÌ môòt chuìt ğêÒ IDM hoaÌn thaÌnh viêòc nôìi. Không ğıõòc tãìt Internet Download Manager bãÌng Task Manager.\r\n\r\nNêìu xaÒy ra lôŞi, haŞy gıÒi têòp tin %s (nêìu noì tôÌn taòi) ğêìn bôò phâòn hôŞ trõò cuÒa Internet Download Manager ğêÒ giaÒi quyêìt.
+
+
+//v 5.00 --- grabber
+1429=< Quay laòi
+1430=Tiêìp tuòc >
+
+1405=Thêm bôò loòc
+1421=Thêm bôò loòc
+1437=ChiÒ tiÌm caìc têòp trong trang naÌy
+1459=Bãìt ğâÌu taÒi tâìt caÒ caìc têòp liên quan trong môòt lâÌn
+1471=Baòn câÌn duyêòt trang trıõìc, ğaình dâìu caìc têòp tin baòn câÌn, rôÌi taÒi chuìng trong cıÒa sôÒ Grabber chiình, hoãòc thêm chuìng trong danh saìch taÒi xuôìng cuÒa IDM. TuÌy choòn naÌy seŞ taÒi xuôìng tâìt caÒ caìc têòp tin ğıõòc tiÌm thâìy ngay lâòp tıìc.
+1515=TaÒi xuôìng caìc têòp tin dıõìi ğây (loaòi têòp)
+1516=Không taÒi xuôìng caìc têòp tin dıõìi ğây (loaòi têòp)
+1480=Không iìt hõn
+1482=Không nhiêÌu hõn
+1483=ChiÒ taÒi xuôìng caìc têòp tin chıìa trong caìc ğıõÌng dâŞn/tên miêÌn sau:
+1486=Không taÒi xuôìng caìc têòp tin chıìa trong caìc ğıõÌng dâŞn/tên miêÌn sau:
+1517=TaÒi xuôìng nêìu kiìch thıõìc têòp
+1488=DuÌng dâìu châìm phâÒy (;) ğêÒ phân biêòt caìc muòc.
+
+241=Grabber
+1446=Sôì têòp ğaŞ taÒi:
+1448=Sôì têòp tiÌm thâìy:
+1450=Sôì trang ğaŞ tiêìn haÌnh:
+
+244=Bôò loòc
+1423=Thêm
+1424=SıÒa
+1425=Xóa
+
+245=Loòc
+1426=Tên
+1427=KiêÒu têòp tin
+
+1414=Tên Grabber Project
+1510=Trang/Ğiòa chiÒ bãìt ğâÌu
+1439=QuyêÌn truy câòp
+1441=Nhâòp tên truy câòp vaÌ mâòt khâÒu cho caìc trang web sau:
+1511=MâŞu Project
+1470=Nêìu baòn choòn môòt Project mâŞu, Noì seŞ tıò taòo caìc thiêìt lâòp câÌn thiêìt cho Project cho mâŞu trong trang tiêìp theo. HaŞy nhõì rãÌng baòn luôn coì thêÒ tıò thay ğôÒi caìc thiêìt lâòp.
+
+1514=DuÌng hêò thôìng thı muòc con giôìng võìi baÒn gôìc.
+1468=ChuyêÒn caìc liên kêìt trong caìc têòp tin html vaÌo caìc têòp cuòc bôò ğêÒ coì thêÒ duyêòt offline.
+1469=Ghi ğeÌ caìc têòp tin tôÌn taòi
+1436=Thêm caìc têòp ğıõòc ğaình dâìu vaÌo danh saìch taÒi chiình cuÒa IDM vaÌ danh saìch chõÌ taÒi khi ğoìng Grabber.
+
+262=thiêìt lâòp Grabber
+1518=SıÒ duòng liên kêìt vãn baÒn laÌm mô taÒ cho muòc taÒi xuôìng khi thêm têòp tin vaÌo danh saìch IDM
+1466=têòp tin ğıõòc khaÒo saìt cuÌng luìc (1 ğêìn 10)
+1467=têòp tin ğıõòc taÒi xuôìng cuÌng luìc (1 ğêìn 10)
+1509=HaŞy nhõì rãÌng maìy chuÒ cuÒa web coì thêÒ ğâÒy yêu câÌu nêìu baòn ğãòt sôì têòp ğıõòc khaÒo saìt (taÒi xuôìng) trong môòt luìc quaì lõìn.
+
+1416=Không khaÒo saìt caìc thı muòc cha
+1490=câìp taòi trang cõ sõÒ
+1435=KhaÒo saìt toaÌn bôò trang web
+1445=ChiÒ khaÒo saìt caìc trang cuÒa liên kêìt câìp:
+1491=câìp õÒ caìc trang khaìc
+1474=ChiÒ khaÒo saìt caìc trang õÒ trong caìc ğıõÌng dâŞn/tên miêÌn sau:
+1476=Không khaÒo saìt caìc trang õÒ trong caìc ğıõÌng dâŞn/tên miêÌn sau:
+1512=Taòi bıõìc naÌy, baòn côÌn chiÒ roŞ nhıŞng trang naÌo seŞ ğıõòc khaÒo saìt ğêÒ tiÌm caìc têòp tin câÌn thiêìt. Taòi bıõìc tiêìp theo, baòn seŞ chiÒ ğiònh loaòi têòp, viò triì vaÌ caìc bôò loòc khaìc.
+1489=Câìp cuÒa liên kêìt laÌ giÌ?
+1493=KhaÒo saìt tâìt caÒ caìc trang web tıÌ tên miêÌn chiình
+1494=Châìp nhâòn caìc cıÒa sôÒ popup
+
+268=Tên mâŞu
+1508=HaŞy nhâòp tên cho mâŞu Grabber
+
+269=Ğang lıu Project cho Grabber
+1507=Lıu Project naÌy võìi tên sau
+1513=Không hiêÒn thiò hôòp thoaòi naÌy nêìu tên laÌ duy nhâìt
+
+270=MõÒ Project
+
+32811=Hıõìng dâŞn
+34022=Trõò giúp Grabber    
+
+
+m1458=Project
+1458=Mõìi
+1438=MõÒ...
+1442=Lıu
+34020=Lıu thiêìt lâòp hiêòn taòi làm mâŞu
+m34013=Project gâÌn ğây
+34013=Danh sách Project gâÌn ğây
+m1457=Tùy choòn
+1457=Thiêìt lâòp Grabber
+34021=Lâòp liòch taÒi cho Project
+
+t1398=Bãìt ğâÌu khaÒo sát trang
+t1401=DıÌng khaÒo sát trang
+t1353=Ğánh dâìu tâìt caÒ têòp
+t1354=BoÒ dâìu tâìt caÒ têòp
+t1432=Bãìt ğâÌu taÒi caìc têòp ğaình dâìu
+t1433=DıÌng taÒi caìc têòp ğaình dâìu
+t1434=Thêm các têòp ğánh dâìu vào danh sách chính cuÒa IDM và vào chõÌ taÒi
+
+
+20580=Tùy chiÒnh caÌi ğãòt
+20581=Tâìt caÒ HiÌnh aÒnh trong trang web
+20582=Tâìt caÒ Âm thanh trong trang ğâÌu và các trang câìp tiêìp theo
+20583=Tâìt caÒ Video trong trang web
+20584=Tâìt caÒ têòp tin trong trang web ngoaòi trıÌ các trang web và hiÌnh aÒnh
+20585=Toàn bôò trang web
+
+20589=Nôòi dung trang web
+20590=Nâng cao
+20591=Grabber Project
+20592=TriÌnh Grabber
+20593=HaŞy thêm trang bãìt ğâÌu/ğiòa chiÒ 
+20594=Trang bãìt ğâÌu/Ğiòa chiÒ 
+20595=HaŞy nhâòp tên ğãng nhâòp vaÌ mâòt khâÒu hoãòc boÒ choòn hôòp thoaòi \"SıÒ duòng QuyêÌn truy câòp\".
+20596=HaŞy ğiêÌn ğiòa chiÒ trang ğãng nhâòp hoãòc boÒ ğaình dâìu hôòp thoaòi tıõng ıìng
+20597=Ğiòa chiÒ trang ğãng nhâòp
+20598=Không coì têòp tin naÌo ğıõòc ğaình dâìu!
+20599=Têòp tin %ld ğaŞ ğıõòc thêm vaÌo danh saìch chiình cuÒa IDM.
+20600=Không thêÒ thêm têòp tin. Quaì nhiêÌu têòp tin ğıõòc choòn. HaŞy taÒi chuìng xuôìng trong Project naÌy bãÌng caìch bâìm nuìt \"TaÒi muòc ğaình dâìu\" trên thanh công cuò.
+20601=Không thêÒ thêm têòp tin. Danh saìch IDM chıìa quaì nhiêÌu têòp tin coì thêÒ laÌm IDM châòm laòi. HaŞy xoìa môòt sôì têòp tin tıÌ danh saìch chiình.
+
+20602=Tên naÌy ğaŞ ğıõòc sıÒ duòng cho mâŞu coì sãŞn. HaŞy choòn tên khaìc cho mâŞu cuÒa baòn.
+20603=MâŞu võìi tên naÌy ğaŞ tôÌn taòi. Baòn coì muôìn thay thêì mâŞu?
+20604=Lıu Grabber Project?
+
+//right click menu
+20605=MõÒ Project
+20606=Lâòp liòch taÒi cho Project
+20607=Xoìa Project
+
+20608=HaŞy ğoìng Grabber Project ğang chaòy trıõìc.
+20609=Lâòp liòch Grabber Project
+20610=Sãìp coì!!!\r\n\r\nHaŞy sıÒ duòng chıìc naÌy trong phiên baÒn IDM tõìi
+
+//displayed statuses
+20611=KhaÒo saìt trang
+20612=Ğang taÒi xuôìng
+20613=HoaÌn thaÌnh
+20614=ĞaŞ dıÌng
+
+20615=Project coì tên \"%s\" ğaŞ tôÌn taòi. HaŞy choòn tên khaìc.
+20616=Chıa coì Grabber Project naÌo
+20617=HaŞy choòn tên cho Project!
+20618=Baòn coì muôìn xoìa Grabber Project \"%s\"?
+20619=Sôì têòp tin ğıõòc khaÒo saìt cuÌng luìc không hõòp lêò. HaŞy choòn con sôì thiìch hõòp.
+20620=Sôì têòp tin ğıõòc taÒi xuôìng cuÌng luìc không hõòp lêò. HaŞy choòn con sôì thiìch hõòp.
+20621=Không thêÒ mõÒ têòp tin \"%s\"\r\n\r\n%s
+20622=Baòn coì muôìn taÒi vaÌ caÌi ğãòt têòp tin hôŞ trõò triÌnh Grabber cuÒa IDM (khoaÒng 100 KB) tıÌ trang chuÒ IDM ?
+20623=Không thêÒ mõÒ Project.\r\nBôò nhõì ğıõÌng dâŞn lıu biò lôŞi.
+20624=Không thêÒ mõÒ Project.\r\nTêòp tin cuÒa Grabber Project ğaŞ hoÒng hoãòc phiên baÒn không ğıõòc châìp nhâòn.
+20625=Têòp tin cuÒa Grabber Project ğaŞ hoÒng. NhiêÌu têòp tin không ğıõòc mõÒ
+20626=Không thêÒ mõÒ mâŞu.\r\nTêòp tin lıu thông tin mâŞu ğaŞ hoÒng hoãòc phiên baÒn không ğıõòc châìp nhâòn.
+20627=Ğang mõÒ mâŞu Grabber
+20628=Ğang lıu mâŞu Grabber
+20629=Ğang lıu Grabber Project
+20630=Ğang mõÒ Grabber Project
+      
+//step dialogs captions
+20631=TriÌnh Grabber. Bıõìc %d --- %s
+20632=Ğãòt trang bãìt ğâÌu
+20633=Lıu caìc têòp tin vaÌo
+20634=Ğãòt bôò loòc cho khaÒo saìt
+20635=Ğãòt bôò loòc têòp
+
+20636=Trang ğãng nhâòp
+20637=Bâìm OK khi quaì triÌnh ğãng nhâòp thaÌnh công
+20638=OK
+20639=HuÒy boÒ
+
+//v4.04
+20640=Nêìu baòn chiÒ câÌn taÒi xuôìng tıÌ Internet Explorer thiÌ không câÌn tiình nãng naÌy, haŞy choòn \"Không\".
+
+//v4.06
+20641=Ğang kêìt nôìi tõìi
+20642=Site:
+1534=Lıu mâòt khâÒu naÌy vaÌo danh saìch mâòt khâÒu trong IDM
+1536=GoŞ tên ğãng nhâòp vaÌ mâòt khâÒu cuÒa baòn.
+1537=Tên ğãng nhâòp:
+1538=Mâòt khâÒu:
+
+//v4.07
+
+280=TaÒi xuôìng haÌng loaòt
+1553=Nêìu baòn muôìn thêm môòt nhoìm nhiêÌu têòp coì tên tıõng tıò nhau nhı img001.jpg, img002.jpg, ..., img100.jpg vaÌo danh saìch chõÌ taÒi cuÒa IDM. HaŞy sıÒ duòng dâìu hoa thiò ğaòi diêòn cho phâÌn giôìng nhau trong tên têòp.\nViì duò:   http://www.internetdownloadmanager.com/pictures/img*.jpg
+1540=Caìc sôì
+1541=Caìc chıŞ caìi
+1556=TıÌ:
+1557=Ğêìn:
+1547=Kiìch thıõìc tıõòng trıng
+1555=Thay dâìu hoa thiò thaÌnh
+1558=Têòp ğâÌu tiên:
+1559=Têòp thıì hai:
+1560=Têòp cuôìi cuÌng:
+
+20643=Ğaình dâìu tâìt caìc têòp ğıõòc choòn
+20644=BoÒ ğaình dâìu tâìt caìc têòp ğıõòc choòn
+
+1552=Thay thêì caìc tên têòp bãÌng dâìu hoa thiò ğaòi diêòn cho phâÌn giôìng nhau cuÒa tên têòp:
+
+34024=TaÒi xuôìng haÌng loaòt
+
+20645=Không coì dâìu hoa thiò ğaòi diêòn trong URL ğêÒ taòo môòt danh saìch taÒi xuôìng!
+20646=TaÒi xuôìng haÌng loaòt
+20647=Quaì nhiêÌu têòp. Sôì têòp tin vıõòt quaì 1000. HaŞy choòn phaòm vi khaìc \"tıÌ : tõìi :\" .
+20648=Lıu vaÌo thı muòc/nhoìm
+
+//v5.00 beta
+
+20574=Grabber
+20649=HaŞy nhâòp vaÌo ğiòa chiÒ trang ğãng xuâìt hoãòc boÒ choòn hôòp ğaình dâìu tıõng ıìng
+
+20554=Tâìt caÒ têòp tin
+20555=Têòp tin hiÌnh aÒnh
+20556=Têòp tin video
+20557=Têòp tin âm thanh
+20558=Têòp tin thıòc thi
+20559=Têòp tin neìn
+20560=Têòp tin taÌi liêòu PDF
+
+20561=Không duÌng bôò loòc loaòi trıÌ
+
+20562=Sõ ğôÌ trang
+20563=Thiêìt lâòp
+
+20564=Tên bôò loòc
+20565=KiêÒu têòp tin
+20566=HaŞy ğiêÌn tên bôò loòc
+20567=HaŞy ğiêÌn kiêÒu têòp tin
+20568=Bôò loòc coì tên \"%s\" ğaŞ tôÌn taòi. HaŞy choòn tên khaìc.
+
+20650=Vui loÌng chõÌ...
+20651=Ğang xoìa caìc têòp tin taòm thõÌi 
+20652=Ğang lıu Grabber Project
+20653=Ğang xoìa Grabber Project
+20654=Ğang aìp duòng caìc thay ğôÒi
+20655=Ğang mõÒ Grabber Project
+20661=Ğang kiêÒm tra caìc thay ğôÒi
+20662=Ğang taÒi xuôìng trang web ğêÒ ğãng nhâòp thuÒ công
+
+20656=Không ğuÒ bôò nhõì trôìng trên ôÒ ğiŞa %s ğêÒ tiêìn haÌnh chaòy Grabber Project. HaŞy laÌm trôìng ğiŞa rôÌi thıÒ laòi.
+20657=Không ğuÒ bôò nhõì trôìng trên ôÒ ğiŞa %s ğêÒ mõÒ Grabber Project. HaŞy laÌm trôìng ğiŞa rôÌi thıÒ laòi.
+20658=Không thêÒ mõÒ Project. Môòt sôì têòp tin cuÒa Project ğaŞ biò hoÒng hoãòc biò xoìa.
+
+20659=HoaÌn thaÌnh taÒi trang bãìt ğâÌu võìi caìc hiÌnh aÒnh, giao diêòn, vaÌ script ğêÒ duyêòt offline
+20660=HoaÌn thaÌnh trang bãìt ğâÌu
+
+20663=Không thêÒ taÒi trang maÌ noì yêu câÌu phaÒi ğãng nhâòp bãÌng caìch thuÒ công. HaŞy kiêÒm tra cuì phaìp URL.
+
+33010=Chaòy Grabber
+
+1563=Bâìm nuìt Nâng cao ğêÒ taòo ğãng nhâòp cho caìc trang hoãòc yêu câÌu boÒ qua trang ğãng xuâìt
+1561=Không mõÒ trang ğãng xuâìt:
+1564=Môòt sôì trang coì (caìc) trang ğãng xuâìt maÌ triÌnh Grabber không nên mõÒ noì. Baòn coì thêÒ sıÒ duòng dâìu hoa thiò ğaòi diêòn taòi ğây ğêÒ chiÒ roŞ phâÌn giôìng nhau cuÒa caìc trang ğãng xuâìt khaìc nhau.
+1571=ÂÒn caìc têòp tin giôìng nhau ğıõòc tiÌm thâìy lãòp laòi trong caìc viò triì khaìc nhau
+1565=XıÒ lyì JavaScript
+1567=CâÒn thâòn khi duÌng tuÌy choòn naÌy. Baòn coì chãìc muôìn tiêìp tuòc không?
+1573=TiÌm caìc têòp tin lıu trong bôò ğêòm cuÒa IE trıõìc khi taÒi xuôìng
+1568=DuÌng dâìu hoa thiò ğaòi diêòn cho phâÌn giôìng nhau. DuÌng dâìu phâÒy không caìch ğêÒ ngãn giıŞa caìc muòc. 
+
+//grabber dlg tree
+20664=Tâìt caÒ têòp tin
+20665=Xem liên kêìt
+20671=Xem thı muòc
+20667=Caìc site khaìc
+20668=caìc site
+
+20669=Bôò loòc loaòi trıÌ
+20670=Bôò loòc chıìa
+
+t34023=Hiêòn thôìng kê cuÒa Grabber
+271=Thôìng kê cuÒa Grabber
+1574=TiÌnh traòng:
+1575=Caìc trang ğaŞ xıÒ lyì
+1576=Ğõn giaÒn
+1577=Nâng cao
+1578=Sôì têòp
+1579=TôÒng
+1580=ĞaŞ khaÒo saìt
+1581=Ğuìng yêu câÌu
+1582=ĞaŞ taÒi ğıõòc
+
+//v5.00 build 3
+20672=Xem trıõìc
+20673=Chıa taÒi têòp naÌo
+
+20674=Không tiÌm thâìy
+20675=Biò câìm
+20676=LôŞi
+
+//v5.01
+284=Lâòp liòch cho Grabber Project
+1583=KhaÒo saìt/TaÒi xuôìng môòt lâÌn
+1584=ĞôÌng bôò ğiònh kyÌ
+1585=ChiÒ khaÒo saìt
+1586=KhaÒo saìt trang web vaÌ taÒi xuôìng caìc têòp tin hõòp lêò
+1587=TaÒi xuôìng caìc têòp ğıõòc ğaình dâìu
+1588=Bıõìc 3. Lâòp liòch
+1601=Bıõìc 2. Choòn hoaòt ğôòng
+1600=Bıõìc 1. Choòn loaòi
+1593=Project:
+1590=MõÒ caìc têòp tin sau khi taÒi xong:
+1595=Bãìt ğâÌu laòi luìc:
+1597=giõÌ
+1598=phuìt
+1599=Caìc ngaÌy
+1602=Lıu yì: IDM phaÒi ğıõòc chaòy õÒ khay hêò thôìng taòi thõÌi ğiêÒm bãìt ğâÌu Project ğaŞ ğıõòc quy ğiònh taòi lâòp liòch
+20677=ĞêÒ sıÒ duòng triÌnh Lâòp liòch, baòn phaÒi lıu Project trıõìc. Coì lıu Project ngay không?
+20678=Internet Download Manager ğaŞ hoaÌn thaÌnh tiêìn triÌnh cuÒa Grabber Project. Theo yêu câÌu trong thiêìt ğãòt lâòp liòch Project, maìy tiình seŞ khõÒi ğôòng laòi.
+t33010=Bâòt tiình nãng Grabber
+t34021=Lâòp liòch cho Project
+t34025=Câòp nhâòt toaÌn bôò
+20679=Lâòp liòch cho Grabber Project không thêÒ bãìt ğâÌu luìc %d:%02d viÌ Project hiêòn ğang chaòy.
+20680=Lâòp liòch cho Grabber Project không thêÒ bãìt ğâÌu luìc %d:%02d viÌ thiêìt lâòp Project ğaŞ ğıõòc sıÒa laòi vaÌo luìc naÌy.
+20681=Java-script seŞ không ğıõòc thıòc hiêòn cho caìc trang ğaŞ ğıõòc khaÒo saìt/xıÒ lyì. Nêìu baòn muôìn thıòc hiêòn Java-script cho caìc trang web naÌy, baòn câÌn bâìm \"Câòp nhâòt tâìt\" trên thanh công cuò trong hôòp thoaòi Hoaòt ğôòng Grabber.
+20682=Nuìt câòp nhâòt seŞ câòp nhâòt Project theo (a) bãìt ğâÌu khaÒo saìt trang web tıÌ trang bãìt ğâÌu, (b) câòp nhâòt têòp tin nêìu noì ğaŞ biò thay ğôÒi trên maìy chuÒ, vaÌ (c) taÒi xuôìng caìc têòp tin mõìi.
+20683=Nuìt câòp nhâòt seŞ câòp nhâòt Project theo (a) bãìt ğâÌu khaÒo saìt trang web tıÌ trang bãìt ğâÌu, (b) câòp nhâòt caìc têòp tin ğaŞ taÒi xuôìng ğang ğıõòc ğaình dâìu nêìu chuìng ğaŞ biò thay ğôÒi trên maìy chuÒ.
+20684=HaŞy nhõì rãÌng baòn không nên xoìa bâìt kyÌ têòp tin naÌo ğıõòc tiÌm thâìy. TriÌnh Grabber seŞ phân tiìch laòi tâìt caÒ caìc trang trên trang Web môòt lâÌn nıŞa.\r\n\r\nBaòn chãìc chãìn muôìn câòp nhâòt Project naÌy?
+
+//version 5.02
+20685=ĞôÒi tên Project
+20686=Thu nhoÒ xuôìng khay hêò thôìng
+20688=Khôi phuòc tâìt caÒ cıÒa sôÒ taÒi xuôìng
+20689=Baòn coì thêÒ bâòt hôòp thoaòi naÌy lên trong \"TuÌy choòn->TaÒi xuôìng\"
+20690=Thiêìt lâòp IDM
+20691=ĞaŞ taÒi ğıõòc %s (%I64d Byte)
+20692=Coì thêÒ têòp tin chıa ğıõòc taÒi xuôìng hoaÌn toaÌn viÌ chıa biêìt kiìch thıõìc cuÒa têòp tin.
+20693=Ghi nhõì ğıõÌng dâŞn naÌy cho nhoìm \"%s\"
+20694=ĞaŞ taÒi xong
+1610=Ğiòa chiÒ
+1611=Têòp tin ğıõòc lıu vaÌo ğıõÌng dâŞn sau:
+1606=MõÒ thı muòc
+1607=Không mõÒ laòi hôòp thoaòi naÌy
+t1608=Duyêòt
+20695=BaÒn taÒi xuôìng IDM
+1615=BoÒ qua thay ğôÒi thõÌi gian cuÒa têòp tin môŞi lâÌn taÒi tiêìp
+1613=Ğoòc thêm
+20696=IDM luôn kiêÒm tra caìc baÒn mõìi 2 tuâÌn môòt lâÌn bãÌng caìch gıÒi yêu câÌu tõìi trang chuÒ. Nêìu tıõÌng lıÒa cuÒa baòn chãòn yêu câÌu câòp nhâòt cuÒa IDM vaÌ hiêòn caÒnh baìo cho baòn, không vâìn ğêÌ giÌ . Baòn phaÒi biêìt rãÌng yêu câÌu naÌy hoaÌn toaÌn biÌnh thıõÌng vaÌ an toaÌn.
+1617=Ğiòa chiÒ
+1619=Ğiòa chiÒ:
+1618=Baòn coì thêÒ duÌng dâìu hoa thiò ğaòi diêòn cho phâÌn giôìng nhau
+
+//Please note that the old menu item string changed from m32771=URL to m32771=Tasks
+//also strings 32771 and 148 have been changed
+
+//v 5.02 Build 2
+1621=Thông baìo câòp nhâòt
+290=Thông baìo câòp nhâòt IDM
+20697=Không coì baÒn taÒi thu nhoÒ naÌo
+
+// v 5.02 Build 3
+1622=Chuì yì: Caìc thiêìt lâòp naÌy không liên quan ğêìn tiêìn triÌnh cuÒa danh saìch chõÌ taÒi
+
+// v 5.02 Build 6
+20698=Duyêòt
+
+// v 5.02 Build 10
+20586=LôŞi naÌy coì thêÒ do môòt sôì nguyên nhân sau:\r\n\r\n 1. Không tiÌm thâìy kêìt nôìi Internet. HaŞy kiêÒm tra kêìt nôìi Internet cuÒa baòn.\r\n\r\n 2. Baòn coì môòt tıõÌng lıÒa trên maìy tiình, vaÌ baòn vıÌa caÌi dãòt, thay thêì hoãòc câòp nhâòt phiên baÒn Internet Download Manager naÌy. HaŞy kiêÒm tra thiêìt lâòp tıõÌng lıÒa vaÌ ğaÒm baÒo rãÌng noì cho pheìp IDM truy câòp Internet.\r\n\r\n 3. Môòt diòch vuò tiÌm maìy chuÒ trên Internet goòi laÌ Domain Name Service (DNS) taòm thõÌi truòc trãòc, hoãòc kêìt nôìi giıŞa baòn vaÌ DNS biò gaŞy. Baòn haŞy khõÒi ğôòng laòi maìy.\r\n
+1570=Tham khaÒo:
+
+// v 5.02 Build 12
+20587=Khi baòn thıÒ tiêìp tuòc taÒi xuôìng, Internet Download Manager ğaŞ nhâòn ğıõòc phaÒn hôÌi rãÌng maìy chuÒ không hôŞ trõò tiêìp tuòc taÒi xuôìng.\r\nCoì thêÒ laÌ do maìy chuÒ taòm thõÌi biò lôŞi, vaÌ baòn coì thêÒ taÒi tiêìp vaÌo luìc khaìc, nhıng bây giõÌ IDM chiÒ coì thêÒ taÒi noì tıÌ ğâÌu.\r\n\r\nBaòn coì muôìn taÒi têòp tin naÌy laòi tıÌ ğâÌu?
+
+// v 5.03
+20699=Caìc kiêÒu têòp tin không nãÌm trong nhoìm naÌo
+20700=Baòn ğaŞ bâìm "TaÒi xuôìng sau", nhıng IDM ğaŞ thıòc hiêòn taÒi xuôìng môòt phâÌn cuÒa têòp. IDM luôn bãìt ğâÌu taÒi trong khi hiêÒn thiò hôòp thoaòi "Thông tin taÒi têòp". Baòn coì thêÒ tãìt tuÌy choòn naÌy trong theÒ "TuÌy choòn->TaÒi xuôìng"
+20701=TaÒi xuôìng sau
+20702=CâÌn coì thı muòc taòm ğêÒ chıìa caìc phâÌn cuÒa têòp trong khi taÒi xuôìng.\nNêìu baòn coì nhiêÌu ôÒ ğiŞa ìtrên maìy tiình, haŞy choòn caìc ôÒ ğiŞa khaìc võìi thı muòc "Lıu vaÌo" ğêÒ quaì triÌnh nôìi têòp ğıõòc nhanh hõn.
+20703=Tıò ğôòng ğãòt caìc loaòi têòp sau vaÌo loaòi \"%s\":
+20704=Lıu vaÌo
+20705=Nhoìm, kiêÒu têòp tins, thı muòc
+1623=Bãìt ğâÌu taÒi ngay khi hôòp thoaòi "Thông tin taÒi xuôìng" xuâìt hiêòn
+
+292=Sãìp khõÒi ğôòng laòi maìy
+1627=DıÌng
+20706=SeŞ khõÒi ğôòng laòi maìy sau %d giây
+20707=KhõÒi ğôòng laòi ngay
+
+// v 5.04
+//Options->File Types and Options->General changes (for basic integration)
+20708=Caìc loaòi têòp
+20709=Caìc loaòi têòp ğıõòc taÒi
+20711=Lıu yì: Opera vaÌ caìc triÌnh duyêòt cuÒa Mozilla CUŞ coì thêÒ tiìch hõòp võìi IDM bãÌng caìch sıÒ duòng phâÌn bôÒ trõò. Loaòi tiìch hõòp naÌy không hôŞ trõò danh saìch loaòi trıÌ maìy chuÒ ğêÒ không cho IDM taÒi xuôìng taòi ğoì. Khi baòn thay ğôÒi danh saìch caìc loaòi têòp, baòn cuŞng phaÒi khõÒi ğôòng laòi triÌnh duyêòt ğêÒ naòp laòi phâÌn bôÒ trõò.\nNhıŞng haòn chêì naÌy seŞ không ğıõòc aìp duòng nêìu baòn duÌng \"Tiìch hõòp triÌnh duyêòt nâng cao\" trong theÒ \"Cõ baÒn\".
+1632=Chi tiêìt
+1633=Thêm triÌnh duyêòt...
+1634=Tiìch hõòp laòi tâìt
+20710=Lıu yì: Opera vaÌ caìc triÌnh duyêòt cuÒa Mozilla CUŞ coì thêÒ tiìch hõòp võìi IDM bãÌng caìch sıÒ duòng phâÌn bôÒ trõò. Loaòi tiìch hõòp naÌy không hôŞ trõò caìc phiìm ğãòc biêòt ğêÒ chãòn hoãòc eìp taÒi xuôìng bãÌng IDM tıÌ caìc triÌnh duyêòt.\nNêìu baòn muôìn chãòn hoãòc eìp taÒi xuôìng bãÌng IDM qua caìc phiìm ğãòc biêòt, haŞy sıÒ duòng \"Tiìch hõòp triÌnh duyêòt nâng cao\".
+
+//MessageBoxes
+20713=Tiìch hõòp triÌnh duyêòt cuÒa IDM
+20712=IDM không tıò ğôòng tiÌm thâìy triÌnh duyêòt %s trên maìy tiình cuÒa baòn. HaŞy chiÒ ra ğıõÌng dâŞn chaòy têòp tin thıòc thi cuÒa triÌnh duyêòt trong hôòp thoaòi kêì tiêìp.
+20714=Viêòc tiìch hõòp vaÌo triÌnh duyêòt bãÌng phâÌn bôÒ trõò ğaŞ thâìt baòi!
+20715=PhâÌn bôÒ trõò cho triÌnh duyêòt %s ğaŞ ğıõòc caÌi ğãòt.
+20716=PhâÌn bôÒ trõò cho triÌnh duyêòt %s %s ğaŞ ğıõòc caÌi ğãòt.
+20717=PhâÌn bôÒ trõò cho triÌnh duyêòt %s ğaŞ ğıõòc gõŞ boÒ.
+20718=HaŞy khõÒi ğôòng laòi triÌnh duyêòt ğêÒ aìp duòng caìc thay ğôÒi.
+20719=HaŞy cung câìp viò triì ğãòt têòp thıòc thi cuÒa triÌnh duyêòt trong hôòp thoaòi kêì tiêìp.
+20720=Không thêÒ caÌi ğãòt phâÌn mõÒ rôòng idmmzcc.xpi cho Mozilla Firefox!
+20722=IDM ğaŞ phaìt hiêòn rãÌng triÌnh duyêòt %s %s laÌ triÌnh duyêòt mãòc ğiònh trên maìy tiình cuÒa baòn.\nBaòn coì muôìn tiìch hõòp noì võìi IDM?
+20723=Không thêÒ caÌi ğãòt phâÌn mõÒ rôòng idmmzcc.xpi!
+20724= triÌnh duyêòt %s %s seŞ ğıõòc mõÒ ngay bây giõÌ ğêÒ caÌi ğãòt phâÌn bôÒ trõò giuìp tiìch hõòp võìi IDM.\nHaŞy xaìc nhâòn caÌi ğãòt phâÌn mõÒ rôòng idmmzcc.xpi tıÌ Tonec Inc. trong caìc triÌnh duyêòt tıõng ıìng rôÌi khõÒi ğôòng laòi triÌnh duyêòt sau khi caÌi ğãòt xong.
+20725=Không thêÒ caÌi ğãòt phâÌn bôÒ trõò cho triÌnh duyêòt %s %s!
+20726=IDM ğaŞ tiìch hõòp thaÌnh công vaÌo Internet Explorer.\nBaòn câÌn khõÒi ğôòng laòi IE ğêÒ aìp duòng caìc thay ğôÒi.
+20727=IDM ğaŞ phaìt hiêòn rãÌng triÌnh duyêòt %s %s cuŞng ğıõòc caÌi ğãòt vaÌo maìy tiình cuÒa baòn.\nBaòn coì muôìn tiìch hõòp noì võìi IDM?
+20728=TriÌnh duyêòt ğıõòc choòn seŞ ğıõòc mõÒ ngay bây giõÌ ğêÒ caÌi ğãòt phâÌn mõÒ rôòng giuìp tiìch hõòp võìi IDM.\nHaŞy xaìc nhâòn caÌi ğãòt phâÌn mõÒ rôòng idmmzcc.xpi tıÌ Tonec Inc. trong caìc triÌnh duyêòt tıõng ıìng rôÌi khõÒi ğôòng laòi triÌnh duyêòt sau khi caÌi ğãòt xong.
+20729=PhâÌn bôÒ trõò cho caìc triÌnh duyêòt ğıõòc choòn ğaŞ ğıõòc caÌi ğãòt.\nHaŞy khõÒi ğôòng laòi triÌnh duyêòt ğêÒ aìp duòng caìc thay ğôÒi.
+20730=IDM ğaŞ sãŞn saÌng tiìch hõòp vaÌo Internet Explorer!
+20731=IDM không tiÌm ğıõòc triÌnh duyêòt naÌy trong cõ sõÒ dıŞ liêòu tiìch hõòp cõ baÒn. Baòn haŞy thıÒ Tiìch hõòp triÌnh duyêòt nâng cao ğêÒ lâìy quyêÌn taÒi xuôìng tıÌ caìc triÌnh duyêòt naÌy.
+20732=Không thêÒ caÌi ğãòt phâÌn bôÒ trõò cho triÌnh duyêòt võìi loaòi tiìch hõòp tıõng ıìng!
+
+//new dialogs
+296=Tiìch hõòp triÌnh duyêòt
+1635=IDM ğaŞ phaìt hiêòn caìc triÌnh duyêòt bôÒ sung sau trên maìy tiình cuÒa baòn. HaŞy choòn caìc triÌnh duyêòt baòn muôìn tiìch hõòp võìi IDM.
+297=Chi tiêìt triÌnh duyêòt
+1636=Thêm phiên baÒn...
+20733=TriÌnh duyêòt
+20734=Loaòi tiìch hõòp
+20735=ĞıõÌng dâŞn
+20736=MõÒ rôòng
+20737=PhâÌn bôÒ trõò
+
+//new menu item on main dlg popup menu and new button on Download complete dlg
+20738=MõÒ bãÌng...
+1639=MõÒ bãÌng...
+
+//
+20739=Xaìc ğiònhò triÌnh duyêòt
+
+// v 5.05
+20740=IDM hiêòn ğang taÒi têòp tin naÌy!
+20741=Lãòp laòi liên kêìt taÒi xuôìng
+298=Lãòp laòi liên kêìt taÒi xuôìng
+20742=Hiêòn hôòp thoaòi hoÒi tôi muôìn laÌm giÌ.
+20743=Thêm baÒn lãòp laòi võìi chiÒ sôì riêng vaÌo tên têòp
+20744=Thêm baÒn lãòp laòi vaÌ ghi ğeÌ têòp tin ğang tôÌn taòi
+20745=Nêìu têòp tin tôÌn taòi ğaŞ ğıõòc taÒi xong, hiêòn hôòp thoaòi taÒi xuôìng hoaÌn thaÌnh; hoãòc taÒi tiêìp noì.
+1641=Têòp tin naÌy ğaŞ coì trong danh saìch taÒi xuôìng. Baòn coì thêÒ choòn nhıŞng tuÌy choòn dıõìi ğây, hoãòc bâìm HuÒy boÒ ğêÒ boÒ qua têòp naÌy
+1645=Nhõì lıòa choòn cuÒa tôi vaÌ không hiêòn laòi hôòp thoaòi naÌy nıŞa.\r\nSau naÌy, baòn coì thêÒ thay ğôÒi noì trong TuÌy choòn->TaÒi xuôìng.
+1646=Nêìu môòt liên kêìt taÒi xuôìng biò lãòp laòi:
+
+20746=Internet Explorer, MSN Explorer, vaÌ triÌnh duyêòt nêÌn IE
+20747=Netscape 8.0 hoãòc mõìi hõn
+20748=Netscape 7.xx vaÌ 6.xx
+
+// v 5.05 build 2
+20749=Baòn coì thêÒ keìo, thaÒ têòp tin naÌy
+//Dear translators, if you added "CompleteDlg.htm" topic to your help file, or you did not translate the help file and use the English version, please add and translate the phrase "Press F1 to read more" at the next line.
+20750=Keìo biêÒu tıõòng naÌy ğêÒ bãìt ğâÌu taÒi xuôìng têòp tin bãÌng caìch keìo thaÒ.
+//or 20750=Keìo biêÒu tıõòng naÌy ğêÒ bãìt ğâÌu hoaòt ğôòng taÒi têòp tin bãÌng caìch keìo thaÒ.\r\nBâìm F1 ğêÒ tiÌm hiêÒu thêm.
+20751=Keìo thaÒ têòp tin naÌy
+
+// v 5.07
+1647=Tiêìp tuòc
+20754=Baòn câÌn cung câìp quyêÌn administrator ğêÒ lıu têòp tin vaÌo viò triì naÌy
+20755=Baòn câÌn cung câìp quyêÌn administrator ğêÒ thıòc hiêòn viêòc naÌy
+
+// v 5.07 build 2
+20756=Chıõng triÌnh caÌi IDM yêu câÌu phaÒi khõÒi ğôòng laòi maìy tiình ğêÒ thay thêì caìc têòp tin ğang ğıõòc sıÒ duòng. Bâìm OK ğêÒ khõÒi ğôòng laòi maìy tiình ngay
+20757=Xaìc nhâòn khõÒi ğôòng laòi
+20758=Internet download manager ğaŞ ğıõòc caÌi ğãòt thaÌnh công. Noì seŞ tıò khõÒi ğôòng vaÌ nhâòn taÒi xuôìng tıÌ triÌnh duyêòt.
+20759=Baòn cuŞng coì thêÒ khõÒi ğôòng noì tıÌ \"Start -> All Programs -> Internet Download Manager\".
+
+// v 5.07 build 6
+//new checkbox on Options->General
+1650=Bâòt mô-ğun cho thao taìc trên caìc triÌnh duyêòt nêÌn IE (MSN, Avant,...)
+
+//v 5.08 build 5
+//new dialogs
+302=Ğang huÒy môòt lıõòt tıò ğôòng taÒi xuôìng
+1651=Baòn ğaŞ huÒy hai lâÌn trong baÒn taÒi xuôìng naÌy.\n\nNêìu IDM thıõÌng xuyên nhâÌm lâŞn trong khi ğây không phaÒi liên kêìt taÒi xuôìng, baòn coì thêÒ thêm ğiòa chiÒ naÌy hoãòc trang cuÒa noì vaÌo danh saìch loaòi trıÌ cuÒa IDM:
+1652=Không tıò ğôòng taÒi tıÌ caìc trang sau:
+1653=Không tıò ğôòng taÒi tıÌ ğiòa chiÒ naÌy:
+1655=Baòn cuŞng coì thêÒ sıÒa danh saìch loaòi trıÌ taòi theÒ \"TuÌy choòn->Loaòi têòp\" trong hôòp thoaòi tuÌy choòn
+1654=Không hiêòn hôòp thoaòi naÌy nıŞa
+
+303=Danh saìch loaòi trıÌ ğiòa chiÒ
+1661=Không bãìt ğâÌu tıò taÒi tıÌ caìc ğiòa chiÒ sau:
+1659=Hiêòn môòt hôòp thoaòi ğêÒ thêm ğiòa chiÒ vaÌo danh saìch loaòi trıÌ cho caìc taÒi xuôìng biò huÒy hai lâÌn
+
+304=Thêm ğiòa chiÒ vaÌo danh saìch loaòi trıÌ
+
+//changes in "Options->File Types" dialog:
+1656=SıÒa danh saìch...
+//label 1372 was divided into 2 parts
+1667=Không bãìt ğâÌu tıò taÒi tıÌ caìc trang sau:
+1662=(phân biêòt caìc trang bãÌng dâìu caìch)
+
+//v 5.08 build 7
+20763=Têòp tin ğıõòc yêu câÌu giôìng nhı môòt trang html.\r\n\r\nMaìy chuÒ ğaŞ gıÒi vêÌ môòt trang html trong yêu câÌu thıì hai. Môòt sôì maìy chuÒ không châìp nhâòn yêu câÌu môòt têòp tin ğêìn hai lâÌn. TıÌ khi baòn tãìt tuÌy choòn \"Bãìt ğâÌu taÒi ngay khi hôòp thoaòi Thông tin taÒi têòp xuâìt hiêòn\", IDM ğaŞ gıÒi yêu câÌu ğâÌu tiên ğêÒ biêìt loaòi vaÌ kich thıõìc têòp, vaÌ gıÒi yêu câÌu thıì hai khi baòn bâìm \"Bãìt ğâÌu taÒi\". \r\n\r\nHaŞy thıÒ bâòt tuÌy choòn \"Bãìt ğâÌu taÒi ngay khi hôòp thoaòi Thông tin taÒi têòp xuâìt hiêòn\" trong theÒ \"TuÌy choòn->TaÒi xuôìng\", laÌm mõìi laòi trang trong triÌnh duyêòt, rôÌi thıÒ taÒi laòi têòp tin naÌy.
+
+//v 5.09 build 4
+305=IDM không thêÒ thıòc hiêòn taÒi xuôìng
+20764=Môòt sôì site không châìp nhâòn môòt yêu câÌu ğêìn hai lâÌn.\r\n\r\n TriÌnh duyêòt ğaŞ taòo môòt yêu câÌu taÒi têòp tin \"%s\" trıõìc ğoì rôÌi laòi thıÒ yêu câÌu laòi IDM lâÌn nıŞa, site ğaŞ gıÒi môòt thông ğiêòp cho IDM thay viÌ cung câìp têòp tin.\r\n\r\nĞêÒ boÒ qua nhıŞng taÒi xuôìng naÌy, baòn coì thêÒ ğãòt phiìm ğãòc biêòt trong \"TuÌy choòn->Chung->Phiìm...\". GiıŞ caìc phiìm naÌy trong khi bâìm vaÌo liên kêìt/nuìt taÒi xuôìng ğêÒ IDM boÒ qua khi triÌnh duyêòt yêu câÌu. HaŞy nhõì rãÌng phiìm \"Ins\" coì thêÒ hoaòt ğôòng tôìt trong ğa sôì triÌnh duyêòt.
+
+//v 5.11
+//new scheduler dialog
+308=Lâòp liòch
+1675=Taòo mõìi
+1678=Xoìa
+1684=Danh saìch chõÌ taÒi
+20783=Danh saìch chõÌ taÒi
+306=Lâòp liòch
+1680=Sôì lâÌn thıÒ taÒi laòi cho môŞi baÒn taÒi xuôìng thâìt baòi:
+307=Têòp tin chõÌ taÒi
+1687=Giõìi haòn taÒi
+20765=Giõìi haòn taÒi
+20767=Danh saìch chõÌ taÒi # %ld
+20768=Danh saìch chõÌ taÒi chiình
+20769=ĞôÌng bôò danh saìch chõÌ taÒi
+
+20770=Taòo danh saìch chõÌ taÒi mõìi
+20771=ChuyêÒn vaÌo danh saìch chõÌ taÒi
+20772=Thêm vaÌo danh saìch chõÌ taÒi
+20773=Bãìt ğâÌu ngay
+20774=DıÌng
+20775=SıÒa danh saìch chõÌ taÒi
+20776=Lâòp liòch
+20777=Baòn thıòc sıò muôìn xoìa %s?
+20778=Bãìt ğâÌu %s
+20779=DıÌng %s
+20780=Danh saìch chõÌ taÒi IDM
+20781=HiÌnh aÒnh trong côòt \"C\" cho thâìy têòp tin naÌo ğang õÒ trong danh saìch chõÌ taÒi.\r\nBaòn coì thêÒ chuyêÒn caìc têòp tin tıÌ môòt danh saìch chõÌ taÒi naÌy ğêìn danh saìch chõÌ taÒi khaìc bãÌng triÌnh ğõn ngıŞ caÒnh khi bâìm chuôòt phaÒi vaÌo têòp.\r\nĞêÒ biêìt thêm thông tin vêÌ danh saìch chõÌ taÒi, haŞy chuyêÒn sang têòp tin trõò giuìp Lâòp liòch.
+20782=Baòn coì muôìn taÒi vêÌ vaÌ caÌi ğãòt têòp tin hôŞ trõò \"Lâòp liòch vaÌ danh saìch chõÌ taÒi trong IDM\" (khoaÒng 100 KB) tıÌ trang chuÒ IDM?
+1685=Baòn ğaŞ lâòp thõÌi ğiêÒm ğêÒ bãìt ğâÌu taÒi danh saìch chõÌ taÒi.\r\nHaŞy nhõì rãÌng lêònh naÌy chiÒ ğuìng giõÌ theo lyì thuyêìt, tıìc laÌ IDM phaÒi hoaòt ğôòng vaÌ phaÒi coì biêÒu tıõòng õÒ khay thông baìo cuÒa hêò thôìng vaÌo thõÌi ğiêÒm ğoì (xem hiÌnh aÒnh dıõìi ğây)
+310=Nhâòp tên danh saìch chõÌ taÒi
+1686=Nhâòp tên cho danh saìch chõÌ taÒi mõìi maÌ baòn muôìn hiêÒn thiò trong danh saìch chõÌ taÒi
+
+//menu items
+m34026=Bãìt ğâÌu danh saìch chõÌ taÒi
+m34028=DıÌng danh saìch chõÌ taÒi
+34029=Lâòp liòch vaÌ danh saìch chõÌ taÒi
+//tooltips for "Start queue" and "Stop queue" toolbar buttons.
+t34030=Bãìt ğâÌu danh saìch chõÌ taÒi chiình, hoãòc choòn danh saìch chõÌ taÒi ğêÒ bãìt ğâÌu trong danh saìch thaÒ xuôìng
+t34031=DıÌng danh saìch chõÌ taÒi chiình, hoãòc choòn danh saìch chõÌ taÒi ğêÒ dıÌng trong danh saìch thaÒ xuôìng
+
+//v 5.11 build 3
+1679=TaÒi xuôìng môòt lâÌn
+
+//v 5.11 build 5
+20786=Viêòc chuyêÒn dıŞ liêòu ğaŞ biò ngãìt vaÌ maìy chuÒ không hôŞ trõò \"taÒi tiêìp\". Hiêòn noì chiÒ coì thêÒ ğıõòc taÒi laòi tıÌ ğâÌu.\r\n\r\nCoì thêÒ do môòt trong caìc nguyên nhân sau:\r\n 1. Maìy chuÒ taòm thõÌi gãòp truòc trãòc. HaŞy thıÒ taÒi tiêìp vaÌo luìc khaìc.\r\n 2. Baòn coì thêÒ boÒ môòt miÌnh têòp tin naÌy vaÌo danh saìch chõÌ taÒi (taòo môòt danh saìch chõÌ taÒi mõìi) vaÌ bãìt ğâÌu danh saìch chõÌ taÒi ğoì. Trong trıõÌng hõòp naÌy IDM seŞ thıÒ taòi têòp tin laòi tıÌ ğâÌu nêìu noì chıa ğıõòc taÒi xuôìng thaÌnh công.\r\n ĞêÒ coì kêìt quaÒ tôìt nhâìt, baòn cuŞng câÌn ğãòt 1 kêìt nôìi cho site naÌy trong danh saìch loaòi trıÌ trong theÒ \"TuÌy choòn->Kêìt nôìi\".\r\n
+20784=PhâÌn mõÒ rôòng \"IDM CC\" cho caìch triÌnh duyêòt nêÌn Mozilla ğaŞ coì thay ğôÒi trong phiên baÒn IDM naÌy. Baòn câÌn caÌi laòi phâÌn mõÒ rôòng ğêÒ sıÒ duòng caìc tiình nãng mõìi. Baòn coì muôìn caÌi laòi phâÌn mõÒ rôòng naÌy cho triÌnh duyêòt %s %s?
+20785=PhâÌn mõÒ rôòng \"IDM CC\" cho caìch triÌnh duyêòt nêÌn Mozilla ğaŞ coì thay ğôÒi trong phiên baÒn IDM naÌy. Baòn câÌn caÌi laòi phâÌn mõÒ rôòng ğêÒ sıÒ duòng caìc tiình nãng mõìi. Baòn coì muôìn caÌi ğãòt phâÌn mõÒ rôòng \"IDM CC\" mõìi cho caìc triÌnh duyêòt coì phâÌn mõÒ rôòng \"IDM CC\" cuŞ?
+
+//v 5.11 build 7
+//Items in context menu of Browsers:
+20810=TaÒi bãÌng IDM
+20811=TaÒi video FLV bãÌng IDM
+20812=TaÒi video FLV tıÌ truy vâìn mõìi nhâìt
+20813=Choòn 10 video FLV tıÌ truy vâìn mõìi nhâìt
+20814=TaÒi video FLV tıÌ truy vâìn mõìi nhâìt bãÌng IDMf
+20815=TaÒi video FLV bãÌng IDM tıÌ 10 truy vâìn mõìi nhâìt
+20816=TaÒi tâìt caÒ liên kêìt bãÌng IDM
+20817=TaÒi xuôìng nôòi dung video FLV bãÌng IDM
+
+20790=Ğang lıu FLV video
+20791=Baòn coì thêÒ lıu caìc video FLV maÌ baòn thiìch bãÌng muòc \"TaÒi nôòi dung video FLV bãÌng IDM\" trong triÌnh ğõn mõÒ rôòng trong triÌnh duyêòt.\r\n\r\nTriÌnh ğõn ngıŞ caÒnh cuÒa triÌnh duyêòt seŞ hiêòn ra khi baòn bâìm chuôòt phaÒi lên trang web (nhıng không phaÒi õÒ triÌnh phaìt FLV) trong triÌnh duyêòt
+20792=Không tiÌm thâìy liên kêìt video FLV trong trang web naÌy.\r\nCoì thêÒ do triÌnh duyêòt chıa truy vâìn video. Baòn câÌn chõÌ môòt laìt trıõìc khi triÌnh duyêòt taòo yêu câÌu rôÌi thıÒ laòi. ÕÒ môòt sôì trıõÌng hõòp, baòn câÌn bâìm nuìt \"Play\" trên triÌnh phaìt.
+20793=TaÒi xuôìng bãÌng IDM
+20794=TaÒi xuôìng tâìt caÒ bãÌng IDM
+20795=Không tiÌm thâìy liên kêìt naÌo!\r\nNêìu trang naÌy không coì liên kêìt, haŞy laÌm mõìi laòi noì rôÌi thıÒ laòi. Nêìu sıò côì naÌy vâŞn xaÒy ra, haŞy liên hêò võìi IDM.
+20796=Không tiÌm thâìy liên kêìt video FLV naÌo!
+20797=Không thêÒ yêu câÌu liên kêìt video bãÌng triÌnh duyêòt!\r\nBaòn (hoãòc môòt sôì chıõng triÌnh anti spyware) ğaŞ không cho pheìp sıÒ duòng IDM Browser Helper Object trong IE cuÒa baòn. HaŞy duÌng \"Tools->Manage Add-ons->Enable or Disable Add-ons\" trong Internet Explorer. RôÌi tiÌm phâÌn bôÒ trõò \"IDMIEHlprObj Class\" vaÌ cho pheìp noì hoaòt ğôòng.
+20798=Không thêÒ kêìt nôìi tõìi IDM khi phaìt hiêòn liên kêìt video ğıõòc triÌnh duyêòt yêu câÌu.\r\nCoì thêÒ do caìc nguyên nhân sau:\r\n - Baòn chıa khõÒi ğôòng laòi maìy sau khi nâng câìp IDM. HaŞy khõÒi ğôòng laòi maìy tiÌnh rôÌi thıÒ laòi\r\n - IDM không ğıõòc caÌi ğãòt ğuìng caìch. HaŞy thıÒ taÒi xuôìng phiên baÒn mõìi nhâìt IDM tıÌ trang chuÒ rôÌi caÌi laòi
+
+//new feature in "Options->General" dialog:
+1688=SıÒa...
+1689=TuÌy chiÒnh triÌnh ğõn ngıŞ caÒnh cuÒa IDM trong caìc triÌnh duyêòt
+334=Internet Explorer vaÌ nêÌn IE
+335=Firefox vaÌ nêÌn Mozilla
+1696=Caìc muòc ğıõòc choòn seŞ xuâìt hiêòn trong triÌnh ğõn ngıŞ caÒnh cuÒa triÌnh duyêòt:
+20818=HaŞy khõÒi ğôòng laòi Internet Explorer ğêÒ aìp duòng caìc thay ğôÒi
+20819=Ğang ğôÒi triÌnh ğõn ngıŞ caÒnh IE
+
+//v 5.11 b8
+20820=Thoaìt ngay
+20821=Thoaìt IDM
+20822=Internet Download Manager ğaŞ hoaÌn thaÌnh danh saìch chõÌ taÒi. Theo thiêìt lâòp liòch, IDM seŞ thoaìt. Nhıng baòn coÌn caìc muòc khaìc ğang trong quaì triÌnh taÒi xuôìng, vaÌ chuìng seŞ biò dıÌng laòi khi thoaìt. Bâìm HuÒy boÒ ğêÒ không thoaìt nıŞa.
+
+//v 5.11 build 9
+20823=Baòn ğaŞ huÒy boÒ môòt loaòt ğõòt taÒi xuôìng.\n\nNêìu IDM thıõÌng xuyên nhâÌn lâŞn nhı vâòy, baòn coì thêÒ thêm trang naÌy hoãòc môòt phâÌn chung giôìng nhau cho haÌng loaòt ğiòa chiÒ cuÒa trang vaÌo trong danh saìch loaòi trıÌ cuÒa IDM:
+20824=Không nhâòn taÒi xuôìng tıÌ loaòt ğiòa chiÒ coì phâÌn chung naÌy:
+336=GıÒi baìo caìo cho nhoìm phaìt triêÒn IDM
+1702=Baòn coì thêÒ gıÒi baìo caìo ğêìn nhoìm phaìt triêÒn IDM vêÌ caìc ğõòt taÒi xuôìng biò lôŞi ğêÒ khãìc phuòc cho nhıŞng phiên baÒn IDM sau
+1698=Thêm ngoaòi lêò sau:
+1700=Ğiòa chiÒ URL cung câìp taÒi xuôìng coì lôŞi ngıŞ phaìp:
+1703=Baòn coì thêÒ duÌng dâìu hoa thiò ğaòi diêòn cho phâÌn mâŞu ğiòa chiÒ chung.
+
+//v5.12
+20825=(ĞaŞ haòn chêì tôìc ğôò)
+1707=DuÌng tiình nãng haòn chêì tôìc ğôò
+337=Thiêìt lâòp Haòn chêì tôìc ğôò
+1704=Luôn bâòt Haòn chêì tôìc ğôò khi khõÒi ğôòng IDM
+1705=Hiêòn hôòp ğaình dâìu \"SıÒ duòng Haòn chêì tôìc ğôò\" trong hôòp thoaòi \"Tiêìn triÌnh taÒi xuôìng\".
+1706=Ghi nhõì caìc loaòi trıÌ do ngıõÌi duÌng quy ğiònh trong hôòp thoaòi \"Tiêìn triÌnh taÒi xuôìng\" ğêÒ sıÒ duòng Haòn chêì tôìc ğôò maÌ không phuò thuôòc vaÌo Haòn chêì tôìc ğôò chung.
+1708=Tôìc ğôò taÒi tôìi ğa cho môòt têòp tin:
+1709=KByte/giây
+1710=Lıu yì: Caìc diòch vuò Internet coì thêÒ biò ngãìt kêìt nôìi khi tôìc ğôò biò haòn chêì quaì mıìc! ViÌ vâòy, baòn không nên sıÒ duòng Haòn chêì tôìc ğôò khi taÒi xuôìng tıÌ caìc maìy chuÒ không hôŞ trõò tiình nãng \"taÒi tiêìp\".
+1711=Thiêìt lâòp Haòn chêì tôìc ğôò cho tıÌng muòc taÒi xuôìng 
+m34033=Tiình nãng haòn chêì tôìc ğôò
+34033=Bâòt
+34034=Tãìt
+34035=Thiêìt lâòp...
+
+//v5.12 build 5
+20831=Nêìu môòt video FLV ğıõòc phaìt trên triÌnh duyêòt, coì nghiŞa laÌ IDM không thêÒ lâìy ğıõòc liên kêìt cuÒa FLV trên trang web naÌy. Baòn haŞy thıÒ duÌng \"TaÒi caìc video FLV trong 10 yêu câÌu gâÌn nhâìt\" tıÌ triÌnh ğõn ngıŞ caÒnh cuÒa triÌnh duyêòt.\r\n(Nôòi dung triÌnh ğõn naÌy coì thêÒ tuÌy chiÒnh trong theÒ \"TuÌy choòn->Cõ baÒn\")
+20830=XaÒy ra lôŞi CRC khi taÒi xuôìng. ĞiêÌu naÌy coì nghiŞa laÌ ôÒ cıìng cuÒa baòn biò truòc trãòc. Baòn câÌn queìt ôÒ ğiŞa ğêÒ tiÌm lôŞi bãÌng \"Error-checking\" cuÒa Windows.
+
+//5.12b7
+20832=Baòn câÌn cung câìp quyêÌn quaÒn triò ğêÒ administrator IDM cho tâìt caÒ moòi ngıõÌi sıÒ duòng maìy tiình naÌy
+
+//5.12b8
+20837=Xaìc nhâòn xoìa muòc taÒi xuôìng
+20833=Caìc muòc ğıõòc choòn chıa hoaÌn thaÌnh. Baòn chãìc chãìn muôìn xoìa chuìng khoÒi danh saìch taÒi xuôìng cuÒa IDM?
+20834=Muòc ğıõòc choòn chıa hoaÌn thaÌnh. Baòn chãìc chãìn muôìn xoìa noì khoÒi danh saìch taÒi xuôìng cuÒa IDM?
+20835=Coì môòt sôì muòc chıa taÒi xong trong sôì caìc muòc ğıõòc choòn. Baòn chãìc chãìn muôìn xoìa chuìng khoÒi danh saìch taÒi xuôìng cuÒa IDM?
+20836=Baòn chãìc chãìn muôìn xoìa caìc muòc ğaŞ taÒi xong trong danh saìch taÒi xuôìng cuÒa IDM?
+1715=Baòn chãìc chãìn muôìn xoìa caìc muòc ğıõòc choòn trong danh saìch taÒi xuôìng cuÒa IDM?
+1713=Xoìa caÒ nhıŞng têòp tin ğaŞ taÒi xuôìng hoaÌn tâìt trên ôÒ ğiŞa cıìng. HaŞy chuì yì!
+
+//v5.14
+20850=video
+20851=audio
+20852=TaÒi %s naÌy
+20853=TaÒi %s naÌy bãÌng IDM
+20854=Thông tin vêÌ thanh naÌy
+20855=Ğoìng
+20856=Ğây laÌ thanh taÒi xuôìng cuÒa IDM.\r\nNoì coì thêÒ ğıõòc tãìt taòi theÒ \"IDM->TuÌy choòn->Cõ baÒn\"
+20857=Thanh taÒi xuôìng cuÒa IDM
+20858=TaÒi %s tıÌ trang naÌy
+20859=TaÒi %s tıÌ trang naÌy bãÌng IDM
+20860=TaÒi xuôìng tâìt
+20861=Têòp tin %ld %s
+20862=têòp tin
+
+//new on Options->General
+1724=Thanh taÒi xuôìng cuÒa IDM cho caìc triÌnh chõi nhaòc , video trên web
+1727=IDM coì thêÒ hiêÒn thiò Thanh taÒi xuôìng cuÒa noì taòi caìc triÌnh chõi nhaòc , video trên web khi IDM phaìt hiêòn môòt triÌnh chõi nhaòc , video bãìt ğâÌu chaòy trên web ğoì
+1728=HiêÒn thiò Thanh taÒi xuôìng:
+1717=Chêì ğôò ğâÌy ğuÒ
+1718=Chêì ğôò thu nhoÒ
+1726=HiêÒn thiò Thanh taÒi xuôìng cuÒa IDM cho caìc loaòi têòp dıõìi ğây:
+20863=Lıu yì: Nêìu baòn boÒ choòn môòt loaòi têòp trong danh saìch trên vaÌ loaòi têòp ğoì nãÌm trong danh saìch taòi theÒ \"TuÌy choòn->Loaòi têòp\", IDM seŞ nhâòn taÒi xuôìng loaòi têòp naÌy nhıng noì seŞ không ğıõòc chaòy trong triÌnh phaìt trên web. Nêìu baòn muôìn ngãn ğiêÌu naÌy, haŞy ğaình dâìu vaÌo hôòp ğaình dâìu bên dıõìi
+1720=Không tıò nhâòn taÒi xuôìng tıÌ caìc triÌnh chõi nhaòc , video trên web
+
+//on Scheduler dlg
+1729=Bãìt ğâÌu taÒi khi khõÒi ğôòng IDM
+
+20864=Baòn coì thêÒ tiìch hõòp vaÌo triÌnh duyêòt naÌy sau khi bâòt tiình nãng \"Tiìch hõòp triÌnh duyêòt nâng cao\" trong hôòp thoaòi naÌy.
+1731=CaÒnh báo: Baòn ğang chaòy IDM võìi quyêÌn Administrator. \r\n IDM có thêÒ seŞ không nhâòn ğıõòc quyêÌn taÒi xuôìng tıÌ caìc triÌnh duyêòt khi õÒ trong chêì ğôò naÌy.
+20865=Firefox không thêÒ chuyêÒn quyêÌn taÒi xuôìng cho Internet Download Manager viÌ baòn ğang choòn \"Run this program as an administrator\" trong thuôòc tiình cuÒa têòp tin IDMan.exe. \r\n\r\nHaŞy mõÒ thı muòc IDM, bâìm chuôòt phaÒi vaÌo \"IDMan.exe\", choòn muòc \"Properties\", chuyêÒn sang theÒ \"Compatibility\", rôÌi boÒ ğaình dâìu õÒ muòc \"Run this program as an administrator\".
+
+//v5.16
+20867=Không thêÒ tiêìp tuòc taÒi têòp:
+20868=IDM ğang chõÌ lâìy ğiòa chiÒ mõìi ğêÒ tiêìp tuòc taÒi têòp:
+20869=Ğiòa chiÒ têòp tin taòm thõÌi không hõòp lêò hoãòc session cuÒa baòn ğaŞ hêìt haòn.
+20870=Coì phaÒi ğây laÌ ğiòa chiÒ mõìi cho ğõòt taÒi cuŞ cuÒa baòn?
+20872=LaÌm mõìi ğiòa chiÒ taÒi xuôìng
+20873=IDM ğang ğõòi ğiòa chiÒ mõìi cho caìc ğõòt taÒi cuŞ khaìc. MôŞi thõÌi ğiêÒm chiÒ ğıõòc laÌm mõìi ğiòa chiÒ taÒi cuŞ 1 lâÌn.
+20874=IDM seŞ mõÒ trang web trong triÌnh duyêòt cuÒa baòn, taòi nõi noì nhâòn ğıõòc ğõòt taÒi xuôìng naÌy. HaŞy bãìt ğâÌu taÒi môòt têòp nhı vâòy trong triÌnh duyêòt cuÒa baòn môòt lâÌn nıŞa, vaÌ IDM seŞ nhâòn môòt ğiòa chiÒ hoãòc dıŞ liêòu session mõìi ğêÒ tiêìp tuòc ğõòt taÒi naÌy.
+20871=Ğang chõÌ dıŞ liêòu mõìi
+1732=HuÒy viêòc chõÌ
+20875=ĞaŞ nhâòn thaÌnh công ğiòa chiÒ mõìi cho têòp tin naÌy.
+20876=HaŞy laÌm laòi ğõòt taÒi xuôìng têòp tin naÌy tıÌ triÌnh duyêòt bãÌng caìch thuÒ công, vaÌ IDM seŞ côì nhâòn môòt ğiòa chiÒ hoãòc dıŞ liêòu session mõìi ğêÒ tiêìp tuòc ğõòt taÒi naÌy.
+20877=ThıÒ laÌm mõìi session taÒi xuôìng vaÌ lâìy ğiòa chiÒ mõìi bãÌng caìch choòn \"LaÌm mõìi ğiòa chiÒ taÒi xuôìng\" bãÌng caìch bâìm chuôòt phaÒi vaÌo danh saìch taÒi xuôìng cuÒa IDM. \r\nHoãòc thıÒ xoìa ğõòt taÒi xuôìng naÌy, sau ğoì khõÒi ğôòng laòi noì tıÌ triÌnh duyêòt ğêÒ taÒi noì bãÌng IDM laòi tıÌ ğâÌu.
+20878=Ğang taÒi trang web ğêÒ laÌm mõìi ğiòa chiÒ liên kêìt
+20879=Trang web ğaŞ gıÒi môòt têòp tin trang thay viÌ môòt têòp tin khi IDM truy vâìn têòp tin naÌy lâÌn thıì hai. Coì thêÒ trang naÌy sıÒ duòng liên kêìt taòm thõÌi vaÌ không cho truy vâìn môòt ğiòa chiÒ hai lâÌn.\r\n\r\nHaŞy thıÒ xoìa muòc taÒi xuôìng naÌy, rôÌi bãìt ğâÌu laòi noì tıÌ triÌnh duyêòt, khi IDM nhâòn noì, haŞy taÒi xuôìng nhıng ğıÌng duÌng chıìc nãng taòm dıÌng.
+1741=Trang web chıìa têòp tin naÌy ğıõòc lâìy tıÌ:
+20880=Ğang kiêÒm tra ğiòa chiÒ: %s
+20881=Baòn chıa choòn môòt têòp tin naÌo ğêÒ taÒi xuôìng!\r\nNêìu baòn không muôìn taÒi bâìt cıì caìi giÌ, haŞy ğoìng hôòp thoaòi \"%s\" bãÌng nuìt \"HuÒy boÒ\".
+20882=Ğang thêm caìc têòp ğêÒ taÒi xuôìng bãÌng IDM
+1739=Hiêòn baÒng lıòa choòn danh saìch chõÌ taÒi khi bâìm "TaÒi xuôìng sau"
+1738=Hiêòn baÒng lıòa choòn danh saìch chõÌ taÒi khi thêm TaÒi xuôìng haÌng loaòt
+1735=Thêm caìc têòp tin vaÌo danh saìch chõÌ taÒi:
+20884=Không thêm bâìt kyÌ danh saìch chõÌ taÒi naÌo
+1736=Bãìt ğâÌu tiêìn triÌnh cho caìc danh saìch chõÌ taÒi
+1737=Không hoÒi laòi tôi nıŞa
+20883=Baòn coì thêÒ tãìt baÒng naÌy trong \"TuÌy choòn->TaÒi xuôìng\"
+
+//v5.17b4
+34036=TaÒi haÌng loaòt liên kêìt trong &clipboard
+20885=TiÌm thâìy khaì nhiêÌu URL trong clipboard. Baòn coì muôìn taÒi chuìng?
+20886=TaÒi haÌng loaòt tıÌ clipboard
+20887=Không tiÌm thâìy bâìt kyÌ ğiòa chiÒ web naÌo trong clipboard!
+
+//v5.18b3
+m34037=IDM taòi khay hêò thôìng
+34037=KiêÒu 3D
+34038=KiêÒu truyêÌn thôìng
+34039=Không hiêÒn thiò
+
+//v5.18b5
+20889=QuyêÌn sıÒ duòng Internet Download Manager cuÒa baòn ğaŞ hêìt haòn.\r\n IDM ğaŞ dıÌng laÌm viêòc. HaŞy mua môòt quyêÌn ğêÒ tiêìp tuòc sıÒ duòng IDM
+20890=Chuì yì:\r\nQuyêÌn sıÒ duòng IDM cuÒa baòn seŞ hêìt haòn sau %ld ngaÌy.\r\n\r\nHaŞy chuì yì, muòc  \"Ğãng kyì->Ğãng kyì\" hiêòn ğang âÒn,\r\nnhıng noì seŞ hiêòn sau khi hêìt quyêÌn sıÒ duòng
+
+20891=Baòn ğaŞ KHÔNG choòn môòt ngaÌy naÌo trong tuâÌn ğêÒ triÌnh lâòp liòch khõÒi ğôòng!
+20892=KhõÒi ğôòng hãÌng ngaÌy
+
+20893=Baòn ğaŞ nhâòp môòt dâìu caìch trıõìc tên ğãng nhâòp. Nêìu ğoì laÌ do nhâòp lôŞi, baòn coì muôìn IDM xoìa dâìu caìch ğoì?
+20894=Baòn ğaŞ nhâòp môòt dâìu caìch sau tên ğãng nhâòp. Nêìu ğoì laÌ do nhâòp lôŞi, baòn coì muôìn IDM xoìa dâìu caìch ğoì?
+20895=Baòn ğaŞ nhâòp môòt dâìu caìch trıõìc mâòt khâÒu. Nêìu ğoì laÌ do nhâòp lôŞi, baòn coì muôìn IDM xoìa dâìu caìch ğoì?
+20896=Baòn ğaŞ nhâòp môòt dâìu caìch sau mâòt khâÒu. Nêìu ğoì laÌ do nhâòp lôŞi, baòn coì muôìn IDM xoìa dâìu caìch ğoì?
+
+//5.19
+1748=TuÌy chiÒnh Thanh taÒi xuôìng cuÒa IDM trong triÌnh duyêòt 
+20899=Cho caìc triÌnh chõi nhaòc,video trên web
+20900=Cho caìc têòp tin ğıõòc choòn
+1749=IDM coì thêÒ hiêÒn thiò Thanh taÒi xuôìng trên trang web khi baòn choòn môòt ğoaòn vãn baÒn chıìa caìc liên kêìt taÒi xuôìng.
+20901=(Hiêòn nay tiình nãng naÌy ğaŞ hoaòt ğôòng trên Internet Explorer, caìc triÌnh duyêòt nêÌn IE, Firefox vaÌ caìc triÌnh duyêòt nêÌn Mozilla)
+20903=TaÒi xuôìng caìc liên kêìt ğaŞ choòn bãÌng IDM
+1744=HiêÒn thiò Thanh taÒi xuôìng cho moòi liên kêìt ğıõòc choòn
+1745=Không hiêÒn thiò Thanh taÒi xuôìng cho caìc liên kêìt ğıõòc choòn
+1746=ChiÒ hiêÒn thiò Thanh taÒi xuôìng cho caìc liên kêìt ğıõòc choòn trong caìc trang sau ğây:
+1751=IDM hôŞ trõò taÒi xuôìng tıÌ caìc triÌnh duyêòt dıõìi ğây:
+1742=Choòn tâìt
+1743=BoÒ choòn tâìt
+
+//5.19b3
+20904=IDM không thêÒ tiÌm thâìy muòc gõŞ boÒ/caÌi ğãòt cuÒa Tiìch hõòp triÌnh duyêòt nâng cao ğaŞ ğıõòc caÌi ğãòt. HaŞy caÌi ğãòt laòi phâÌn mêÌm IDM 
+20911=IDM seŞ taÒi môòt trang Web thay viÌ taÒi môòt tâòp tin.
+20909=Muôìn biêìt laÌm thêÒ naÌo ğêÒ taÒi têòp tin tıÌ RapidShare bãÌng IDM?
+20910=Muôìn biêìt laÌm thêì naÌo ğêÒ taÒi nhıŞng tâòp tin tıÌ nhıŞng website chia seÒ?
+20905=Không thêÒ chuyêÒn dıŞ liêòu câÌn taÒi tõìi IDM
+20906=Coì thêÒ triÌnh duyêòt vaÌ IDM chaòy võìi nhıŞng quyêÌn khaìc nhau.\r\n\r\nNêìu baòn ğang sıÒ duòng IDM võìi tiình nãng cuÒa ngıõÌi duÌng Administrator\"Run as Administrator\". HaŞy thoaìt vaÌ khõÒi ğôòng laòi IDM võìi tiình nãng quyêÌn daÌnh cho ngıõÌi sıÒ duòng biÌnh thıõÌng.\r\n\r\nNêìu baòn ğang chaòy IDM õÒ chêì ğôò Tıõng thiìch (Compatibility Mode) \"Chaòy chıõng triÌnh naÌy võìi quyêÌn Administrator\". Sau ğoì haŞy mõÒ IDM.
+20907=Nêìu muòc \"Run as Administrator\" hoãòc \"õÒ trong chêì ğôò Tıõng thiìch (Compatibility Mode):\" không ğıõòc ğaình dâìu trong thuôòc tiình IDM haŞy kiêÒm tra vaÌ loaòi boÒ noì trong triÌnh duyêòt cuÒa baòn.
+
+//v6.0b
+20897=Video %dx%d, ThõÌi lıõòng %d:%02d
+20912=ThõÌi lıõòng
+20913=Nêìu coì nhiêÌu user cuÒa hêò ğiêÌu haÌnh ğıõòc thiêìt lâòp trên maìy tiình naÌy, tiình nãng "Tiìch hõòp triÌnh duyêòt nâng cao" cho tâìt caÒ caìc taÌi khoaÒn ğoì seŞ biò tãìt. 
+20914=Sau khi tiìch hõòp IDM vaÌo ıìng duòng, baòn coì thêÒ boÒ choòn \"Nhâòn ra caìc ıìng duòng mõìi\"  ğêÒ tôìi ıu hêò thôìng.
+20915=Ğây laÌ phiên baÒn thıÒ nghiêòm cuÒa phâÌn mêÌm Internet Download Manager.\r\nNoì seŞ caÌi ğãòt môòt triÌnh ğiêÌu khiêÒn õÒ card maòng. ĞaŞ ğıõòc thay thêì. Nêìu baòn gãòp nhıŞng vâìn ğêÌ(Không thêÒ kêìt nôìi Internet, hêò thôìng biò treo) tãìt triÌnh ğiêÌu khiêÒn trong tuÌy choòn nãÌm õÒ tiình nãng \"Tiìch hõòp triÌnh duyêòt nâng cao\".
+
+//v6.03b2
+20919=IDM ğaŞ ğıõòc caÌi ğãòt trên maìy tiình cuÒa baòn, vaÌ IDM không phaÒi laÌ môòt chıõng triÌnh ğa phıõng tiêòn %s ğêÒ xem Video. Baòn câÌn phaÒi %s caÌi ğãòt môòt chıõng triÌnh ğa phıõng tiêòn.\r\n\r\nMuôìn tiÌm hiêÒu vêÌ %s chıõng triÌnh ğa phıõng tiêòn dêÒ chaòy video?
+20920=%s Video ğaŞ ğıõòc taÒi vêÌ
+
+//
+//Dear translators, please note that we have changed several old strings:
+//
+t1278=ÂÒn nhoìm
+t32789=Thêm môòt ğiòa chiÒ taÒi xuôìng bãÌng caìch thuÒ công
+t1004=Thêm môòt têòp tin vaÌo danh saìch IDM ğêÒ taÒi xuôìng sau
+t1061=Hêò thôìng theo doŞi Clipboard daÌnh cho nhıŞng link liên kêìt ğêÒ taÒi xuôìng bãÌng IDM
+187=Nõi thaÒ link liên kêìt vaÌo IDM. ThaÒ link liên kêìt ğêÒ taÒi xuôìng õÒ ğây.
+20176=NhıŞng têòp tin ğıõòc yêu câÌu taÒi xuôìng laÌ môòt trang Web html.\r\n\r\nNêìu viêòc taÒi xuôìng naÌy ğıõòc triÌnh duyêòt cuÒa baòn taÒi môòt caìch tıò ğôòng, khi baòn nhâìp chuôòt vaÌo môòt liên kêìt, haŞy thıÒ giıŞ phiìm Alt khi nhâìp chuôòt vaÌo link liên kêìt ğoì ğêÒ cho triÌnh duyêòt mõÒ trang.\r\n\r\nBaòn coì muôìn tiêìp tuòc taÒi têòp tin võìi IDM vaÌ lıu noì nhı môòt trang Web daòng html?
+20177=NhıŞng têòp tin ğıõòc yêu câÌu taÒi xuôìng laÌ môòt trang Web html.\r\n\r\nNêìu viêòc taÒi xuôìng naÌy ğıõòc triÌnh duyêòt cuÒa baòn taÒi môòt caìch tıò ğôòng, khi baòn nhâìp chuôòt vaÌo môòt liên kêìt, haŞy thıÒ giıŞ phiìm Alt khi nhâìp chuôòt vaÌo link liên kêìt ğoì ğêÒ cho triÌnh duyêòt mõÒ trang.\r\n\r\nBaòn coì muôìn ğôÒi tên têp tin ğaŞ ğıõòc taÒi vêÌ thaÌnh têòp tin coì ğiònh daòng laÌ môòt trang Web daòng html?
+34012=TiÌm kiêìm giao diêòn mõìi cho thanh công cuò
+20573=TiÌm kiêìm giao diêòn mõìi cho thanh công cuò
+57670=Trõò giuìp
+20721=IDM ğaŞ tiìch hõòp thaÌnh công Add-on vaÌo triÌnh duyêòt Mozilla Firefox.\n Baòn câÌn phaÒi khõÒi ğôòng laòi triÌnh duyêòt Firefox.
+20342=Link liên kêìt cuÒa tâòp tin taÒi xuôìng ğaŞ ğıõòc tiÌm thâìy trong Clipboard. Baòn muôìn IDM taÒi chuìng không?
+
+//Old strings 20016, 20017, 20350 replaced with:
+20916=ĞaŞ xuâìt hiêòn môòt lôŞi chıa xaìc ğiònh trong quaì triÌnh taÒi. HaŞy thıÒ laòi.
+20917=ĞaŞ xuâìt hiêòn lôŞi trong quaì triÌnh taÒi. HaŞy thıÒ laòi.
+20918=Serial Number cuÒa Internet Download Manager ğaŞ biò khoìa bõÒi viÌ noì ğıõòc ğãng kyì trên nhiêÌu maìy tiình khaìc nhau. Ğang ğoìng IDM...
+
+//And deleted the following strings: 
+//20178, 20179, 20180, 20181, 20182, 20183, 20184, 20185, 20186, 20187, 20188, 20189, 20190, 20191, 20192, 20193, 20194, 20195, 20196, 20197, 
+//20198, 20200, 20201, 20202, 20208, 20209, 20210, 20223, 20224, 1238, 1251, 1314, t1065, t1068, 20016, 20017, 20350
+
+//v6.03b3
+//We have changed the old strings: 20146 and 20033 (Tab name) 
+
+20921=Baòn coì muôìn tiÌm hiêÒu laÌm thêì naÌo caìc têòp tin %s ğıõòc naòp bõÒi IDM?
+20923=IDM hiêÒn thiò õÒ Desktop
+20922=Baòn ğaŞ ğãòt têòp tin thıòc thi tıÌ IDM tõìi Desktop. BõÒi vâòy IDM không thêÒ hoaòt ğôòng tôìt. Vui loÌng sao cheìp laòi têòp tin IDMan.exe trong thı muòc cuÒa chıõng triÌnh IDM vaÌ taòo ra môòt shortcut cuÒa chıõng triÌnh IDM trên Desktop. ĞêÒ laÌm ğiêÌu nay, nhâìp chuôòt phaÒi vaÌo têòp tin IDMan.exe vaÌ choòn\"Send to -> Desktop (Taòo Shortcut)".
+20924=Lıu yì: Ğôi khi, khi baòn nhâìn chuôòt vaÌo link, triÌnh duyêòt seŞ yêu câÌu môòt sôì tâòp tin viì duò: . Javascript, caìc trang web, hiÌnh aÒnh. cuÌng môòt thõÌi ğiêÒm. Nêìu baòn sıÒ duòng phiìm tãìt kêìt hõòp võìi IDM ğêÒ ngãn chãòn taÒi xuôìng ğôìi võìi nhıŞng têòp tin naÌy, triÌnh duyêòt cuÒa baòn coì thêÒ truy xuâìt caìc tâòp tin câÌn thiêìt nhı: Javascript không hoaòt ğôòng, ğoì laÌ do lôŞi ngãn chãòn taÒi xuôìng cuÒa IDM. Nêìu baòn muôìn taÒi vêÌ chiÒ nhıŞng tâòp tin câÌn thiêìt, haŞy choòn tuÌy choòn sau ğây:
+1753=Khi baòn bâìm tôÒ hõòp phiìm không phaÒi ğêÒ taÒi caìc trang Web, hiÌnh aÒnh, script,...
+20925=Tiìch hõòp %s tiình nãng TriÌnh duyêòt nâng cao ğaŞ cuŞ hoãòc %s tiình nãng naÌy chıa ğıõòc caÌi ğãòt. Baòn muôìn biêìt caìch khãìc phuòc ğiêÌu naÌy ?
+20926=Nêìu IDM hiêòn thiò môòt nuìt taÒi xuôìng trên caìc triÌnh chõi video , nhaòc  coì %s nhıng noì không laÌm viêòc
+
+//v6.04b2
+20928=IDM không taÒi caìc têòp tin tıÌ triÌnh chõi nhaòc , video , hoãòc nuìt taÒi xuôìng không ğıõòc kiìch hoaòt vaÌ hiêÒn thiò cho ğiònh daòng cuÒa têòp tin ğoì.\r\n\r\n ĞêÒ khãìc phuòc ğiêÌu naÌy , haŞy laÌm theo tuÌy choòn sau cuÒa IDM \"Chung\" cuÒa IDM vaÌ bâìm vaÌo nuìt "SıÒa..." sau ğoì boÒ choòn muòc  "Không tıò nhâòn taÒi xuôìng tıÌ caìc triÌnh chõi nhaòc , video trên web"
+20929=IDM không thêÒ chaòy tiình nãng Tiìch hõòp triÌnh duyêòt nâng cao, viÌ nhıŞng lyì do sau:\r\n1. Baòn không coì quyêÌn nhı quaÒn triò, chiình viÌ vâòy baòn không thêÒ chaòy chıõng triÌnh IDM coì ğâÌy ğuÒ tiình nãng .\r\n2. Baòn caÌi ğãòt IDM nhıng ğaŞ boÒ qua caÌi ğãòt triÌnh ğiêÌu khiêÒn cho card maòng.\r\n3. CaÌi ğãòt triÌnh ğiêÒu khiêÒn maòng cuÒa IDM ğaŞ biò chãòn bõÒi chıõng triÌnh chôìng virus trên maìy tiình cuÒa baòn.
+//v6.04b3
+20930=IDM không tiÌm thâìy %ld (caìc) têòp tin câÌn thiêìt ğêÒ tiìch hõòp hêò thôìng triÌnh duyêòt . Vui loÌng caÌi ğãòt laòi IDM
+
+//v6.06
+//"Serial Number" explanation on registration dialog
+20931= \"%s\" laÌ giÌ?
+20932=%s laÌ maŞ baÒn quyêÌn cuÒa Internet Download Manager.\r\nĞây laÌ maŞ caìc chıŞ sôì duy nhâìt ğıõòc cung câìp cho ngıõÌi duÌng võìi daòng \r\n xxxxx-xxxxx-xxxxx-xxxxx\r\n\r\nBaòn chiÒ nhâòn ğıõòc maŞ naÌy khi thanh toaìn mua baÒn quyêÌn .HaŞy \r\nbâìm \"%s\" ğêÒ mua IDM
+
+//v6.07
+20933=Chıa thiêìt lâòp sãŞn caìc thiêìt lâòp ğêÒ chuyêÒn taÒi tõìi danh saìch chõÌ taÒi
+20934=Chıa thiêìt lâòp sãŞn caìc thiêìt lâòp khi  \"%s\" ğıõòc bâòt
+363=Traòng thaìi taÒi 
+364=Thiêìt lâòp khi hoaÌn thaÌnh taÒi
+20935=Internet Download Manager ğaŞ taÒi vêÌ hoaÌn thaÌnh 1 têòp tin . Theo thiêìt lâòp cuÒa baòn thiÌ IDM seŞ thoaìt. Nhıng baòn laòi ğang coì môòt tiêìn triÌnh taÒi khaìc . Bâìm HuÒy boÒ ğêÒ không thoaìt khoÒi .
+20936=Internet Download Manager ğaŞ taÒi vêÌ hoaÌn thaÌnh 1 têòp tin. IDM seŞ ngãìt modem cuÒa baòn theo thiêìt lâòp.
+20937=Internet Download Manager ğaŞ taÒi vêÌ hoaÌn thaÌnh 1 têòp tin. Theo thiêìt lâòp cuÒa baòn cho lıõòt taÒi naÌy maìy tiình seŞ tãìt.
+1762= HiêÒn thiò nuìt taÒi vêÌ  \r\n cho caìc nôòi dung ğıõòc baÒo vêò maÌ IDM coì thêÒ không taÒi xuôìng
+20938=Nôòi dung ğıõòc baÒo vêò
+20939=IDM không thêÒ taÒi vêÌ do nguôÌn taÒi vêÌ ğıõòc baÒo vêò viÌ lyì do phaìp lyì. NguôÌn taÒi vêÌ caìc têòp tin naÌy không ğıõòc hôŞ trõò viÌ caìc công nghêò baÒo vêò caìc têòp tin audio , video vaÌ dıŞ liêòu không cho pheìp IDM taÒi chuìng.\r\n\r\nIt\'s coì thêÒ tãìt hiêÒn thiò nuìt taÒi vêÌ caìc têòp tin ğıõòc baÒo vêò bãÌng caìc choòn muòc \"IDM TuÌy choòn -> Chung\"
+
+//v6.07b7
+365=Thiêìt lâòp haòn chêì tôìc ğôò
+1763=Tôìc ğôò taÒi tôìi ğa:
+1765=Ghi nhõì haòn chêì tôìc ğôò cho têòp tin naÌy \r\n khi taÒi, dıÌng/taÒi tiêìp
+1772=ÂÒn theÒ
+367=TuÌy chiÒnh cıÒa sôÒ tiêìn triÌnh taÒi
+1767=TuÌy chiÒnh cıÒa sôÒ  "Tiêìn triÌnh taÒi" 
+1775=Bãìt ğâÌu xem:
+1774=Lıu yì: TuÌy choòn "Bãìt ğâÌu xem" naÌy không liên quan ğêìn danh saìch chõÌ taÒi . Khi IDM ğang xıÒ lyì chõÌ taÒi hôòp thoaòi "Tiêìn triÌnh taÒi" luôn thu goòn dıõìi khay hêò thôìng 
+1768=Hiêòn theÒ "Giõìi haòn taÒi"
+1769=Hiêòn theÒ "TuÌy choòn khi hoaÌn thaÌnh" 
+1773=Hiêòn nuìt "ÂÒn theÒ" 
+
+//v6.07b12
+20941=LôŞi kêìt nôìi tõìi VPN
+20940=Baòn câÌn phaÒi thay ğôÒi kêìt nôìi tõìi VPN trong caìc thiêìt lâòp cuÒa IDM, hoãòc tãìt bãÌng caìch boÒ choòn  \"SıÒ duòng Windows Dial Up / VPN Networking\trong "TuÌy choòn -> theÒ \"Dial Up / VPN\" cuÒa IDM
+20942=châìt lıõòng
+
+//v6.08b2 beta
+20949=Proxy/Socks
+20948=Câìu hiÌnh Proxy / socks
+369=Thiêìt lâòp proxy nâng cao
+1777=Nâng cao...
+1778=SıÒ duòng proxy
+1785=SıÒ duòng proxy cho nhıŞng giao thıìc sau:
+1779=SıÒ duòng socks
+1786=Ğiòa chiÒ maìy chuÒ socks
+20943=Không thêÒ kêìt nôìi tõìi maìy chuÒ socks, yêu câÌu quyêÌn ğãng nhâòp
+20944=Maìy chuÒ socks không thêÒ kêìt nôìi tõìi %s 
+20945=Không thêÒ kêìt nôìi qua maìy chuÒ socks, không hiêÒu kiêÒu socks
+20946=Không thêÒ kêìt nôìi qua maìy chuÒ socks, ğãng nhâòp thâìt baòi!
+20947=Không thêÒ kêìt nôìi tõìi maìy chuÒ socks %s
+
+//v6.09b2 beta
+1787=Ngoaòi lêò
+370=Ngoaòi lêò hiêÒn thiò thanh taÒi
+1788=Không hiêÒn thiò thanh taÒi IDM cho nhıŞng trang sau:
+1789=Tên caìc trang phân biêòt bõÒi dâìu caìch. Baòn coì thêÒ sıÒ duòng dâìu hoa thiò ğêÒ laÌm kyì tıò ğaòi diêòn
+20950=IDM khõÒi ğôòng Tiìch hõòp triÌnh duyêòt nâng cao bõÒi viÌ diòch vuò \"Base Filtering Engine\" cuÒa Windows không ğıõòc bâòt. Vui loÌng chuôòt phaÒi vaÌo biêÒu tıõòng Computer, choòn \"Manage\", choòn \"Services and Applications -> Services\", sau ğoì tiÌm \"Base Filtering Engine\" trong danh saìch vaÌ chuôòt phaÒi vaÌo ğoì choòn Properties. Thay ğôÒi giaì triò Startup type thaÌnh \"Automatic\", sau ğoì nhâìn vaÌo nuìt \"Start\" vaÌ nhâìn OK ğêÒ xaìc nhâòn thay ğôÒi.\r\n\r\nNhâìn nuìt OK ğêÒ truy câòp vaÌo trang web tiÌm hiêÒu thêm thông tin chi tiêìt.
+20951=IDM khõÒi ğôòng Tiìch hõòp triÌnh duyêòt nâng cao bõÒi viÌ diòch vuò \"Base Filtering Engine\" cuÒa Windows biò thiêìu. Hêò thôìng cuÒa baòn coì thêÒ ğaŞ nhiêŞm caìc phâÌn mêÌm ğôòc haòi.\r\n\r\nNhâìn OK ğêÒ truy câòp vaÌo trang web hıõìng dâŞn khôi phuòc hêò thôìng.
+
+//v6.11
+341=Thêm kiêÒu têòp tin
+349=Nhâòp tên trang web
+1790=Tıò ğôòng chuyêÒn vaÌo danh muòc naÌy cho caìc têòp tin ğıõòc taÒi tıÌ nhıŞng trang sau:
+1793=Caìc trang phân biêòt võìi nhau bõÒi dâìu caìch. Baòn coì thêÒ sıÒ duòng dâìu hoa thiò ğêÒ laÌm kyì tıò ğaòi diêòn
+20952=Xin lıu yì: theo giâìy pheìp IDM maÌ baòn ğaŞ ğôÌng yì trong quaì triÌnh caÌi ğãòt, bây giõÌ baòn coì thêÒ gõŞ boÒ IDM hoãòc mua baÒn quyêÌn IDM
+
+//v6.11b7
+20953=GâÌn ğây...
+
+//v6.12b2
+20954=TriÌnh duyêòt cuÒa baòn coì thêÒ không mõÒ ğıõòc website cuÒa IDM bõÒi viÌ môòt têòp tin hêò thôìng quan troòng ğaŞ biò hoÒng. Baòn coì muôìn sıÒa têòp tin naÌy không?
+20955=IDM không thêÒ kiêÒm tra câòp nhâòt bõÒi viÌ môòt têòp tin hêò thôìng quan troòng ğaŞ biò hoÒng. Baòn coì muôìn sıÒa têòp tin naÌy không?
+
+//v6.12b5
+1795=Thiêìt lâòp ngaÌy taòo têòp tin ğıõòc cung câìp bõÒi maìy chuÒ
+
+//v6.12b6
+20956=ĞêÒ nâng câìp tiêòn iìch mõÒ rôòng cuÒa IDM trên Firefox vui loÌng ğoìng Firefox (hoãòc SeaMonkey) sau ğoì nhâìn nuìt \"Retry\"\r\nHoãòc viêòc câòp nhâòt seŞ hoaÌn thaÌnh sau khi baòn khõÒi ğôòng laòi maìy
+
+//v6.12b8
+//Please pay attention that we added the possibility to translate text for IDM installer and IDM uninstaller. 
+//You can find the template to translate installer in "template_inst.lng" file in "Languages" folder
+
+//v6.12b22
+20995=IDM bãìt ğâÌu taÒi têòp tin sıÒ duòng môòt kêìt nôìi bõÒi viÌ dıŞ liêòu biò thiêìu chiình xaìc khi taÒi bãÌng nhiêÌu kêìt nôìi.\r\nBaòn coì muôìn ğoòc thêm caìc nguyên nhân dâŞn tõìi viêòc dıŞ liêòu thiêìu chiình xaìc?
+20996=IDM bãìt ğâÌu taÒi têòp tin laòi tıÌ ğâÌu bõÒi viÌ dıŞ liêòu biò thiêìu chiình xaìc khi taÒi bãÌng nhiêÌu kêìt nôìi.\r\nBaòn coì muôìn ğoòc thêm caìc nguyên nhân dâŞn tõìi viêòc dıŞ liêòu thiêìu chiình xaìc?
+20997=Tiêòn iìch mõÒ rôòng cuÒa IDM ğaŞ ğıõòc caÌi ğãòt (hoãòc câòp nhâòt) thaÌnh công trên triÌnh duyêòt Google Chrome.\nBaòn câÌn khõÒi ğôòng laòi Chrome ğêÒ lıu thay ğôÒi
+
+//v6.15
+1796=SıÒ duòng têòp tin câìu hiÌnh tıò ğôòng
+20998=Maìy chuÒ proxy yêu câÌu xaìc thıòc. Hoãòc baòn vui loÌng boÒ chıìc nãng \"SıÒ duòng têòp tin câìu hiÌnh tıò ğôòng\" trong TuÌy Choòn->Proxy/Socks
+20999=IDM nhâòn thâìy baòn ğang sıÒ duòng têòp tin câìu hiÌnh tıò ğôòng trong Internet Explorer:\r\n%s\r\n\r\nBaòn coì muôìn sıÒ duòng thiêìt lâòp naÌy cho IDM?
+//v6.15b7
+21000=Ğây laÌ chıõng triÌnh ğang ğıõòc phaìt trıòc tiêìp. Nêìu baòn taòm dıÌng, baòn seŞ không thêÒ taÒi tıÌ viò triì hiêòn taòi.\r\nBaòn coì muôìn dıÌng vaÌ lıu chıõng triÌnh trıòc tiêìp naÌy thaÌnh môòt têòp tin hoaÌn chiÒnh?
+21001=Ğang lıu chıõng triÌnh phaìt trıòc tiêìp
+
+//v6.15b9
+21002=TaÒi têòp tin câìu hiÌnh proxy biò lôŞi
+21003=Baòn coì muôìn ğoòc chi tiêìt hıõìng dâŞn caìch câìu hiÌnh tıõÌng lıÒa cho IDM?
+
+//6.15b10
+21004=không hiêÒu ğiònh ğaòng (%d)
+20898=Ğang taÒi tõìi khi truÌng võìi môòt frame trong têòp tin tiêìp theo...
+
+//v6.16
+21105=Tiìch Hõòp TriÌnh Duyêòt Nâng Cao không bâòt ğıõòc viÌ môòt thiêìu soìt trong triÌnh ğiêÌu khiêÒn cuÒa Kaspersky TDI!\r\n Nêìu viêòc tıò ğôòng câòp nhâòt saÒn phâÒm Kaspersky không khãìc phuòc ğıõòc vâìn ğêÌ naÌy, vui loÌng liên hêò võìi bôò phâòn hôŞ trõò cuÒa Kaspersky ğêÒ yêu câÌu baÒn câòp nhâòt cho triÌnh ğiêÌu khiêÒn \"kltdi\".
+
+//v6.17b7
+21106=Coì lôŞi xaÒy ra trong quaì triÌnh lãìp gheìp têòp tin
+21109=Phiên baÒn naÌy IDM không hôŞ trõò kiêÒu têòp tin maÌ baòn ğang taÒi. Vui loÌng câòp nhâòt IDM lên phiên baÒn mõìi nhâìt.
+21110=Tiêòn iìch mõÒ rôòng cuÒa IDM ğaŞ ğıõòc caÌi ğãòt (hoãòc câòp nhâòt) thaÌnh công trên triÌnh duyêòt Google Chrome.\r\nBaòn câÌn phaÒi bâòt tiêòn iìch \"IDM Integration module\" trong phâÌn Tiêòn Iìch cuÒa Google Chrome nêìu baòn muôìn IDM hoaòt ğôòng chiình xaìc trên Chrome
+21111=1. Vui loÌng KHÕÒI ĞÔòNG LAòI Google Chrome vaÌ nhâìn vaÌo menu cuÒa Chrome (muŞi tên 1 trên hiÌnh)\r\n2. Choòn \"Settings\" (muŞi tên 2 trên hiÌnh).\r\n3. Choòn \"Extensions\" (muŞi tên 3 trên hiÌnh). \r\n4. Bâòt tiêòn iìch \"IDM Integration Module\" (muŞi tên 4 trên hiÌnh).\r\n5. Nêìu baòn sıÒ duòng chêì ğôò âÒn danh trên Chrome, baòn câÌn tiìch vaÌo ô \"Allow in incognito\" (muŞi tên 5 trên hiÌnh).
+
+//v6.17b9
+//Dear translators, please pay attention that we have added one new line (1062) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b3 
+//One more :) 
+//Please pay attention that we have added one more new line (21112) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.18b8
+//we have changed Options->Connection tab
+21113=Tôìc ğôò thâìp: Modem quay sôì / ISDN / Bluetooth / Mobile Edge / IrDA
+21114=Tôìc ğôò trung biÌnh: ADSL / DSL /  Mobile 3G / Wi-Fi / Bluetooth 3.0 / khaìc
+21115=Tôìc ğôò cao: Kêìt nôìi trıòc tiêìp (Ethernet/Cable) / Wi-Fi / Mobile 4G / khaìc
+21116=Vui loÌng thiêìt lâòp sôì kêìt nôìi môòt caìch thâòn troòng. Môòt sôì maìy chuÒ giõìi haòn sôì lıõòng kêìt nôìi khi taÒi. Khi sôì kêìt nôìi quaì nhiêÌu, maìy chuÒ coì thêÒ liêòt maìy tiình cuÒa baòn vaÌo danh saìch ğen, ğãòc biêòt laÌ khi baòn taÒi nhiêÌu têòp tin cuÌng luìc võìi môòt sôì lıõòng kêìt nôìi lõìn.\r\n\r\nHõn thêì nıŞa, võìi môòt vaÌi kiêÒu kêìt nôìi coì thêÒ laÌm giaÒm hiêòu suâìt laÌm viêòc cuÒa maìy tiình hoãòc thiêìt biò maòng, dâŞn tõìi tôìc ğôò taÒi biò giaÒm khi baòn tãng sôì lıõòng kêìt nôìi.
+
+//v6.19
+21117=ChiÒ coì tên thı muòc trong lıòa choòn cuÒa baòn. Vui loÌng nhâòp tên têòp tin.
+21118=Dung lıõòng cuÒa têòp tin \"%s\" laÌ %.1f GBytes.\r\nÔÒ ğiŞa \"%s\" maÌ baòn muôìn lıu têòp tin coì ğiònh daòng %s. NhıŞng têòp tin coì dung lıõòng lõìn hõn %d GBytes không thêÒ lıu ğıõòc trên ôÒ ğiŞa naÌy.\r\n\r\nVui loÌng choòn môòt thı muòc trên ôÒ ğiŞa khaìc coì ğiònh daòng NTFS
+21119=Dung lıõòng cuÒa têòp tin \r\n%s\r\n laÌ %.1f GBytes.\r\nThı muòc chıìa nhıŞng têòp taòm trong quaì triÌnh taÒi cuÒa IDM ğıõòc lıu taòi ôÒ \"%s\", ôÒ ğiŞa naÌy coì ğiònh daòng %s. NhıŞng têòp tin coì dung lıõòng lõìn hõn %d GBytes không thêÒ lıu ğıõòc trên ôÒ ğiŞa naÌy.\r\n\r\nĞêÒ tiêìp tuòc taÒi, vui loÌng thay ğôÒi ğıõÌng dâŞn taòm thõÌi tõìi ôÒ ğiŞa khaìc trong muòc \"TuÌy Choòn->TaÒi xuôìng\" sau ğoì tiêìn haÌnh taÒi laòi têòp tin
+
+//v6.19b8
+21005=chiÒ phâÌn audio
+21006=chiÒ phâÌn video
+
+//v6.19b9
+21120=KiêÒm tra câòp nhâòt lôŞi bõÒi viÌ thông tin câòp nhâòt không chiình xaìc.\r\nNêìu baòn ğang sıÒ duòng maòng wi-fi yêu câÌu ğãng nhâòp bãÌng triÌnh duyêòt, vui loÌng ğãng nhâòp trıõìc khi kiêÒm tra câòp nhâòt
+21121=Môòt vaÌi ıìng duòng ğaŞ laÌm hoÒng viêòc tiìch hõòp IDM vaÌo trong caìc triÌnh duyêòt\r\n\r\nBaòn câÌn phaÒi caÌi ğãòt laòi IDM. Hoãòc kiêÒm tra câòp nhâòt bãÌng caìch nhâìn \"Trõò Giuìp->Câòp nhâòt lên phiên baÒn mõìi\" trên menu cuÒa IDM.\r\nĞôÌng thõÌi haŞy kiêÒm tra tiình nãng tiìch hõòp IDM trên caìc triÌnh duyêòt ğaŞ ğıõòc bâòt hay chıa trong muòc TuÌy Choòn -> Cõ baÒn.
+
+//6.21b3
+21125=Di chuyêÒn
+21126=Di chuyêÒn/ĞôÒi tên
+
+//new "Find file" dialog
+487=TiÌm kiêìm têòp tin
+21122=TiÌm têòp tin
+21123=Không coì têòp tin naÌo ğıõòc tiÌm thâìy
+21124=Quaì triÌnh tiÌm kiêìm kêìt thuìc
+1807=Tên hoãòc môòt ğoaòn tên cuÒa têòp tin:
+1809=Miêu taÒ hoãòc môòt ğoaòn miêu taÒ:
+1811=Phân biêòt chıŞ hoa chıŞ thıõÌng
+1812=TiÌm chiình xaìc caÒ ğoaòn
+1673=TiÌm
+//New subitems in "Downloads" main menu
+34040=TiÌm kiêìm (Ctrl-F)
+34041=TiÌm tiêìp (F3)
+
+//v6.21b5
+21128=IDM không thêÒ khõÒi ğôòng ıìng duòng câòp nhâòt. ĞiêÌu naÌy coì thêÒ do thiêìt lâòp cuÒa phâÌn mêÌm diêòt virus ğôìi võìi thı muòc chıìa caìc têòp tin diòch vuò cuÒa IDM.\r\n\r\nIDM seŞ mõÒ thı muòc naÌy bây giõÌ vaÌ baòn coì thêÒ chaòy têòp tin \"idmupdt.exe\" ğêÒ câòp nhâòt.\r\n\r\nHoãòc baòn coì thêÒ taÒi phiên baÒn mõìi nhâìt cuÒa IDM tıÌ website chiình thıìc cuÒa IDM, sau ğoì caÌi ğãòt ğeÌ lên phiên baÒn hiêòn taòi
+21129=Caìc têòp tin khaìc...
+21130=Nêìu baòn muôìn taÒi video õÒ châìt lıõòng khaìc, vui loÌng thay ğôÒi châìt lıõòng video trong khung chaòy. Sau ğoì, caìc lıòa choòn châìt lıõòng video seŞ xuâìt hiêòn trong thanh taÒi cuÒa IDM.
+21131=Choòn thı muòc
+
+//v6.21b11
+21132=IDM ğaŞ taÒi xong, têòp tin %s sıÒ duòng bôò giaÒi maŞ mõìi nhıng maìy tiình cuÒa baòn chıa caÌi bôò giaÒi maŞ naÌy.\r\nVui loÌng ğoòc thêm thông tin trên trang chuÒ cuÒa IDM ğêÒ biêìt caìch chaòy nhıŞng têòp tin nhı thêì naÌy trên maìy cuÒa baòn.
+1813=SıÒ duòng bôò xıÒ lyì trang web cao câìp
+21133=Môòt vaÌi thaÌnh phâÌn cuÒa IDM ğaŞ không ğıõòc câòp nhâòt. Vui loÌng caÌi ğãòt laòi phiên baÒn mõìi nhâìt cuÒa IDM, sau ğoì khõÒi ğôòng laòi maìy tiình vaÌ thıÒ taÒi laòi têòp tin naÌy
+
+//v6.21b16
+21134=IDM không thêÒ bâòt maìy tiình cuÒa baòn tıÌ chêì ğôò nguÒ (sleep) ğêÒ taÒi caìc têòp tin vaÌo thõÌi ğiêÒm lên liòch maÌ baòn ğaŞ choòn.
+21135=Xin lıu yì khi thay ğôÒi sang chêì ğôò Metro, maìy tiình cuÒa baòn coì thêÒ chuyêÒn sang traòng thaìi nguÒ (sleep).
+21136=Nêìu baòn muôìn IDM coì thêÒ taÒi caìc têòp tin ğaŞ ğıõòc lên liòch, vui loÌng bâòt bôò heòn giõÌ trong Windows.\r\nMõÒ \"Control Panel\\Power Options\\Change Plan Settings\\Change advanced power settings\", sau ğoì mõÒ \"Sleep\\Allow wake timers\" vaÌ choòn \"Enable\".\r\n\r\nBaòn coì muôìn xem hıõìng dâŞn thıòc hiêòn bãÌng hiÌnh aÒnh?
+
+//v6.23b12
+21137=Xin lıu yì rãÌng trong phiên baÒn naÌy vaÌ tâìt caÒ caìc phiên baÒn trıõìc cuÒa IDM coì thêÒ không sıÒ duòng têòp tin \"hosts\" khi kêìt nôìi tõìi trang chuÒ cuÒa IDM. Khi thay ğôÒi têòp tin naÌy, baòn seŞ không thêÒ truy câòp tõìi trang web cuÒa IDM khi sıÒ duòng triÌnh duyêòt maÌ thôi. Khi baòn nhâìn nuìt OK, IDM seŞ kiêÒm tra viêòc câòp nhâòt biÌnh thıõÌng ngay caÒ khi têòp tin \"hosts\" biò hoÒng.
+21138=TriÌnh duyêòt cuÒa baòn coì thêÒ không mõÒ ğıõòc trang web cuÒa IDM bõÒi viÌ môòt têòp tin hêò thôìng quan troòng ğaŞ biò lôŞi. IDM seŞ sıÒa têòp tin naÌy ngay bây giõÌ.
+
+//v6.25b16
+21139=BaÒn quyêÌn baòn vıÌa nhâòp vaÌo IDM ğaŞ ğıõòc sıÒ duòng trên maìy tiình khaìc vaÌ liên kêìt võìi môòt ğiòa chiÒ email khaìc
+21140=BaÒn quyêÌn baòn vıÌa nhâòp vaÌo IDM\r\n%s\r\nğaŞ ğıõòc sıÒ duòng trên maìy tiình khaìc.\r\n\r\nNêìu baòn muôìn sıÒ duòng baÒn quyêÌn trên maìy tiình naÌy, baòn câÌn gõŞ boÒ IDM trên caìc maìy tiình ğaŞ sıÒ duòng baÒn quyêÌn naÌy trıõìc ğoì. Nêìu baòn sıÒ duòng cuÌng môòt baÒn quyêÌn trên nhiêÌu maìy tiình khaìc nhau trong cuÌng môòt thõÌi ğiêÒm, baÒn quyêÌn cuÒa baòn seŞ biò hêò thôìng cuÒa IDM tıò ğôòng khoìa laòi.\r\n\r\nBaòn coì muôìn tiêìp tuòc sıÒ duòng sôì serial \r\n%s\r\nğêÒ ğãng kyì baÒn quyêÌn IDM trên maìy naÌy?
+//Please pay attention that we have added one more new line (1063) to template_inst.lng file. Please translate it, and add it to your installer translation file.
+
+//v6.25b18
+21142=Baòn coì muôìn tiÌm hiêÒu thêm?
+21141=Baòn ğaŞ ğãng kyì IDM bãÌng sôì serial \r\n%s\r\n\r\nSôì serial naÌy ğaŞ biò khoìa bõÒi maìy chuÒ cuÒa IDM. Ğang thoaìt IDM...
+
+

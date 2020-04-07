@@ -1,0 +1,96 @@
+instlng=0x1c Albanian
+full_lng=idm_al.lng
+
+//This template should be used to translate Internet Download Manager installer to foreign languages.
+//All files of installer translations should be named using inst_al.lng name pattern convention. 
+//Please place the abbreviated language name (e.g. al, en, es, fr, etc. :) instead of the asterisk. 
+//For example: inst_al.lng, inst_fr.lng etc.
+ 
+//The first string inside the template should be lang=ID Name
+//where Name - the full name of the language,
+//ID - hex number that defines Windows API value of the language, it is the same as in the main lng file.
+//The second line "full_lng=idm_al.lng" is the name of your main lng file
+ 
+
+//It's IMPORTANT when a string has any special characters 
+//(%i %s %d %x %ld %I64d %% \r\n), they should all remain in the translated 
+//string and cannot change places. Remember that IDM inserts dynamic 
+//values instead of these special characters in a predefined order. 
+//Instead of %s IDM inserts a string, %% - %, in all other cases IDM inserts a number.
+ 
+//The strings beginning with // are comments 
+//and you don't need to translate them and it is better if you delete them
+
+//You can read how to test installer translation on the following page
+// http://www.internetdownloadmanager.com/support/testinsttr.html
+
+20984=Instaluesi i Internet Download Manager 
+20992=Ju lutem lexoni liçensën e IDM-së
+20985=Zgjidhni Vendodhjen e Shkarkimit
+20986=Zgjidhni Program Manager Group
+20987=Fillo instalimin e Internet Download Manager
+20988=Duke instaluar
+20989=Instalimi përfundoi
+20990=Zgjidhni mënyrën e çinstalimit
+20991=Kryej çinstalimin
+20993=Internet Download Manager Përditësimi i shpejtë
+1050=Mirësevini në instaluesin e Internet Download Manager. Ky program do të kryej instalimin Internet Download Manager në kompjuterin tuaj.
+1053=Është e nevojshme mbyllja e të gjithë shfletuesve para hapjes së programit të instalimit. Kliko Tjetra për të vazhduar instalimin.
+1054=KUJDES: Ky program është i mbrojtur nga ligji i të drejtave të autorit dhe traktatet ndërkombëtare.
+1055=Riprodhimi i paautorizuar ose shpërndarja i këtij programi, ose çdo pjese të tij, mund të rezultojë në dënime të rënda penale dhe civile, dhe do të ndiqet në masën maksimale të mundshme sipas ligjit.
+1039=Instalimi i Internet Download Manager do bëhet në këtë dosje.
+1040=Për ta instaluar në një vendodhje tjetër, klikoni Shfleto, dhe zgjidhni një dosje tjetër.
+1041=Dosja e Instalimit
+1016=Shfleto...
+1044=Vendosni emrin e grupit Program Manager për të shtuar ikonat e Internet Download Manager në:
+1047=Ju mundeni të filloni instalimin e Internet Download Manager.\r\n\r\nKliko butonin Tjetra për të filluar instalimin ose butonin Prapa për të ndryshuar dosjen e instalimit.
+1035=Internet Download Manager u instalua me sukses.
+1036=Kliko butonin Përfundoi për të dalë nga kjo dritare.
+1037=Nëse doni që IDM-ja të kapi të gjitha shkarkimet menjëherë pas instalimit, ju lutemi mbyllni të gjithë shfletuesit përpara se të vazhdoni. Ju mund t'i hapni shfletuesit, pasi të keni hapur IDM-në.
+1042=Skedari aktual
+1038=Kopjimi i skedarit:
+1043=Të gjithë skedarët
+108=IDM Instalimi
+1059=Instalimi nuk përfundoi. Nëse dilni nga programi i instalimit, Internet Download Manager nuk do të instalohet.\r\nMund ta hapni këtë dritare instalimi më vonë për të përfunduar instalimin .
+1060=Për të vazhduar instalimin, kliko Rifillo. Për të dalë nga programi instalimit, kliko Mbyll Instalimin
+1000=Rifillo
+1001=Mbyll Instalimin
+1015=< Prapa
+1008=Tjetra >
+1009=Përfundoi >
+1007=Anullo
+1058=Mirësevini në çinstaluesin e Internet Download Manager
+1057=Mund të zgjidhni opsonin "Parazgjedhur" ose "Plotësisht" për ta çinstaluar
+1027=Parazgjedhur
+1028=Plotësisht
+1056=Opsioni i "Parazgjedhur" do të fshijë të gjithë skedarët ekzekutiv të IDM, dhe integrimin e IDM-së tek shletusit.
+1061=Opsoni i "Plotësisht"  përveç kësaj do t'i fshijë të gjitha shkarkimet e papërfunduara, të pastrojë listën e shkarkimeve IDM, dhe të heqi cilësimet e IDM-së. Ju lutem mos zgjidhni opsionin "Plotësisht" nëse doni ta përdorni IDM-në më vonë, dhe nëse doni të ruani cilësimet dhe shkarkimet.
+1045=Tani jeni gati të kryeni çinstalimin e Internet Download Manager nga kompjuteri juaj.
+1046=Kliko butonin Përfundoi për të kryer çinstalimin. Kliko butonin Anullo për të dalë nga çinstalimi.
+1049=Duke kryer çinstalimin e Internet Download Manager...
+1048=Heqja Skedarit:
+1051=Ju lutemi zgjidhni gjuhën për ndërfaqen e IDM-së (Mund ta ndryshoni më vonë tek menyja ""Pamja->Gjuha"")
+20957=Ndodhi një gabim i panjohur në heqjen e integrimit të IDM-së nga shfletuesi %s. Duhet ta fshini këtë skedar %s manualisht
+20958=IDM Çinstaluesi
+20960=Koha e mbetur: %i minuta %i sekonda
+20962=IDM Instalimi
+20963=Kujdes
+20964=Kjo dosje përmban skedarë.\r\nInstalimi në këtë dosje mund të dëmtojë të dhënat ekzistuese\r\nNëse dëshironi të vazhdoni instalimin, kliko butonin OK\r\nNëse dëshironi të zgjidhni një dosje tjetër për instalimin, kliko ANULLO
+20965=Instaluesi i IDM-së duhet të ristartojë kompjuterin tuaj për të  zëvendësuar/fshirë skedarët që ishin në përdorim. Kliko butonin Mirë për të ristatuar kompjuterin
+20966=Konfirmo ristartimin
+20971=Windowsi nuk mund t'i rregjistrojë të gjitha pjesët e IDM \r\n\"%s\".\r\n\r\nPlease select a path that contains only Latin characters to install IDM
+20972=Duke përditësuar driverin e rrjetit të IDM-së...
+20973=Mos e anuloni dritaren e Windows që kopjon skedarët
+20974=Ndodhi gabimi \"Access denied\" gjatë krijimit të dosjes në vendodhjen e caktuar! Ju lutemi zgjidhni një vendodhje tjetër për instalimin e IDM-së ose hyni si administrator.
+20975=%s\r\nNuk mund të krijohet dosja në vendodhjen e caktuar! Ju lutemi zgjidhni një vendodhje tjetër për instalimin e IDM-së.
+20976=Programi i instalimit IDM kërkon rreth 10 MBajt nga hapësira e diskut. Nuk ka hapësirë të mjaftueshme në diskun që zgjodhët për të instaluar IDM-në! Ju lutemi krijoni hapësirë, ose zgjidhni një vendodhje tjetër për instalimin e IDM-së.
+20980=Ndodhi gabimi \"Access denied\" gjatë kopjimit të skedarit ekzekutiv kryesor të IDM-së në vendodhjen e caktuar!\r\n\r\nInstalimi nuk mund të vazhdojë. Ju lutemi zgjidhni një vendodhje tjetër për instalimin e IDM-së ose hyni si administrator.
+20981=Programi instalimit të IDM-së nuk mundi të instaloi disa skedarë të lidhur me IDM-në. Sidoqftë IDM duhet të punojë, dhe proçesi i instalimit mund të vazhdojë. Doni të vazhdoni instalimin?
+20982=Internet Download Manager u përditësua me sukses.
+20983=Internet Download Manager është i hapur.\r\nJu lutemi shkoni tek menyja kryesore e IDM-së dhe klikoni \"Detyrat->Dil\" (ose \"URL->Dil\" për versionet e vjetra) për të mbyllur Internet Download Manager para se të vazhdoni.
+//Please change XXX on the language you are translating IDM to
+20994=IDM-ja duhet të bëjë shkarkimin e skedarit përkthyes , përkatës për gjuhën Albanian nga faqja kryesore e IDM-së
+//new v6.17
+1062=Krijo një ikonë IDM tek Desktopi 
+//new v6.18b3
+21112=Nëse instaloni IDM tek dosja e zgjedhur, IDM-ja nuk do mundi të integrohet tek Internet Explorer nëse aktivizohet mënyra Enhanced Protected Mode.\r\n\r\nËshtë e nevojshme ta instaloni IDM-në tek kjo dosje \"%s\".\r\n\r\nDoni ta ndryshoni vendodhjen e instalimit tek \r\n\"%s\"?

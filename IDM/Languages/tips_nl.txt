@@ -1,0 +1,14 @@
+IDM kan een download starten in elke browser als de bestandsextensie in de lijst staat van te downloaden programma's. U vindt deze lijst in "IDM Opties->Algemeen".
+IDM zal een bestand downloaden als u de CTRL toets ingedrukt houden tijdens het klikken op de downloadlink in uw browser. (u kunt de toets wijzigen in IDM opties, Algemeen, en de knop Toetsen)
+Als u de ALT toets ingedrukt houdt tijdens het klikken op een downloadlink in uw browser, zal IDM de download niet starten, maar dit door uw browser laten doen. (u kunt de toets wijzigen in IDM opties, Algemeen, en de knop Toetsen)
+U kunt op de F1 toets drukken als u hulp nodig heeft. Het helpbestand zal context-afhankelijk worden weergegeven.
+Als u niet wilt dat IDM downloads overneemt in uw browser, schakel dan de browser integratie uit in de IDM opties.
+U kunt downloadlinks slepen naar het "drop target" mandje. Het "drop target" mandje verschijnt wanneer u rechts klikt op het IDM icoon rechts onderop uw scherm en kiest "Toon drop target" of wanneer u kiest "Url->Toon drop target" in het IDM hoofdvenster.
+U kunt het dialoog venster "Download Voltooid" uitschakelen als dit vraagt het bestand te openen. Verwijder het vinkje bij "Toon dialoog download voltooid" in "IDM Opties->Downloads"
+U kunt het dialoog venster "Download Starten" uitschakelen als dit vraagt waar het bestand moet worden opgeslagen. Verwijder het vinkje bij "Toon dialoog download starten" in "IDM Opties->Downloads"
+U kunt de voortgang dialogen bij downloads minimaliseren of uitschakelen in IDM Opties->Downloads.
+IDM moet actief zijn in het systeemvak indien u HTTPS downloads uit MSN Explorer, Internet Explorer, of op IE gebaseerde browsers wilt overnemen.
+U kunt IDM vanaf de commando regel gebruiken om bestanden te downloaden. Lees het hoofdstuk "Help->Starten van Downloads" voor meer informatie.
+U kunt bestanden uit het hoofdvenster van IDM naar andere programma's slepen (bijvoorbeeld Winamp, Media Player, enz.). U kunt ook bestanden kopiëren of verplaatsen naar mappen van Windows vanuit het IDM hoofdvenster.
+Als u niet steeds elke keer dat u van een beveiligde server download uw login naam en wachtwoord wilt hoeven ingeven, kunt u de server, de login naam en het wachtwoord toevoegen aan de login lijst van sites in "IDM Opties->Sites Logins"
+Als u problemen ondervindt tijdens het downloaden van een server (b.v. server bezig, meerdere time-outs, andere server of netwerkproblemen), plaatst u dit bestand in de wachtrij van de IDM planner en start u de wachtrij. De IDM planner probeert het bestand elke 30 seconden te downloaden.

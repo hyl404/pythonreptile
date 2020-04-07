@@ -1,0 +1,14 @@
+IDM przechwytuje œci¹ganie plików z ka¿dej przegl¹darki, jeœli ich typ zgadza siê z list¹ typów/rozszerzeñ. Mo¿esz edytowaæ listê rozszerzeñ w "IDM Opcje->Typy plików".
+IDM przechwyci ka¿dy plik, jeœli przytrzymasz klawisz specjalny podczas klikniêcia na link w przegl¹darce. (Musisz ustawiæ ten klawisz w opcjach IDM, zak³adka Ogólne, przycisk Klawisze... Klawisz "Insert" powinien dzia³aæ z wiêkszoœci¹ przegl¹darek).
+Jeœli przytrzymasz klawisz ALT podczas klikniêcia na link w przegl¹darce, IDM nie przechwyci œci¹gania i pozwoli przegl¹darce samodzielnie pobraæ plik. (Mo¿esz zmieniæ ten klawisz w opcjach IDM, zak³adka Ogólne, przycisk Klawisze).
+Jeœli czegoœ nie rozumiesz, naciœnij klawisz F1, aby uzyskaæ pomoc kontekstow¹.
+Jeœli nie chcesz, aby IDM przechwytywa³ œci¹ganie jakichkolwiek plików z przegl¹darki, wy³¹cz integracjê z przegl¹dark¹ w opcjach IDM.
+Mo¿esz przeci¹gaæ linki z przegl¹darki i upuszczaæ je w "okienku wrzutowym". "Okienko wrzutowe" pojawi siê, kiedy klikniesz prawym przyciskiem myszy na ikonê IDM w zasobniku systemowym i wybierzesz opcjê "Poka¿ okienko wrzutowe", albo gdy wybierzesz "Zadania->Poka¿ okienko wrzutowe" z menu w g³ównym oknie IDM.
+Mo¿esz wy³¹czyæ pojawianie siê okna zakoñczenia œci¹gania, które proponuje otwarcie pliku. Po prostu odznacz opcjê "Poka¿ okno zakoñczenia œci¹gania" w "IDM Opcje->Œci¹ganie".
+Mo¿esz wy³¹czyæ pojawianie siê okna rozpoczêcia œci¹gania, które pyta gdzie zapisaæ plik. Po prostu odznacz opcjê "Poka¿ okno rozpoczêcia œci¹gania" w "IDM Opcje->Œci¹ganie".
+Mo¿esz zminimalizowaæ lub wy³¹czyæ okno œci¹gania pliku w "IDM Opcje->Œci¹ganie".
+IDM powinien dzia³aæ w zasobniku systemowym, jeœli chcesz, aby przechwytywa³ œci¹ganie plików przez HTTPS z przegl¹darek opartych na MSN Explorerze lub Internet Explorerze.
+Mo¿esz œci¹gaæ pliki przez IDM za pomoc¹ linii poleceñ. Przeczytaj rozdzia³ "Pomoc->Rozpoczynanie œci¹gania", aby uzyskaæ wiêcej informacji.
+Mo¿esz przeci¹gaæ pliki z okna g³ównego IDM i upuszczaæ je do innych aplikacji (np. do Winampa, Media Playera itd.). Mo¿esz tak¿e u¿yæ techniki "przeci¹gnij i upuœæ", aby przenieœæ lub skopiowaæ pliki do dowolnych folderów Windows.
+Jeœli nie chcesz wprowadzaæ nazwy u¿ytkownika i has³a za ka¿dym razem, kiedy œci¹gasz pliki z zabezpieczonego serwera, mo¿esz dodaæ adres tego serwera, nazwê u¿ytkownika i has³o do listy autoryzacji w "IDM Opcje->Autoryzacje".
+Jeœli masz problem ze œci¹ganiem pliku z serwera (np. serwer zajêty, przekroczenie czasu ¿¹dania, inne problemy zwi¹zane z serwerem lub sieci¹), mo¿esz pozostawiæ ten plik w kolejce Planowania IDM i rozpocz¹æ œci¹ganie go wg. kolejki. Planowanie IDM bêdzie próbowa³o œci¹gaæ plik co 30 sekund.

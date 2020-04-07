@@ -1,0 +1,15 @@
+Internet Download Manager prend en charge les téléchargements de fichiers dont l'extension correspond à la liste d'extensions définies.Vous pouvez éditer la liste dans "Options->general"
+Internet Download Manager peut prendre en compte tous les téléchargements si vous maintenez la touche CTRL enfoncée en cliquant sur le lien dans Internet Explorer (vous devez cocher la case "utiliser la touche CTRL pour surveiller les clicks Internet Explorer" dans options->general)
+Si vous maintenez la touche ALT en cliquant sur un lien, Internet Download Manager ne prendra pas en compte ce téléchargement, et laissera votre navigateur prendre en charge ce téléchargement (cocher la case dans options->general)
+Si vous êtes perdu appuyez sur la touche F1 et l'aide apparaitra
+Si vous ne voulez pas qu'Internet Download Manager prenne en charge les téléchargements dans votre navigateur, ne pas cocher la case dans les options. Si vous changez cette option, il faut redémarrer le navigateur.
+Vous pouver faire glisser des liens de votre navigateur vers le panier. Le panier s'affiche quand vous cliquez sur le bouton droit sur l'icone d'Internet Download Manager et selectionnez "afficher le panier" ou dans le menu" url" et cochez la case "afficher le panier" dans le panneau principal d'Internet Download Manager.
+Vous pouvez desactiver le message "téléchargement terminé" qui suggère d'ouvrir le fichier. Décochez la case "afficher le message téléchargement terminé" dans options->téléchargements.
+Vous pouvez desactiver le message qui demande où sauvegarder le fichier en décochant la case "demarrer le téléchargement" dans options->téléchargements.
+Vous pouvez minimiser ou desactiver la progression du téléchargement dans options->téléchargements.
+Internet Download Manager doit rester dans la barre des tâches si vous voulez qu'il prenne en charge les téléchargements depuis MSN Explorer ou les navigateurs basés sur Internet Explorer.
+Vous pouvez démarrer Internet Download Manager à partir d'une ligne de commande.Lire l'aide->démarrer les téléchargements pour plus d'informations.
+Si vous voulez que Internet Download Manager prenne les téléchargements depuis opera, il faut changer les préférences d'opera dans opera->préférences->multimedia->trouver les plugins
+Vous pouvez faire un drag and drop des fichiers depuis la fenêtre principale d'Internet Download Manager vers d'autres applications comme Winamp. Vous pouvez aussi utilisez cette méthode pour déplacer ou copier des fichiers d'Internet Download Manager vers n'importe quel dossier windows.
+Pour éviter d'entrer les informations utilisateur à chaque fois que vous téléchargez d'un serveur protégé, vous pouvez ajouter le serveur et les paramètres à la liste dans options->logins sites
+Si vous avez du mal à télécharger un fichier d'un serveur, vous pouvez laisser le fichier dans la liste de téléchargement du programmeur et démarrer la liste. Le programmeur essaiera de téléchargé le fichier toutes les 30 secondes.

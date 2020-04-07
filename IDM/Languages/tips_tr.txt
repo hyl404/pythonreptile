@@ -1,0 +1,12 @@
+IDM indirmeyi, türü türler/uzantýlar listesi ile eþleþiyorsa tarayýcýdan devralýr. "IDM Seçenekler->Dosya türleri" sekmesinde uzantýlar listesini düzenleyebilirsiniz.
+Bir sunucudan bir dosya indirirken sorun yaþýyorsanýz (sunucu meþgûl, zaman aþýmlarý, diðer sunucu veyâ að ile alâkalý sorunlar), IDM programlayýcý kuyruðunda dosyayý tek baþýna býrakabilir ve kuyruðu baþlatabilirsiniz. IDM programlayýcý her 30 saniyede bir dosyayý tekrâr indirmeye çalýþacaktýr.
+Bir tarayýcýda indirme baðlantýsýna týklarken özel bir tuþa basýlý tutarsanýz, IDM indirmeyi devralacaktýr. (IDM seçeneklerindeki Genel sekmesinde bulunan Tuþlar bölümünde bu tuþu ayarlamalýsýnýz. "Insert" tuþunun tarayýcýlarýn ekseriyeti ile çalýþacaðýný unutmayýn)
+Bir tarayýcýda indirme baðlantýsýna týklarken ALT tuþuna basýlý tutarsanýz, IDM indirmeyi devralmayacaktýr ve tarayýcýnýn dosyayý indirmesine izin verecektir. (IDM seçeneklerindeki Genel sekmesinde bulunan Tuþlar bölümünde bu tuþu deðiþtirebilirsiniz)
+Herhangi bir þey anlamadýysanýz, içeriðe duyarlý yardým menüsünü açmak için F1 tuþuna basýn.
+IDM'nin tarayýcýdan indirme devralmasýný istemiyorsanýz, IDM seçeneklerinde tarayýcý iliþkilendirmesini kapatýn.
+Dosyayý açmayý öneren indirme tamamlandý iletiþim kutusunu devre dýþý býrakabilirsiniz. "IDM Seçenekler->Ýndirmeler" sekmesindeki "Ýndirme tamamlandý iletiþim kutusunu göster" iþâret kutusunun iþâretini kaldýrmanýz yeterli.
+Dosyanýn nereye kaydedileceðini soran indirmeyi baþlat iletiþim kutusunu devre dýþý býrakabilirsiniz. "IDM Seçenekler->Ýndirmeler" sekmesindeki "Ýndirmeyi baþlat iletiþim kutusunu göster" iþâret kutusunun iþâretini kaldýrmanýz yeterli.
+IDM Seçenekler->Ýndirmeler sekmesinde indirme ilerlemesi iletiþim kutusunu küçültebilir veyâ devre dýþý býrakabilirsiniz.
+Dosyalarý indirmek için IDM'yi komut satýrýndan çalýþtýrabilirsiniz. Daha fazla mâlûmât için "Yardým->Ýndirmeleri Baþlatma" bölümünü okuyun.
+Dosyalarý IDM'nin ana penceresinden sürükleyip diðer uygulamalara býrakabilirsiniz (meselâ, Winamp, Media Player, vb.). Sürükle ve býrak özelliðini dosyalarý IDM'den baþka bir Windows klasörüne taþýmak veyâ kopyalamak için de kullanabilirsiniz.
+Muhâfaza edilmiþ bir sunucudan dosya indirirken ayný kullanýcý adýný ve parolayý defaâtle girmek istemiyorsanýz, "IDM Seçenekler->Site Giriþleri" sekmesindeki listeye sunucuyu, kullanýcý adýný ve parolayý ilâve edebilirsiniz.
